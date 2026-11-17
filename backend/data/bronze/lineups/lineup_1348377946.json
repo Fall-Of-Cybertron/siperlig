@@ -1,0 +1,294 @@
+{
+  "homeTeam": {
+    "formation": "4-1-4-1",
+    "substitutes": [
+      {
+        "name": "Cemilhan Aslan",
+        "number": 81,
+        "position": "Goalkeeper",
+        "id": 100966313
+      },
+      {
+        "name": "Arda Kızıldağ",
+        "number": 4,
+        "position": "Defender",
+        "id": 10188878
+      },
+      {
+        "name": "Efe Sarıkaya",
+        "number": 5,
+        "position": "Defender",
+        "id": 57857919
+      },
+      {
+        "name": "Sabahattin Destici",
+        "number": 77,
+        "position": "Defender",
+        "id": 23140040
+      },
+      {
+        "name": "Ulrich Meleke",
+        "number": 6,
+        "position": "Midfielder",
+        "id": 13433672
+      },
+      {
+        "name": "Ogün Özçiçek",
+        "number": 61,
+        "position": "Midfielder",
+        "id": 23070649
+      },
+      {
+        "name": "Karamba Gassama",
+        "number": 17,
+        "position": "Midfielder",
+        "id": 65763985
+      },
+      {
+        "name": "Gidado Victor Ntino-Emo",
+        "number": 8,
+        "position": "Midfielder",
+        "id": 72639812
+      },
+      {
+        "name": "Halil Dervişoğlu",
+        "number": 28,
+        "position": "Forward",
+        "id": 6027994
+      },
+      {
+        "name": "Serdar Dursun",
+        "number": 19,
+        "position": "Forward",
+        "id": 4033687
+      }
+    ],
+    "initialLineup": [
+      [
+        {
+          "name": "Ataberk Dadakdeniz",
+          "number": 35,
+          "position": "Goalkeeper",
+          "id": 8084930
+        }
+      ],
+      [
+        {
+          "name": "Kerim Çalhanoğlu",
+          "number": 23,
+          "position": "Defender",
+          "id": 32668503
+        },
+        {
+          "name": "Abakar Sylla",
+          "number": 21,
+          "position": "Defender",
+          "id": 58734564
+        },
+        {
+          "name": "Myenty Abena",
+          "number": 14,
+          "position": "Defender",
+          "id": 222173
+        },
+        {
+          "name": "Luis Pérez",
+          "number": 2,
+          "position": "Defender",
+          "id": 7579712
+        }
+      ],
+      [
+        {
+          "name": "Juninho Bacuna",
+          "number": 7,
+          "position": "Midfielder",
+          "id": 3066721
+        }
+      ],
+      [
+        {
+          "name": "Kacper Kozłowski",
+          "number": 10,
+          "position": "Midfielder",
+          "id": 10353098
+        },
+        {
+          "name": "Alexandru Maxim",
+          "number": 44,
+          "position": "Midfielder",
+          "id": 4173435
+        },
+        {
+          "name": "Drissa Camara",
+          "number": 3,
+          "position": "Midfielder",
+          "id": 14719418
+        },
+        {
+          "name": "Deian Sorescu",
+          "number": 18,
+          "position": "Midfielder",
+          "id": 6954388
+        }
+      ],
+      [
+        {
+          "name": "Trivante Stewart",
+          "number": 9,
+          "position": "Forward",
+          "id": 30972368
+        }
+      ]
+    ],
+    "id": 3041407,
+    "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+    "name": "Gazişehir Gaziantep"
+  },
+  "awayTeam": {
+    "formation": "4-2-3-1",
+    "substitutes": [
+      {
+        "name": "Ali Emre Yanar",
+        "number": 25,
+        "position": "Goalkeeper",
+        "id": 10178896
+      },
+      {
+        "name": "Jakob Jessen",
+        "number": 5,
+        "position": "Defender",
+        "id": 68956293
+      },
+      {
+        "name": "Ömer Bayram",
+        "number": 18,
+        "position": "Defender",
+        "id": 69545
+      },
+      {
+        "name": "Ahmet Taha Dağbaşı",
+        "number": 30,
+        "position": "Defender",
+        "id": 101073700
+      },
+      {
+        "name": "Atakan Mujde",
+        "number": 8,
+        "position": "Midfielder",
+        "id": 45159849
+      },
+      {
+        "name": "Marcus Rafferty",
+        "number": 19,
+        "position": "Midfielder",
+        "id": 54538099
+      },
+      {
+        "name": "Thiemoko Diarra",
+        "number": 11,
+        "position": "Forward",
+        "id": 53072516
+      },
+      {
+        "name": "Emirhan Boz",
+        "number": 66,
+        "position": "Midfielder",
+        "id": 104848667
+      },
+      {
+        "name": "Güven Yalçın",
+        "number": 50,
+        "position": "Forward",
+        "id": 322959
+      },
+      {
+        "name": "Mecit Deniz",
+        "number": 35,
+        "position": "Forward",
+        "id": 100661218
+      }
+    ],
+    "initialLineup": [
+      [
+        {
+          "name": "Andreas Gianniotis",
+          "number": 1,
+          "position": "Goalkeeper",
+          "id": 255822
+        }
+      ],
+      [
+        {
+          "name": "Ayberk Karapo",
+          "number": 45,
+          "position": "Defender",
+          "id": 61220887
+        },
+        {
+          "name": "Matei Ilie",
+          "number": 27,
+          "position": "Defender",
+          "id": 28800800
+        },
+        {
+          "name": "Adem Arous",
+          "number": 4,
+          "position": "Defender",
+          "id": 63430451
+        },
+        {
+          "name": "Cláudio Winck",
+          "number": 2,
+          "position": "Defender",
+          "id": 1700797
+        }
+      ],
+      [
+        {
+          "name": "Kerem Demirbay",
+          "number": 26,
+          "position": "Midfielder",
+          "id": 115591
+        },
+        {
+          "name": "Elson Mendes",
+          "number": 51,
+          "position": "Midfielder",
+          "id": 70627956
+        }
+      ],
+      [
+        {
+          "name": "Ali Yavuz Kol",
+          "number": 7,
+          "position": "Midfielder",
+          "id": 74375
+        },
+        {
+          "name": "Haris Hajradinović",
+          "number": 10,
+          "position": "Midfielder",
+          "id": 8060941
+        },
+        {
+          "name": "Jesurun Rak-Sakyi",
+          "number": 17,
+          "position": "Midfielder",
+          "id": 45796443
+        }
+      ],
+      [
+        {
+          "name": "Adrian Benedyczak",
+          "number": 9,
+          "position": "Forward",
+          "id": 6535466
+        }
+      ]
+    ],
+    "id": 855188,
+    "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+    "name": "Kasımpaşa"
+  }
+}

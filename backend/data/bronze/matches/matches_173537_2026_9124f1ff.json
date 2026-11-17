@@ -1,0 +1,3413 @@
+{
+  "data": [
+    {
+      "id": 1348495384,
+      "round": "Regular Season - 26",
+      "date": "2027-03-21T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 857741,
+        "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+        "name": "Rizespor"
+      },
+      "homeTeam": {
+        "id": 850082,
+        "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+        "name": "Trabzonspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348494533,
+      "round": "Regular Season - 26",
+      "date": "2027-03-21T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 848380,
+        "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+        "name": "Alanyaspor"
+      },
+      "homeTeam": {
+        "id": 6307545,
+        "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+        "name": "Kocaelispor FK"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348493682,
+      "round": "Regular Season - 26",
+      "date": "2027-03-21T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 3054172,
+        "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+        "name": "Eyüpspor"
+      },
+      "homeTeam": {
+        "id": 855188,
+        "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+        "name": "Kasımpaşa"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348492831,
+      "round": "Regular Season - 26",
+      "date": "2027-03-21T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 517341,
+        "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+        "name": "Konyaspor"
+      },
+      "homeTeam": {
+        "id": 849231,
+        "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+        "name": "Genclerbirligi"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348491980,
+      "round": "Regular Season - 26",
+      "date": "2027-03-21T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 549679,
+        "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+        "name": "Galatasaray"
+      },
+      "homeTeam": {
+        "id": 520745,
+        "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+        "name": "Fenerbahce"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348491129,
+      "round": "Regular Season - 26",
+      "date": "2027-03-21T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 3041407,
+        "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+        "name": "Gazişehir Gaziantep"
+      },
+      "homeTeam": {
+        "id": 859443,
+        "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+        "name": "Erzurum BB"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348490278,
+      "round": "Regular Season - 26",
+      "date": "2027-03-21T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 846678,
+        "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+        "name": "Goztepe"
+      },
+      "homeTeam": {
+        "id": 5398677,
+        "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+        "name": "Yeni Çorumspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348489427,
+      "round": "Regular Season - 26",
+      "date": "2027-03-21T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 467983,
+        "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+        "name": "Besiktas"
+      },
+      "homeTeam": {
+        "id": 480748,
+        "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+        "name": "İstanbul Başakşehir"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348488576,
+      "round": "Regular Season - 26",
+      "date": "2027-03-21T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 3066937,
+        "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+        "name": "Samsunspor"
+      },
+      "homeTeam": {
+        "id": 3046513,
+        "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+        "name": "Amed"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348487725,
+      "round": "Regular Season - 25",
+      "date": "2027-03-14T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 855188,
+        "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+        "name": "Kasımpaşa"
+      },
+      "homeTeam": {
+        "id": 3066937,
+        "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+        "name": "Samsunspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348486874,
+      "round": "Regular Season - 25",
+      "date": "2027-03-14T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 5398677,
+        "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+        "name": "Yeni Çorumspor"
+      },
+      "homeTeam": {
+        "id": 857741,
+        "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+        "name": "Rizespor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348486023,
+      "round": "Regular Season - 25",
+      "date": "2027-03-14T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 3046513,
+        "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+        "name": "Amed"
+      },
+      "homeTeam": {
+        "id": 517341,
+        "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+        "name": "Konyaspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348485172,
+      "round": "Regular Season - 25",
+      "date": "2027-03-14T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 6307545,
+        "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+        "name": "Kocaelispor FK"
+      },
+      "homeTeam": {
+        "id": 846678,
+        "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+        "name": "Goztepe"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348484321,
+      "round": "Regular Season - 25",
+      "date": "2027-03-14T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 480748,
+        "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+        "name": "İstanbul Başakşehir"
+      },
+      "homeTeam": {
+        "id": 3041407,
+        "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+        "name": "Gazişehir Gaziantep"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348483470,
+      "round": "Regular Season - 25",
+      "date": "2027-03-14T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 849231,
+        "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+        "name": "Genclerbirligi"
+      },
+      "homeTeam": {
+        "id": 549679,
+        "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+        "name": "Galatasaray"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348482619,
+      "round": "Regular Season - 25",
+      "date": "2027-03-14T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 859443,
+        "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+        "name": "Erzurum BB"
+      },
+      "homeTeam": {
+        "id": 3054172,
+        "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+        "name": "Eyüpspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348481768,
+      "round": "Regular Season - 25",
+      "date": "2027-03-14T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 850082,
+        "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+        "name": "Trabzonspor"
+      },
+      "homeTeam": {
+        "id": 467983,
+        "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+        "name": "Besiktas"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348480917,
+      "round": "Regular Season - 25",
+      "date": "2027-03-14T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 520745,
+        "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+        "name": "Fenerbahce"
+      },
+      "homeTeam": {
+        "id": 848380,
+        "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+        "name": "Alanyaspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348480066,
+      "round": "Regular Season - 24",
+      "date": "2027-03-07T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 3066937,
+        "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+        "name": "Samsunspor"
+      },
+      "homeTeam": {
+        "id": 850082,
+        "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+        "name": "Trabzonspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348479215,
+      "round": "Regular Season - 24",
+      "date": "2027-03-07T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 467983,
+        "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+        "name": "Besiktas"
+      },
+      "homeTeam": {
+        "id": 6307545,
+        "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+        "name": "Kocaelispor FK"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348478364,
+      "round": "Regular Season - 24",
+      "date": "2027-03-07T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 549679,
+        "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+        "name": "Galatasaray"
+      },
+      "homeTeam": {
+        "id": 855188,
+        "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+        "name": "Kasımpaşa"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348477513,
+      "round": "Regular Season - 24",
+      "date": "2027-03-07T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 3054172,
+        "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+        "name": "Eyüpspor"
+      },
+      "homeTeam": {
+        "id": 846678,
+        "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+        "name": "Goztepe"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348476662,
+      "round": "Regular Season - 24",
+      "date": "2027-03-07T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 857741,
+        "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+        "name": "Rizespor"
+      },
+      "homeTeam": {
+        "id": 520745,
+        "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+        "name": "Fenerbahce"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348475811,
+      "round": "Regular Season - 24",
+      "date": "2027-03-07T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 848380,
+        "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+        "name": "Alanyaspor"
+      },
+      "homeTeam": {
+        "id": 859443,
+        "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+        "name": "Erzurum BB"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348474960,
+      "round": "Regular Season - 24",
+      "date": "2027-03-07T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 3041407,
+        "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+        "name": "Gazişehir Gaziantep"
+      },
+      "homeTeam": {
+        "id": 5398677,
+        "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+        "name": "Yeni Çorumspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348474109,
+      "round": "Regular Season - 24",
+      "date": "2027-03-07T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 517341,
+        "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+        "name": "Konyaspor"
+      },
+      "homeTeam": {
+        "id": 480748,
+        "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+        "name": "İstanbul Başakşehir"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348473258,
+      "round": "Regular Season - 24",
+      "date": "2027-03-07T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 849231,
+        "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+        "name": "Genclerbirligi"
+      },
+      "homeTeam": {
+        "id": 3046513,
+        "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+        "name": "Amed"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348472407,
+      "round": "Regular Season - 23",
+      "date": "2027-02-28T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 859443,
+        "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+        "name": "Erzurum BB"
+      },
+      "homeTeam": {
+        "id": 3066937,
+        "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+        "name": "Samsunspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348471556,
+      "round": "Regular Season - 23",
+      "date": "2027-02-28T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 846678,
+        "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+        "name": "Goztepe"
+      },
+      "homeTeam": {
+        "id": 857741,
+        "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+        "name": "Rizespor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348470705,
+      "round": "Regular Season - 23",
+      "date": "2027-02-28T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 855188,
+        "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+        "name": "Kasımpaşa"
+      },
+      "homeTeam": {
+        "id": 517341,
+        "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+        "name": "Konyaspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348469854,
+      "round": "Regular Season - 23",
+      "date": "2027-02-28T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 480748,
+        "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+        "name": "İstanbul Başakşehir"
+      },
+      "homeTeam": {
+        "id": 849231,
+        "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+        "name": "Genclerbirligi"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348469003,
+      "round": "Regular Season - 23",
+      "date": "2027-02-28T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 6307545,
+        "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+        "name": "Kocaelispor FK"
+      },
+      "homeTeam": {
+        "id": 3041407,
+        "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+        "name": "Gazişehir Gaziantep"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348468152,
+      "round": "Regular Season - 23",
+      "date": "2027-02-28T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 850082,
+        "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+        "name": "Trabzonspor"
+      },
+      "homeTeam": {
+        "id": 549679,
+        "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+        "name": "Galatasaray"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348467301,
+      "round": "Regular Season - 23",
+      "date": "2027-02-28T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 520745,
+        "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+        "name": "Fenerbahce"
+      },
+      "homeTeam": {
+        "id": 3054172,
+        "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+        "name": "Eyüpspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348466450,
+      "round": "Regular Season - 23",
+      "date": "2027-02-28T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 3046513,
+        "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+        "name": "Amed"
+      },
+      "homeTeam": {
+        "id": 467983,
+        "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+        "name": "Besiktas"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348465599,
+      "round": "Regular Season - 23",
+      "date": "2027-02-28T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 5398677,
+        "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+        "name": "Yeni Çorumspor"
+      },
+      "homeTeam": {
+        "id": 848380,
+        "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+        "name": "Alanyaspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348464748,
+      "round": "Regular Season - 22",
+      "date": "2027-02-21T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 517341,
+        "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+        "name": "Konyaspor"
+      },
+      "homeTeam": {
+        "id": 850082,
+        "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+        "name": "Trabzonspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348463897,
+      "round": "Regular Season - 22",
+      "date": "2027-02-21T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 3054172,
+        "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+        "name": "Eyüpspor"
+      },
+      "homeTeam": {
+        "id": 857741,
+        "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+        "name": "Rizespor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348463046,
+      "round": "Regular Season - 22",
+      "date": "2027-02-21T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 549679,
+        "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+        "name": "Galatasaray"
+      },
+      "homeTeam": {
+        "id": 6307545,
+        "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+        "name": "Kocaelispor FK"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348462195,
+      "round": "Regular Season - 22",
+      "date": "2027-02-21T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 849231,
+        "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+        "name": "Genclerbirligi"
+      },
+      "homeTeam": {
+        "id": 855188,
+        "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+        "name": "Kasımpaşa"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348461344,
+      "round": "Regular Season - 22",
+      "date": "2027-02-21T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 848380,
+        "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+        "name": "Alanyaspor"
+      },
+      "homeTeam": {
+        "id": 846678,
+        "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+        "name": "Goztepe"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348460493,
+      "round": "Regular Season - 22",
+      "date": "2027-02-21T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 3041407,
+        "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+        "name": "Gazişehir Gaziantep"
+      },
+      "homeTeam": {
+        "id": 520745,
+        "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+        "name": "Fenerbahce"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348459642,
+      "round": "Regular Season - 22",
+      "date": "2027-02-21T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 467983,
+        "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+        "name": "Besiktas"
+      },
+      "homeTeam": {
+        "id": 859443,
+        "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+        "name": "Erzurum BB"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348458791,
+      "round": "Regular Season - 22",
+      "date": "2027-02-21T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 3066937,
+        "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+        "name": "Samsunspor"
+      },
+      "homeTeam": {
+        "id": 5398677,
+        "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+        "name": "Yeni Çorumspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348457940,
+      "round": "Regular Season - 22",
+      "date": "2027-02-21T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 3046513,
+        "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+        "name": "Amed"
+      },
+      "homeTeam": {
+        "id": 480748,
+        "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+        "name": "İstanbul Başakşehir"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348457089,
+      "round": "Regular Season - 21",
+      "date": "2027-02-14T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 6307545,
+        "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+        "name": "Kocaelispor FK"
+      },
+      "homeTeam": {
+        "id": 3066937,
+        "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+        "name": "Samsunspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348456238,
+      "round": "Regular Season - 21",
+      "date": "2027-02-14T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 859443,
+        "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+        "name": "Erzurum BB"
+      },
+      "homeTeam": {
+        "id": 517341,
+        "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+        "name": "Konyaspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348455387,
+      "round": "Regular Season - 21",
+      "date": "2027-02-14T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 850082,
+        "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+        "name": "Trabzonspor"
+      },
+      "homeTeam": {
+        "id": 849231,
+        "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+        "name": "Genclerbirligi"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348454536,
+      "round": "Regular Season - 21",
+      "date": "2027-02-14T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 846678,
+        "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+        "name": "Goztepe"
+      },
+      "homeTeam": {
+        "id": 3041407,
+        "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+        "name": "Gazişehir Gaziantep"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348453685,
+      "round": "Regular Season - 21",
+      "date": "2027-02-14T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 480748,
+        "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+        "name": "İstanbul Başakşehir"
+      },
+      "homeTeam": {
+        "id": 549679,
+        "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+        "name": "Galatasaray"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348452834,
+      "round": "Regular Season - 21",
+      "date": "2027-02-14T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 5398677,
+        "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+        "name": "Yeni Çorumspor"
+      },
+      "homeTeam": {
+        "id": 3054172,
+        "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+        "name": "Eyüpspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348451983,
+      "round": "Regular Season - 21",
+      "date": "2027-02-14T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 520745,
+        "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+        "name": "Fenerbahce"
+      },
+      "homeTeam": {
+        "id": 467983,
+        "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+        "name": "Besiktas"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348451132,
+      "round": "Regular Season - 21",
+      "date": "2027-02-14T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 855188,
+        "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+        "name": "Kasımpaşa"
+      },
+      "homeTeam": {
+        "id": 3046513,
+        "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+        "name": "Amed"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348450281,
+      "round": "Regular Season - 21",
+      "date": "2027-02-14T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 857741,
+        "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+        "name": "Rizespor"
+      },
+      "homeTeam": {
+        "id": 848380,
+        "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+        "name": "Alanyaspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348449430,
+      "round": "Regular Season - 20",
+      "date": "2027-02-07T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 3046513,
+        "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+        "name": "Amed"
+      },
+      "homeTeam": {
+        "id": 850082,
+        "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+        "name": "Trabzonspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348448579,
+      "round": "Regular Season - 20",
+      "date": "2027-02-07T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 3041407,
+        "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+        "name": "Gazişehir Gaziantep"
+      },
+      "homeTeam": {
+        "id": 857741,
+        "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+        "name": "Rizespor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348447728,
+      "round": "Regular Season - 20",
+      "date": "2027-02-07T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 517341,
+        "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+        "name": "Konyaspor"
+      },
+      "homeTeam": {
+        "id": 6307545,
+        "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+        "name": "Kocaelispor FK"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348446877,
+      "round": "Regular Season - 20",
+      "date": "2027-02-07T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 480748,
+        "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+        "name": "İstanbul Başakşehir"
+      },
+      "homeTeam": {
+        "id": 855188,
+        "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+        "name": "Kasımpaşa"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348446026,
+      "round": "Regular Season - 20",
+      "date": "2027-02-07T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 549679,
+        "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+        "name": "Galatasaray"
+      },
+      "homeTeam": {
+        "id": 846678,
+        "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+        "name": "Goztepe"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348445175,
+      "round": "Regular Season - 20",
+      "date": "2027-02-07T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 3066937,
+        "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+        "name": "Samsunspor"
+      },
+      "homeTeam": {
+        "id": 520745,
+        "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+        "name": "Fenerbahce"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348444324,
+      "round": "Regular Season - 20",
+      "date": "2027-02-07T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 849231,
+        "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+        "name": "Genclerbirligi"
+      },
+      "homeTeam": {
+        "id": 859443,
+        "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+        "name": "Erzurum BB"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348443473,
+      "round": "Regular Season - 20",
+      "date": "2027-02-07T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 467983,
+        "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+        "name": "Besiktas"
+      },
+      "homeTeam": {
+        "id": 5398677,
+        "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+        "name": "Yeni Çorumspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348442622,
+      "round": "Regular Season - 20",
+      "date": "2027-02-07T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 3054172,
+        "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+        "name": "Eyüpspor"
+      },
+      "homeTeam": {
+        "id": 848380,
+        "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+        "name": "Alanyaspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348441771,
+      "round": "Regular Season - 19",
+      "date": "2027-01-31T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 857741,
+        "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+        "name": "Rizespor"
+      },
+      "homeTeam": {
+        "id": 3066937,
+        "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+        "name": "Samsunspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348440920,
+      "round": "Regular Season - 19",
+      "date": "2027-01-31T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 520745,
+        "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+        "name": "Fenerbahce"
+      },
+      "homeTeam": {
+        "id": 517341,
+        "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+        "name": "Konyaspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348440069,
+      "round": "Regular Season - 19",
+      "date": "2027-01-31T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 5398677,
+        "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+        "name": "Yeni Çorumspor"
+      },
+      "homeTeam": {
+        "id": 855188,
+        "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+        "name": "Kasımpaşa"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348439218,
+      "round": "Regular Season - 19",
+      "date": "2027-01-31T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 846678,
+        "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+        "name": "Goztepe"
+      },
+      "homeTeam": {
+        "id": 849231,
+        "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+        "name": "Genclerbirligi"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348438367,
+      "round": "Regular Season - 19",
+      "date": "2027-01-31T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 3054172,
+        "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+        "name": "Eyüpspor"
+      },
+      "homeTeam": {
+        "id": 3041407,
+        "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+        "name": "Gazişehir Gaziantep"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348437516,
+      "round": "Regular Season - 19",
+      "date": "2027-01-31T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 859443,
+        "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+        "name": "Erzurum BB"
+      },
+      "homeTeam": {
+        "id": 549679,
+        "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+        "name": "Galatasaray"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348436665,
+      "round": "Regular Season - 19",
+      "date": "2027-01-31T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 848380,
+        "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+        "name": "Alanyaspor"
+      },
+      "homeTeam": {
+        "id": 467983,
+        "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+        "name": "Besiktas"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348435814,
+      "round": "Regular Season - 19",
+      "date": "2027-01-31T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 850082,
+        "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+        "name": "Trabzonspor"
+      },
+      "homeTeam": {
+        "id": 480748,
+        "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+        "name": "İstanbul Başakşehir"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348434963,
+      "round": "Regular Season - 19",
+      "date": "2027-01-31T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 6307545,
+        "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+        "name": "Kocaelispor FK"
+      },
+      "homeTeam": {
+        "id": 3046513,
+        "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+        "name": "Amed"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348434112,
+      "round": "Regular Season - 18",
+      "date": "2027-01-24T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 855188,
+        "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+        "name": "Kasımpaşa"
+      },
+      "homeTeam": {
+        "id": 850082,
+        "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+        "name": "Trabzonspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348433261,
+      "round": "Regular Season - 18",
+      "date": "2027-01-24T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 517341,
+        "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+        "name": "Konyaspor"
+      },
+      "homeTeam": {
+        "id": 857741,
+        "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+        "name": "Rizespor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348432410,
+      "round": "Regular Season - 18",
+      "date": "2027-01-24T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 480748,
+        "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+        "name": "İstanbul Başakşehir"
+      },
+      "homeTeam": {
+        "id": 6307545,
+        "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+        "name": "Kocaelispor FK"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348431559,
+      "round": "Regular Season - 18",
+      "date": "2027-01-24T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 3066937,
+        "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+        "name": "Samsunspor"
+      },
+      "homeTeam": {
+        "id": 846678,
+        "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+        "name": "Goztepe"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348430708,
+      "round": "Regular Season - 18",
+      "date": "2027-01-24T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 849231,
+        "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+        "name": "Genclerbirligi"
+      },
+      "homeTeam": {
+        "id": 520745,
+        "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+        "name": "Fenerbahce"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348429857,
+      "round": "Regular Season - 18",
+      "date": "2027-01-24T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 467983,
+        "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+        "name": "Besiktas"
+      },
+      "homeTeam": {
+        "id": 3054172,
+        "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+        "name": "Eyüpspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348429006,
+      "round": "Regular Season - 18",
+      "date": "2027-01-24T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 3046513,
+        "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+        "name": "Amed"
+      },
+      "homeTeam": {
+        "id": 859443,
+        "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+        "name": "Erzurum BB"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348428155,
+      "round": "Regular Season - 18",
+      "date": "2027-01-24T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 549679,
+        "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+        "name": "Galatasaray"
+      },
+      "homeTeam": {
+        "id": 5398677,
+        "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+        "name": "Yeni Çorumspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348427304,
+      "round": "Regular Season - 18",
+      "date": "2027-01-24T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 3041407,
+        "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+        "name": "Gazişehir Gaziantep"
+      },
+      "homeTeam": {
+        "id": 848380,
+        "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+        "name": "Alanyaspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348426453,
+      "round": "Regular Season - 17",
+      "date": "2027-01-17T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 849231,
+        "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+        "name": "Genclerbirligi"
+      },
+      "homeTeam": {
+        "id": 857741,
+        "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+        "name": "Rizespor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348425602,
+      "round": "Regular Season - 17",
+      "date": "2027-01-17T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 855188,
+        "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+        "name": "Kasımpaşa"
+      },
+      "homeTeam": {
+        "id": 6307545,
+        "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+        "name": "Kocaelispor FK"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348424751,
+      "round": "Regular Season - 17",
+      "date": "2027-01-17T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 467983,
+        "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+        "name": "Besiktas"
+      },
+      "homeTeam": {
+        "id": 846678,
+        "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+        "name": "Goztepe"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348423900,
+      "round": "Regular Season - 17",
+      "date": "2027-01-17T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 549679,
+        "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+        "name": "Galatasaray"
+      },
+      "homeTeam": {
+        "id": 3041407,
+        "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+        "name": "Gazişehir Gaziantep"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348423049,
+      "round": "Regular Season - 17",
+      "date": "2027-01-17T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 3046513,
+        "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+        "name": "Amed"
+      },
+      "homeTeam": {
+        "id": 520745,
+        "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+        "name": "Fenerbahce"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348422198,
+      "round": "Regular Season - 17",
+      "date": "2027-01-17T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 3066937,
+        "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+        "name": "Samsunspor"
+      },
+      "homeTeam": {
+        "id": 3054172,
+        "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+        "name": "Eyüpspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348421347,
+      "round": "Regular Season - 17",
+      "date": "2027-01-17T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 850082,
+        "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+        "name": "Trabzonspor"
+      },
+      "homeTeam": {
+        "id": 859443,
+        "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+        "name": "Erzurum BB"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348420496,
+      "round": "Regular Season - 17",
+      "date": "2027-01-17T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 517341,
+        "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+        "name": "Konyaspor"
+      },
+      "homeTeam": {
+        "id": 5398677,
+        "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+        "name": "Yeni Çorumspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348419645,
+      "round": "Regular Season - 17",
+      "date": "2027-01-17T12:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 480748,
+        "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+        "name": "İstanbul Başakşehir"
+      },
+      "homeTeam": {
+        "id": 848380,
+        "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+        "name": "Alanyaspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348418794,
+      "round": "Regular Season - 16",
+      "date": "2026-12-21T17:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 6307545,
+        "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+        "name": "Kocaelispor FK"
+      },
+      "homeTeam": {
+        "id": 850082,
+        "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+        "name": "Trabzonspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348413688,
+      "round": "Regular Season - 16",
+      "date": "2026-12-20T16:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 857741,
+        "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+        "name": "Rizespor"
+      },
+      "homeTeam": {
+        "id": 467983,
+        "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+        "name": "Besiktas"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348417943,
+      "round": "Regular Season - 16",
+      "date": "2026-12-20T13:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 3041407,
+        "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+        "name": "Gazişehir Gaziantep"
+      },
+      "homeTeam": {
+        "id": 3066937,
+        "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+        "name": "Samsunspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348415390,
+      "round": "Regular Season - 16",
+      "date": "2026-12-20T10:30:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 5398677,
+        "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+        "name": "Yeni Çorumspor"
+      },
+      "homeTeam": {
+        "id": 849231,
+        "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+        "name": "Genclerbirligi"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348414539,
+      "round": "Regular Season - 16",
+      "date": "2026-12-19T16:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 848380,
+        "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+        "name": "Alanyaspor"
+      },
+      "homeTeam": {
+        "id": 549679,
+        "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+        "name": "Galatasaray"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348412837,
+      "round": "Regular Season - 16",
+      "date": "2026-12-19T13:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 859443,
+        "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+        "name": "Erzurum BB"
+      },
+      "homeTeam": {
+        "id": 480748,
+        "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+        "name": "İstanbul Başakşehir"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348417092,
+      "round": "Regular Season - 16",
+      "date": "2026-12-19T10:30:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 3054172,
+        "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+        "name": "Eyüpspor"
+      },
+      "homeTeam": {
+        "id": 517341,
+        "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+        "name": "Konyaspor"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348416241,
+      "round": "Regular Season - 16",
+      "date": "2026-12-18T17:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 520745,
+        "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+        "name": "Fenerbahce"
+      },
+      "homeTeam": {
+        "id": 855188,
+        "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+        "name": "Kasımpaşa"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348411986,
+      "round": "Regular Season - 16",
+      "date": "2026-12-18T17:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 846678,
+        "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+        "name": "Goztepe"
+      },
+      "homeTeam": {
+        "id": 3046513,
+        "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+        "name": "Amed"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    },
+    {
+      "id": 1348408582,
+      "round": "Regular Season - 15",
+      "date": "2026-12-14T17:00:00.000Z",
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      },
+      "state": {
+        "clock": null,
+        "score": {
+          "current": null,
+          "penalties": null
+        },
+        "description": "Not started"
+      },
+      "awayTeam": {
+        "id": 467983,
+        "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+        "name": "Besiktas"
+      },
+      "homeTeam": {
+        "id": 3041407,
+        "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+        "name": "Gazişehir Gaziantep"
+      },
+      "league": {
+        "id": 173537,
+        "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+        "name": "Süper Lig",
+        "season": 2026
+      }
+    }
+  ],
+  "plan": {
+    "tier": "BASIC",
+    "message": "All data available with current plan."
+  },
+  "pagination": {
+    "totalCount": 234,
+    "offset": 0,
+    "limit": 100
+  }
+}

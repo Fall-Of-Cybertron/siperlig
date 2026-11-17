@@ -1,0 +1,21 @@
+# Environment & Secrets (NEVER commit API keys)
+.env
+.env.*
+!.env.example
+backend/.env
+backend/.env.*
+!backend/.env.example
+
+# Node / Next.js
+web/node_modules/
+web/.next/
+web/out/
+
+# Python
+__pycache__/
+*.py[cod]
+backend/data/quota_state.json
+
+# OS
+.DS_Store
+Thumbs.db

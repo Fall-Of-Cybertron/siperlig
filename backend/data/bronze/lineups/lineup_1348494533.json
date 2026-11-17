@@ -1,0 +1,18 @@
+{
+  "homeTeam": {
+    "formation": "Unknown",
+    "substitutes": [],
+    "initialLineup": [],
+    "id": 6307545,
+    "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+    "name": "Kocaelispor FK"
+  },
+  "awayTeam": {
+    "formation": "Unknown",
+    "substitutes": [],
+    "initialLineup": [],
+    "id": 848380,
+    "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+    "name": "Alanyaspor"
+  }
+}

@@ -1,0 +1,1004 @@
+[
+  {
+    "venue": {
+      "city": "Trabzon",
+      "name": "Papara Park",
+      "country": "Turkiye",
+      "capacity": "40980"
+    },
+    "referee": {
+      "name": "Taskinsoy, Abdullah Bugra",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "cloudy",
+      "temperature": "17.74°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "45+2",
+        "type": "Goal",
+        "assist": "Ernest Muçi",
+        "player": "Stefan Savić",
+        "playerId": 6433,
+        "substituted": null,
+        "assistingPlayerId": 585872
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "46",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Melih Kabasakal",
+        "playerId": 25507545,
+        "substituted": "Tim Jabol-Folcarelli",
+        "assistingPlayerId": 3607842
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "46",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Kacper Kozłowski",
+        "playerId": 10353098,
+        "substituted": "Karamba Gassama",
+        "assistingPlayerId": 65763985
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "60",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Juninho Bacuna",
+        "playerId": 3066721,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "61",
+        "type": "Goal",
+        "assist": "Noah Saviolo",
+        "player": "Ernest Muçi",
+        "playerId": 585872,
+        "substituted": null,
+        "assistingPlayerId": 73250807
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "63",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Paul Onuachu",
+        "playerId": 2545886,
+        "substituted": "Umut Nayir",
+        "assistingPlayerId": 8089760
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "73",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Ernest Muçi",
+        "playerId": 585872,
+        "substituted": "Metehan Mimaroğlu",
+        "assistingPlayerId": 17333414
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "73",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Noah Saviolo",
+        "playerId": 73250807,
+        "substituted": "Ozan Tufan",
+        "assistingPlayerId": 8040816
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "73",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Trivante Stewart",
+        "playerId": 30972368,
+        "substituted": "Halil Dervişoğlu",
+        "assistingPlayerId": 6027994
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "73",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Deian Sorescu",
+        "playerId": 6954388,
+        "substituted": "Alexandru Maxim",
+        "assistingPlayerId": 4173435
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "80",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Fabinho",
+        "playerId": 48293,
+        "substituted": "Mustafa Eskihellaç",
+        "assistingPlayerId": 10034157
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "90",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Drissa Camara",
+        "playerId": 14719418,
+        "substituted": "Sabahattin Destici",
+        "assistingPlayerId": 23140040
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "90",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Juninho Bacuna",
+        "playerId": 3066721,
+        "substituted": "Mervan Müjdeci",
+        "assistingPlayerId": 100966474
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-11-01T13:04:19.629Z",
+          "probabilities": {
+            "away": "9.93%",
+            "draw": "14.59%",
+            "home": "75.48%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-11-01T13:14:50.006Z",
+          "probabilities": {
+            "away": "10.65%",
+            "draw": "16.19%",
+            "home": "73.17%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-11-01T13:24:41.742Z",
+          "probabilities": {
+            "away": "11.96%",
+            "draw": "18.92%",
+            "home": "69.12%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-11-01T13:34:35.181Z",
+          "probabilities": {
+            "away": "13.27%",
+            "draw": "22.74%",
+            "home": "63.99%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-11-01T13:45:16.003Z",
+          "probabilities": {
+            "away": "13.90%",
+            "draw": "26.96%",
+            "home": "59.14%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-11-01T13:55:41.403Z",
+          "probabilities": {
+            "away": "4.26%",
+            "draw": "12.57%",
+            "home": "83.18%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-11-01T14:04:47.402Z",
+          "probabilities": {
+            "away": "4.42%",
+            "draw": "12.79%",
+            "home": "82.79%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-11-01T14:16:34.724Z",
+          "probabilities": {
+            "away": "3.94%",
+            "draw": "13.70%",
+            "home": "82.36%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-11-01T14:26:24.604Z",
+          "probabilities": {
+            "away": "1.36%",
+            "draw": "5.50%",
+            "home": "93.14%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-11-01T14:35:48.095Z",
+          "probabilities": {
+            "away": "0.97%",
+            "draw": "4.88%",
+            "home": "94.15%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-11-01T14:46:21.600Z",
+          "probabilities": {
+            "away": "0.61%",
+            "draw": "4.06%",
+            "home": "95.33%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-11-01T14:56:10.670Z",
+          "probabilities": {
+            "away": "0.62%",
+            "draw": "4.06%",
+            "home": "95.33%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-10-25T12:13:59.414Z",
+          "probabilities": {
+            "away": "18.26%",
+            "draw": "19.63%",
+            "home": "62.11%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-10-26T10:28:11.946Z",
+          "probabilities": {
+            "away": "14.33%",
+            "draw": "19.27%",
+            "home": "66.40%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-10-27T10:28:46.372Z",
+          "probabilities": {
+            "away": "11.22%",
+            "draw": "17.22%",
+            "home": "71.57%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-10-28T10:41:26.224Z",
+          "probabilities": {
+            "away": "11.85%",
+            "draw": "16.98%",
+            "home": "71.17%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-10-29T10:39:00.738Z",
+          "probabilities": {
+            "away": "12.99%",
+            "draw": "17.35%",
+            "home": "69.66%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-10-30T11:48:37.662Z",
+          "probabilities": {
+            "away": "12.85%",
+            "draw": "17.18%",
+            "home": "69.97%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-10-30T17:10:34.952Z",
+          "probabilities": {
+            "away": "12.62%",
+            "draw": "17.15%",
+            "home": "70.23%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-10-31T11:37:28.844Z",
+          "probabilities": {
+            "away": "12.45%",
+            "draw": "17.15%",
+            "home": "70.40%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-11-01T10:37:41.072Z",
+          "probabilities": {
+            "away": "10.46%",
+            "draw": "14.98%",
+            "home": "74.56%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "statistics": [
+          {
+            "value": 1.23,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 5,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 114,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 11,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 1,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 12,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 309,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 253,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 25,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 46,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 26,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 16,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 77,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 76,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 6,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 10,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 10,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 16,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 11,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 12,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 20,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 11,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 19,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.33,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 74,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.57,
+            "displayName": "Possession"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 4,
+            "displayName": "Corners"
+          },
+          {
+            "value": 4,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 476,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 9,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 3,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 10,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 550,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 6,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 7,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 0,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 8,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "statistics": [
+          {
+            "value": 0.67,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 0,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 79,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 7,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.64,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 11,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 218,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 196,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 40,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 68,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 17,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 11,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 66,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 78,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 13,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 12,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 11,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 19,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 24,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 20,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 14,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.46,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 69,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.43,
+            "displayName": "Possession"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 2,
+            "displayName": "Corners"
+          },
+          {
+            "value": 2,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 334,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 3,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 403,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 4,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 12,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 1,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348372840,
+    "round": "Regular Season - 10",
+    "date": "2026-11-01T13:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "2 - 0",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 3041407,
+      "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+      "name": "Gazişehir Gaziantep",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "6'",
+          "outcome": "Missed",
+          "goalTarget": "Close High",
+          "playerName": "Deian Sorescu"
+        },
+        {
+          "time": "12'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Juninho Bacuna"
+        },
+        {
+          "time": "15'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Drissa Camara"
+        },
+        {
+          "time": "25'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Juninho Bacuna"
+        },
+        {
+          "time": "33'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right And High",
+          "playerName": "Drissa Camara"
+        },
+        {
+          "time": "34'",
+          "outcome": "Saved",
+          "goalTarget": "High Right",
+          "playerName": "Deian Sorescu"
+        },
+        {
+          "time": "36'",
+          "outcome": "Saved",
+          "goalTarget": "High Left",
+          "playerName": "Drissa Camara"
+        },
+        {
+          "time": "60'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Victor Gidado"
+        },
+        {
+          "time": "66'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Trivante Stewart"
+        },
+        {
+          "time": "69'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Karamba Gassama"
+        },
+        {
+          "time": "75'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Halil Dervisoglu"
+        },
+        {
+          "time": "76'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Karamba Gassama"
+        },
+        {
+          "time": "90 + 2'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Alexandru Maxim"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 850082,
+      "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+      "name": "Trabzonspor",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "3'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Wagner Pina"
+        },
+        {
+          "time": "11'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Paul Onuachu"
+        },
+        {
+          "time": "15'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Mohamed Salah"
+        },
+        {
+          "time": "35'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Noah Saviolo"
+        },
+        {
+          "time": "39'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Paul Onuachu"
+        },
+        {
+          "time": "45 + 1'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Noah Saviolo"
+        },
+        {
+          "time": "45 + 1'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Ernest Muçi"
+        },
+        {
+          "time": "45 + 2'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Ernest Muçi"
+        },
+        {
+          "time": "45 + 2'",
+          "outcome": "Goal",
+          "goalTarget": "High Right",
+          "playerName": "Stefan Savic"
+        },
+        {
+          "time": "49'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Wagner Pina"
+        },
+        {
+          "time": "51'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Stefan Savic"
+        },
+        {
+          "time": "61'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Sidny Cabral"
+        },
+        {
+          "time": "61'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Ernest Muçi"
+        },
+        {
+          "time": "66'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Ernest Muçi"
+        },
+        {
+          "time": "73'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Stefan Savic"
+        },
+        {
+          "time": "83'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Umut Nayır"
+        },
+        {
+          "time": "85'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Umut Nayır"
+        },
+        {
+          "time": "90 + 4'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Mohamed Salah"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

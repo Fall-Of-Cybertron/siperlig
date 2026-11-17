@@ -1,0 +1,1028 @@
+[
+  {
+    "venue": {
+      "city": "Ankara",
+      "name": "Eryaman Stadyumu",
+      "country": "Turkiye",
+      "capacity": "22000"
+    },
+    "referee": {
+      "name": "Tokail, Fatih",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "cloudy",
+      "temperature": "12.35°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "1",
+        "type": "Goal",
+        "assist": "F. Tongya",
+        "player": "O. Ulgun",
+        "playerId": 9972333,
+        "substituted": null,
+        "assistingPlayerId": 26077646
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "40",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Pedro Mendes",
+        "playerId": 23788870,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "time": "47",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Bedirhan Özyurt",
+        "playerId": 57979635,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "time": "55",
+        "type": "Substitution",
+        "assist": null,
+        "player": "G. Makouta",
+        "playerId": 6758129,
+        "substituted": "I. Hagi",
+        "assistingPlayerId": 6936678
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "time": "55",
+        "type": "Substitution",
+        "assist": null,
+        "player": "I. Kaya",
+        "playerId": 48685266,
+        "substituted": "M. Elia",
+        "assistingPlayerId": 488628
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "time": "59",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Maestro",
+        "playerId": 38176474,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "59",
+        "type": "Goal",
+        "assist": "A. Traore",
+        "player": "F. Tongya",
+        "playerId": 26077646,
+        "substituted": null,
+        "assistingPlayerId": 539021
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "time": "62",
+        "type": "Substitution",
+        "assist": null,
+        "player": "B. Ozyurt",
+        "playerId": 57979635,
+        "substituted": "Y. Ozdemir",
+        "assistingPlayerId": 46178979
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "66",
+        "type": "Goal",
+        "assist": "A. Traore",
+        "player": "T. Gouveia",
+        "playerId": 25448619,
+        "substituted": null,
+        "assistingPlayerId": 539021
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "68",
+        "type": "Goal",
+        "assist": "F. Tongya",
+        "player": "P. Mendes",
+        "playerId": 23788870,
+        "substituted": null,
+        "assistingPlayerId": 26077646
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "72",
+        "type": "Substitution",
+        "assist": null,
+        "player": "C. Niasse",
+        "playerId": 3580633,
+        "substituted": "S. Ucan",
+        "assistingPlayerId": 5000492
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "72",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Traore",
+        "playerId": 539021,
+        "substituted": "R. Luis",
+        "assistingPlayerId": 55612130
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "time": "74",
+        "type": "Substitution",
+        "assist": null,
+        "player": "B. Gezek",
+        "playerId": 59881206,
+        "substituted": "E. Keskin",
+        "assistingPlayerId": 21653044
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "time": "74",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Bikoue",
+        "playerId": 45966620,
+        "substituted": "O. Ben Ali",
+        "assistingPlayerId": 74596284
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "78",
+        "type": "Goal",
+        "assist": "I. Egribayat",
+        "player": "T. Gouveia",
+        "playerId": 25448619,
+        "substituted": null,
+        "assistingPlayerId": 10004211
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "80",
+        "type": "Substitution",
+        "assist": null,
+        "player": "P. Mendes",
+        "playerId": 23788870,
+        "substituted": "V. Orakpo",
+        "assistingPlayerId": 76817118
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "81",
+        "type": "Substitution",
+        "assist": null,
+        "player": "T. Gouveia",
+        "playerId": 25448619,
+        "substituted": "P. Martor",
+        "assistingPlayerId": 100019633
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "86",
+        "type": "Substitution",
+        "assist": null,
+        "player": "F. Tongya",
+        "playerId": 26077646,
+        "substituted": "A. Ozcan",
+        "assistingPlayerId": 88688614
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "time": "88",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Omar Ben Ali",
+        "playerId": 74596284,
+        "substituted": null,
+        "assistingPlayerId": null
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-11-02T17:01:11.878Z",
+          "probabilities": {
+            "away": "18.58%",
+            "draw": "23.52%",
+            "home": "57.89%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-11-02T17:12:12.966Z",
+          "probabilities": {
+            "away": "19.13%",
+            "draw": "24.02%",
+            "home": "56.85%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-11-02T17:21:50.646Z",
+          "probabilities": {
+            "away": "17.50%",
+            "draw": "24.93%",
+            "home": "57.57%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-11-02T17:32:12.073Z",
+          "probabilities": {
+            "away": "17.24%",
+            "draw": "26.03%",
+            "home": "56.73%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-11-02T17:42:20.670Z",
+          "probabilities": {
+            "away": "16.66%",
+            "draw": "27.00%",
+            "home": "56.34%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-11-02T17:52:19.211Z",
+          "probabilities": {
+            "away": "14.75%",
+            "draw": "27.02%",
+            "home": "58.23%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-11-02T18:01:43.079Z",
+          "probabilities": {
+            "away": "14.85%",
+            "draw": "26.96%",
+            "home": "58.20%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-11-02T18:12:27.887Z",
+          "probabilities": {
+            "away": "11.37%",
+            "draw": "26.46%",
+            "home": "62.16%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-11-02T18:22:27.632Z",
+          "probabilities": {
+            "away": "2.08%",
+            "draw": "7.15%",
+            "home": "90.77%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-11-02T18:32:40.230Z",
+          "probabilities": {
+            "away": "1.43%",
+            "draw": "5.39%",
+            "home": "93.18%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-11-02T18:42:55.702Z",
+          "probabilities": {
+            "away": "1.49%",
+            "draw": "5.63%",
+            "home": "92.89%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-11-02T18:53:02.456Z",
+          "probabilities": {
+            "away": "1.49%",
+            "draw": "5.63%",
+            "home": "92.89%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-26T10:31:47.161Z",
+          "probabilities": {
+            "away": "39.12%",
+            "draw": "24.92%",
+            "home": "35.96%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-27T10:34:18.183Z",
+          "probabilities": {
+            "away": "36.34%",
+            "draw": "28.86%",
+            "home": "34.79%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-28T10:48:00.950Z",
+          "probabilities": {
+            "away": "36.36%",
+            "draw": "28.86%",
+            "home": "34.78%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-29T10:47:43.681Z",
+          "probabilities": {
+            "away": "36.35%",
+            "draw": "28.84%",
+            "home": "34.81%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-30T11:59:01.685Z",
+          "probabilities": {
+            "away": "36.00%",
+            "draw": "28.92%",
+            "home": "35.08%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-30T17:19:57.355Z",
+          "probabilities": {
+            "away": "36.00%",
+            "draw": "28.87%",
+            "home": "35.13%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-31T11:47:58.163Z",
+          "probabilities": {
+            "away": "36.00%",
+            "draw": "28.89%",
+            "home": "35.11%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-11-01T10:51:15.924Z",
+          "probabilities": {
+            "away": "36.04%",
+            "draw": "28.88%",
+            "home": "35.08%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-11-02T09:33:11.229Z",
+          "probabilities": {
+            "away": "35.45%",
+            "draw": "28.53%",
+            "home": "36.02%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "statistics": [
+          {
+            "value": 1.91,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 6,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 58,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 9,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 1.04,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 2,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 11,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 137,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 190,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 38,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 73,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 15,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 9,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 51,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 53,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 10,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 11,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 7,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 9,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 20,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 10,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 18,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 7,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.58,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 76,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.41,
+            "displayName": "Possession"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 3,
+            "displayName": "Corners"
+          },
+          {
+            "value": 1,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 240,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 2,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 9,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 316,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 3,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 15,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 1,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "statistics": [
+          {
+            "value": 0.5,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 1,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 64,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 15,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.24,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 10,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 271,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 193,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 21,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 54,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 26,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 6,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 45,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 71,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 7,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 6,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 10,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 16,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 18,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 7,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.33,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 88,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.59,
+            "displayName": "Possession"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 1,
+            "displayName": "Corners"
+          },
+          {
+            "value": 3,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 366,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 1,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 454,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 2,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 10,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 3,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348369436,
+    "round": "Regular Season - 10",
+    "date": "2026-11-02T17:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "5 - 0",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 848380,
+      "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+      "name": "Alanyaspor",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "3'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Bedirhan Özyurt"
+        },
+        {
+          "time": "4'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Antonio Maestro"
+        },
+        {
+          "time": "16'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "İbrahim Kaya"
+        },
+        {
+          "time": "23'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Ruan"
+        },
+        {
+          "time": "27'",
+          "outcome": "Missed",
+          "goalTarget": "Close Left And High",
+          "playerName": "Gaius Makouta"
+        },
+        {
+          "time": "31'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Bedirhan Özyurt"
+        },
+        {
+          "time": "33'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Fidan Aliti"
+        },
+        {
+          "time": "34'",
+          "outcome": "Saved",
+          "goalTarget": "High Left",
+          "playerName": "Gaius Makouta"
+        },
+        {
+          "time": "34'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Iván Cédric"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 849231,
+      "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+      "name": "Genclerbirligi",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "1'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Ogulcan Ülgün"
+        },
+        {
+          "time": "7'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Tiago Gouveia"
+        },
+        {
+          "time": "21'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Adama Traore"
+        },
+        {
+          "time": "39'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Tiago Gouveia"
+        },
+        {
+          "time": "48'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Cheikh Niasse"
+        },
+        {
+          "time": "48'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Tiago Gouveia"
+        },
+        {
+          "time": "59'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Franco Tongya"
+        },
+        {
+          "time": "62'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Adama Traore"
+        },
+        {
+          "time": "66'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Tiago Gouveia"
+        },
+        {
+          "time": "68'",
+          "outcome": "Goal",
+          "goalTarget": "Low Centre",
+          "playerName": "Pedro Mendes"
+        },
+        {
+          "time": "78'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Tiago Gouveia"
+        },
+        {
+          "time": "85'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Victor Orakpo"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

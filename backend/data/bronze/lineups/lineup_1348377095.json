@@ -1,0 +1,294 @@
+{
+  "homeTeam": {
+    "formation": "4-2-3-1",
+    "substitutes": [
+      {
+        "name": "Günay Güvenç",
+        "number": 19,
+        "position": "Goalkeeper",
+        "id": 9974104
+      },
+      {
+        "name": "El Chadaille Bitshiabu",
+        "number": 3,
+        "position": "Defender",
+        "id": 43240085
+      },
+      {
+        "name": "Kazımcan Karataş",
+        "number": 88,
+        "position": "Defender",
+        "id": 23354331
+      },
+      {
+        "name": "Wilfried Singo",
+        "number": 90,
+        "position": "Defender",
+        "id": 4911298
+      },
+      {
+        "name": "Renato Nhaga",
+        "number": 74,
+        "position": "Midfielder",
+        "id": 83489441
+      },
+      {
+        "name": "İlkay Gündoğan",
+        "number": 20,
+        "position": "Midfielder",
+        "id": 102067
+      },
+      {
+        "name": "Lesley Ugochukwu",
+        "number": 18,
+        "position": "Midfielder",
+        "id": 43551942
+      },
+      {
+        "name": "Gabriel Sara",
+        "number": 8,
+        "position": "Midfielder",
+        "id": 12969026
+      },
+      {
+        "name": "Leroy Sané",
+        "number": 10,
+        "position": "Forward",
+        "id": 103838
+      },
+      {
+        "name": "Deniz Gül",
+        "number": 21,
+        "position": "Forward",
+        "id": 62559924
+      }
+    ],
+    "initialLineup": [
+      [
+        {
+          "name": "Uğurcan Çakır",
+          "number": 1,
+          "position": "Goalkeeper",
+          "id": 8028580
+        }
+      ],
+      [
+        {
+          "name": "Eren Elmalı",
+          "number": 17,
+          "position": "Defender",
+          "id": 8059331
+        },
+        {
+          "name": "Ismail Jakobs",
+          "number": 4,
+          "position": "Defender",
+          "id": 25457635
+        },
+        {
+          "name": "Davinson Sánchez",
+          "number": 6,
+          "position": "Defender",
+          "id": 27202
+        },
+        {
+          "name": "Roland Sallai",
+          "number": 7,
+          "position": "Defender",
+          "id": 4226726
+        }
+      ],
+      [
+        {
+          "name": "Mario Lemina",
+          "number": 99,
+          "position": "Midfielder",
+          "id": 3050621
+        },
+        {
+          "name": "Lucas Torreira",
+          "number": 34,
+          "position": "Midfielder",
+          "id": 235536
+        }
+      ],
+      [
+        {
+          "name": "Rafael Leão",
+          "number": 27,
+          "position": "Midfielder",
+          "id": 3580150
+        },
+        {
+          "name": "Aleksey Batrakov",
+          "number": 83,
+          "position": "Midfielder",
+          "id": 64572907
+        },
+        {
+          "name": "Yunus Akgün",
+          "number": 11,
+          "position": "Midfielder",
+          "id": 73248
+        }
+      ],
+      [
+        {
+          "name": "Barış Alper Yılmaz",
+          "number": 53,
+          "position": "Forward",
+          "id": 10187268
+        }
+      ]
+    ],
+    "id": 549679,
+    "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+    "name": "Galatasaray"
+  },
+  "awayTeam": {
+    "formation": "4-2-3-1",
+    "substitutes": [
+      {
+        "name": "Burak Bozan",
+        "number": 27,
+        "position": "Goalkeeper",
+        "id": 9973943
+      },
+      {
+        "name": "Mehmet Yeşil",
+        "number": 21,
+        "position": "Defender",
+        "id": 16311386
+      },
+      {
+        "name": "Kahraman Demirtaş",
+        "number": 47,
+        "position": "Defender",
+        "id": 10179379
+      },
+      {
+        "name": "Ali Turap Bülbül",
+        "number": 81,
+        "position": "Defender",
+        "id": 54732265
+      },
+      {
+        "name": "Miraç Acer",
+        "number": 3,
+        "position": "Defender",
+        "id": 21649824
+      },
+      {
+        "name": "Amadou Cissé",
+        "number": 33,
+        "position": "Defender",
+        "id": 72724176
+      },
+      {
+        "name": "Rayan Lutin",
+        "number": 93,
+        "position": "Midfielder",
+        "id": 57853089
+      },
+      {
+        "name": "Cem Üstündag",
+        "number": 6,
+        "position": "Midfielder",
+        "id": 43705214
+      },
+      {
+        "name": "Yira Collins Sor",
+        "number": 11,
+        "position": "Forward",
+        "id": 32756892
+      },
+      {
+        "name": "Mohamed Khalil",
+        "number": 74,
+        "position": "Midfielder",
+        "id": 27327489
+      }
+    ],
+    "initialLineup": [
+      [
+        {
+          "name": "Alban Lafont",
+          "number": 40,
+          "position": "Goalkeeper",
+          "id": 4893427
+        }
+      ],
+      [
+        {
+          "name": "Umut Meraş",
+          "number": 17,
+          "position": "Defender",
+          "id": 8086057
+        },
+        {
+          "name": "David Robert Bates",
+          "number": 4,
+          "position": "Defender",
+          "id": 4003419
+        },
+        {
+          "name": "Lumbardh Dellova",
+          "number": 5,
+          "position": "Defender",
+          "id": 2349144
+        },
+        {
+          "name": "Ermal Krasniqi",
+          "number": 7,
+          "position": "Defender",
+          "id": 43779435
+        }
+      ],
+      [
+        {
+          "name": "Furkan Soyalp",
+          "number": 8,
+          "position": "Midfielder",
+          "id": 8088633
+        },
+        {
+          "name": "Rayan Raveloson",
+          "number": 22,
+          "position": "Midfielder",
+          "id": 3314500
+        }
+      ],
+      [
+        {
+          "name": "Gift Orban",
+          "number": 99,
+          "position": "Midfielder",
+          "id": 59290014
+        },
+        {
+          "name": "Dia Saba",
+          "number": 91,
+          "position": "Midfielder",
+          "id": 2083333
+        },
+        {
+          "name": "Gökhan Gül",
+          "number": 18,
+          "position": "Midfielder",
+          "id": 4109196
+        }
+      ],
+      [
+        {
+          "name": "Mbaye Diagne",
+          "number": 45,
+          "position": "Forward",
+          "id": 73892
+        }
+      ]
+    ],
+    "id": 3046513,
+    "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+    "name": "Amed"
+  }
+}

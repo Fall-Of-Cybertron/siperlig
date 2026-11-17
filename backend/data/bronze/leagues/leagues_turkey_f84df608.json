@@ -1,0 +1,205 @@
+{
+  "data": [
+    {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "seasons": [
+        {
+          "season": 2019
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2022
+        },
+        {
+          "season": 2026
+        },
+        {
+          "season": 2025
+        }
+      ],
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      }
+    },
+    {
+      "id": 174388,
+      "logo": "https://highlightly.net/soccer/images/leagues/174388.png",
+      "name": "1. Lig",
+      "seasons": [
+        {
+          "season": 2023
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2022
+        },
+        {
+          "season": 2026
+        },
+        {
+          "season": 2025
+        }
+      ],
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      }
+    },
+    {
+      "id": 175239,
+      "logo": "https://highlightly.net/soccer/images/leagues/175239.png",
+      "name": "2. Lig",
+      "seasons": [
+        {
+          "season": 2023
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2022
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2026
+        }
+      ],
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      }
+    },
+    {
+      "id": 176090,
+      "logo": "https://highlightly.net/soccer/images/leagues/176090.png",
+      "name": "Cup",
+      "seasons": [
+        {
+          "season": 2023
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2026
+        },
+        {
+          "season": 2022
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        }
+      ],
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      }
+    },
+    {
+      "id": 469685,
+      "logo": "https://highlightly.net/soccer/images/leagues/469685.png",
+      "name": "Super Cup",
+      "seasons": [
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2026
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      }
+    },
+    {
+      "id": 1056024,
+      "logo": null,
+      "name": "U19 league",
+      "seasons": [
+        {
+          "season": 2026
+        }
+      ],
+      "country": {
+        "code": "TR",
+        "name": "Turkey",
+        "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+      }
+    }
+  ],
+  "plan": {
+    "tier": "BASIC",
+    "message": "All data available with current plan."
+  },
+  "pagination": {
+    "totalCount": 6,
+    "offset": 0,
+    "limit": 100
+  }
+}

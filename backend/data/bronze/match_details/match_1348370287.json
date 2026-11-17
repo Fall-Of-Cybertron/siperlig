@@ -1,0 +1,982 @@
+[
+  {
+    "venue": {
+      "city": "Istanbul",
+      "name": "Recep Tayyip Erdogan Stadium",
+      "country": "Turkiye",
+      "capacity": "14234"
+    },
+    "referee": {
+      "name": "Coskunses, Resat Onur",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "cloudy",
+      "temperature": "16.6°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "6",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "E. Belozoglu",
+        "playerId": 8025843,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "28",
+        "type": "Goal",
+        "assist": "R. Yilmaz",
+        "player": "L. Trossard",
+        "playerId": 313460,
+        "substituted": null,
+        "assistingPlayerId": 320061
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "46",
+        "type": "Substitution",
+        "assist": null,
+        "player": "V. Cerny",
+        "playerId": 88543,
+        "substituted": "I. Fakili",
+        "assistingPlayerId": 71938818
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "47",
+        "type": "Goal",
+        "assist": "M. Murillo",
+        "player": "D. Vlahovic",
+        "playerId": 4896969,
+        "substituted": null,
+        "assistingPlayerId": 478807
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "60",
+        "type": "Goal",
+        "assist": "H. Hajradinovic",
+        "player": "C. Winck",
+        "playerId": 1700797,
+        "substituted": null,
+        "assistingPlayerId": 8060941
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "63",
+        "type": "Substitution",
+        "assist": null,
+        "player": "J. Olaitan",
+        "playerId": 51021698,
+        "substituted": "Oh Hyeon-Gyu",
+        "assistingPlayerId": 5588464
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "66",
+        "type": "Substitution",
+        "assist": null,
+        "player": "J. Rak-Sakyi",
+        "playerId": 45796443,
+        "substituted": "G. Yalcin",
+        "assistingPlayerId": 322959
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "76",
+        "type": "Substitution",
+        "assist": null,
+        "player": "E. Topcu",
+        "playerId": 8057560,
+        "substituted": "T. Djalo",
+        "assistingPlayerId": 238273
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "79",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "A. Arous",
+        "playerId": 63430451,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "83",
+        "type": "Substitution",
+        "assist": null,
+        "player": "H. Hajradinovic",
+        "playerId": 8060941,
+        "substituted": "M. Rafferty",
+        "assistingPlayerId": 54538099
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "83",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Murillo",
+        "playerId": 478807,
+        "substituted": "T. Bulut",
+        "assistingPlayerId": 63540897
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "83",
+        "type": "Substitution",
+        "assist": null,
+        "player": "L. Trossard",
+        "playerId": 313460,
+        "substituted": "M. Rashica",
+        "assistingPlayerId": 4077318
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "86",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Karapo",
+        "playerId": 61220887,
+        "substituted": "J. Jessen",
+        "assistingPlayerId": 68956293
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "86",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Kol",
+        "playerId": 74375,
+        "substituted": "T. Diarra",
+        "assistingPlayerId": 53072516
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "87",
+        "type": "Goal",
+        "assist": "K. Demirbay",
+        "player": "M. Rafferty",
+        "playerId": 54538099,
+        "substituted": null,
+        "assistingPlayerId": 115591
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "90+5",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "T. Djalo",
+        "playerId": 238273,
+        "substituted": null,
+        "assistingPlayerId": null
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-11-01T16:15:28.202Z",
+          "probabilities": {
+            "away": "61.47%",
+            "draw": "21.82%",
+            "home": "16.70%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-11-01T16:26:36.599Z",
+          "probabilities": {
+            "away": "57.10%",
+            "draw": "24.37%",
+            "home": "18.53%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-11-01T16:35:36.477Z",
+          "probabilities": {
+            "away": "76.05%",
+            "draw": "16.22%",
+            "home": "7.74%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-11-01T16:45:46.282Z",
+          "probabilities": {
+            "away": "76.44%",
+            "draw": "16.72%",
+            "home": "6.84%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-11-01T16:55:34.766Z",
+          "probabilities": {
+            "away": "77.83%",
+            "draw": "16.14%",
+            "home": "6.03%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-11-01T17:05:16.663Z",
+          "probabilities": {
+            "away": "77.68%",
+            "draw": "16.25%",
+            "home": "6.06%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-11-01T17:14:12.531Z",
+          "probabilities": {
+            "away": "91.20%",
+            "draw": "6.77%",
+            "home": "2.03%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-11-01T17:33:40.364Z",
+          "probabilities": {
+            "away": "81.12%",
+            "draw": "15.59%",
+            "home": "3.29%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-11-01T17:53:40.464Z",
+          "probabilities": {
+            "away": "7.54%",
+            "draw": "89.21%",
+            "home": "3.24%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-11-01T18:03:06.712Z",
+          "probabilities": {
+            "away": "6.39%",
+            "draw": "90.62%",
+            "home": "2.99%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-25T12:14:00.784Z",
+          "probabilities": {
+            "away": "51.37%",
+            "draw": "23.84%",
+            "home": "24.79%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-26T10:28:15.736Z",
+          "probabilities": {
+            "away": "53.02%",
+            "draw": "24.66%",
+            "home": "22.32%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-27T10:28:52.034Z",
+          "probabilities": {
+            "away": "60.00%",
+            "draw": "22.34%",
+            "home": "17.66%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-28T10:41:31.562Z",
+          "probabilities": {
+            "away": "60.19%",
+            "draw": "22.15%",
+            "home": "17.66%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-29T10:39:06.242Z",
+          "probabilities": {
+            "away": "59.11%",
+            "draw": "22.36%",
+            "home": "18.53%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-30T11:48:48.826Z",
+          "probabilities": {
+            "away": "58.96%",
+            "draw": "22.55%",
+            "home": "18.49%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-30T17:10:40.691Z",
+          "probabilities": {
+            "away": "59.12%",
+            "draw": "22.38%",
+            "home": "18.50%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-31T11:37:34.522Z",
+          "probabilities": {
+            "away": "59.14%",
+            "draw": "22.38%",
+            "home": "18.48%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-11-01T10:37:46.799Z",
+          "probabilities": {
+            "away": "60.54%",
+            "draw": "21.82%",
+            "home": "17.64%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "statistics": [
+          {
+            "value": 1.2,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 4,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 67,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 13,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.79,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 11,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 200,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 161,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 18,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 70,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 17,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 13,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 39,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 52,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 8,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 8,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 11,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 15,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 17,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 7,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 16,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 11,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.38,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 93,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.42,
+            "displayName": "Possession"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 5,
+            "displayName": "Corners"
+          },
+          {
+            "value": 0,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 257,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 3,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 10,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 350,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 2,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 20,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 1,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "statistics": [
+          {
+            "value": 1.28,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 4,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 126,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 19,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.72,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 1,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 9,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 228,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 284,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 37,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 77,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 24,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 8,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 89,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 80,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 6,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 13,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 12,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 18,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 9,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 16,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 6,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 13,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.5,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 99,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.58,
+            "displayName": "Possession"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 2,
+            "displayName": "Corners"
+          },
+          {
+            "value": 0,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 404,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 1,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 503,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 4,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 15,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 1,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 1,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348370287,
+    "round": "Regular Season - 10",
+    "date": "2026-11-01T16:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "2 - 2",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 467983,
+      "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+      "name": "Besiktas",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "6'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Leandro Trossard"
+        },
+        {
+          "time": "12'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Leandro Trossard"
+        },
+        {
+          "time": "15'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Vaclav Černý"
+        },
+        {
+          "time": "28'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Leandro Trossard"
+        },
+        {
+          "time": "47'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Dusan Vlahović"
+        },
+        {
+          "time": "56'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Leandro Trossard"
+        },
+        {
+          "time": "59'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Dusan Vlahović"
+        },
+        {
+          "time": "62'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Ilhan Fakili"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 855188,
+      "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+      "name": "Kasımpaşa",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "4'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Kerem Demirbay"
+        },
+        {
+          "time": "9'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Adrian Benedyczak"
+        },
+        {
+          "time": "19'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Adrian Benedyczak"
+        },
+        {
+          "time": "20'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Claudio Winck"
+        },
+        {
+          "time": "21'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Ali Yavuz Kol"
+        },
+        {
+          "time": "35'",
+          "outcome": "Blocked",
+          "goalTarget": "High Centre",
+          "playerName": "Jesurun Rak-Sakyi"
+        },
+        {
+          "time": "37'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Adrian Benedyczak"
+        },
+        {
+          "time": "52'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Ali Yavuz Kol"
+        },
+        {
+          "time": "57'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Adrian Benedyczak"
+        },
+        {
+          "time": "60'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Claudio Winck"
+        },
+        {
+          "time": "65'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Elson Mendes"
+        },
+        {
+          "time": "66'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Ayberk Karapo"
+        },
+        {
+          "time": "66'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Guven Yalcin"
+        },
+        {
+          "time": "75'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Adrian Benedyczak"
+        },
+        {
+          "time": "78'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Elson Mendes"
+        },
+        {
+          "time": "87'",
+          "outcome": "Goal",
+          "goalTarget": "High Left",
+          "playerName": "Marcus Rafferty"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

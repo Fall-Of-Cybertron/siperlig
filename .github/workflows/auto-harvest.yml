@@ -1,0 +1,60 @@
+name: SiperLig Otomatik Veri Guncelleme
+
+on:
+  schedule:
+    # Her gün 04:00 UTC (07:00 TSİ) saatinde günde 1 kez çalışır (API kotası 24 saatte bir yenilenir)
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+    inputs:
+      batch_budget:
+        description: 'Bu çalışmada atılacak maksimum API isteği'
+        required: false
+        default: '240'
+
+permissions:
+  contents: write
+
+jobs:
+  harvest-and-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Depoyu İndir
+        uses: actions/checkout@v4
+
+      - name: Python Kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Node.js Kur
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: web/package-lock.json
+
+      - name: Verileri Kademeli Çek ve Gold JSON Güncelle
+        env:
+          HIGHLIGHTLY_BASE_URL: https://sports.highlightly.net/football
+          HIGHLIGHTLY_AUTH_MODE: x-rapidapi-key
+          HIGHLIGHTLY_API_KEY_1: ${{ secrets.HIGHLIGHTLY_API_KEY_1 }}
+          HIGHLIGHTLY_API_KEY_2: ${{ secrets.HIGHLIGHTLY_API_KEY_2 }}
+          HIGHLIGHTLY_API_KEY_3: ${{ secrets.HIGHLIGHTLY_API_KEY_3 }}
+          HIGHLIGHTLY_API_KEYS: ${{ secrets.HIGHLIGHTLY_API_KEYS }}
+        run: |
+          BUDGET="${{ github.event.inputs.batch_budget || '240' }}"
+          python backend/auto_harvester.py --batch-budget "$BUDGET" --refresh-feeds
+
+      - name: Statik Site Derleme Testi (output export)
+        working-directory: web
+        run: |
+          npm ci
+          npm run build
+
+      - name: Güncel Gold JSON & Bronze Verilerini Kaydet
+        run: |
+          git config user.name "siperlig-bot"
+          git config user.email "bot@siperlig.local"
+          git add web/src/data/*.json backend/data/bronze/
+          git diff --staged --quiet || git commit -m "chore(data): otomatik Highlightly Süper Lig veri güncellemesi"
+          git push

@@ -1,0 +1,1031 @@
+[
+  {
+    "venue": {
+      "city": "Istanbul",
+      "name": "Rams Park",
+      "country": "Turkiye",
+      "capacity": "52650"
+    },
+    "referee": {
+      "name": "Meler, Halil Umut",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "partly cloudy night",
+      "temperature": "8.9°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "7",
+        "type": "Goal",
+        "assist": "L. Torreira",
+        "player": "R. Leao",
+        "playerId": 3580150,
+        "substituted": null,
+        "assistingPlayerId": 235536
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "45",
+        "type": "Own Goal",
+        "assist": null,
+        "player": "A. Lafont",
+        "playerId": 4893427,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "46",
+        "type": "Substitution",
+        "assist": null,
+        "player": "G. Gul",
+        "playerId": 4109196,
+        "substituted": "A. T. Bulbul",
+        "assistingPlayerId": 54732265
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "46",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Diagne",
+        "playerId": 73892,
+        "substituted": "Y. Sor",
+        "assistingPlayerId": 32756892
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "50",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Rayan Raveloson",
+        "playerId": 3314500,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "50",
+        "type": "Substitution",
+        "assist": null,
+        "player": "R. Leao",
+        "playerId": 3580150,
+        "substituted": "D. Gul",
+        "assistingPlayerId": 62559924
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "59",
+        "type": "Goal",
+        "assist": "R. Sallai",
+        "player": "A. Batrakov",
+        "playerId": 64572907,
+        "substituted": null,
+        "assistingPlayerId": 4226726
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "61",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Gift Orban",
+        "playerId": 59290014,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "62",
+        "type": "Goal",
+        "assist": null,
+        "player": "D. Saba",
+        "playerId": 2083333,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "63",
+        "type": "Substitution",
+        "assist": null,
+        "player": "L. Dellova",
+        "playerId": 2349144,
+        "substituted": "M. Yesil",
+        "assistingPlayerId": 16311386
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "65",
+        "type": "Goal",
+        "assist": "F. Soyalp",
+        "player": "G. Orban",
+        "playerId": 59290014,
+        "substituted": null,
+        "assistingPlayerId": 8088633
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "69",
+        "type": "Substitution",
+        "assist": null,
+        "player": "L. Torreira",
+        "playerId": 235536,
+        "substituted": "Gabriel Sara",
+        "assistingPlayerId": 12969026
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "69",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Y. Akgun",
+        "playerId": 73248,
+        "substituted": "L. Sane",
+        "assistingPlayerId": 103838
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "74",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "David Robert Bates",
+        "playerId": 4003419,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "77",
+        "type": "Substitution",
+        "assist": null,
+        "player": "F. Soyalp",
+        "playerId": 8088633,
+        "substituted": "R. Lutin",
+        "assistingPlayerId": 57853089
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "80",
+        "type": "Goal",
+        "assist": "Gabriel Sara",
+        "player": "B. Yilmaz",
+        "playerId": 10187268,
+        "substituted": null,
+        "assistingPlayerId": 12969026
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "83",
+        "type": "Substitution",
+        "assist": null,
+        "player": "E. Elmali",
+        "playerId": 8059331,
+        "substituted": "W. Singo",
+        "assistingPlayerId": 4911298
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "84",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Batrakov",
+        "playerId": 64572907,
+        "substituted": "R. Nhaga",
+        "assistingPlayerId": 83489441
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "90+2",
+        "type": "Substitution",
+        "assist": null,
+        "player": "R. Raveloson",
+        "playerId": 3314500,
+        "substituted": "C. Ustundag",
+        "assistingPlayerId": 43705214
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "90",
+        "type": "Goal",
+        "assist": null,
+        "player": "Y. Sor",
+        "playerId": 32756892,
+        "substituted": null,
+        "assistingPlayerId": null
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Amed.",
+          "generatedAt": "2026-11-07T16:18:18.382Z",
+          "probabilities": {
+            "away": "6.72%",
+            "draw": "13.24%",
+            "home": "80.04%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Amed.",
+          "generatedAt": "2026-11-07T16:36:54.012Z",
+          "probabilities": {
+            "away": "6.63%",
+            "draw": "14.45%",
+            "home": "78.92%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Amed.",
+          "generatedAt": "2026-11-07T16:57:15.923Z",
+          "probabilities": {
+            "away": "2.38%",
+            "draw": "7.00%",
+            "home": "90.62%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Amed.",
+          "generatedAt": "2026-11-07T17:14:13.739Z",
+          "probabilities": {
+            "away": "1.86%",
+            "draw": "6.43%",
+            "home": "91.70%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Amed.",
+          "generatedAt": "2026-11-07T17:33:33.820Z",
+          "probabilities": {
+            "away": "3.79%",
+            "draw": "16.31%",
+            "home": "79.89%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Amed.",
+          "generatedAt": "2026-11-07T17:54:13.521Z",
+          "probabilities": {
+            "away": "0.51%",
+            "draw": "5.17%",
+            "home": "94.32%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Amed.",
+          "generatedAt": "2026-10-31T12:12:44.959Z",
+          "probabilities": {
+            "away": "16.91%",
+            "draw": "21.89%",
+            "home": "61.20%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Amed.",
+          "generatedAt": "2026-11-01T11:26:32.115Z",
+          "probabilities": {
+            "away": "14.81%",
+            "draw": "19.02%",
+            "home": "66.17%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Amed.",
+          "generatedAt": "2026-11-02T10:13:03.992Z",
+          "probabilities": {
+            "away": "14.96%",
+            "draw": "19.06%",
+            "home": "65.98%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Amed.",
+          "generatedAt": "2026-11-03T10:06:40.706Z",
+          "probabilities": {
+            "away": "14.89%",
+            "draw": "19.07%",
+            "home": "66.04%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Amed.",
+          "generatedAt": "2026-11-04T10:05:09.863Z",
+          "probabilities": {
+            "away": "14.97%",
+            "draw": "19.11%",
+            "home": "65.92%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Amed.",
+          "generatedAt": "2026-11-05T09:51:49.712Z",
+          "probabilities": {
+            "away": "14.76%",
+            "draw": "19.05%",
+            "home": "66.20%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Amed.",
+          "generatedAt": "2026-11-06T09:25:37.187Z",
+          "probabilities": {
+            "away": "14.63%",
+            "draw": "18.95%",
+            "home": "66.41%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Amed.",
+          "generatedAt": "2026-11-07T15:39:04.535Z",
+          "probabilities": {
+            "away": "15.09%",
+            "draw": "19.23%",
+            "home": "65.68%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "statistics": [
+          {
+            "value": 1.47,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 4,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 88,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 11,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 1.46,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 2,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 13,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 216,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 284,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 27,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 55,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 12,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 15,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 108,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 91,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 4,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 16,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 9,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 15,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 30,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 9,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 16,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 12,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.35,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 86,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.56,
+            "displayName": "Possession"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 3,
+            "displayName": "Corners"
+          },
+          {
+            "value": 3,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 401,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 5,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 9,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 487,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 2,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 8,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 0,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 8,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "statistics": [
+          {
+            "value": 1.25,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 1,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 75,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 8,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 1.31,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 19,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 217,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 174,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 19,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 51,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 17,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 9,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 60,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 61,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 5,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 17,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 6,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 9,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 15,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 7,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 16,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 14,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 23,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.36,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 76,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.44,
+            "displayName": "Possession"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 6,
+            "displayName": "Corners"
+          },
+          {
+            "value": 8,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 296,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 6,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 10,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 372,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 3,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 11,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 3,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348377095,
+    "round": "Regular Season - 11",
+    "date": "2026-11-07T16:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "4 - 3",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 3046513,
+      "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+      "name": "Amed",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "18'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Dia Saba"
+        },
+        {
+          "time": "19'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Mbaye Diagne"
+        },
+        {
+          "time": "21'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Rayan Raveloson"
+        },
+        {
+          "time": "22'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "David Bates"
+        },
+        {
+          "time": "22'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Rayan Raveloson"
+        },
+        {
+          "time": "37'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Ermal Krasniqi"
+        },
+        {
+          "time": "42'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Dia Saba"
+        },
+        {
+          "time": "45'",
+          "outcome": "Goal",
+          "goalTarget": "High Right",
+          "playerName": "Alban Lafont"
+        },
+        {
+          "time": "52'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Yira Sor"
+        },
+        {
+          "time": "52'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Ermal Krasniqi"
+        },
+        {
+          "time": "53'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Dia Saba"
+        },
+        {
+          "time": "62'",
+          "outcome": "Goal",
+          "goalTarget": "High Right",
+          "playerName": "Dia Saba"
+        },
+        {
+          "time": "65'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Gift Orban"
+        },
+        {
+          "time": "90 + 2'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Rayan Lutin"
+        },
+        {
+          "time": "90 + 2'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Yira Sor"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 549679,
+      "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+      "name": "Galatasaray",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "6'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Aleksey Batrakov"
+        },
+        {
+          "time": "6'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Rafael Leão"
+        },
+        {
+          "time": "7'",
+          "outcome": "Goal",
+          "goalTarget": "Low Centre",
+          "playerName": "Rafael Leão"
+        },
+        {
+          "time": "14'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Baris Yilmaz"
+        },
+        {
+          "time": "14'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Ismail Jakobs"
+        },
+        {
+          "time": "23'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Rafael Leão"
+        },
+        {
+          "time": "23'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Lucas Torreira"
+        },
+        {
+          "time": "24'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Lucas Torreira"
+        },
+        {
+          "time": "36'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Rafael Leão"
+        },
+        {
+          "time": "50'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Mario Lemina"
+        },
+        {
+          "time": "54'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Roland Sallai"
+        },
+        {
+          "time": "56'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Baris Yilmaz"
+        },
+        {
+          "time": "59'",
+          "outcome": "Goal",
+          "goalTarget": "Low Centre",
+          "playerName": "Aleksey Batrakov"
+        },
+        {
+          "time": "76'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Deniz Gul"
+        },
+        {
+          "time": "80'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Baris Yilmaz"
+        },
+        {
+          "time": "82'",
+          "outcome": "Post",
+          "goalTarget": null,
+          "playerName": "Gabriel Sara"
+        },
+        {
+          "time": "85'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Deniz Gul"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

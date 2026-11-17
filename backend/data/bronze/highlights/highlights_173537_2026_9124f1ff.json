@@ -1,0 +1,1533 @@
+{
+  "data": [
+    {
+      "id": 704813,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/T0AtvchlTfg/hqdefault.jpg",
+      "title": "A Classy Goal from Mason Greenwood | Çorum FK vs. Fenerbahçe | Trendyol Süper Lig",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=T0AtvchlTfg",
+      "embedUrl": "https://www.youtube.com/embed/T0AtvchlTfg",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "goal-clip",
+      "match": {
+        "id": 1348375393,
+        "round": "Regular Season - 11",
+        "date": "2026-11-08T13:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "homeTeam": {
+          "id": 5398677,
+          "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+          "name": "Yeni Çorumspor"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 704806,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/zGjfpm9l4IQ/hqdefault.jpg",
+      "title": "Exquisite Goal by Ali Sowe | Çaykur Rizespor - Erzurumspor FK | Trendyol Süper Lig",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=zGjfpm9l4IQ",
+      "embedUrl": "https://www.youtube.com/embed/zGjfpm9l4IQ",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "goal-clip",
+      "match": {
+        "id": 1348379648,
+        "round": "Regular Season - 11",
+        "date": "2026-11-08T10:30:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 859443,
+          "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+          "name": "Erzurum BB"
+        },
+        "homeTeam": {
+          "id": 857741,
+          "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+          "name": "Rizespor"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 702243,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/EWaqy239c58/hqdefault.jpg",
+      "title": "Süper Lig: Besiktas vs Genclerbirligi",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=EWaqy239c58",
+      "embedUrl": "https://www.youtube.com/embed/EWaqy239c58",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "match-highlights",
+      "match": {
+        "id": 1348374542,
+        "round": "Regular Season - 11",
+        "date": "2026-11-08T18:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "homeTeam": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 701665,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/A64MM_6Vxek/hqdefault.jpg",
+      "title": "Süper Lig: Alanyaspor vs Trabzonspor",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=A64MM_6Vxek",
+      "embedUrl": "https://www.youtube.com/embed/A64MM_6Vxek",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "match-highlights",
+      "match": {
+        "id": 1348373691,
+        "round": "Regular Season - 11",
+        "date": "2026-11-08T15:30:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "homeTeam": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 701664,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/Jjgdm7emJrk/hqdefault.jpg",
+      "title": "Süper Lig: Yeni Çorumspor vs Fenerbahce",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=Jjgdm7emJrk",
+      "embedUrl": "https://www.youtube.com/embed/Jjgdm7emJrk",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "match-highlights",
+      "match": {
+        "id": 1348375393,
+        "round": "Regular Season - 11",
+        "date": "2026-11-08T13:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "homeTeam": {
+          "id": 5398677,
+          "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+          "name": "Yeni Çorumspor"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 701663,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/4OO30lpjCuE/hqdefault.jpg",
+      "title": "Süper Lig: Rizespor vs Erzurum BB",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=4OO30lpjCuE",
+      "embedUrl": "https://www.youtube.com/embed/4OO30lpjCuE",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "match-highlights",
+      "match": {
+        "id": 1348379648,
+        "round": "Regular Season - 11",
+        "date": "2026-11-08T10:30:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 859443,
+          "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+          "name": "Erzurum BB"
+        },
+        "homeTeam": {
+          "id": 857741,
+          "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+          "name": "Rizespor"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 701662,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/Txo9huLq6yE/hqdefault.jpg",
+      "title": "Süper Lig: Goztepe vs İstanbul Başakşehir",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=Txo9huLq6yE",
+      "embedUrl": "https://www.youtube.com/embed/Txo9huLq6yE",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "match-highlights",
+      "match": {
+        "id": 1348378797,
+        "round": "Regular Season - 11",
+        "date": "2026-11-07T16:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "homeTeam": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 701437,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/3o0zRUFFogM/hqdefault.jpg",
+      "title": "Süper Lig: Galatasaray vs Amed",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=3o0zRUFFogM",
+      "embedUrl": "https://www.youtube.com/embed/3o0zRUFFogM",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "match-highlights",
+      "match": {
+        "id": 1348377095,
+        "round": "Regular Season - 11",
+        "date": "2026-11-07T16:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "homeTeam": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 701211,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/QAwN9iMHlz8/hqdefault.jpg",
+      "title": "Süper Lig: Samsunspor vs Konyaspor",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=QAwN9iMHlz8",
+      "embedUrl": "https://www.youtube.com/embed/QAwN9iMHlz8",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "match-highlights",
+      "match": {
+        "id": 1348380499,
+        "round": "Regular Season - 11",
+        "date": "2026-11-07T13:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "homeTeam": {
+          "id": 3066937,
+          "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+          "name": "Samsunspor"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 701210,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/jVGdLIiWpcQ/hqdefault.jpg",
+      "title": "Süper Lig: Eyüpspor vs Kocaelispor FK",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=jVGdLIiWpcQ",
+      "embedUrl": "https://www.youtube.com/embed/jVGdLIiWpcQ",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "match-highlights",
+      "match": {
+        "id": 1348376244,
+        "round": "Regular Season - 11",
+        "date": "2026-11-07T10:30:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "homeTeam": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 699992,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/AA12J0IyRuQ/hqdefault.jpg",
+      "title": "Süper Lig: Gazişehir Gaziantep vs Kasımpaşa",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=AA12J0IyRuQ",
+      "embedUrl": "https://www.youtube.com/embed/AA12J0IyRuQ",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "match-highlights",
+      "match": {
+        "id": 1348377946,
+        "round": "Regular Season - 11",
+        "date": "2026-11-06T17:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "homeTeam": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 694414,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/p-wExi7TE00/hqdefault.jpg",
+      "title": "Süper Lig: Genclerbirligi vs Alanyaspor",
+      "description": null,
+      "url": "https://youtu.be/p-wExi7TE00?si=zN1fvasCxgQzbnkN",
+      "embedUrl": "https://www.youtube.com/embed/p-wExi7TE00",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "match-highlights",
+      "match": {
+        "id": 1348369436,
+        "round": "Regular Season - 10",
+        "date": "2026-11-02T17:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "homeTeam": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 692779,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/L9FZyM2bvhY/hqdefault.jpg",
+      "title": "Kasımpaşa - Beşiktaş - Highlights | Trendyol Süper Lig - 2026/27",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=L9FZyM2bvhY",
+      "embedUrl": "https://www.youtube.com/embed/L9FZyM2bvhY",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "match-highlights",
+      "match": {
+        "id": 1348370287,
+        "round": "Regular Season - 10",
+        "date": "2026-11-01T16:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "homeTeam": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 692738,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/Tw6spVVaqpw/hqdefault.jpg",
+      "title": "Trabzonspor - Gaziantep FK - Highlights | Trendyol Süper Lig - 2026/27",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=Tw6spVVaqpw",
+      "embedUrl": "https://www.youtube.com/embed/Tw6spVVaqpw",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "match-highlights",
+      "match": {
+        "id": 1348372840,
+        "round": "Regular Season - 10",
+        "date": "2026-11-01T13:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "homeTeam": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 690711,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/L9FZyM2bvhY/hqdefault.jpg",
+      "title": "Süper Lig: Kasımpaşa vs Besiktas",
+      "description": null,
+      "url": "https://youtu.be/L9FZyM2bvhY?si=SHpiD8_E4kHwq4I8",
+      "embedUrl": "https://www.youtube.com/embed/L9FZyM2bvhY",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "match-highlights",
+      "match": {
+        "id": 1348370287,
+        "round": "Regular Season - 10",
+        "date": "2026-11-01T16:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "homeTeam": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 690263,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/lmAgjnb_JQY/hqdefault.jpg",
+      "title": "Süper Lig: İstanbul Başakşehir vs Samsunspor",
+      "description": null,
+      "url": "https://youtu.be/lmAgjnb_JQY?si=LNghHF5-Nh3HanEs",
+      "embedUrl": "https://www.youtube.com/embed/lmAgjnb_JQY",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "match-highlights",
+      "match": {
+        "id": 1348366883,
+        "round": "Regular Season - 10",
+        "date": "2026-11-01T13:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 3066937,
+          "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+          "name": "Samsunspor"
+        },
+        "homeTeam": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 689990,
+      "type": "UNVERIFIED",
+      "imgUrl": null,
+      "title": "Süper Lig: Kasımpaşa vs Besiktas",
+      "description": "Marcus Rafferty 87",
+      "url": "https://streama.in/Ou4NO4k2OMWzJdT/watch",
+      "embedUrl": null,
+      "channel": null,
+      "source": "other",
+      "category": "goal-clip",
+      "match": {
+        "id": 1348370287,
+        "round": "Regular Season - 10",
+        "date": "2026-11-01T16:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "homeTeam": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 689982,
+      "type": "UNVERIFIED",
+      "imgUrl": null,
+      "title": "Süper Lig: Kasımpaşa vs Besiktas",
+      "description": "Claudio Winck 60",
+      "url": "https://streama.in/W4n6gT0y3P7GtQ3/watch",
+      "embedUrl": null,
+      "channel": null,
+      "source": "other",
+      "category": "goal-clip",
+      "match": {
+        "id": 1348370287,
+        "round": "Regular Season - 10",
+        "date": "2026-11-01T16:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "homeTeam": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 689979,
+      "type": "UNVERIFIED",
+      "imgUrl": null,
+      "title": "Süper Lig: Kasımpaşa vs Besiktas",
+      "description": "Dusan Vlahovic 47",
+      "url": "https://streama.in/D0XPeXECSEisAvW/watch",
+      "embedUrl": null,
+      "channel": null,
+      "source": "other",
+      "category": "goal-clip",
+      "match": {
+        "id": 1348370287,
+        "round": "Regular Season - 10",
+        "date": "2026-11-01T16:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "homeTeam": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 689967,
+      "type": "UNVERIFIED",
+      "imgUrl": null,
+      "title": "Süper Lig: Kasımpaşa vs Besiktas",
+      "description": "Leandro Trossard 28",
+      "url": "https://streama.in/3oxI1pX57W6EQhO/watch",
+      "embedUrl": null,
+      "channel": null,
+      "source": "other",
+      "category": "goal-clip",
+      "match": {
+        "id": 1348370287,
+        "round": "Regular Season - 10",
+        "date": "2026-11-01T16:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "homeTeam": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 689838,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/Tw6spVVaqpw/hqdefault.jpg",
+      "title": "Süper Lig: Trabzonspor vs Gazişehir Gaziantep",
+      "description": null,
+      "url": "https://youtu.be/Tw6spVVaqpw?si=mPNPyj3EIR5kSNea",
+      "embedUrl": "https://www.youtube.com/embed/Tw6spVVaqpw",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "match-highlights",
+      "match": {
+        "id": 1348372840,
+        "round": "Regular Season - 10",
+        "date": "2026-11-01T13:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "homeTeam": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 689837,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/dAUORpJxUyQ/hqdefault.jpg",
+      "title": "Süper Lig: Amed vs Eyüpspor",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=dAUORpJxUyQ",
+      "embedUrl": "https://www.youtube.com/embed/dAUORpJxUyQ",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "match-highlights",
+      "match": {
+        "id": 1348366032,
+        "round": "Regular Season - 10",
+        "date": "2026-11-01T10:30:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "homeTeam": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 688875,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/Ofv0_xz_kyE/hqdefault.jpg",
+      "title": "Süper Lig: Fenerbahce vs Goztepe",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=Ofv0_xz_kyE",
+      "embedUrl": "https://www.youtube.com/embed/Ofv0_xz_kyE",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "match-highlights",
+      "match": {
+        "id": 1348368585,
+        "round": "Regular Season - 10",
+        "date": "2026-10-31T16:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "homeTeam": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 688874,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/zvmt1aWpO5Y/hqdefault.jpg",
+      "title": "Süper Lig: Kocaelispor FK vs Rizespor",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=zvmt1aWpO5Y",
+      "embedUrl": "https://www.youtube.com/embed/zvmt1aWpO5Y",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "match-highlights",
+      "match": {
+        "id": 1348371138,
+        "round": "Regular Season - 10",
+        "date": "2026-10-31T13:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 857741,
+          "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+          "name": "Rizespor"
+        },
+        "homeTeam": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 683065,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/b_DXbr53Xks/hqdefault.jpg",
+      "title": "Süper Lig: Galatasaray vs Fenerbahce",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=b_DXbr53Xks",
+      "embedUrl": "https://www.youtube.com/embed/b_DXbr53Xks",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "match-highlights",
+      "match": {
+        "id": 1348360926,
+        "round": "Regular Season - 9",
+        "date": "2026-10-26T18:30:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "homeTeam": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 682774,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/ZZA73hmlRFk/hqdefault.jpg",
+      "title": "Süper Lig: Rizespor vs Trabzonspor",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=ZZA73hmlRFk",
+      "embedUrl": "https://www.youtube.com/embed/ZZA73hmlRFk",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "match-highlights",
+      "match": {
+        "id": 1348364330,
+        "round": "Regular Season - 9",
+        "date": "2026-10-26T16:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "homeTeam": {
+          "id": 857741,
+          "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+          "name": "Rizespor"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 682773,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/a6qWdX65GPo/hqdefault.jpg",
+      "title": "Süper Lig: Besiktas vs İstanbul Başakşehir",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=a6qWdX65GPo",
+      "embedUrl": "https://www.youtube.com/embed/a6qWdX65GPo",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "match-highlights",
+      "match": {
+        "id": 1348359224,
+        "round": "Regular Season - 9",
+        "date": "2026-10-26T16:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "homeTeam": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 679131,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/AfObf743SCU/hqdefault.jpg",
+      "title": "Süper Lig: Goztepe vs Yeni Çorumspor",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=AfObf743SCU",
+      "embedUrl": "https://www.youtube.com/embed/AfObf743SCU",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "match-highlights",
+      "match": {
+        "id": 1348362628,
+        "round": "Regular Season - 9",
+        "date": "2026-10-25T16:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 5398677,
+          "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+          "name": "Yeni Çorumspor"
+        },
+        "homeTeam": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 678190,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/JuCHImk2pxI/hqdefault.jpg",
+      "title": "Süper Lig: Konyaspor vs Genclerbirligi",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=JuCHImk2pxI",
+      "embedUrl": "https://www.youtube.com/embed/JuCHImk2pxI",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "match-highlights",
+      "match": {
+        "id": 1348363479,
+        "round": "Regular Season - 9",
+        "date": "2026-10-25T13:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "homeTeam": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 673901,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/tMUG_ImZQsU/hqdefault.jpg",
+      "title": "Süper Lig: Samsunspor vs Amed",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=tMUG_ImZQsU",
+      "embedUrl": "https://www.youtube.com/embed/tMUG_ImZQsU",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "match-highlights",
+      "match": {
+        "id": 1348365181,
+        "round": "Regular Season - 9",
+        "date": "2026-10-24T16:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "homeTeam": {
+          "id": 3066937,
+          "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+          "name": "Samsunspor"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 673638,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/9ojq0bT6g_s/hqdefault.jpg",
+      "title": "Süper Lig: Gazişehir Gaziantep vs Erzurum BB",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=9ojq0bT6g_s",
+      "embedUrl": "https://www.youtube.com/embed/9ojq0bT6g_s",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "match-highlights",
+      "match": {
+        "id": 1348361777,
+        "round": "Regular Season - 9",
+        "date": "2026-10-24T13:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 859443,
+          "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+          "name": "Erzurum BB"
+        },
+        "homeTeam": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 673637,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/Uww4WSSvdCs/hqdefault.jpg",
+      "title": "Süper Lig: Eyüpspor vs Kasımpaşa",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=Uww4WSSvdCs",
+      "embedUrl": "https://www.youtube.com/embed/Uww4WSSvdCs",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "match-highlights",
+      "match": {
+        "id": 1348360075,
+        "round": "Regular Season - 9",
+        "date": "2026-10-24T10:30:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "homeTeam": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 672424,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/BF-IZMxrL3c/hqdefault.jpg",
+      "title": "Süper Lig: Alanyaspor vs Kocaelispor FK",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=BF-IZMxrL3c",
+      "embedUrl": "https://www.youtube.com/embed/BF-IZMxrL3c",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "match-highlights",
+      "match": {
+        "id": 1348358373,
+        "round": "Regular Season - 9",
+        "date": "2026-10-23T17:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "homeTeam": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 672316,
+      "type": "UNVERIFIED",
+      "imgUrl": null,
+      "title": "Süper Lig: Alanyaspor vs Kocaelispor FK",
+      "description": "Ruan 52",
+      "url": "https://streama.in/tY7LYSlijJcsDFR/watch",
+      "embedUrl": null,
+      "channel": null,
+      "source": "other",
+      "category": "goal-clip",
+      "match": {
+        "id": 1348358373,
+        "round": "Regular Season - 9",
+        "date": "2026-10-23T17:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "homeTeam": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 672234,
+      "type": "UNVERIFIED",
+      "imgUrl": null,
+      "title": "Süper Lig: Alanyaspor vs Kocaelispor FK",
+      "description": "Berkan Kutlu 27",
+      "url": "https://streama.in/8gkuy42YhfD61li/watch",
+      "embedUrl": null,
+      "channel": null,
+      "source": "other",
+      "category": "goal-clip",
+      "match": {
+        "id": 1348358373,
+        "round": "Regular Season - 9",
+        "date": "2026-10-23T17:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "homeTeam": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 672233,
+      "type": "UNVERIFIED",
+      "imgUrl": null,
+      "title": "Süper Lig: Alanyaspor vs Kocaelispor FK",
+      "description": "Makana Baku 42",
+      "url": "https://streama.in/vGwhZZBzVWiJYmp/watch",
+      "embedUrl": null,
+      "channel": null,
+      "source": "other",
+      "category": "goal-clip",
+      "match": {
+        "id": 1348358373,
+        "round": "Regular Season - 9",
+        "date": "2026-10-23T17:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "homeTeam": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 666739,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/LDjQoTxpkxs/hqdefault.jpg",
+      "title": "Süper Lig: Trabzonspor vs Besiktas",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=LDjQoTxpkxs",
+      "embedUrl": "https://www.youtube.com/embed/LDjQoTxpkxs",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "match-highlights",
+      "match": {
+        "id": 1348357522,
+        "round": "Regular Season - 8",
+        "date": "2026-10-19T17:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "homeTeam": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 662762,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/4ngSK8o7P-c/hqdefault.jpg",
+      "title": "Süper Lig: İstanbul Başakşehir vs Gazişehir Gaziantep",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=4ngSK8o7P-c",
+      "embedUrl": "https://www.youtube.com/embed/4ngSK8o7P-c",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "match-highlights",
+      "match": {
+        "id": 1348351565,
+        "round": "Regular Season - 8",
+        "date": "2026-10-18T16:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "homeTeam": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 662311,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/uBttZuTWOI8/hqdefault.jpg",
+      "title": "Süper Lig: Kocaelispor FK vs Goztepe",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=uBttZuTWOI8&pp=0gcJCUkMAYcqIYzv",
+      "embedUrl": "https://www.youtube.com/embed/uBttZuTWOI8",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "match-highlights",
+      "match": {
+        "id": 1348356671,
+        "round": "Regular Season - 8",
+        "date": "2026-10-18T13:00:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "homeTeam": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    },
+    {
+      "id": 661872,
+      "type": "VERIFIED",
+      "imgUrl": "https://i.ytimg.com/vi/syz8dLcgHzo/hqdefault.jpg",
+      "title": "Süper Lig: Kasımpaşa vs Samsunspor",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=syz8dLcgHzo&pp=0gcJCUkMAYcqIYzv",
+      "embedUrl": "https://www.youtube.com/embed/syz8dLcgHzo",
+      "channel": "beIN SPORTS Türkiye",
+      "source": "youtube",
+      "category": "match-highlights",
+      "match": {
+        "id": 1348355820,
+        "round": "Regular Season - 8",
+        "date": "2026-10-18T10:30:00.000Z",
+        "country": {
+          "code": "TR",
+          "name": "Turkey",
+          "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+        },
+        "awayTeam": {
+          "id": 3066937,
+          "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+          "name": "Samsunspor"
+        },
+        "homeTeam": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "league": {
+          "id": 173537,
+          "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+          "name": "Süper Lig",
+          "season": 2026
+        }
+      }
+    }
+  ],
+  "plan": {
+    "tier": "BASIC",
+    "message": "Some results might be hidden with FREE tier. Check your API coverage for more information: https://rapidapi.com/highlightly-api-highlightly-api-default/api/sport-highlights-api/details"
+  },
+  "pagination": {
+    "totalCount": 189,
+    "offset": 0,
+    "limit": 40
+  }
+}
