@@ -1,0 +1,1043 @@
+[
+  {
+    "venue": {
+      "city": "Samsun",
+      "name": "Samsun 19 Mayis",
+      "country": "Turkiye",
+      "capacity": "33919"
+    },
+    "referee": {
+      "name": "Kol, Yasin",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "cloudy",
+      "temperature": "21.49°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "3",
+        "type": "Goal",
+        "assist": "O. Aydin",
+        "player": "V. Muriqi",
+        "playerId": 8057882,
+        "substituted": null,
+        "assistingPlayerId": 21669144
+      },
+      {
+        "team": {
+          "id": 3066937,
+          "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+          "name": "Samsunspor"
+        },
+        "time": "16",
+        "type": "Substitution",
+        "assist": null,
+        "player": "F. Kaya",
+        "playerId": 4061057,
+        "substituted": "A. Sekongo",
+        "assistingPlayerId": 70435078
+      },
+      {
+        "team": {
+          "id": 3066937,
+          "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+          "name": "Samsunspor"
+        },
+        "time": "46",
+        "type": "Substitution",
+        "assist": null,
+        "player": "T. Borevkovic",
+        "playerId": 6628846,
+        "substituted": "Y. E. Cift",
+        "assistingPlayerId": 44075836
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "49",
+        "type": "Goal",
+        "assist": "I. Kahveci",
+        "player": "O. Aydin",
+        "playerId": 21669144,
+        "substituted": null,
+        "assistingPlayerId": 8027131
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "63",
+        "type": "Substitution",
+        "assist": null,
+        "player": "V. Muriqi",
+        "playerId": 8057882,
+        "substituted": "R. Lukaku",
+        "assistingPlayerId": 146181
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "64",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Greenwood",
+        "playerId": 144571,
+        "substituted": "I. Yuksek",
+        "assistingPlayerId": 34528697
+      },
+      {
+        "team": {
+          "id": 3066937,
+          "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+          "name": "Samsunspor"
+        },
+        "time": "66",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Y. Kayan",
+        "playerId": 8079295,
+        "substituted": "A. Sousa",
+        "assistingPlayerId": 20972336
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "70",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Romelu Lukaku",
+        "playerId": 146181,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "78",
+        "type": "Substitution",
+        "assist": null,
+        "player": "I. Kahveci",
+        "playerId": 8027131,
+        "substituted": "D. Nene",
+        "assistingPlayerId": 48762063
+      },
+      {
+        "team": {
+          "id": 3066937,
+          "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+          "name": "Samsunspor"
+        },
+        "time": "86",
+        "type": "Substitution",
+        "assist": null,
+        "player": "C. Yuksel",
+        "playerId": 73087,
+        "substituted": "S. Onur",
+        "assistingPlayerId": 32681866
+      },
+      {
+        "team": {
+          "id": 3066937,
+          "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+          "name": "Samsunspor"
+        },
+        "time": "86",
+        "type": "Substitution",
+        "assist": null,
+        "player": "S. Jarju",
+        "playerId": 101699668,
+        "substituted": "T. Bulbul",
+        "assistingPlayerId": 85245790
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "86",
+        "type": "Substitution",
+        "assist": null,
+        "player": "O. Aydin",
+        "playerId": 21669144,
+        "substituted": "L. Mercan",
+        "assistingPlayerId": 20545203
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "86",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Guendouzi",
+        "playerId": 234248,
+        "substituted": "B. Elmaz",
+        "assistingPlayerId": 26082798
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-30T18:45:07.816Z",
+          "probabilities": {
+            "away": "81.61%",
+            "draw": "12.93%",
+            "home": "5.46%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-30T18:55:45.110Z",
+          "probabilities": {
+            "away": "80.73%",
+            "draw": "13.74%",
+            "home": "5.53%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-30T19:04:15.989Z",
+          "probabilities": {
+            "away": "79.98%",
+            "draw": "14.63%",
+            "home": "5.39%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-30T19:14:40.079Z",
+          "probabilities": {
+            "away": "81.20%",
+            "draw": "14.05%",
+            "home": "4.74%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-30T19:24:33.554Z",
+          "probabilities": {
+            "away": "81.01%",
+            "draw": "14.36%",
+            "home": "4.63%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-30T19:34:13.807Z",
+          "probabilities": {
+            "away": "81.03%",
+            "draw": "14.32%",
+            "home": "4.65%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-30T19:44:49.122Z",
+          "probabilities": {
+            "away": "91.76%",
+            "draw": "6.51%",
+            "home": "1.73%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-30T19:54:57.343Z",
+          "probabilities": {
+            "away": "93.01%",
+            "draw": "5.72%",
+            "home": "1.27%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-30T20:03:51.277Z",
+          "probabilities": {
+            "away": "94.06%",
+            "draw": "4.95%",
+            "home": "0.99%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-30T20:13:45.406Z",
+          "probabilities": {
+            "away": "95.11%",
+            "draw": "4.20%",
+            "home": "0.69%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-30T20:23:26.316Z",
+          "probabilities": {
+            "away": "95.36%",
+            "draw": "3.98%",
+            "home": "0.66%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-23T11:44:49.374Z",
+          "probabilities": {
+            "away": "58.47%",
+            "draw": "21.87%",
+            "home": "19.65%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-23T16:20:54.297Z",
+          "probabilities": {
+            "away": "58.47%",
+            "draw": "21.87%",
+            "home": "19.65%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-24T09:15:36.467Z",
+          "probabilities": {
+            "away": "58.12%",
+            "draw": "22.69%",
+            "home": "19.18%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-24T13:27:07.182Z",
+          "probabilities": {
+            "away": "58.25%",
+            "draw": "22.62%",
+            "home": "19.13%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-24T17:54:53.270Z",
+          "probabilities": {
+            "away": "58.28%",
+            "draw": "22.62%",
+            "home": "19.10%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-25T10:36:18.981Z",
+          "probabilities": {
+            "away": "58.13%",
+            "draw": "22.60%",
+            "home": "19.27%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-25T14:50:16.615Z",
+          "probabilities": {
+            "away": "58.30%",
+            "draw": "22.54%",
+            "home": "19.15%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-25T19:11:24.075Z",
+          "probabilities": {
+            "away": "58.29%",
+            "draw": "22.55%",
+            "home": "19.16%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-26T10:58:53.953Z",
+          "probabilities": {
+            "away": "58.30%",
+            "draw": "22.53%",
+            "home": "19.17%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-26T17:07:42.595Z",
+          "probabilities": {
+            "away": "58.30%",
+            "draw": "22.53%",
+            "home": "19.17%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-26T21:42:59.890Z",
+          "probabilities": {
+            "away": "58.29%",
+            "draw": "22.54%",
+            "home": "19.16%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-27T13:54:16.995Z",
+          "probabilities": {
+            "away": "58.38%",
+            "draw": "22.57%",
+            "home": "19.05%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-27T17:52:34.864Z",
+          "probabilities": {
+            "away": "58.32%",
+            "draw": "22.59%",
+            "home": "19.09%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-28T13:42:01.193Z",
+          "probabilities": {
+            "away": "58.38%",
+            "draw": "22.54%",
+            "home": "19.07%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-28T18:59:24.987Z",
+          "probabilities": {
+            "away": "58.49%",
+            "draw": "22.46%",
+            "home": "19.05%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-29T09:41:10.296Z",
+          "probabilities": {
+            "away": "58.44%",
+            "draw": "22.47%",
+            "home": "19.09%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-29T18:21:32.104Z",
+          "probabilities": {
+            "away": "58.65%",
+            "draw": "22.38%",
+            "home": "18.97%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-30T13:29:02.675Z",
+          "probabilities": {
+            "away": "59.77%",
+            "draw": "22.70%",
+            "home": "17.53%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-30T18:31:56.217Z",
+          "probabilities": {
+            "away": "59.74%",
+            "draw": "22.67%",
+            "home": "17.58%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 3066937,
+          "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+          "name": "Samsunspor"
+        },
+        "statistics": [
+          {
+            "value": 0.46,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 0,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 93,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 17,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.62,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 4,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 20,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 283,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 289,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 29,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 51,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 16,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 6,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 109,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 82,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 6,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 3,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 9,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 18,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 13,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 4,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 13,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 57,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.58,
+            "displayName": "Possession"
+          },
+          {
+            "value": 0,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 1,
+            "displayName": "Corners"
+          },
+          {
+            "value": 3,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 495,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 3,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 552,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 5,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 13,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 0,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "statistics": [
+          {
+            "value": 1.56,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 3,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 82,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 13,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 1.5,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 10,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 204,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 210,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 23,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 47,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 10,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 14,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 69,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 59,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 8,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 11,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 14,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 20,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 23,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 10,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 13,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 7,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 12,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.47,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 59,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.42,
+            "displayName": "Possession"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 6,
+            "displayName": "Corners"
+          },
+          {
+            "value": 2,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 345,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 2,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 13,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 404,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 18,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 1,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 2,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348319227,
+    "round": "Regular Season - 3",
+    "date": "2026-08-30T18:30:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "0 - 2",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 520745,
+      "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+      "name": "Fenerbahce",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "2'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Archie Brown"
+        },
+        {
+          "time": "3'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Vedat Muriqi"
+        },
+        {
+          "time": "5'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Oğuz Aydin"
+        },
+        {
+          "time": "5'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Vedat Muriqi"
+        },
+        {
+          "time": "33'",
+          "outcome": "Post",
+          "goalTarget": null,
+          "playerName": "Vedat Muriqi"
+        },
+        {
+          "time": "33'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Mason Greenwood"
+        },
+        {
+          "time": "35'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Mason Greenwood"
+        },
+        {
+          "time": "38'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Mason Greenwood"
+        },
+        {
+          "time": "42'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Vedat Muriqi"
+        },
+        {
+          "time": "49'",
+          "outcome": "Goal",
+          "goalTarget": "High Left",
+          "playerName": "Oğuz Aydin"
+        },
+        {
+          "time": "55'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Vedat Muriqi"
+        },
+        {
+          "time": "56'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Milan Skriniar"
+        },
+        {
+          "time": "90'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Levent Mercan"
+        },
+        {
+          "time": "90 + 2'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Romelu Lukaku"
+        },
+        {
+          "time": "90 + 2'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "İsmail Yüksek"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 3066937,
+      "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+      "name": "Samsunspor",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "17'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Celil Yüksel"
+        },
+        {
+          "time": "27'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Anto Sekongo"
+        },
+        {
+          "time": "39'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Yalcin Kayan"
+        },
+        {
+          "time": "72'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Saikuba Jarju"
+        },
+        {
+          "time": "73'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Saikuba Jarju"
+        },
+        {
+          "time": "81'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Yunus Emre Cift"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

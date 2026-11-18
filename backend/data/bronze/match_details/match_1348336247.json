@@ -1,0 +1,980 @@
+[
+  {
+    "venue": {
+      "city": "Istanbul",
+      "name": "Basaksehir Fatih Terim Stadium",
+      "country": "Turkiye",
+      "capacity": "17156"
+    },
+    "referee": {
+      "name": "Karaoglan, Atilla",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "clear night",
+      "temperature": "20.45°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "9",
+        "type": "Goal",
+        "assist": "I. Brnic",
+        "player": "A. Skov Olsen",
+        "playerId": 2562630,
+        "substituted": null,
+        "assistingPlayerId": 2351076
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "24",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Traore",
+        "playerId": 539021,
+        "substituted": "R. Luis",
+        "assistingPlayerId": 55612130
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "26",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Abdurrahim Dursun",
+        "playerId": 16327647,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "27",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Umut Güneş",
+        "playerId": 20764002,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "33",
+        "type": "Goal",
+        "assist": "I. Brnic",
+        "player": "E. Shomurodov",
+        "playerId": 8619289,
+        "substituted": null,
+        "assistingPlayerId": 2351076
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "46",
+        "type": "Substitution",
+        "assist": null,
+        "player": "P. Mendes",
+        "playerId": 23788870,
+        "substituted": "S. Koita",
+        "assistingPlayerId": 1219085
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "53",
+        "type": "Penalty",
+        "assist": null,
+        "player": "D. Selke",
+        "playerId": 4083436,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "57",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Olivier Kemen",
+        "playerId": 13718159,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "62",
+        "type": "Substitution",
+        "assist": null,
+        "player": "U. Gunes",
+        "playerId": 20764002,
+        "substituted": "J. Kaluzinski",
+        "assistingPlayerId": 31843378
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "62",
+        "type": "Substitution",
+        "assist": null,
+        "player": "O. Kemen",
+        "playerId": 13718159,
+        "substituted": "O. Ergun",
+        "assistingPlayerId": 10000508
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "63",
+        "type": "Substitution",
+        "assist": null,
+        "player": "O. Diabate",
+        "playerId": 101737986,
+        "substituted": "S. Ucan",
+        "assistingPlayerId": 5000492
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "65",
+        "type": "Goal",
+        "assist": "A. Skov Olsen",
+        "player": "E. Shomurodov",
+        "playerId": 8619289,
+        "substituted": null,
+        "assistingPlayerId": 2562630
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "69",
+        "type": "Substitution",
+        "assist": null,
+        "player": "D. Selke",
+        "playerId": 4083436,
+        "substituted": "B. Yildirim",
+        "assistingPlayerId": 11025917
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "77",
+        "type": "Substitution",
+        "assist": null,
+        "player": "E. Shomurodov",
+        "playerId": 8619289,
+        "substituted": "B. Ozcan",
+        "assistingPlayerId": 4006639
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "77",
+        "type": "Substitution",
+        "assist": null,
+        "player": "I. Brnic",
+        "playerId": 2351076,
+        "substituted": "A. Fayzullaev",
+        "assistingPlayerId": 42451990
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "82",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Dursun",
+        "playerId": 16327647,
+        "substituted": "M. Baltaci",
+        "assistingPlayerId": 26082154
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "82",
+        "type": "Substitution",
+        "assist": null,
+        "player": "T. Gouveia",
+        "playerId": 25448619,
+        "substituted": "P. Martor",
+        "assistingPlayerId": 100019633
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-09-19T17:17:23.356Z",
+          "probabilities": {
+            "away": "10.15%",
+            "draw": "17.92%",
+            "home": "71.93%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-09-19T17:27:26.175Z",
+          "probabilities": {
+            "away": "9.72%",
+            "draw": "18.48%",
+            "home": "71.79%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-09-19T17:36:42.465Z",
+          "probabilities": {
+            "away": "3.61%",
+            "draw": "9.02%",
+            "home": "87.37%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-09-19T17:47:23.646Z",
+          "probabilities": {
+            "away": "2.87%",
+            "draw": "8.40%",
+            "home": "88.73%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-09-19T17:57:09.521Z",
+          "probabilities": {
+            "away": "2.87%",
+            "draw": "8.27%",
+            "home": "88.87%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-09-19T18:04:59.254Z",
+          "probabilities": {
+            "away": "2.77%",
+            "draw": "8.18%",
+            "home": "89.05%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-09-19T18:16:03.158Z",
+          "probabilities": {
+            "away": "1.32%",
+            "draw": "4.92%",
+            "home": "93.76%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-09-19T18:26:10.659Z",
+          "probabilities": {
+            "away": "1.25%",
+            "draw": "4.68%",
+            "home": "94.08%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-09-19T18:35:33.270Z",
+          "probabilities": {
+            "away": "1.25%",
+            "draw": "4.68%",
+            "home": "94.08%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-09-19T18:46:15.723Z",
+          "probabilities": {
+            "away": "1.29%",
+            "draw": "4.89%",
+            "home": "93.82%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-09-17T18:58:38.098Z",
+          "probabilities": {
+            "away": "16.61%",
+            "draw": "21.83%",
+            "home": "61.56%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-09-17T19:55:52.406Z",
+          "probabilities": {
+            "away": "16.62%",
+            "draw": "21.78%",
+            "home": "61.60%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-09-18T09:36:30.119Z",
+          "probabilities": {
+            "away": "16.58%",
+            "draw": "21.73%",
+            "home": "61.68%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-09-18T15:18:28.586Z",
+          "probabilities": {
+            "away": "16.60%",
+            "draw": "22.01%",
+            "home": "61.39%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-09-18T21:08:44.178Z",
+          "probabilities": {
+            "away": "17.36%",
+            "draw": "22.09%",
+            "home": "60.55%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-09-19T10:54:15.225Z",
+          "probabilities": {
+            "away": "19.01%",
+            "draw": "22.48%",
+            "home": "58.52%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-09-19T17:02:23.869Z",
+          "probabilities": {
+            "away": "21.56%",
+            "draw": "23.89%",
+            "home": "54.55%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "statistics": [
+          {
+            "value": 2.74,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 4,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 84,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 9,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 1.14,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 1,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 16,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 263,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 239,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 32,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 58,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 18,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 11,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 84,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 80,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 4,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 6,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 1,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 2,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 20,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 10,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 18,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 1,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 5,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.61,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 58,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.54,
+            "displayName": "Possession"
+          },
+          {
+            "value": 11,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 3,
+            "displayName": "Corners"
+          },
+          {
+            "value": 2,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 428,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 4,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 12,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 486,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 11,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 2,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "statistics": [
+          {
+            "value": 0.52,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 0,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 49,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 10,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.25,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 1,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 14,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 258,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 173,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 28,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 57,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 15,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 5,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 40,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 69,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 7,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 7,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 6,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 8,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 17,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 18,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 11,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 12,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 67,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.46,
+            "displayName": "Possession"
+          },
+          {
+            "value": 0,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 7,
+            "displayName": "Corners"
+          },
+          {
+            "value": 3,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 350,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 4,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 417,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 7,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 9,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 1,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348336247,
+    "round": "Regular Season - 6",
+    "date": "2026-09-19T17:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "4 - 0",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 849231,
+      "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+      "name": "Genclerbirligi",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "17'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Adama Traore"
+        },
+        {
+          "time": "18'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Ousmane Diabate"
+        },
+        {
+          "time": "26'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Abdurrahim Dursun"
+        },
+        {
+          "time": "45 + 1'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Ogulcan Ülgün"
+        },
+        {
+          "time": "57'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Ogulcan Ülgün"
+        },
+        {
+          "time": "72'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Tiago Gouveia"
+        },
+        {
+          "time": "90'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Prince Martor"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 480748,
+      "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+      "name": "İstanbul Başakşehir",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "6'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Andreas Skov Olsen"
+        },
+        {
+          "time": "6'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Andreas Skov Olsen"
+        },
+        {
+          "time": "9'",
+          "outcome": "Goal",
+          "goalTarget": "Low Centre",
+          "playerName": "Andreas Skov Olsen"
+        },
+        {
+          "time": "21'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Ivan Brnic"
+        },
+        {
+          "time": "22'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Davie Selke"
+        },
+        {
+          "time": "22'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Michal Karbownik"
+        },
+        {
+          "time": "30'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Ivan Brnic"
+        },
+        {
+          "time": "33'",
+          "outcome": "Goal",
+          "goalTarget": "Low Centre",
+          "playerName": "Eldor Shomurodov"
+        },
+        {
+          "time": "53'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Davie Selke"
+        },
+        {
+          "time": "54'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Ivan Brnic"
+        },
+        {
+          "time": "60'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Ivan Brnic"
+        },
+        {
+          "time": "62'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Ivan Brnic"
+        },
+        {
+          "time": "62'",
+          "outcome": "Missed",
+          "goalTarget": "Close High",
+          "playerName": "Olivier Kemen"
+        },
+        {
+          "time": "65'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Eldor Shomurodov"
+        },
+        {
+          "time": "75'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right And High",
+          "playerName": "Ivan Brnic"
+        },
+        {
+          "time": "81'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Andreas Skov Olsen"
+        },
+        {
+          "time": "82'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Abbosbek Fayzullaev"
+        },
+        {
+          "time": "90 + 1'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Andreas Skov Olsen"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

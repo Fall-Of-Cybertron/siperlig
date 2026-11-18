@@ -1,0 +1,18 @@
+{
+  "homeTeam": {
+    "formation": "Unknown",
+    "substitutes": [],
+    "initialLineup": [],
+    "id": 467983,
+    "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+    "name": "Besiktas"
+  },
+  "awayTeam": {
+    "formation": "Unknown",
+    "substitutes": [],
+    "initialLineup": [],
+    "id": 859443,
+    "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+    "name": "Erzurum BB"
+  }
+}

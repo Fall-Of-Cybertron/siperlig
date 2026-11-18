@@ -1,0 +1,1099 @@
+[
+  {
+    "venue": {
+      "city": "Izmir",
+      "name": "Gursel Aksel Stadium",
+      "country": "Turkiye",
+      "capacity": "19713"
+    },
+    "referee": {
+      "name": "Turkmen, Mehmet",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "cloudy",
+      "temperature": "19.52°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "3",
+        "type": "Goal",
+        "assist": null,
+        "player": "A. Antunes",
+        "playerId": 7825881,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "23",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Rhaldney",
+        "playerId": 8806693,
+        "substituted": "F. Anjorin",
+        "assistingPlayerId": 22343251
+      },
+      {
+        "team": {
+          "id": 5398677,
+          "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+          "name": "Yeni Çorumspor"
+        },
+        "time": "33",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Çağlar Söyüncü",
+        "playerId": 3023090,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "34",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Tino Anjorin",
+        "playerId": 22343251,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 5398677,
+          "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+          "name": "Yeni Çorumspor"
+        },
+        "time": "35",
+        "type": "Substitution",
+        "assist": null,
+        "player": "C. Soyuncu",
+        "playerId": 3023090,
+        "substituted": "M. Karlsbakk",
+        "assistingPlayerId": 9201626
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "38",
+        "type": "Goal",
+        "assist": "A. Antunes",
+        "player": "Juan",
+        "playerId": 29127630,
+        "substituted": null,
+        "assistingPlayerId": 7825881
+      },
+      {
+        "team": {
+          "id": 5398677,
+          "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+          "name": "Yeni Çorumspor"
+        },
+        "time": "46",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Kyziridis",
+        "playerId": 10982447,
+        "substituted": "E. Mahmic",
+        "assistingPlayerId": 54768007
+      },
+      {
+        "team": {
+          "id": 5398677,
+          "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+          "name": "Yeni Çorumspor"
+        },
+        "time": "46",
+        "type": "Substitution",
+        "assist": null,
+        "player": "B. Ozdemir",
+        "playerId": 9953174,
+        "substituted": "M. Thiam",
+        "assistingPlayerId": 8124858
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "58",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Juan",
+        "playerId": 29127630,
+        "substituted": "Janderson",
+        "assistingPlayerId": 56896588
+      },
+      {
+        "team": {
+          "id": 5398677,
+          "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+          "name": "Yeni Çorumspor"
+        },
+        "time": "63",
+        "type": "Substitution",
+        "assist": null,
+        "player": "J. Ramirez",
+        "playerId": 16737392,
+        "substituted": "Y. Moukoko",
+        "assistingPlayerId": 26069113
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "83",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Antunes",
+        "playerId": 7825881,
+        "substituted": "E. Bekiroglu",
+        "assistingPlayerId": 4206762
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "83",
+        "type": "Substitution",
+        "assist": null,
+        "player": null,
+        "playerId": null,
+        "substituted": "A. Matos",
+        "assistingPlayerId": 46628652
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "83",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Andre Henrique",
+        "playerId": 38293521,
+        "substituted": "B. Boke",
+        "assistingPlayerId": 31735508
+      },
+      {
+        "team": {
+          "id": 5398677,
+          "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+          "name": "Yeni Çorumspor"
+        },
+        "time": "89",
+        "type": "Substitution",
+        "assist": null,
+        "player": "C. Under",
+        "playerId": 126539,
+        "substituted": "G. Gurpuz",
+        "assistingPlayerId": 26098576
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-10-25T16:15:32.571Z",
+          "probabilities": {
+            "away": "14.91%",
+            "draw": "22.28%",
+            "home": "62.81%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-10-25T16:26:25.420Z",
+          "probabilities": {
+            "away": "14.13%",
+            "draw": "22.61%",
+            "home": "63.26%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-10-25T16:35:29.336Z",
+          "probabilities": {
+            "away": "12.29%",
+            "draw": "22.51%",
+            "home": "65.20%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-10-25T16:46:21.478Z",
+          "probabilities": {
+            "away": "3.29%",
+            "draw": "9.16%",
+            "home": "87.55%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-10-25T16:56:09.930Z",
+          "probabilities": {
+            "away": "3.09%",
+            "draw": "8.78%",
+            "home": "88.12%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-10-25T17:04:41.688Z",
+          "probabilities": {
+            "away": "2.93%",
+            "draw": "8.51%",
+            "home": "88.55%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-10-25T17:15:18.127Z",
+          "probabilities": {
+            "away": "2.32%",
+            "draw": "7.45%",
+            "home": "90.23%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-10-25T17:24:55.352Z",
+          "probabilities": {
+            "away": "1.79%",
+            "draw": "6.53%",
+            "home": "91.68%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-10-25T17:34:16.394Z",
+          "probabilities": {
+            "away": "1.27%",
+            "draw": "5.27%",
+            "home": "93.46%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-10-25T17:45:15.409Z",
+          "probabilities": {
+            "away": "0.72%",
+            "draw": "3.95%",
+            "home": "95.32%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-10-25T17:54:32.844Z",
+          "probabilities": {
+            "away": "0.57%",
+            "draw": "3.56%",
+            "home": "95.87%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-10-18T12:40:32.768Z",
+          "probabilities": {
+            "away": "32.28%",
+            "draw": "24.47%",
+            "home": "43.25%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-10-18T17:10:26.507Z",
+          "probabilities": {
+            "away": "30.89%",
+            "draw": "25.98%",
+            "home": "43.13%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-10-18T21:31:44.056Z",
+          "probabilities": {
+            "away": "30.82%",
+            "draw": "26.10%",
+            "home": "43.09%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-10-19T12:19:00.352Z",
+          "probabilities": {
+            "away": "30.83%",
+            "draw": "26.08%",
+            "home": "43.09%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-10-19T15:55:31.592Z",
+          "probabilities": {
+            "away": "30.84%",
+            "draw": "26.07%",
+            "home": "43.09%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-10-19T19:38:28.462Z",
+          "probabilities": {
+            "away": "30.78%",
+            "draw": "26.10%",
+            "home": "43.12%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-10-20T09:27:20.690Z",
+          "probabilities": {
+            "away": "30.74%",
+            "draw": "26.10%",
+            "home": "43.16%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-10-20T13:24:14.895Z",
+          "probabilities": {
+            "away": "30.73%",
+            "draw": "26.11%",
+            "home": "43.16%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-10-20T17:34:21.387Z",
+          "probabilities": {
+            "away": "30.65%",
+            "draw": "26.18%",
+            "home": "43.16%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-10-20T21:32:40.939Z",
+          "probabilities": {
+            "away": "30.70%",
+            "draw": "26.13%",
+            "home": "43.17%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-10-21T09:12:44.406Z",
+          "probabilities": {
+            "away": "30.62%",
+            "draw": "26.19%",
+            "home": "43.20%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-10-21T16:27:03.837Z",
+          "probabilities": {
+            "away": "30.69%",
+            "draw": "26.12%",
+            "home": "43.19%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-10-21T20:53:37.346Z",
+          "probabilities": {
+            "away": "30.63%",
+            "draw": "26.22%",
+            "home": "43.15%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-10-22T11:58:37.183Z",
+          "probabilities": {
+            "away": "30.67%",
+            "draw": "26.19%",
+            "home": "43.14%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-10-22T16:20:47.534Z",
+          "probabilities": {
+            "away": "30.57%",
+            "draw": "26.24%",
+            "home": "43.19%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-10-22T20:54:53.119Z",
+          "probabilities": {
+            "away": "30.65%",
+            "draw": "26.17%",
+            "home": "43.17%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-10-23T09:38:13.187Z",
+          "probabilities": {
+            "away": "30.71%",
+            "draw": "26.15%",
+            "home": "43.14%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-10-24T10:55:14.390Z",
+          "probabilities": {
+            "away": "30.66%",
+            "draw": "26.15%",
+            "home": "43.20%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-10-25T11:10:53.011Z",
+          "probabilities": {
+            "away": "30.06%",
+            "draw": "27.30%",
+            "home": "42.64%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "statistics": [
+          {
+            "value": 1.91,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 5,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 48,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 8,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.75,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 15,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 82,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 219,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 18,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 66,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 17,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 12,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 51,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 48,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 6,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 14,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 14,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 21,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 31,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 22,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 50,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 6,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 19,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.47,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 104,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.37,
+            "displayName": "Possession"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 2,
+            "displayName": "Corners"
+          },
+          {
+            "value": 3,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 182,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 4,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 10,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 286,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 5,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 21,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 1,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 5398677,
+          "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+          "name": "Yeni Çorumspor"
+        },
+        "statistics": [
+          {
+            "value": 0.74,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 1,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 71,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 21,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.39,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 1,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 19,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 227,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 282,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 25,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 71,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 25,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 7,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 64,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 68,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 7,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 10,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 9,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 19,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 30,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 28,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 50,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 2,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 17,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.38,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 105,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.63,
+            "displayName": "Possession"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 3,
+            "displayName": "Corners"
+          },
+          {
+            "value": 1,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 385,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 3,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 490,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 5,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 9,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 1,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348362628,
+    "round": "Regular Season - 9",
+    "date": "2026-10-25T16:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "2 - 0",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 5398677,
+      "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+      "name": "Yeni Çorumspor",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "9'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Cengiz Under"
+        },
+        {
+          "time": "18'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Cengiz Under"
+        },
+        {
+          "time": "31'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Mohamed Diomande"
+        },
+        {
+          "time": "53'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Ermin Mahmic"
+        },
+        {
+          "time": "63'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Cengiz Under"
+        },
+        {
+          "time": "66'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Youssoufa Moukoko"
+        },
+        {
+          "time": "70'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Mame Thiam"
+        },
+        {
+          "time": "77'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Hrvoje Smolcic"
+        },
+        {
+          "time": "81'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Ermin Mahmic"
+        },
+        {
+          "time": "83'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Ermin Mahmic"
+        },
+        {
+          "time": "89'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Youssoufa Moukoko"
+        },
+        {
+          "time": "90 + 2'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Youssoufa Moukoko"
+        },
+        {
+          "time": "90 + 2'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Ermin Mahmic"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 846678,
+      "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+      "name": "Goztepe",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "3'",
+          "outcome": "Goal",
+          "goalTarget": "Low Centre",
+          "playerName": "Alexis Antunes"
+        },
+        {
+          "time": "22'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Arda Okan Kurtulan"
+        },
+        {
+          "time": "22'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Alexis Antunes"
+        },
+        {
+          "time": "27'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Novatus Miroshi"
+        },
+        {
+          "time": "29'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "André Henrique"
+        },
+        {
+          "time": "38'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Juan"
+        },
+        {
+          "time": "41'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Tino Anjorin"
+        },
+        {
+          "time": "45 + 3'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Novatus Miroshi"
+        },
+        {
+          "time": "45 + 3'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Tino Anjorin"
+        },
+        {
+          "time": "45 + 5'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "André Henrique"
+        },
+        {
+          "time": "46'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Juan"
+        },
+        {
+          "time": "48'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Taha Altıkardeş"
+        },
+        {
+          "time": "59'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Janderson"
+        },
+        {
+          "time": "73'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Tino Anjorin"
+        },
+        {
+          "time": "84'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Efkan Bekiroglu"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

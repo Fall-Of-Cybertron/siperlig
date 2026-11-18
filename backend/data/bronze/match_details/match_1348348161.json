@@ -1,0 +1,993 @@
+[
+  {
+    "venue": {
+      "city": "Konya",
+      "name": "Konya Büyüksehir Belediyesi Stadium",
+      "country": "Turkiye",
+      "capacity": "42000"
+    },
+    "referee": {
+      "name": "Kolak, Batuhan",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "clear day",
+      "temperature": "22.52°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "23",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Demirbag",
+        "playerId": 9979900,
+        "substituted": "C. Awaziem",
+        "assistingPlayerId": 8054340
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "56",
+        "type": "VAR Penalty Cancelled",
+        "assist": null,
+        "player": "Deniz Türüç",
+        "playerId": 8070440,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "56",
+        "type": "Substitution",
+        "assist": null,
+        "player": "E. Bayram",
+        "playerId": 26164747,
+        "substituted": "H. Gureler",
+        "assistingPlayerId": 71442133
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "63",
+        "type": "Substitution",
+        "assist": null,
+        "player": "S. Kharebashvili",
+        "playerId": 71561756,
+        "substituted": "O. Sahiner",
+        "assistingPlayerId": 8053052
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "63",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Skov Olsen",
+        "playerId": 2562630,
+        "substituted": "Y. Sari",
+        "assistingPlayerId": 309435
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "74",
+        "type": "Substitution",
+        "assist": null,
+        "player": "R. Toth",
+        "playerId": 67542391,
+        "substituted": "E. Bardhi",
+        "assistingPlayerId": 7641375
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "80",
+        "type": "Substitution",
+        "assist": null,
+        "player": "I. Brnic",
+        "playerId": 2351076,
+        "substituted": "J. Kaluzinski",
+        "assistingPlayerId": 31843378
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "80",
+        "type": "Substitution",
+        "assist": null,
+        "player": "B. Yildirim",
+        "playerId": 11025917,
+        "substituted": "A. Fayzullaev",
+        "assistingPlayerId": 42451990
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "82",
+        "type": "Substitution",
+        "assist": null,
+        "player": "J. Muleka",
+        "playerId": 23289770,
+        "substituted": "Mostafa Mohamed",
+        "assistingPlayerId": 429702
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "82",
+        "type": "Substitution",
+        "assist": null,
+        "player": "D. Goncalves",
+        "playerId": 3107454,
+        "substituted": "E. Colley",
+        "assistingPlayerId": 22676521
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Konyaspor is most likely to win the game against İstanbul Başakşehir.",
+          "generatedAt": "2026-10-11T10:51:22.818Z",
+          "probabilities": {
+            "away": "34.59%",
+            "draw": "30.79%",
+            "home": "34.62%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-10-11T11:12:05.759Z",
+          "probabilities": {
+            "away": "31.80%",
+            "draw": "36.11%",
+            "home": "32.09%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-10-11T11:32:31.879Z",
+          "probabilities": {
+            "away": "30.50%",
+            "draw": "38.38%",
+            "home": "31.12%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-10-11T11:52:56.260Z",
+          "probabilities": {
+            "away": "24.25%",
+            "draw": "47.43%",
+            "home": "28.32%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-10-11T12:15:18.379Z",
+          "probabilities": {
+            "away": "12.52%",
+            "draw": "71.67%",
+            "home": "15.80%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Konyaspor is most likely to win the game against İstanbul Başakşehir.",
+          "generatedAt": "2026-10-04T09:57:41.397Z",
+          "probabilities": {
+            "away": "36.14%",
+            "draw": "27.38%",
+            "home": "36.48%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Konyaspor is most likely to win the game against İstanbul Başakşehir.",
+          "generatedAt": "2026-10-04T13:30:06.505Z",
+          "probabilities": {
+            "away": "36.35%",
+            "draw": "27.27%",
+            "home": "36.37%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Konyaspor is most likely to win the game against İstanbul Başakşehir.",
+          "generatedAt": "2026-10-04T17:04:29.792Z",
+          "probabilities": {
+            "away": "36.30%",
+            "draw": "27.28%",
+            "home": "36.42%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-04T20:46:39.209Z",
+          "probabilities": {
+            "away": "36.63%",
+            "draw": "27.43%",
+            "home": "35.94%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-05T09:49:22.685Z",
+          "probabilities": {
+            "away": "36.68%",
+            "draw": "27.39%",
+            "home": "35.93%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-05T13:05:53.296Z",
+          "probabilities": {
+            "away": "36.70%",
+            "draw": "27.40%",
+            "home": "35.89%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-05T16:29:58.395Z",
+          "probabilities": {
+            "away": "36.75%",
+            "draw": "27.40%",
+            "home": "35.85%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-05T20:01:54.790Z",
+          "probabilities": {
+            "away": "36.78%",
+            "draw": "27.41%",
+            "home": "35.81%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-06T09:07:02.053Z",
+          "probabilities": {
+            "away": "37.17%",
+            "draw": "27.21%",
+            "home": "35.62%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-06T12:43:37.742Z",
+          "probabilities": {
+            "away": "37.29%",
+            "draw": "27.18%",
+            "home": "35.53%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-06T16:20:06.855Z",
+          "probabilities": {
+            "away": "37.26%",
+            "draw": "27.20%",
+            "home": "35.55%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-06T20:04:23.790Z",
+          "probabilities": {
+            "away": "37.24%",
+            "draw": "27.23%",
+            "home": "35.53%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-07T09:22:57.775Z",
+          "probabilities": {
+            "away": "37.32%",
+            "draw": "27.21%",
+            "home": "35.47%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-07T12:59:46.220Z",
+          "probabilities": {
+            "away": "37.34%",
+            "draw": "27.22%",
+            "home": "35.44%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-07T16:36:34.776Z",
+          "probabilities": {
+            "away": "37.34%",
+            "draw": "27.22%",
+            "home": "35.44%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-07T20:15:12.641Z",
+          "probabilities": {
+            "away": "37.36%",
+            "draw": "27.19%",
+            "home": "35.45%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-08T12:19:02.881Z",
+          "probabilities": {
+            "away": "37.40%",
+            "draw": "27.22%",
+            "home": "35.38%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-08T16:08:38.807Z",
+          "probabilities": {
+            "away": "37.38%",
+            "draw": "27.20%",
+            "home": "35.42%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-08T20:08:30.566Z",
+          "probabilities": {
+            "away": "37.40%",
+            "draw": "27.22%",
+            "home": "35.38%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-09T09:21:06.560Z",
+          "probabilities": {
+            "away": "37.41%",
+            "draw": "27.20%",
+            "home": "35.38%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-09T13:22:37.292Z",
+          "probabilities": {
+            "away": "37.44%",
+            "draw": "27.18%",
+            "home": "35.39%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-09T17:33:12.604Z",
+          "probabilities": {
+            "away": "37.37%",
+            "draw": "27.19%",
+            "home": "35.44%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-09T21:50:19.898Z",
+          "probabilities": {
+            "away": "37.40%",
+            "draw": "27.19%",
+            "home": "35.41%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-10T10:00:03.864Z",
+          "probabilities": {
+            "away": "37.56%",
+            "draw": "27.21%",
+            "home": "35.23%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "İstanbul Başakşehir is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-10T20:33:33.668Z",
+          "probabilities": {
+            "away": "37.61%",
+            "draw": "27.16%",
+            "home": "35.24%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Konyaspor is most likely to win the game against İstanbul Başakşehir.",
+          "generatedAt": "2026-10-11T14:43:53.554Z",
+          "probabilities": {
+            "away": "31.34%",
+            "draw": "27.01%",
+            "home": "41.65%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Konyaspor is most likely to win the game against İstanbul Başakşehir.",
+          "generatedAt": "2026-10-11T19:09:24.579Z",
+          "probabilities": {
+            "away": "31.34%",
+            "draw": "27.01%",
+            "home": "41.65%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "statistics": [
+          {
+            "value": 0.41,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 0,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 47,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 11,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.29,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 4,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 17,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 242,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 210,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 52,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 94,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 28,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 6,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 51,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 56,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 7,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 6,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 6,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 10,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 10,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 9,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 26,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 8,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.33,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 91,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.55,
+            "displayName": "Possession"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 3,
+            "displayName": "Corners"
+          },
+          {
+            "value": 5,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 344,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 3,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 435,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 8,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 0,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "statistics": [
+          {
+            "value": 0.97,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 2,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 53,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 8,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.59,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 15,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 165,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 206,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 20,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 61,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 16,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 5,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 39,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 50,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 11,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 8,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 14,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 13,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 17,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 26,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 2,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 5,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 92,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.45,
+            "displayName": "Possession"
+          },
+          {
+            "value": 0,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 5,
+            "displayName": "Corners"
+          },
+          {
+            "value": 0,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 264,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 2,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 356,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 3,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 11,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 0,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348348161,
+    "round": "Regular Season - 7",
+    "date": "2026-10-11T10:30:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "0 - 0",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 480748,
+      "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+      "name": "İstanbul Başakşehir",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "44'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Eldor Shomurodov"
+        },
+        {
+          "time": "48'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Eldor Shomurodov"
+        },
+        {
+          "time": "66'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Yusuf Sari"
+        },
+        {
+          "time": "67'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Ivan Brnic"
+        },
+        {
+          "time": "87'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Yusuf Sari"
+        },
+        {
+          "time": "88'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Abbosbek Fayzullaev"
+        },
+        {
+          "time": "90 + 4'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Eldor Shomurodov"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 517341,
+      "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+      "name": "Konyaspor",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "17'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Uğurcan Yazğılı"
+        },
+        {
+          "time": "34'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Diogo Gonçalves"
+        },
+        {
+          "time": "39'",
+          "outcome": "Missed",
+          "goalTarget": "Close High",
+          "playerName": "Rajmund Tóth"
+        },
+        {
+          "time": "45'",
+          "outcome": "Saved",
+          "goalTarget": "High Left",
+          "playerName": "Rayyan Baniya"
+        },
+        {
+          "time": "69'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Deniz Türüc"
+        },
+        {
+          "time": "78'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Marko Jevtovic"
+        },
+        {
+          "time": "79'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Deniz Türüc"
+        },
+        {
+          "time": "81'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Deniz Türüc"
+        },
+        {
+          "time": "83'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Mostafa Mohamed"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

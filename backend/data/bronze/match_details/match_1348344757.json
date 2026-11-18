@@ -1,0 +1,1270 @@
+[
+  {
+    "venue": {
+      "city": "Istanbul",
+      "name": "Esenyurt Necmi Kadioglu Stadium",
+      "country": "Turkiye",
+      "capacity": "4500"
+    },
+    "referee": {
+      "name": "Karaoglan, Atilla",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "partly cloudy night",
+      "temperature": "19.09°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "7",
+        "type": "VAR Penalty",
+        "assist": null,
+        "player": "Novatus Miroshi",
+        "playerId": 48862527,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "time": "9",
+        "type": "Red Card",
+        "assist": null,
+        "player": "Ahmed Abdullahi",
+        "playerId": 62542375,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "11",
+        "type": "Penalty",
+        "assist": null,
+        "player": "Juan",
+        "playerId": 29127630,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "time": "41",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Seyfettin Anıl Yaşar",
+        "playerId": 22126384,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "41",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Juan Santos da Silva",
+        "playerId": 29127630,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "time": "45+2",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Konrad Michalak",
+        "playerId": 6512926,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "46",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Janderson",
+        "playerId": 56896588,
+        "substituted": "Andre Henrique",
+        "assistingPlayerId": 38293521
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "47",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Alexis Antunes",
+        "playerId": 7825881,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "54",
+        "type": "Goal",
+        "assist": null,
+        "player": "Andre Henrique",
+        "playerId": 38293521,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "59",
+        "type": "Goal",
+        "assist": null,
+        "player": "Andre Henrique",
+        "playerId": 38293521,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "time": "60",
+        "type": "Substitution",
+        "assist": null,
+        "player": "K. Michalak",
+        "playerId": 6512926,
+        "substituted": "T. Ulvan",
+        "assistingPlayerId": 56797573
+      },
+      {
+        "team": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "time": "60",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Demir",
+        "playerId": 10011939,
+        "substituted": "C. Raux Yao",
+        "assistingPlayerId": 53640202
+      },
+      {
+        "team": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "time": "60",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Y. Barasi",
+        "playerId": 5942020,
+        "substituted": "L. Pintor",
+        "assistingPlayerId": 108024
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "69",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Juan",
+        "playerId": 29127630,
+        "substituted": "S. Armstrong",
+        "assistingPlayerId": 32178097
+      },
+      {
+        "team": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "time": "76",
+        "type": "Substitution",
+        "assist": null,
+        "player": "D. Costa",
+        "playerId": 68759390,
+        "substituted": "H. Akman",
+        "assistingPlayerId": 58665012
+      },
+      {
+        "team": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "time": "76",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Massanga Matondo",
+        "playerId": 46936645,
+        "substituted": "B. Boutobba",
+        "assistingPlayerId": 3475983
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "76",
+        "type": "Penalty",
+        "assist": null,
+        "player": "Andre Henrique",
+        "playerId": 38293521,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "77",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Antunes",
+        "playerId": 7825881,
+        "substituted": "E. Bekiroglu",
+        "assistingPlayerId": 4206762
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "77",
+        "type": "Substitution",
+        "assist": null,
+        "player": "N. Miroshi",
+        "playerId": 48862527,
+        "substituted": "A. Matos",
+        "assistingPlayerId": 46628652
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "81",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Rhaldney",
+        "playerId": 8806693,
+        "substituted": "F. Anjorin",
+        "assistingPlayerId": 22343251
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-12T17:01:38.616Z",
+          "probabilities": {
+            "away": "51.65%",
+            "draw": "25.02%",
+            "home": "23.33%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-12T17:11:55.319Z",
+          "probabilities": {
+            "away": "65.04%",
+            "draw": "21.63%",
+            "home": "13.32%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-12T17:21:44.328Z",
+          "probabilities": {
+            "away": "88.02%",
+            "draw": "8.65%",
+            "home": "3.33%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-12T17:31:54.596Z",
+          "probabilities": {
+            "away": "87.37%",
+            "draw": "9.33%",
+            "home": "3.30%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-12T17:41:45.227Z",
+          "probabilities": {
+            "away": "86.57%",
+            "draw": "10.28%",
+            "home": "3.15%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-12T17:51:50.227Z",
+          "probabilities": {
+            "away": "85.59%",
+            "draw": "11.32%",
+            "home": "3.09%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-12T18:01:14.050Z",
+          "probabilities": {
+            "away": "85.73%",
+            "draw": "11.23%",
+            "home": "3.04%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-12T18:12:25.721Z",
+          "probabilities": {
+            "away": "85.98%",
+            "draw": "11.16%",
+            "home": "2.86%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-12T18:22:15.224Z",
+          "probabilities": {
+            "away": "92.76%",
+            "draw": "5.85%",
+            "home": "1.39%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-12T18:32:25.166Z",
+          "probabilities": {
+            "away": "92.76%",
+            "draw": "5.85%",
+            "home": "1.39%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-12T18:42:15.825Z",
+          "probabilities": {
+            "away": "92.53%",
+            "draw": "6.03%",
+            "home": "1.44%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-12T18:52:33.630Z",
+          "probabilities": {
+            "away": "92.53%",
+            "draw": "6.03%",
+            "home": "1.44%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-05T09:55:14.983Z",
+          "probabilities": {
+            "away": "48.55%",
+            "draw": "25.88%",
+            "home": "25.57%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-05T13:11:44.963Z",
+          "probabilities": {
+            "away": "48.55%",
+            "draw": "25.88%",
+            "home": "25.57%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-05T16:35:40.483Z",
+          "probabilities": {
+            "away": "48.59%",
+            "draw": "25.87%",
+            "home": "25.55%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-05T20:08:32.524Z",
+          "probabilities": {
+            "away": "48.78%",
+            "draw": "25.93%",
+            "home": "25.29%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-06T09:13:49.872Z",
+          "probabilities": {
+            "away": "48.73%",
+            "draw": "25.92%",
+            "home": "25.34%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-06T12:50:34.882Z",
+          "probabilities": {
+            "away": "48.83%",
+            "draw": "25.93%",
+            "home": "25.24%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-06T16:27:00.462Z",
+          "probabilities": {
+            "away": "48.79%",
+            "draw": "25.91%",
+            "home": "25.30%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-06T20:12:12.321Z",
+          "probabilities": {
+            "away": "48.76%",
+            "draw": "25.92%",
+            "home": "25.31%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-07T09:29:49.228Z",
+          "probabilities": {
+            "away": "48.88%",
+            "draw": "25.74%",
+            "home": "25.38%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-07T13:07:17.279Z",
+          "probabilities": {
+            "away": "48.92%",
+            "draw": "25.76%",
+            "home": "25.32%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-07T16:43:34.174Z",
+          "probabilities": {
+            "away": "48.89%",
+            "draw": "25.74%",
+            "home": "25.37%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-07T20:22:04.100Z",
+          "probabilities": {
+            "away": "48.91%",
+            "draw": "25.71%",
+            "home": "25.37%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-08T12:28:30.445Z",
+          "probabilities": {
+            "away": "49.03%",
+            "draw": "25.72%",
+            "home": "25.25%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-08T16:17:32.321Z",
+          "probabilities": {
+            "away": "49.03%",
+            "draw": "25.72%",
+            "home": "25.25%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-08T20:17:26.129Z",
+          "probabilities": {
+            "away": "49.03%",
+            "draw": "25.72%",
+            "home": "25.25%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-09T09:29:35.183Z",
+          "probabilities": {
+            "away": "49.20%",
+            "draw": "25.68%",
+            "home": "25.12%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-09T13:31:40.510Z",
+          "probabilities": {
+            "away": "49.52%",
+            "draw": "25.55%",
+            "home": "24.93%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-09T17:43:21.007Z",
+          "probabilities": {
+            "away": "49.60%",
+            "draw": "25.55%",
+            "home": "24.85%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-09T21:59:20.285Z",
+          "probabilities": {
+            "away": "49.54%",
+            "draw": "25.56%",
+            "home": "24.90%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-10T10:10:22.914Z",
+          "probabilities": {
+            "away": "49.78%",
+            "draw": "25.56%",
+            "home": "24.66%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-10T20:45:45.210Z",
+          "probabilities": {
+            "away": "49.75%",
+            "draw": "25.54%",
+            "home": "24.71%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-11T15:00:09.347Z",
+          "probabilities": {
+            "away": "48.96%",
+            "draw": "25.79%",
+            "home": "25.26%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-11T19:26:16.542Z",
+          "probabilities": {
+            "away": "49.57%",
+            "draw": "25.67%",
+            "home": "24.77%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-12T08:24:08.951Z",
+          "probabilities": {
+            "away": "49.79%",
+            "draw": "25.52%",
+            "home": "24.69%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-12T11:44:29.760Z",
+          "probabilities": {
+            "away": "49.97%",
+            "draw": "25.46%",
+            "home": "24.56%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-12T15:08:54.308Z",
+          "probabilities": {
+            "away": "50.45%",
+            "draw": "25.71%",
+            "home": "23.84%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-12T18:43:55.372Z",
+          "probabilities": {
+            "away": "51.20%",
+            "draw": "25.55%",
+            "home": "23.25%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "statistics": [
+          {
+            "value": 1.33,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 2,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 52,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 17,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.45,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 10,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 303,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 125,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 28,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 73,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 26,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 5,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 12,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 81,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 11,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 11,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 10,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 15,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 22,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 16,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 32,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 6,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 12,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.57,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 88,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.53,
+            "displayName": "Possession"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 3,
+            "displayName": "Corners"
+          },
+          {
+            "value": 1,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 330,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 1,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 2,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 1,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 418,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 3,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 8,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 2,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 2,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "statistics": [
+          {
+            "value": 3.15,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 4,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 57,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 8,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 1.33,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 4,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 21,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 123,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 258,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 15,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 39,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 10,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 12,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 82,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 52,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 6,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 16,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 11,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 14,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 14,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 16,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 32,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 10,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 20,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.37,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 64,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.47,
+            "displayName": "Possession"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 7,
+            "displayName": "Corners"
+          },
+          {
+            "value": 3,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 296,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 7,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 14,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 360,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 4,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 17,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 2,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348344757,
+    "round": "Regular Season - 7",
+    "date": "2026-10-12T17:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "0 - 4",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 846678,
+      "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+      "name": "Goztepe",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "6'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Janderson"
+        },
+        {
+          "time": "11'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Juan"
+        },
+        {
+          "time": "14'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Rhaldney"
+        },
+        {
+          "time": "18'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Arda Okan Kurtulan"
+        },
+        {
+          "time": "19'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Noah Sonko-Sundberg"
+        },
+        {
+          "time": "26'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Rhaldney"
+        },
+        {
+          "time": "42'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Rhaldney"
+        },
+        {
+          "time": "49'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "André Henrique"
+        },
+        {
+          "time": "51'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Richard Akonnor"
+        },
+        {
+          "time": "53'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Juan"
+        },
+        {
+          "time": "54'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "André Henrique"
+        },
+        {
+          "time": "59'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "André Henrique"
+        },
+        {
+          "time": "65'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Rhaldney"
+        },
+        {
+          "time": "75'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "André Henrique"
+        },
+        {
+          "time": "81'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Richard Akonnor"
+        },
+        {
+          "time": "86'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Richard Akonnor"
+        },
+        {
+          "time": "87'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right And High",
+          "playerName": "Taha Altıkardeş"
+        },
+        {
+          "time": "89'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "André Henrique"
+        },
+        {
+          "time": "90 + 1'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "André Henrique"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 3054172,
+      "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+      "name": "Eyüpspor",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "21'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Simone Giordano"
+        },
+        {
+          "time": "29'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Zak Jules"
+        },
+        {
+          "time": "39'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Zak Jules"
+        },
+        {
+          "time": "45 + 1'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Konrad Michalak"
+        },
+        {
+          "time": "67'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Lenny Pintor"
+        },
+        {
+          "time": "82'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Lenny Pintor"
+        },
+        {
+          "time": "90'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Charles-André Raux-Yao"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

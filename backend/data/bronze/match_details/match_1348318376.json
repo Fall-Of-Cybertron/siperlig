@@ -1,0 +1,1106 @@
+[
+  {
+    "venue": {
+      "city": "Konya",
+      "name": "Konya Büyüksehir Belediyesi Stadium",
+      "country": "Turkiye",
+      "capacity": "42000"
+    },
+    "referee": {
+      "name": "Hasova, Gurcan",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "wind",
+      "temperature": "21.31°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "10",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Mahamadou Susoho",
+        "playerId": 52823771,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "36",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Dan Agyei",
+        "playerId": 14134505,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "37",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Matej Maglica",
+        "playerId": 43831116,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "39",
+        "type": "Own Goal",
+        "assist": null,
+        "player": "T. Zoukrou",
+        "playerId": 45490060,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "41",
+        "type": "Substitution",
+        "assist": null,
+        "player": "U. Yazgili",
+        "playerId": 8060297,
+        "substituted": "A. Masuaku",
+        "assistingPlayerId": 3029530
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "46",
+        "type": "Substitution",
+        "assist": null,
+        "player": "E. Colley",
+        "playerId": 22676521,
+        "substituted": "E. Bardhi",
+        "assistingPlayerId": 7641375
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "46",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Susoho",
+        "playerId": 52823771,
+        "substituted": "U. Yildiz",
+        "assistingPlayerId": 23156301
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "48",
+        "type": "Red Card",
+        "assist": null,
+        "player": "Enis Bardhi",
+        "playerId": 7641375,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "60",
+        "type": "Substitution",
+        "assist": null,
+        "player": "T. Zoukrou",
+        "playerId": 45490060,
+        "substituted": "F. Aye",
+        "assistingPlayerId": 3346056
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "66",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Baku",
+        "playerId": 4277602,
+        "substituted": "M. Altunbas",
+        "assistingPlayerId": 10011295
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "72",
+        "type": "Goal",
+        "assist": "G. Sousa",
+        "player": "M. Haidara",
+        "playerId": 536767,
+        "substituted": null,
+        "assistingPlayerId": 88696503
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "73",
+        "type": "Substitution",
+        "assist": null,
+        "player": "D. Turuc",
+        "playerId": 8070440,
+        "substituted": "R. Baniya",
+        "assistingPlayerId": 19188456
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "77",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Jevtovic",
+        "playerId": 8051442,
+        "substituted": "R. Toth",
+        "assistingPlayerId": 67542391
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "77",
+        "type": "Substitution",
+        "assist": null,
+        "player": "D. Goncalves",
+        "playerId": 3107454,
+        "substituted": "E. Destan",
+        "assistingPlayerId": 29370096
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "86",
+        "type": "Goal",
+        "assist": "Show",
+        "player": "M. Altunbas",
+        "playerId": 10011295,
+        "substituted": null,
+        "assistingPlayerId": 533708
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "88",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Rajmund Tóth",
+        "playerId": 67542391,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "90",
+        "type": "Substitution",
+        "assist": null,
+        "player": "D. Agyei",
+        "playerId": 14134505,
+        "substituted": "M. Cinan",
+        "assistingPlayerId": 10148628
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "90",
+        "type": "Substitution",
+        "assist": null,
+        "player": "G. Sousa",
+        "playerId": 88696503,
+        "substituted": "O. Oztonga",
+        "assistingPlayerId": 23250647
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Konyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-08-29T16:23:13.208Z",
+          "probabilities": {
+            "away": "20.66%",
+            "draw": "32.77%",
+            "home": "46.57%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Konyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-08-29T16:33:24.319Z",
+          "probabilities": {
+            "away": "19.47%",
+            "draw": "34.62%",
+            "home": "45.91%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Konyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-08-29T16:54:11.037Z",
+          "probabilities": {
+            "away": "6.19%",
+            "draw": "19.53%",
+            "home": "74.28%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Konyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-08-29T17:04:02.678Z",
+          "probabilities": {
+            "away": "6.17%",
+            "draw": "19.32%",
+            "home": "74.51%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Konyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-08-29T17:15:19.551Z",
+          "probabilities": {
+            "away": "13.84%",
+            "draw": "29.24%",
+            "home": "56.92%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-08-29T17:34:47.216Z",
+          "probabilities": {
+            "away": "25.62%",
+            "draw": "57.36%",
+            "home": "17.02%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-08-29T17:44:08.967Z",
+          "probabilities": {
+            "away": "20.87%",
+            "draw": "70.52%",
+            "home": "8.62%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-08-29T17:54:35.807Z",
+          "probabilities": {
+            "away": "92.77%",
+            "draw": "6.68%",
+            "home": "0.55%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Konyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-08-22T12:24:40.007Z",
+          "probabilities": {
+            "away": "26.87%",
+            "draw": "25.47%",
+            "home": "47.67%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Konyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-08-22T17:14:39.983Z",
+          "probabilities": {
+            "away": "26.87%",
+            "draw": "26.27%",
+            "home": "46.87%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Konyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-08-23T11:26:18.807Z",
+          "probabilities": {
+            "away": "26.87%",
+            "draw": "26.27%",
+            "home": "46.87%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Konyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-08-23T15:59:46.341Z",
+          "probabilities": {
+            "away": "26.87%",
+            "draw": "26.27%",
+            "home": "46.87%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Konyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-08-23T19:49:18.598Z",
+          "probabilities": {
+            "away": "26.87%",
+            "draw": "26.27%",
+            "home": "46.87%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Konyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-08-24T13:03:24.689Z",
+          "probabilities": {
+            "away": "26.15%",
+            "draw": "27.42%",
+            "home": "46.43%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Konyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-08-24T17:32:26.565Z",
+          "probabilities": {
+            "away": "26.05%",
+            "draw": "27.51%",
+            "home": "46.44%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Konyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-08-25T10:06:52.164Z",
+          "probabilities": {
+            "away": "25.90%",
+            "draw": "27.69%",
+            "home": "46.41%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Konyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-08-25T14:24:59.323Z",
+          "probabilities": {
+            "away": "25.94%",
+            "draw": "27.81%",
+            "home": "46.25%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Konyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-08-25T18:44:10.688Z",
+          "probabilities": {
+            "away": "25.94%",
+            "draw": "27.82%",
+            "home": "46.24%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Konyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-08-26T10:26:13.196Z",
+          "probabilities": {
+            "away": "25.71%",
+            "draw": "27.78%",
+            "home": "46.52%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Konyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-08-26T16:37:43.553Z",
+          "probabilities": {
+            "away": "25.60%",
+            "draw": "27.80%",
+            "home": "46.61%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Konyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-08-26T21:09:53.219Z",
+          "probabilities": {
+            "away": "25.60%",
+            "draw": "27.80%",
+            "home": "46.60%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Konyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-08-27T13:15:24.121Z",
+          "probabilities": {
+            "away": "26.05%",
+            "draw": "27.84%",
+            "home": "46.11%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Konyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-08-27T21:46:17.643Z",
+          "probabilities": {
+            "away": "25.38%",
+            "draw": "27.85%",
+            "home": "46.78%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Konyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-08-28T13:00:46.341Z",
+          "probabilities": {
+            "away": "25.03%",
+            "draw": "27.96%",
+            "home": "47.02%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Konyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-08-28T18:16:59.842Z",
+          "probabilities": {
+            "away": "25.05%",
+            "draw": "27.96%",
+            "home": "46.99%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Konyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-08-29T17:31:51.640Z",
+          "probabilities": {
+            "away": "22.82%",
+            "draw": "29.65%",
+            "home": "47.53%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "statistics": [
+          {
+            "value": 0.85,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 1,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 71,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 12,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.85,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 2,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 5,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 227,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 178,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 38,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 79,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 23,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 8,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 53,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 73,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 10,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 7,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 14,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 21,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 6,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 17,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 10,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 80,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.44,
+            "displayName": "Possession"
+          },
+          {
+            "value": 0,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 1,
+            "displayName": "Corners"
+          },
+          {
+            "value": 0,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 320,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 1,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 9,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 1,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 400,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 6,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 16,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 1,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "statistics": [
+          {
+            "value": 0.76,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 1,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 108,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 15,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 1.46,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 21,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 179,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 335,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 23,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 45,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 23,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 13,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 125,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 67,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 8,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 7,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 12,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 17,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 20,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 11,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 17,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 4,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 14,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.47,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 61,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.56,
+            "displayName": "Possession"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 4,
+            "displayName": "Corners"
+          },
+          {
+            "value": 1,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 432,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 3,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 493,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 12,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 3,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 10,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348318376,
+    "round": "Regular Season - 3",
+    "date": "2026-08-29T16:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "1 - 2",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 6307545,
+      "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+      "name": "Kocaelispor FK",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "39'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Tanguy Zoukrou"
+        },
+        {
+          "time": "45 + 1'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Dan Agyei"
+        },
+        {
+          "time": "45 + 2'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Gonçalo Sousa"
+        },
+        {
+          "time": "50'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Massadio Haidara"
+        },
+        {
+          "time": "58'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Dan Agyei"
+        },
+        {
+          "time": "62'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Berkan Kutlu"
+        },
+        {
+          "time": "62'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Anfernee Dijksteel"
+        },
+        {
+          "time": "64'",
+          "outcome": "Missed",
+          "goalTarget": "Close High",
+          "playerName": "Manuel Show"
+        },
+        {
+          "time": "64'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Makana Baku"
+        },
+        {
+          "time": "69'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Matej Maglica"
+        },
+        {
+          "time": "71'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Berkan Kutlu"
+        },
+        {
+          "time": "72'",
+          "outcome": "Goal",
+          "goalTarget": "High Left",
+          "playerName": "Massadio Haidara"
+        },
+        {
+          "time": "75'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Berkan Kutlu"
+        },
+        {
+          "time": "79'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Matej Maglica"
+        },
+        {
+          "time": "86'",
+          "outcome": "Goal",
+          "goalTarget": "Low Centre",
+          "playerName": "Metehan Altunbaş"
+        },
+        {
+          "time": "90'",
+          "outcome": "Missed",
+          "goalTarget": "Close High",
+          "playerName": "Metehan Altunbaş"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 517341,
+      "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+      "name": "Konyaspor",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "7'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Chidozie Awaziem"
+        },
+        {
+          "time": "9'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Melih Ibrahimoglu"
+        },
+        {
+          "time": "9'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Ebrima Colley"
+        },
+        {
+          "time": "19'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Jackson Muleka"
+        },
+        {
+          "time": "20'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Melih Ibrahimoglu"
+        },
+        {
+          "time": "27'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Deniz Türüc"
+        },
+        {
+          "time": "39'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Diogo Gonçalves"
+        },
+        {
+          "time": "65'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Melih Ibrahimoglu"
+        },
+        {
+          "time": "83'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Jackson Muleka"
+        },
+        {
+          "time": "87'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Melih Ibrahimoglu"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": [
+      {
+        "url": "https://www.kingfut.com/2026/08/29/mostafa-mohamed-nears-e750000-konyaspor-move/",
+        "image": "https://www.kingfut.com/wp-content/uploads/2026/08/image-51.png",
+        "title": "Mostafa Mohamed Nears €750,000 Konyaspor Move",
+        "datePublished": "2026-08-29T08:55:38Z"
+      }
+    ]
+  }
+]

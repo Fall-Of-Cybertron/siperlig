@@ -1,0 +1,294 @@
+{
+  "homeTeam": {
+    "formation": "4-2-3-1",
+    "substitutes": [
+      {
+        "name": "Deniz Dilmen",
+        "number": 98,
+        "position": "Goalkeeper",
+        "id": 44784236
+      },
+      {
+        "name": "Hamza Güreler",
+        "number": 15,
+        "position": "Defender",
+        "id": 71442133
+      },
+      {
+        "name": "Onur Bulut",
+        "number": 6,
+        "position": "Defender",
+        "id": 4230429
+      },
+      {
+        "name": "Christopher Operi",
+        "number": 21,
+        "position": "Defender",
+        "id": 3354750
+      },
+      {
+        "name": "Berkay Özcan",
+        "number": 19,
+        "position": "Midfielder",
+        "id": 4006639
+      },
+      {
+        "name": "Yusuf Sarı",
+        "number": 7,
+        "position": "Forward",
+        "id": 309435
+      },
+      {
+        "name": "Onur Ergün",
+        "number": 4,
+        "position": "Midfielder",
+        "id": 10000508
+      },
+      {
+        "name": "Jakub Kałuziński",
+        "number": 18,
+        "position": "Midfielder",
+        "id": 31843378
+      },
+      {
+        "name": "Abbosbek Fayzullaev",
+        "number": 11,
+        "position": "Midfielder",
+        "id": 42451990
+      },
+      {
+        "name": "Bertuğ Yıldırım",
+        "number": 91,
+        "position": "Forward",
+        "id": 11025917
+      }
+    ],
+    "initialLineup": [
+      [
+        {
+          "name": "Muhammed Şengezer",
+          "number": 16,
+          "position": "Goalkeeper",
+          "id": 8085252
+        }
+      ],
+      [
+        {
+          "name": "Saba Kharebashvili",
+          "number": 38,
+          "position": "Defender",
+          "id": 71561756
+        },
+        {
+          "name": "Ousseynou Ba",
+          "number": 27,
+          "position": "Defender",
+          "id": 3376002
+        },
+        {
+          "name": "Emin Bayram",
+          "number": 23,
+          "position": "Defender",
+          "id": 26164747
+        },
+        {
+          "name": "Michał Karbownik",
+          "number": 33,
+          "position": "Defender",
+          "id": 20224652
+        }
+      ],
+      [
+        {
+          "name": "Umut Güneş",
+          "number": 20,
+          "position": "Midfielder",
+          "id": 20764002
+        },
+        {
+          "name": "Olivier Kemen",
+          "number": 8,
+          "position": "Midfielder",
+          "id": 13718159
+        }
+      ],
+      [
+        {
+          "name": "Eldor Shomurodov",
+          "number": 14,
+          "position": "Midfielder",
+          "id": 8619289
+        },
+        {
+          "name": "Ivan Brnić",
+          "number": 77,
+          "position": "Midfielder",
+          "id": 2351076
+        },
+        {
+          "name": "Andreas Skov Olsen",
+          "number": 70,
+          "position": "Midfielder",
+          "id": 2562630
+        }
+      ],
+      [
+        {
+          "name": "Davie Selke",
+          "number": 9,
+          "position": "Forward",
+          "id": 4083436
+        }
+      ]
+    ],
+    "id": 480748,
+    "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+    "name": "İstanbul Başakşehir"
+  },
+  "awayTeam": {
+    "formation": "4-1-4-1",
+    "substitutes": [
+      {
+        "name": "Gökhan Akkan",
+        "number": 1,
+        "position": "Goalkeeper",
+        "id": 8053374
+      },
+      {
+        "name": "Metehan Baltacı",
+        "number": 90,
+        "position": "Defender",
+        "id": 26082154
+      },
+      {
+        "name": "Fıratcan Üzüm",
+        "number": 88,
+        "position": "Defender",
+        "id": 10013710
+      },
+      {
+        "name": "Ensar Çavuşoğlu",
+        "number": 53,
+        "position": "Defender",
+        "id": 46247404
+      },
+      {
+        "name": "Yiğit Hamza Aydar",
+        "number": 93,
+        "position": "Defender",
+        "id": 88691995
+      },
+      {
+        "name": "Rafael Luis",
+        "number": 83,
+        "position": "Midfielder",
+        "id": 55612130
+      },
+      {
+        "name": "Salih Uçan",
+        "number": 48,
+        "position": "Midfielder",
+        "id": 5000492
+      },
+      {
+        "name": "Sekou Koita",
+        "number": 22,
+        "position": "Forward",
+        "id": 1219085
+      },
+      {
+        "name": "Victor Orakpo",
+        "number": 12,
+        "position": "Forward",
+        "id": 76817118
+      },
+      {
+        "name": "Prince Martor",
+        "number": 45,
+        "position": "Forward",
+        "id": 100019633
+      }
+    ],
+    "initialLineup": [
+      [
+        {
+          "name": "İrfan Can Eğribayat",
+          "number": 70,
+          "position": "Goalkeeper",
+          "id": 10004211
+        }
+      ],
+      [
+        {
+          "name": "Abdurrahim Dursun",
+          "number": 77,
+          "position": "Defender",
+          "id": 16327647
+        },
+        {
+          "name": "Thalisson",
+          "number": 2,
+          "position": "Defender",
+          "id": 1567811
+        },
+        {
+          "name": "Dimitris Goutas",
+          "number": 6,
+          "position": "Defender",
+          "id": 6528221
+        },
+        {
+          "name": "Pedro Pereira",
+          "number": 13,
+          "position": "Defender",
+          "id": 4953802
+        }
+      ],
+      [
+        {
+          "name": "Ousmane Diabate",
+          "number": 42,
+          "position": "Midfielder",
+          "id": 101737986
+        }
+      ],
+      [
+        {
+          "name": "Tiago Gouveia",
+          "number": 7,
+          "position": "Midfielder",
+          "id": 25448619
+        },
+        {
+          "name": "Franco Tongya",
+          "number": 10,
+          "position": "Midfielder",
+          "id": 26077646
+        },
+        {
+          "name": "Oğulcan Ülgün",
+          "number": 35,
+          "position": "Midfielder",
+          "id": 9972333
+        },
+        {
+          "name": "Adama Malouda Traoré",
+          "number": 14,
+          "position": "Midfielder",
+          "id": 539021
+        }
+      ],
+      [
+        {
+          "name": "Pedro Mendes",
+          "number": 9,
+          "position": "Forward",
+          "id": 23788870
+        }
+      ]
+    ],
+    "id": 849231,
+    "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+    "name": "Genclerbirligi"
+  }
+}

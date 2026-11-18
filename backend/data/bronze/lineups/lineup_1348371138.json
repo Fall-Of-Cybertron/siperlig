@@ -1,0 +1,292 @@
+{
+  "homeTeam": {
+    "formation": "4-3-3",
+    "substitutes": [
+      {
+        "name": "Onurcan Piri",
+        "number": 23,
+        "position": "Goalkeeper",
+        "id": 21653366
+      },
+      {
+        "name": "Muharrem Cinan",
+        "number": 3,
+        "position": "Defender",
+        "id": 10148628
+      },
+      {
+        "name": "Onur Öztonga",
+        "number": 41,
+        "position": "Defender",
+        "id": 23250647
+      },
+      {
+        "name": "Matej Maglica",
+        "number": 6,
+        "position": "Defender",
+        "id": 43831116
+      },
+      {
+        "name": "Metehan Altunbaş",
+        "number": 26,
+        "position": "Forward",
+        "id": 10011295
+      },
+      {
+        "name": "Ege Bilim",
+        "number": 27,
+        "position": "Midfielder",
+        "id": 79180437
+      },
+      {
+        "name": "Tayfur Bingöl",
+        "number": 75,
+        "position": "Defender",
+        "id": 8078490
+      },
+      {
+        "name": "Tobias Fjeld Gulliksen",
+        "number": 8,
+        "position": "Midfielder",
+        "id": 23514687
+      },
+      {
+        "name": "Haydar Karataş",
+        "number": 19,
+        "position": "Midfielder",
+        "id": 100693901
+      },
+      {
+        "name": "Dan Agyei",
+        "number": 7,
+        "position": "Forward",
+        "id": 14134505
+      }
+    ],
+    "initialLineup": [
+      [
+        {
+          "name": "Serhat Öztaşdelen",
+          "number": 83,
+          "position": "Goalkeeper",
+          "id": 48761097
+        }
+      ],
+      [
+        {
+          "name": "Rigoberto Rivas",
+          "number": 99,
+          "position": "Defender",
+          "id": 5036234
+        },
+        {
+          "name": "Emir Ortakaya",
+          "number": 5,
+          "position": "Defender",
+          "id": 47070597
+        },
+        {
+          "name": "Anfernee Jamal Dijksteel",
+          "number": 2,
+          "position": "Defender",
+          "id": 3192462
+        },
+        {
+          "name": "Uğur Kaan Yıldız",
+          "number": 22,
+          "position": "Defender",
+          "id": 23156301
+        }
+      ],
+      [
+        {
+          "name": "Show",
+          "number": 14,
+          "position": "Midfielder",
+          "id": 533708
+        },
+        {
+          "name": "Mahamadou Susoho",
+          "number": 20,
+          "position": "Midfielder",
+          "id": 52823771
+        },
+        {
+          "name": "Berkan Kutlu",
+          "number": 10,
+          "position": "Midfielder",
+          "id": 42605101
+        }
+      ],
+      [
+        {
+          "name": "Makana Baku",
+          "number": 32,
+          "position": "Forward",
+          "id": 4277602
+        },
+        {
+          "name": "Florian Ayé",
+          "number": 97,
+          "position": "Forward",
+          "id": 3346056
+        },
+        {
+          "name": "Gonçalo Sousa",
+          "number": 11,
+          "position": "Forward",
+          "id": 64488704
+        }
+      ]
+    ],
+    "id": 6307545,
+    "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+    "name": "Kocaelispor FK"
+  },
+  "awayTeam": {
+    "formation": "4-1-4-1",
+    "substitutes": [
+      {
+        "name": "Efe Doğan",
+        "number": 97,
+        "position": "Goalkeeper",
+        "id": 53697840
+      },
+      {
+        "name": "Taha Şahin",
+        "number": 37,
+        "position": "Defender",
+        "id": 24467485
+      },
+      {
+        "name": "Attila Mocsi",
+        "number": 4,
+        "position": "Defender",
+        "id": 376089
+      },
+      {
+        "name": "Tayyip Talha Sanuç",
+        "number": 5,
+        "position": "Defender",
+        "id": 9981027
+      },
+      {
+        "name": "Taylan Antalyalı",
+        "number": 14,
+        "position": "Midfielder",
+        "id": 8082676
+      },
+      {
+        "name": "Valentin Mihăilă",
+        "number": 7,
+        "position": "Forward",
+        "id": 6932170
+      },
+      {
+        "name": "Dal Varešanović",
+        "number": 8,
+        "position": "Midfielder",
+        "id": 22352267
+      },
+      {
+        "name": "Ahmed Kutucu",
+        "number": 23,
+        "position": "Forward",
+        "id": 68096
+      },
+      {
+        "name": "Ali Sowe",
+        "number": 9,
+        "position": "Forward",
+        "id": 1773086
+      },
+      {
+        "name": "Iustin Doicaru",
+        "number": 79,
+        "position": "Forward",
+        "id": 71800680
+      }
+    ],
+    "initialLineup": [
+      [
+        {
+          "name": "Zafer Görgen",
+          "number": 30,
+          "position": "Goalkeeper",
+          "id": 8053535
+        }
+      ],
+      [
+        {
+          "name": "Zakaria Ariss",
+          "number": 17,
+          "position": "Defender",
+          "id": 56920094
+        },
+        {
+          "name": "Modibo Sagnan",
+          "number": 93,
+          "position": "Defender",
+          "id": 3326575
+        },
+        {
+          "name": "Siaka Bakayoko",
+          "number": 21,
+          "position": "Defender",
+          "id": 62081915
+        },
+        {
+          "name": "Mithat Pala",
+          "number": 54,
+          "position": "Defender",
+          "id": 24462977
+        }
+      ],
+      [
+        {
+          "name": "Moussa Diakité",
+          "number": 6,
+          "position": "Midfielder",
+          "id": 56907697
+        }
+      ],
+      [
+        {
+          "name": "Emrecan Bulut",
+          "number": 99,
+          "position": "Midfielder",
+          "id": 61801614
+        },
+        {
+          "name": "Qazim Laci",
+          "number": 20,
+          "position": "Midfielder",
+          "id": 3373587
+        },
+        {
+          "name": "Ibrahim Olawoyin",
+          "number": 10,
+          "position": "Midfielder",
+          "id": 29083838
+        },
+        {
+          "name": "Adedire Mebude",
+          "number": 11,
+          "position": "Midfielder",
+          "id": 26149452
+        }
+      ],
+      [
+        {
+          "name": "Gennaro Borrelli",
+          "number": 29,
+          "position": "Forward",
+          "id": 5071493
+        }
+      ]
+    ],
+    "id": 857741,
+    "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+    "name": "Rizespor"
+  }
+}

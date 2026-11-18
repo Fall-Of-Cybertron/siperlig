@@ -1,0 +1,18 @@
+{
+  "homeTeam": {
+    "formation": "Unknown",
+    "substitutes": [],
+    "initialLineup": [],
+    "id": 3041407,
+    "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+    "name": "Gazişehir Gaziantep"
+  },
+  "awayTeam": {
+    "formation": "Unknown",
+    "substitutes": [],
+    "initialLineup": [],
+    "id": 857741,
+    "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+    "name": "Rizespor"
+  }
+}

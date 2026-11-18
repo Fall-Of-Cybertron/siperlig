@@ -1,0 +1,1293 @@
+[
+  {
+    "venue": {
+      "city": "Istanbul",
+      "name": "Rams Park",
+      "country": "Turkiye",
+      "capacity": "52650"
+    },
+    "referee": {
+      "name": "Turkmen, Mehmet",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "clear night",
+      "temperature": "22.19°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "16",
+        "type": "Goal",
+        "assist": "Andre Henrique",
+        "player": "N. Miroshi",
+        "playerId": 48862527,
+        "substituted": null,
+        "assistingPlayerId": 38293521
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "33",
+        "type": "Goal",
+        "assist": null,
+        "player": "D. Sanchez",
+        "playerId": 27202,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "36",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "André Henrique",
+        "playerId": 38293521,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "46",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Bardakci",
+        "playerId": 9955911,
+        "substituted": "A. Batrakov",
+        "assistingPlayerId": 64572907
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "55",
+        "type": "Goal",
+        "assist": "V. Osimhen",
+        "player": "Gabriel Sara",
+        "playerId": 12969026,
+        "substituted": null,
+        "assistingPlayerId": 447734
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "61",
+        "type": "VAR Penalty",
+        "assist": null,
+        "player": "Victor Osimhen",
+        "playerId": 447734,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "61",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Malcom Bokele",
+        "playerId": 14109067,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "63",
+        "type": "Penalty",
+        "assist": null,
+        "player": "V. Osimhen",
+        "playerId": 447734,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "64",
+        "type": "Substitution",
+        "assist": null,
+        "player": "R. Akonnor",
+        "playerId": 93306416,
+        "substituted": "O. Bayrak",
+        "assistingPlayerId": 21664958
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "64",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Janderson",
+        "playerId": 56896588,
+        "substituted": "Juan",
+        "assistingPlayerId": 29127630
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "64",
+        "type": "Substitution",
+        "assist": null,
+        "player": "E. Bekiroglu",
+        "playerId": 4206762,
+        "substituted": "S. Armstrong",
+        "assistingPlayerId": 32178097
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "65",
+        "type": "Goal",
+        "assist": null,
+        "player": "Juan",
+        "playerId": 29127630,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "67",
+        "type": "VAR Goal Cancelled",
+        "assist": null,
+        "player": "Victor Osimhen",
+        "playerId": 447734,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "70",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Barış Alper Yılmaz",
+        "playerId": 10187268,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "73",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Gabriel Sara",
+        "playerId": 12969026,
+        "substituted": "W. Singo",
+        "assistingPlayerId": 4911298
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "73",
+        "type": "Substitution",
+        "assist": null,
+        "player": "B. Yilmaz",
+        "playerId": 10187268,
+        "substituted": "L. Sane",
+        "assistingPlayerId": 103838
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "79",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Andre Henrique",
+        "playerId": 38293521,
+        "substituted": "B. Boke",
+        "assistingPlayerId": 31735508
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "81",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Y. Akgun",
+        "playerId": 73248,
+        "substituted": "E. Elmali",
+        "assistingPlayerId": 8059331
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "89",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Rhaldney",
+        "playerId": 8806693,
+        "substituted": "A. Matos",
+        "assistingPlayerId": 46628652
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "90+4",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Eren Elmalı",
+        "playerId": 8059331,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "90+1",
+        "type": "Substitution",
+        "assist": null,
+        "player": "L. Torreira",
+        "playerId": 235536,
+        "substituted": "L. Ugochukwu",
+        "assistingPlayerId": 43551942
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-08-29T18:44:11.565Z",
+          "probabilities": {
+            "away": "8.88%",
+            "draw": "15.74%",
+            "home": "75.38%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-08-29T18:54:19.211Z",
+          "probabilities": {
+            "away": "20.61%",
+            "draw": "23.08%",
+            "home": "56.31%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-08-29T19:04:18.897Z",
+          "probabilities": {
+            "away": "21.82%",
+            "draw": "24.48%",
+            "home": "53.70%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-08-29T19:14:29.722Z",
+          "probabilities": {
+            "away": "10.68%",
+            "draw": "21.98%",
+            "home": "67.34%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-08-29T19:24:35.359Z",
+          "probabilities": {
+            "away": "10.55%",
+            "draw": "24.87%",
+            "home": "64.58%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-08-29T19:34:24.495Z",
+          "probabilities": {
+            "away": "10.66%",
+            "draw": "25.49%",
+            "home": "63.85%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-08-29T19:45:40.232Z",
+          "probabilities": {
+            "away": "9.91%",
+            "draw": "25.57%",
+            "home": "64.53%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-08-29T19:56:08.497Z",
+          "probabilities": {
+            "away": "2.59%",
+            "draw": "10.30%",
+            "home": "87.11%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-08-29T20:04:24.920Z",
+          "probabilities": {
+            "away": "2.43%",
+            "draw": "12.22%",
+            "home": "85.35%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-08-29T20:15:41.033Z",
+          "probabilities": {
+            "away": "1.80%",
+            "draw": "12.40%",
+            "home": "85.80%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-08-29T20:24:57.856Z",
+          "probabilities": {
+            "away": "0.65%",
+            "draw": "9.01%",
+            "home": "90.34%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-08-29T20:34:32.205Z",
+          "probabilities": {
+            "away": "0.43%",
+            "draw": "6.16%",
+            "home": "93.41%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-08-22T12:24:44.407Z",
+          "probabilities": {
+            "away": "16.09%",
+            "draw": "20.66%",
+            "home": "63.25%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-08-22T17:14:44.604Z",
+          "probabilities": {
+            "away": "16.09%",
+            "draw": "20.66%",
+            "home": "63.25%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-08-23T11:26:23.535Z",
+          "probabilities": {
+            "away": "15.00%",
+            "draw": "19.18%",
+            "home": "65.83%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-08-23T15:59:50.715Z",
+          "probabilities": {
+            "away": "15.00%",
+            "draw": "19.18%",
+            "home": "65.83%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-08-23T19:49:24.731Z",
+          "probabilities": {
+            "away": "13.93%",
+            "draw": "19.96%",
+            "home": "66.12%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-08-24T13:03:31.435Z",
+          "probabilities": {
+            "away": "13.52%",
+            "draw": "20.01%",
+            "home": "66.47%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-08-24T17:32:33.432Z",
+          "probabilities": {
+            "away": "13.33%",
+            "draw": "20.08%",
+            "home": "66.59%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-08-25T10:06:59.975Z",
+          "probabilities": {
+            "away": "13.51%",
+            "draw": "20.15%",
+            "home": "66.34%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-08-25T14:25:06.951Z",
+          "probabilities": {
+            "away": "13.56%",
+            "draw": "20.14%",
+            "home": "66.30%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-08-25T18:44:17.963Z",
+          "probabilities": {
+            "away": "13.54%",
+            "draw": "20.19%",
+            "home": "66.27%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-08-26T10:26:20.309Z",
+          "probabilities": {
+            "away": "13.58%",
+            "draw": "20.07%",
+            "home": "66.35%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-08-26T16:37:50.676Z",
+          "probabilities": {
+            "away": "13.68%",
+            "draw": "20.06%",
+            "home": "66.25%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-08-26T21:10:01.896Z",
+          "probabilities": {
+            "away": "13.68%",
+            "draw": "20.06%",
+            "home": "66.26%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-08-27T13:15:31.150Z",
+          "probabilities": {
+            "away": "13.49%",
+            "draw": "19.99%",
+            "home": "66.52%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-08-27T21:46:24.867Z",
+          "probabilities": {
+            "away": "13.37%",
+            "draw": "20.01%",
+            "home": "66.63%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-08-28T13:00:53.434Z",
+          "probabilities": {
+            "away": "13.11%",
+            "draw": "19.97%",
+            "home": "66.92%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-08-28T18:17:07.270Z",
+          "probabilities": {
+            "away": "13.07%",
+            "draw": "19.96%",
+            "home": "66.97%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-08-29T17:31:59.768Z",
+          "probabilities": {
+            "away": "9.12%",
+            "draw": "15.93%",
+            "home": "74.96%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "statistics": [
+          {
+            "value": 2.87,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 5,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 45,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 12,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 1.69,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 10,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 30,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 212,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 286,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 30,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 62,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 17,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 21,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 90,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 75,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 8,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 1,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 3,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 46,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 33,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 58,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 4,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 10,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.32,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 75,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.67,
+            "displayName": "Possession"
+          },
+          {
+            "value": 11,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 6,
+            "displayName": "Corners"
+          },
+          {
+            "value": 2,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 393,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 18,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 5,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 27,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 468,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 2,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 5,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 2,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "statistics": [
+          {
+            "value": 0.63,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 1,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 42,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 5,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.31,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 15,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 93,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 157,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 22,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 68,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 17,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 6,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 26,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 33,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 14,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 8,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 9,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 14,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 40,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 25,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 58,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 5,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.44,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 92,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.33,
+            "displayName": "Possession"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 2,
+            "displayName": "Corners"
+          },
+          {
+            "value": 6,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 143,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 2,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 235,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 8,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 12,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 2,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 2,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348315823,
+    "round": "Regular Season - 3",
+    "date": "2026-08-29T18:30:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "3 - 2",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 846678,
+      "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+      "name": "Goztepe",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "13'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "André Henrique"
+        },
+        {
+          "time": "16'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Malcom Bokele"
+        },
+        {
+          "time": "16'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "André Henrique"
+        },
+        {
+          "time": "16'",
+          "outcome": "Goal",
+          "goalTarget": "High Left",
+          "playerName": "Novatus Miroshi"
+        },
+        {
+          "time": "65'",
+          "outcome": "Goal",
+          "goalTarget": "High Right",
+          "playerName": "Juan"
+        },
+        {
+          "time": "71'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Malcom Bokele"
+        },
+        {
+          "time": "86'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Bekir Turaç Böke"
+        },
+        {
+          "time": "90 + 6'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Taha Altıkardeş"
+        },
+        {
+          "time": "90 + 7'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Novatus Miroshi"
+        },
+        {
+          "time": "90 + 7'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Novatus Miroshi"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 549679,
+      "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+      "name": "Galatasaray",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "4'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "5'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "12'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Gabriel Sara"
+        },
+        {
+          "time": "20'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Ismail Jakobs"
+        },
+        {
+          "time": "24'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "25'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "29'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "31'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Gabriel Sara"
+        },
+        {
+          "time": "33'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Roland Sallai"
+        },
+        {
+          "time": "33'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Davinson Sanchez"
+        },
+        {
+          "time": "39'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Yunus Akgün"
+        },
+        {
+          "time": "42'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Gabriel Sara"
+        },
+        {
+          "time": "45'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "45 + 1'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Baris Yilmaz"
+        },
+        {
+          "time": "47'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Mario Lemina"
+        },
+        {
+          "time": "48'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Aleksey Batrakov"
+        },
+        {
+          "time": "49'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Yunus Akgün"
+        },
+        {
+          "time": "50'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "51'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "51'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "52'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Roland Sallai"
+        },
+        {
+          "time": "52'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "55'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Gabriel Sara"
+        },
+        {
+          "time": "56'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "56'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Yunus Akgün"
+        },
+        {
+          "time": "57'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "63'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "73'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Baris Yilmaz"
+        },
+        {
+          "time": "78'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Roland Sallai"
+        },
+        {
+          "time": "78'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Ismail Jakobs"
+        },
+        {
+          "time": "78'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Aleksey Batrakov"
+        },
+        {
+          "time": "78'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Aleksey Batrakov"
+        },
+        {
+          "time": "90'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "90 + 4'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Victor Osimhen"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

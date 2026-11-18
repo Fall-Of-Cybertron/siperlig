@@ -1,0 +1,848 @@
+[
+  {
+    "venue": {
+      "city": "Erzurum",
+      "name": "Kazim Karabekir Stadyumu",
+      "country": "Turkiye",
+      "capacity": "23700"
+    },
+    "referee": {
+      "name": "Taskinsoy, Abdullah Bugra",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "clear day",
+      "temperature": "21.04°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 859443,
+          "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+          "name": "Erzurum BB"
+        },
+        "time": "18",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Miguel Cardoso",
+        "playerId": 8639253,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 859443,
+          "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+          "name": "Erzurum BB"
+        },
+        "time": "33",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Elisha Owusu",
+        "playerId": 3382764,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 859443,
+          "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+          "name": "Erzurum BB"
+        },
+        "time": "45",
+        "type": "Goal",
+        "assist": null,
+        "player": "Miguel Cardoso",
+        "playerId": 8639253,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3066937,
+          "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+          "name": "Samsunspor"
+        },
+        "time": "46",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Saikuba Jarju",
+        "playerId": 101699668,
+        "substituted": "Tanguy Coulibaly",
+        "assistingPlayerId": 18286695
+      },
+      {
+        "team": {
+          "id": 859443,
+          "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+          "name": "Erzurum BB"
+        },
+        "time": "57",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Martín Rodríguez",
+        "playerId": 5784079,
+        "substituted": "Sefa Akgün",
+        "assistingPlayerId": 8082515
+      },
+      {
+        "team": {
+          "id": 3066937,
+          "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+          "name": "Samsunspor"
+        },
+        "time": "64",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Samed Onur",
+        "playerId": 32681866,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3066937,
+          "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+          "name": "Samsunspor"
+        },
+        "time": "65",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Elliot Watt",
+        "playerId": 3018743,
+        "substituted": "Antoine Sekongo",
+        "assistingPlayerId": 70435078
+      },
+      {
+        "team": {
+          "id": 859443,
+          "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+          "name": "Erzurum BB"
+        },
+        "time": "66",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Miguel Cardoso",
+        "playerId": 8639253,
+        "substituted": "Ibrahim Diabaté",
+        "assistingPlayerId": 29428378
+      },
+      {
+        "team": {
+          "id": 859443,
+          "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+          "name": "Erzurum BB"
+        },
+        "time": "66",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Eren Tozlu",
+        "playerId": 8038079,
+        "substituted": "Gyrano Kerk",
+        "assistingPlayerId": 5987422
+      },
+      {
+        "team": {
+          "id": 859443,
+          "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+          "name": "Erzurum BB"
+        },
+        "time": "77",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Brandon Baiye",
+        "playerId": 12229,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3066937,
+          "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+          "name": "Samsunspor"
+        },
+        "time": "79",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Samed Onur",
+        "playerId": 32681866,
+        "substituted": "Yalçın Kayan",
+        "assistingPlayerId": 8079295
+      },
+      {
+        "team": {
+          "id": 859443,
+          "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+          "name": "Erzurum BB"
+        },
+        "time": "82",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Orhan Ovacıklı",
+        "playerId": 8054823,
+        "substituted": "Festy Ebosele",
+        "assistingPlayerId": 26023872
+      },
+      {
+        "team": {
+          "id": 3066937,
+          "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+          "name": "Samsunspor"
+        },
+        "time": "86",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Emre Kılınç",
+        "playerId": 8064805,
+        "substituted": null,
+        "assistingPlayerId": null
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-09-20T14:27:48.954Z",
+          "probabilities": {
+            "away": "31.65%",
+            "draw": "34.58%",
+            "home": "33.78%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Erzurum BB is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-09-20T14:47:47.882Z",
+          "probabilities": {
+            "away": "9.55%",
+            "draw": "24.69%",
+            "home": "65.76%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Erzurum BB is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-09-20T15:18:14.705Z",
+          "probabilities": {
+            "away": "7.08%",
+            "draw": "23.28%",
+            "home": "69.64%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Erzurum BB is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-09-20T15:38:10.994Z",
+          "probabilities": {
+            "away": "2.79%",
+            "draw": "18.43%",
+            "home": "78.78%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Erzurum BB is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-09-20T15:48:50.320Z",
+          "probabilities": {
+            "away": "0.74%",
+            "draw": "10.43%",
+            "home": "88.83%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Erzurum BB is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-09-20T15:58:35.441Z",
+          "probabilities": {
+            "away": "0.42%",
+            "draw": "6.23%",
+            "home": "93.35%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Erzurum BB is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-09-17T20:32:30.687Z",
+          "probabilities": {
+            "away": "35.00%",
+            "draw": "29.13%",
+            "home": "35.87%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Erzurum BB is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-09-18T10:15:36.106Z",
+          "probabilities": {
+            "away": "35.02%",
+            "draw": "29.15%",
+            "home": "35.83%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Erzurum BB is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-09-18T15:57:57.790Z",
+          "probabilities": {
+            "away": "35.03%",
+            "draw": "29.10%",
+            "home": "35.87%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Erzurum BB is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-09-18T21:48:48.770Z",
+          "probabilities": {
+            "away": "35.05%",
+            "draw": "29.10%",
+            "home": "35.85%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Erzurum BB is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-09-19T11:41:19.324Z",
+          "probabilities": {
+            "away": "35.03%",
+            "draw": "29.08%",
+            "home": "35.88%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Erzurum BB is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-09-19T17:54:42.945Z",
+          "probabilities": {
+            "away": "35.03%",
+            "draw": "29.14%",
+            "home": "35.84%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Erzurum BB is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-09-20T11:40:38.673Z",
+          "probabilities": {
+            "away": "33.72%",
+            "draw": "30.06%",
+            "home": "36.22%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Erzurum BB is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-09-20T16:52:01.963Z",
+          "probabilities": {
+            "away": "31.65%",
+            "draw": "30.35%",
+            "home": "38.00%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Erzurum BB is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-09-20T21:54:44.504Z",
+          "probabilities": {
+            "away": "31.65%",
+            "draw": "30.35%",
+            "home": "38.00%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 859443,
+          "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+          "name": "Erzurum BB"
+        },
+        "statistics": [
+          {
+            "value": 0.72,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 2,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 78,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 13,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.52,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 18,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 169,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 263,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 23,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 63,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 17,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 6,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 79,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 71,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 12,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 12,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 10,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 14,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 20,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 17,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 6,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 9,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.25,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 73,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.42,
+            "displayName": "Possession"
+          },
+          {
+            "value": 2,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 3,
+            "displayName": "Corners"
+          },
+          {
+            "value": 0,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 341,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 2,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 414,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 2,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 11,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 3,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 2,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 3066937,
+          "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+          "name": "Samsunspor"
+        },
+        "statistics": [
+          {
+            "value": 0.36,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 0,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 73,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 11,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.57,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 15,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 317,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 282,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 22,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 45,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 19,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 5,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 63,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 78,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 9,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 6,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 4,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 7,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 26,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 9,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 17,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 10,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 17,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.25,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 76,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.58,
+            "displayName": "Possession"
+          },
+          {
+            "value": 2,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 5,
+            "displayName": "Corners"
+          },
+          {
+            "value": 2,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 508,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 0,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 2,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 584,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 1,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 14,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 2,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348337949,
+    "round": "Regular Season - 6",
+    "date": "2026-09-20T14:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "1 - 0",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 3066937,
+      "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+      "name": "Samsunspor",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "8'",
+          "outcome": "Missed",
+          "goalTarget": "Close High",
+          "playerName": "Samed Onur"
+        },
+        {
+          "time": "15'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Gabriele Guarino"
+        },
+        {
+          "time": "24'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Mohamed Bayo"
+        },
+        {
+          "time": "52'",
+          "outcome": "Missed",
+          "goalTarget": "Close High",
+          "playerName": "Samed Onur"
+        },
+        {
+          "time": "55'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Celil Yüksel"
+        },
+        {
+          "time": "63'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Logi Tómasson"
+        },
+        {
+          "time": "69'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Joe Mendes"
+        },
+        {
+          "time": "88'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Celil Yüksel"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 859443,
+      "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+      "name": "Erzurum BB",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "41'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Martín Rodríguez"
+        },
+        {
+          "time": "45'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Elisha Owusu"
+        },
+        {
+          "time": "45'",
+          "outcome": "Goal",
+          "goalTarget": "Low Centre",
+          "playerName": "Miguel Cardoso"
+        },
+        {
+          "time": "45 + 3'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Nihad Mujakić"
+        },
+        {
+          "time": "62'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Eren Tozlu"
+        },
+        {
+          "time": "66'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Sefa Akgün"
+        },
+        {
+          "time": "71'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Ibrahim Diabate"
+        },
+        {
+          "time": "79'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Ibrahim Diabate"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

@@ -1,0 +1,294 @@
+{
+  "homeTeam": {
+    "formation": "4-1-4-1",
+    "substitutes": [
+      {
+        "name": "Emre Bilgin",
+        "number": 1,
+        "position": "Goalkeeper",
+        "id": 44289644
+      },
+      {
+        "name": "Ömer Ahmet Ceyhan",
+        "number": 44,
+        "position": "Defender",
+        "id": 101477166
+      },
+      {
+        "name": "Berhan Satli",
+        "number": 42,
+        "position": "Defender",
+        "id": 100937333
+      },
+      {
+        "name": "Arda Yavuz",
+        "number": 3,
+        "position": "Defender",
+        "id": 72747199
+      },
+      {
+        "name": "Seyfettin Anıl Yaşar",
+        "number": 4,
+        "position": "Defender",
+        "id": 22126384
+      },
+      {
+        "name": "Hamza Akman",
+        "number": 18,
+        "position": "Midfielder",
+        "id": 58665012
+      },
+      {
+        "name": "Lenny Pintor",
+        "number": 11,
+        "position": "Forward",
+        "id": 108024
+      },
+      {
+        "name": "Mete Demir",
+        "number": 70,
+        "position": "Forward",
+        "id": 10011939
+      },
+      {
+        "name": "Christ Sadia",
+        "number": 84,
+        "position": "Midfielder",
+        "id": 98920325
+      },
+      {
+        "name": "Yusuf Barası",
+        "number": 9,
+        "position": "Forward",
+        "id": 5942020
+      }
+    ],
+    "initialLineup": [
+      [
+        {
+          "name": "Horațiu Moldovan",
+          "number": 31,
+          "position": "Goalkeeper",
+          "id": 6865516
+        }
+      ],
+      [
+        {
+          "name": "Simone Giordano",
+          "number": 21,
+          "position": "Defender",
+          "id": 51995748
+        },
+        {
+          "name": "Zak Jules",
+          "number": 33,
+          "position": "Defender",
+          "id": 2894451
+        },
+        {
+          "name": "Jawad El Yamiq",
+          "number": 5,
+          "position": "Defender",
+          "id": 5053300
+        },
+        {
+          "name": "Talha Ülvan",
+          "number": 7,
+          "position": "Defender",
+          "id": 56797573
+        }
+      ],
+      [
+        {
+          "name": "Chandrel Massanga",
+          "number": 88,
+          "position": "Midfielder",
+          "id": 46936645
+        }
+      ],
+      [
+        {
+          "name": "Konrad Michalak",
+          "number": 77,
+          "position": "Midfielder",
+          "id": 6512926
+        },
+        {
+          "name": "Charles-Andre Raux Yao",
+          "number": 15,
+          "position": "Midfielder",
+          "id": 53640202
+        },
+        {
+          "name": "David Costa",
+          "number": 8,
+          "position": "Midfielder",
+          "id": 68759390
+        },
+        {
+          "name": "Bilal Boutobba",
+          "number": 98,
+          "position": "Midfielder",
+          "id": 3475983
+        }
+      ],
+      [
+        {
+          "name": "Ahmed Abdullahi",
+          "number": 29,
+          "position": "Forward",
+          "id": 62542375
+        }
+      ]
+    ],
+    "id": 3054172,
+    "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+    "name": "Eyüpspor"
+  },
+  "awayTeam": {
+    "formation": "4-1-4-1",
+    "substitutes": [
+      {
+        "name": "Zafer Görgen",
+        "number": 30,
+        "position": "Goalkeeper",
+        "id": 8053535
+      },
+      {
+        "name": "Siaka Bakayoko",
+        "number": 21,
+        "position": "Defender",
+        "id": 62081915
+      },
+      {
+        "name": "Umut Erdem",
+        "number": 19,
+        "position": "Defender",
+        "id": 62628188
+      },
+      {
+        "name": "Tayyip Talha Sanuç",
+        "number": 5,
+        "position": "Defender",
+        "id": 9981027
+      },
+      {
+        "name": "Zakaria Ariss",
+        "number": 17,
+        "position": "Defender",
+        "id": 56920094
+      },
+      {
+        "name": "Moussa Diakité",
+        "number": 6,
+        "position": "Midfielder",
+        "id": 56907697
+      },
+      {
+        "name": "Dal Varešanović",
+        "number": 8,
+        "position": "Midfielder",
+        "id": 22352267
+      },
+      {
+        "name": "Ahmed Kutucu",
+        "number": 23,
+        "position": "Forward",
+        "id": 68096
+      },
+      {
+        "name": "Emrecan Bulut",
+        "number": 99,
+        "position": "Forward",
+        "id": 61801614
+      },
+      {
+        "name": "Adedire Mebude",
+        "number": 11,
+        "position": "Forward",
+        "id": 26149452
+      }
+    ],
+    "initialLineup": [
+      [
+        {
+          "name": "Yahia Fofana",
+          "number": 75,
+          "position": "Goalkeeper",
+          "id": 10334744
+        }
+      ],
+      [
+        {
+          "name": "Taha Şahin",
+          "number": 37,
+          "position": "Defender",
+          "id": 24467485
+        },
+        {
+          "name": "Modibo Sagnan",
+          "number": 93,
+          "position": "Defender",
+          "id": 3326575
+        },
+        {
+          "name": "Attila Mocsi",
+          "number": 4,
+          "position": "Defender",
+          "id": 376089
+        },
+        {
+          "name": "Mithat Pala",
+          "number": 54,
+          "position": "Defender",
+          "id": 24462977
+        }
+      ],
+      [
+        {
+          "name": "Taylan Antalyalı",
+          "number": 14,
+          "position": "Midfielder",
+          "id": 8082676
+        }
+      ],
+      [
+        {
+          "name": "Valentin Mihăilă",
+          "number": 7,
+          "position": "Midfielder",
+          "id": 6932170
+        },
+        {
+          "name": "Qazim Laci",
+          "number": 20,
+          "position": "Midfielder",
+          "id": 3373587
+        },
+        {
+          "name": "Ibrahim Olawoyin",
+          "number": 10,
+          "position": "Midfielder",
+          "id": 29083838
+        },
+        {
+          "name": "Iustin Doicaru",
+          "number": 79,
+          "position": "Midfielder",
+          "id": 71800680
+        }
+      ],
+      [
+        {
+          "name": "Ali Sowe",
+          "number": 9,
+          "position": "Forward",
+          "id": 1773086
+        }
+      ]
+    ],
+    "id": 857741,
+    "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+    "name": "Rizespor"
+  }
+}

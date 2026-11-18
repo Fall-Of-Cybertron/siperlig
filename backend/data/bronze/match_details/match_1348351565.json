@@ -1,0 +1,892 @@
+[
+  {
+    "venue": {
+      "city": null,
+      "name": null,
+      "country": null,
+      "capacity": null
+    },
+    "referee": {
+      "name": null,
+      "nationality": null
+    },
+    "forecast": {
+      "status": null,
+      "temperature": null
+    },
+    "events": [
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "8",
+        "type": "Goal",
+        "assist": null,
+        "player": "E. Shomurodov",
+        "playerId": 8619289,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "30",
+        "type": "VAR Goal Cancelled - Offside",
+        "assist": null,
+        "player": "I. Brnic",
+        "playerId": 2351076,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "36",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "O. Ak",
+        "playerId": null,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "45+3",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "S. Kharebashvili",
+        "playerId": 71561756,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "46",
+        "type": "Substitution",
+        "assist": null,
+        "player": "S. Kharebashvili",
+        "playerId": 71561756,
+        "substituted": "O. Sahiner",
+        "assistingPlayerId": 8053052
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "46",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Sylla",
+        "playerId": 58734564,
+        "substituted": "K. Calhanoglu",
+        "assistingPlayerId": 32668503
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "46",
+        "type": "Substitution",
+        "assist": null,
+        "player": "V. Gidado",
+        "playerId": 72639812,
+        "substituted": "A. Maxim",
+        "assistingPlayerId": 4173435
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "51",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "J. Kaluzinski",
+        "playerId": 31843378,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "57",
+        "type": "Substitution",
+        "assist": null,
+        "player": "J. Kaluzinski",
+        "playerId": 31843378,
+        "substituted": "U. Gunes",
+        "assistingPlayerId": 20764002
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "57",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Skov Olsen",
+        "playerId": 2562630,
+        "substituted": "Y. Sari",
+        "assistingPlayerId": 309435
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "57",
+        "type": "Substitution",
+        "assist": null,
+        "player": "T. Stewart",
+        "playerId": 30972368,
+        "substituted": "S. Dursun",
+        "assistingPlayerId": 4033687
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "58",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "D. Camara",
+        "playerId": 14719418,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "64",
+        "type": "Substitution",
+        "assist": null,
+        "player": "D. Camara",
+        "playerId": 14719418,
+        "substituted": "K. Gassama",
+        "assistingPlayerId": 65763985
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "66",
+        "type": "Goal",
+        "assist": "K. Kozlowski",
+        "player": "S. Dursun",
+        "playerId": 4033687,
+        "substituted": null,
+        "assistingPlayerId": 10353098
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "72",
+        "type": "Substitution",
+        "assist": null,
+        "player": "I. Brnic",
+        "playerId": 2351076,
+        "substituted": "E. Visca",
+        "assistingPlayerId": 8027614
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "72",
+        "type": "Substitution",
+        "assist": null,
+        "player": "U. Bozok",
+        "playerId": 3453121,
+        "substituted": "B. Yildirim",
+        "assistingPlayerId": 11025917
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "75",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "O. Ba",
+        "playerId": 3376002,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "79",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "U. Gunes",
+        "playerId": 20764002,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "80",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "D. Sorescu",
+        "playerId": 6954388,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "81",
+        "type": "Goal",
+        "assist": "E. Shomurodov",
+        "player": "U. Gunes",
+        "playerId": 20764002,
+        "substituted": null,
+        "assistingPlayerId": 8619289
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "85",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "K. Kozlowski",
+        "playerId": 10353098,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "85",
+        "type": "Substitution",
+        "assist": null,
+        "player": "L. Perez",
+        "playerId": 7579712,
+        "substituted": "S. Destici",
+        "assistingPlayerId": 23140040
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "87",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "S. Dursun",
+        "playerId": 4033687,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "90+5",
+        "type": "Red Card",
+        "assist": null,
+        "player": "O. Ak",
+        "playerId": null,
+        "substituted": null,
+        "assistingPlayerId": null
+      }
+    ],
+    "predictions": null,
+    "statistics": [
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "statistics": [
+          {
+            "value": 2.03,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 2,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 69,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 13,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 1.09,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 4,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 19,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 247,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 253,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 36,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 55,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 13,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 11,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 82,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 65,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 5,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 4,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 2,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 5,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 26,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 15,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 8,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.43,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 59,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.5,
+            "displayName": "Possession"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 4,
+            "displayName": "Corners"
+          },
+          {
+            "value": 0,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 422,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 3,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 10,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 481,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 3,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 28,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 4,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "statistics": [
+          {
+            "value": 1.13,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 2,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 53,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 26,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.83,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 10,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 21,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 289,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 211,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 35,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 58,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 13,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 9,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 57,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 64,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 10,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 7,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 6,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 12,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 22,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 7,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 15,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 6,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.33,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 69,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.5,
+            "displayName": "Possession"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 5,
+            "displayName": "Corners"
+          },
+          {
+            "value": 3,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 410,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 4,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 8,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 479,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 4,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 15,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 4,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348351565,
+    "round": "Regular Season - 8",
+    "date": "2026-10-18T16:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "2 - 1",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 3041407,
+      "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+      "name": "Gazişehir Gaziantep",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "7'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Drissa Camara"
+        },
+        {
+          "time": "34'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Deian Sorescu"
+        },
+        {
+          "time": "37'",
+          "outcome": "Missed",
+          "goalTarget": "Close High",
+          "playerName": "Drissa Camara"
+        },
+        {
+          "time": "63'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Deian Sorescu"
+        },
+        {
+          "time": "65'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Arda Kizildag"
+        },
+        {
+          "time": "66'",
+          "outcome": "Goal",
+          "goalTarget": "High Left",
+          "playerName": "Serdar Dursun"
+        },
+        {
+          "time": "68'",
+          "outcome": "Blocked",
+          "goalTarget": "High Right",
+          "playerName": "Deian Sorescu"
+        },
+        {
+          "time": "70'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Serdar Dursun"
+        },
+        {
+          "time": "81'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Kacper Kozłowski"
+        },
+        {
+          "time": "90'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Alexandru Maxim"
+        },
+        {
+          "time": "90'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Kacper Kozłowski"
+        },
+        {
+          "time": "90 + 1'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Myenty Abena"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 480748,
+      "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+      "name": "İstanbul Başakşehir",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "4'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Ivan Brnic"
+        },
+        {
+          "time": "8'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Eldor Shomurodov"
+        },
+        {
+          "time": "14'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Umut Bozok"
+        },
+        {
+          "time": "17'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Andreas Skov Olsen"
+        },
+        {
+          "time": "28'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Michal Karbownik"
+        },
+        {
+          "time": "28'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Andreas Skov Olsen"
+        },
+        {
+          "time": "43'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Umut Bozok"
+        },
+        {
+          "time": "43'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Jakub Kałuziński"
+        },
+        {
+          "time": "45'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Ivan Brnic"
+        },
+        {
+          "time": "49'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Umut Bozok"
+        },
+        {
+          "time": "53'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Umut Bozok"
+        },
+        {
+          "time": "56'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Ivan Brnic"
+        },
+        {
+          "time": "82'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Umut Gunes"
+        },
+        {
+          "time": "84'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Yusuf Sari"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

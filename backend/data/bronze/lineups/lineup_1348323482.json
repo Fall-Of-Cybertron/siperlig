@@ -1,0 +1,286 @@
+{
+  "homeTeam": {
+    "formation": "3-4-3",
+    "substitutes": [
+      {
+        "name": "F. Anjorin",
+        "number": 18,
+        "position": "Midfielder",
+        "id": 22343251
+      },
+      {
+        "name": "A. Antunes",
+        "number": 8,
+        "position": "Midfielder",
+        "id": 7825881
+      },
+      {
+        "name": "S. Armstrong",
+        "number": 22,
+        "position": "Forward",
+        "id": 32178097
+      },
+      {
+        "name": "O. Bayrak",
+        "number": 16,
+        "position": "Defender",
+        "id": 21664958
+      },
+      {
+        "name": "E. Bekiroğlu",
+        "number": 10,
+        "position": "Midfielder",
+        "id": 4206762
+      },
+      {
+        "name": "T. Böke",
+        "number": 14,
+        "position": "Forward",
+        "id": 31735508
+      },
+      {
+        "name": "Alex Matos",
+        "number": 6,
+        "position": "Midfielder",
+        "id": 46628652
+      },
+      {
+        "name": "A. Özçimen",
+        "number": 1,
+        "position": "Goalkeeper",
+        "id": 8076719
+      },
+      {
+        "name": "Ş. Öztürk",
+        "number": 33,
+        "position": "Goalkeeper",
+        "id": 59267796
+      }
+    ],
+    "initialLineup": [
+      [
+        {
+          "name": "L. Gugeshashvili",
+          "number": 25,
+          "position": "Goalkeeper",
+          "id": 3971219
+        }
+      ],
+      [
+        {
+          "name": "M. Bokele",
+          "number": 26,
+          "position": "Defender",
+          "id": 14109067
+        },
+        {
+          "name": "Ege Yildirim",
+          "number": 13,
+          "position": "Defender",
+          "id": 70483700
+        },
+        {
+          "name": "T. Altıkardeş",
+          "number": 4,
+          "position": "Defender",
+          "id": 48504946
+        }
+      ],
+      [
+        {
+          "name": "R. Akonnor",
+          "number": 12,
+          "position": "Midfielder",
+          "id": 64665160
+        },
+        {
+          "name": "N. Dismas",
+          "number": 20,
+          "position": "Midfielder",
+          "id": 48862527
+        },
+        {
+          "name": "Rhaldney",
+          "number": 5,
+          "position": "Midfielder",
+          "id": 8806693
+        },
+        {
+          "name": "A. Kurtulan",
+          "number": 2,
+          "position": "Midfielder",
+          "id": 52833109
+        }
+      ],
+      [
+        {
+          "name": "André Henrique",
+          "number": 7,
+          "position": "Forward",
+          "id": 38293521
+        },
+        {
+          "name": "Juan",
+          "number": 9,
+          "position": "Forward",
+          "id": 29127630
+        },
+        {
+          "name": "Janderson",
+          "number": 39,
+          "position": "Forward",
+          "id": 56896588
+        }
+      ]
+    ],
+    "id": 846678,
+    "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+    "name": "Goztepe"
+  },
+  "awayTeam": {
+    "formation": "3-4-2-1",
+    "substitutes": [
+      {
+        "name": "M. Cihan",
+        "number": 11,
+        "position": "Midfielder",
+        "id": 26273422
+      },
+      {
+        "name": "A. Dadakdeniz",
+        "number": 35,
+        "position": "Goalkeeper",
+        "id": 8084930
+      },
+      {
+        "name": "Sabahattin Destici",
+        "number": 77,
+        "position": "Defender",
+        "id": 23140040
+      },
+      {
+        "name": "S. Dursun",
+        "number": 19,
+        "position": "Forward",
+        "id": 4033687
+      },
+      {
+        "name": "Karamba Gassama",
+        "number": 17,
+        "position": "Midfielder",
+        "id": null
+      },
+      {
+        "name": "O. Özçiçek",
+        "number": 61,
+        "position": "Midfielder",
+        "id": 23070649
+      },
+      {
+        "name": "E. Sarıkaya",
+        "number": 5,
+        "position": "Defender",
+        "id": 57857919
+      },
+      {
+        "name": "T. Stewart",
+        "number": 9,
+        "position": "Forward",
+        "id": 30972368
+      },
+      {
+        "name": "A. Sylla",
+        "number": 21,
+        "position": "Defender",
+        "id": 58734564
+      },
+      {
+        "name": "D. Camara",
+        "number": 3,
+        "position": "Midfielder",
+        "id": 14719418
+      }
+    ],
+    "initialLineup": [
+      [
+        {
+          "name": "K. Tobiasz",
+          "number": 25,
+          "position": "Goalkeeper",
+          "id": 46134865
+        }
+      ],
+      [
+        {
+          "name": "U. Meleke",
+          "number": 6,
+          "position": "Defender",
+          "id": 13433672
+        },
+        {
+          "name": "M. Abena",
+          "number": 14,
+          "position": "Defender",
+          "id": 222173
+        },
+        {
+          "name": "A. Kızıldağ",
+          "number": 4,
+          "position": "Defender",
+          "id": 10188878
+        }
+      ],
+      [
+        {
+          "name": "K. Çalhanoğlu",
+          "number": 23,
+          "position": "Midfielder",
+          "id": 32668503
+        },
+        {
+          "name": "V. Gidado",
+          "number": 8,
+          "position": "Midfielder",
+          "id": 72639812
+        },
+        {
+          "name": "K. Kozłowski",
+          "number": 10,
+          "position": "Midfielder",
+          "id": 10353098
+        },
+        {
+          "name": "Luis Pérez",
+          "number": 2,
+          "position": "Midfielder",
+          "id": 7579712
+        }
+      ],
+      [
+        {
+          "name": "A. Maxim",
+          "number": 44,
+          "position": "Midfielder",
+          "id": 4173435
+        },
+        {
+          "name": "D. Sorescu",
+          "number": 18,
+          "position": "Midfielder",
+          "id": 6954388
+        }
+      ],
+      [
+        {
+          "name": "H. Dervişoğlu",
+          "number": 28,
+          "position": "Forward",
+          "id": 6027994
+        }
+      ]
+    ],
+    "id": 3041407,
+    "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+    "name": "Gazişehir Gaziantep"
+  }
+}

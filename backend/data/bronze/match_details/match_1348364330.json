@@ -1,0 +1,1156 @@
+[
+  {
+    "venue": {
+      "city": "Rize",
+      "name": "Caykur Didi Stadium",
+      "country": "Turkiye",
+      "capacity": "15558"
+    },
+    "referee": {
+      "name": "Meler, Halil Umut",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "clear night",
+      "temperature": "17.89°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 857741,
+          "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+          "name": "Rizespor"
+        },
+        "time": "12",
+        "type": "Goal",
+        "assist": null,
+        "player": "G. Borrelli",
+        "playerId": 5071493,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 857741,
+          "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+          "name": "Rizespor"
+        },
+        "time": "14",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Zakaria Ariss",
+        "playerId": 56920094,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 857741,
+          "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+          "name": "Rizespor"
+        },
+        "time": "32",
+        "type": "Goal",
+        "assist": "A. Mebude",
+        "player": "G. Borrelli",
+        "playerId": 5071493,
+        "substituted": null,
+        "assistingPlayerId": 26149452
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "38",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Fabinho",
+        "playerId": 48293,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "46",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Fabinho",
+        "playerId": 48293,
+        "substituted": "T. Jabol-Folcarelli",
+        "assistingPlayerId": 3607842
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "49",
+        "type": "Goal",
+        "assist": "E. Muci",
+        "player": "M. Kabasakal",
+        "playerId": 25507545,
+        "substituted": null,
+        "assistingPlayerId": 585872
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "51",
+        "type": "Goal",
+        "assist": "E. Muci",
+        "player": "A. Simsir",
+        "playerId": 26048344,
+        "substituted": null,
+        "assistingPlayerId": 585872
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "55",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Melih Kabasakal",
+        "playerId": 25507545,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "57",
+        "type": "Goal",
+        "assist": null,
+        "player": "Franculino",
+        "playerId": 54840779,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 857741,
+          "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+          "name": "Rizespor"
+        },
+        "time": "59",
+        "type": "Substitution",
+        "assist": null,
+        "player": "E. Bulut",
+        "playerId": 61801614,
+        "substituted": "V. Mihaila",
+        "assistingPlayerId": 6932170
+      },
+      {
+        "team": {
+          "id": 857741,
+          "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+          "name": "Rizespor"
+        },
+        "time": "60",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Gennaro Borrelli",
+        "playerId": 5071493,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "61",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Eskihellac",
+        "playerId": 10034157,
+        "substituted": "S. Lopes Cabral",
+        "assistingPlayerId": 49699083
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "61",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Kabasakal",
+        "playerId": 25507545,
+        "substituted": "O. Tufan",
+        "assistingPlayerId": 8040816
+      },
+      {
+        "team": {
+          "id": 857741,
+          "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+          "name": "Rizespor"
+        },
+        "time": "68",
+        "type": "Goal",
+        "assist": "A. Mebude",
+        "player": "Q. Laci",
+        "playerId": 3373587,
+        "substituted": null,
+        "assistingPlayerId": 26149452
+      },
+      {
+        "team": {
+          "id": 857741,
+          "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+          "name": "Rizespor"
+        },
+        "time": "71",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Mebude",
+        "playerId": 26149452,
+        "substituted": "I. Doicaru",
+        "assistingPlayerId": 71800680
+      },
+      {
+        "team": {
+          "id": 857741,
+          "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+          "name": "Rizespor"
+        },
+        "time": "72",
+        "type": "Substitution",
+        "assist": null,
+        "player": "G. Borrelli",
+        "playerId": 5071493,
+        "substituted": "A. Sowe",
+        "assistingPlayerId": 1773086
+      },
+      {
+        "team": {
+          "id": 857741,
+          "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+          "name": "Rizespor"
+        },
+        "time": "79",
+        "type": "Substitution",
+        "assist": null,
+        "player": "T. Antalyali",
+        "playerId": 8082676,
+        "substituted": "M. Diakite",
+        "assistingPlayerId": 56907697
+      },
+      {
+        "team": {
+          "id": 857741,
+          "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+          "name": "Rizespor"
+        },
+        "time": "79",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Q. Laci",
+        "playerId": 3373587,
+        "substituted": "C. Bozdogan",
+        "assistingPlayerId": 32709236
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "83",
+        "type": "Goal",
+        "assist": "E. Muci",
+        "player": "Franculino",
+        "playerId": 54840779,
+        "substituted": null,
+        "assistingPlayerId": 585872
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "86",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Salah",
+        "playerId": 49420,
+        "substituted": "N. Saviolo",
+        "assistingPlayerId": 73250807
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "89",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Simsir",
+        "playerId": 26048344,
+        "substituted": "C. Ozkacar",
+        "assistingPlayerId": 11599882
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-26T16:00:57.442Z",
+          "probabilities": {
+            "away": "51.60%",
+            "draw": "24.44%",
+            "home": "23.96%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-26T16:11:07.819Z",
+          "probabilities": {
+            "away": "48.22%",
+            "draw": "25.79%",
+            "home": "25.99%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Rizespor is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-10-26T16:21:02.397Z",
+          "probabilities": {
+            "away": "29.88%",
+            "draw": "26.11%",
+            "home": "44.01%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Rizespor is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-10-26T16:31:12.504Z",
+          "probabilities": {
+            "away": "28.20%",
+            "draw": "27.11%",
+            "home": "44.69%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Rizespor is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-10-26T16:41:07.158Z",
+          "probabilities": {
+            "away": "11.83%",
+            "draw": "18.28%",
+            "home": "69.89%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Rizespor is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-10-26T16:51:18.409Z",
+          "probabilities": {
+            "away": "11.25%",
+            "draw": "18.10%",
+            "home": "70.65%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Rizespor is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-10-26T17:00:49.808Z",
+          "probabilities": {
+            "away": "11.55%",
+            "draw": "18.55%",
+            "home": "69.90%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-26T17:11:15.996Z",
+          "probabilities": {
+            "away": "38.98%",
+            "draw": "34.88%",
+            "home": "26.14%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-26T17:21:07.405Z",
+          "probabilities": {
+            "away": "72.68%",
+            "draw": "20.54%",
+            "home": "6.78%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-10-26T17:31:06.957Z",
+          "probabilities": {
+            "away": "37.79%",
+            "draw": "45.48%",
+            "home": "16.73%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-26T17:41:03.367Z",
+          "probabilities": {
+            "away": "50.51%",
+            "draw": "42.86%",
+            "home": "6.63%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-26T17:51:11.445Z",
+          "probabilities": {
+            "away": "91.78%",
+            "draw": "7.75%",
+            "home": "0.47%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-19T12:22:30.511Z",
+          "probabilities": {
+            "away": "48.50%",
+            "draw": "24.19%",
+            "home": "27.31%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-19T15:59:36.829Z",
+          "probabilities": {
+            "away": "47.40%",
+            "draw": "25.05%",
+            "home": "27.55%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-19T19:43:16.038Z",
+          "probabilities": {
+            "away": "45.11%",
+            "draw": "25.39%",
+            "home": "29.50%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-20T09:32:22.658Z",
+          "probabilities": {
+            "away": "44.97%",
+            "draw": "25.44%",
+            "home": "29.59%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-20T13:29:50.195Z",
+          "probabilities": {
+            "away": "44.98%",
+            "draw": "25.39%",
+            "home": "29.63%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-20T17:39:48.864Z",
+          "probabilities": {
+            "away": "44.99%",
+            "draw": "25.39%",
+            "home": "29.62%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-20T21:37:20.643Z",
+          "probabilities": {
+            "away": "44.81%",
+            "draw": "25.37%",
+            "home": "29.82%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-21T09:17:26.713Z",
+          "probabilities": {
+            "away": "47.69%",
+            "draw": "24.63%",
+            "home": "27.68%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-21T16:33:27.551Z",
+          "probabilities": {
+            "away": "47.97%",
+            "draw": "24.44%",
+            "home": "27.59%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-21T20:59:41.414Z",
+          "probabilities": {
+            "away": "48.35%",
+            "draw": "24.31%",
+            "home": "27.35%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-22T12:04:31.345Z",
+          "probabilities": {
+            "away": "48.43%",
+            "draw": "24.31%",
+            "home": "27.26%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-22T16:27:26.380Z",
+          "probabilities": {
+            "away": "48.28%",
+            "draw": "24.43%",
+            "home": "27.29%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-22T21:01:33.633Z",
+          "probabilities": {
+            "away": "48.27%",
+            "draw": "24.43%",
+            "home": "27.30%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-23T09:45:11.952Z",
+          "probabilities": {
+            "away": "48.31%",
+            "draw": "24.44%",
+            "home": "27.25%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-24T11:06:47.020Z",
+          "probabilities": {
+            "away": "48.53%",
+            "draw": "24.56%",
+            "home": "26.91%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-25T11:22:23.716Z",
+          "probabilities": {
+            "away": "48.42%",
+            "draw": "24.74%",
+            "home": "26.84%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-26T09:22:16.340Z",
+          "probabilities": {
+            "away": "49.35%",
+            "draw": "24.50%",
+            "home": "26.15%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 857741,
+          "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+          "name": "Rizespor"
+        },
+        "statistics": [
+          {
+            "value": 1.81,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 3,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 75,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 13,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.89,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 4,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 20,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 192,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 224,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 42,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 68,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 14,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 8,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 83,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 61,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 6,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 15,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 18,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 28,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 16,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 12,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 16,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 25,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.67,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 68,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.47,
+            "displayName": "Possession"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 4,
+            "displayName": "Corners"
+          },
+          {
+            "value": 1,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 328,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 1,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 2,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 396,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 3,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 13,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 2,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "statistics": [
+          {
+            "value": 2.63,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 4,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 77,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 12,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 1.6,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 10,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 221,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 249,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 31,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 53,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 19,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 12,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 87,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 55,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 4,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 11,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 11,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 22,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 16,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 7,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 12,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 16,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 29,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.5,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 69,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.53,
+            "displayName": "Possession"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 4,
+            "displayName": "Corners"
+          },
+          {
+            "value": 2,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 391,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 2,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 13,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 460,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 4,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 14,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 2,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 1,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348364330,
+    "round": "Regular Season - 9",
+    "date": "2026-10-26T16:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "3 - 4",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 850082,
+      "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+      "name": "Trabzonspor",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "32'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Franculino Djú"
+        },
+        {
+          "time": "35'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Chibuike Nwaiwu"
+        },
+        {
+          "time": "35'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Melih Kabasakal"
+        },
+        {
+          "time": "49'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Melih Kabasakal"
+        },
+        {
+          "time": "51'",
+          "outcome": "Goal",
+          "goalTarget": "Low Centre",
+          "playerName": "Aral Simsir"
+        },
+        {
+          "time": "57'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Ernest Muçi"
+        },
+        {
+          "time": "57'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Franculino Djú"
+        },
+        {
+          "time": "67'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Ernest Muçi"
+        },
+        {
+          "time": "74'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Ozan Tufan"
+        },
+        {
+          "time": "76'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Mohamed Salah"
+        },
+        {
+          "time": "78'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Ozan Tufan"
+        },
+        {
+          "time": "83'",
+          "outcome": "Goal",
+          "goalTarget": "High Right",
+          "playerName": "Franculino Djú"
+        },
+        {
+          "time": "89'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Ernest Muçi"
+        },
+        {
+          "time": "90'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Franculino Djú"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 857741,
+      "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+      "name": "Rizespor",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "4'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Qazim Laci"
+        },
+        {
+          "time": "12'",
+          "outcome": "Goal",
+          "goalTarget": "Low Centre",
+          "playerName": "Gennaro Borrelli"
+        },
+        {
+          "time": "16'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Emrecan Bulut"
+        },
+        {
+          "time": "27'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Qazim Laci"
+        },
+        {
+          "time": "32'",
+          "outcome": "Goal",
+          "goalTarget": "High Centre",
+          "playerName": "Gennaro Borrelli"
+        },
+        {
+          "time": "39'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Ibrahim Olawoyin"
+        },
+        {
+          "time": "54'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Gennaro Borrelli"
+        },
+        {
+          "time": "67'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Siaka Bakayoko"
+        },
+        {
+          "time": "68'",
+          "outcome": "Goal",
+          "goalTarget": "High Right",
+          "playerName": "Qazim Laci"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

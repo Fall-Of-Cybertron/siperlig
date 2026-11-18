@@ -1,0 +1,1234 @@
+[
+  {
+    "venue": {
+      "city": "Ankara",
+      "name": "Eryaman Stadyumu",
+      "country": "Turkiye",
+      "capacity": "22000"
+    },
+    "referee": {
+      "name": "Ozturk, Umit",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "clear day",
+      "temperature": "21.89°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "15",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Thalisson",
+        "playerId": 1567811,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "23",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "İrfan Can Eğribayat",
+        "playerId": 10004211,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "25",
+        "type": "Penalty",
+        "assist": null,
+        "player": "D. Saba",
+        "playerId": 2083333,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "46",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Dursun",
+        "playerId": 16327647,
+        "substituted": "S. Ucan",
+        "assistingPlayerId": 5000492
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "53",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Umut Meraş",
+        "playerId": 8086057,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "54",
+        "type": "Goal",
+        "assist": null,
+        "player": "R. Luis",
+        "playerId": 55612130,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "57",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Metehan Baltacı",
+        "playerId": 26082154,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "57",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Lumbardh Dellova",
+        "playerId": 2349144,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "57",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Dia Saba",
+        "playerId": 2083333,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "61",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Khalil",
+        "playerId": 27327489,
+        "substituted": "A. T. Bulbul",
+        "assistingPlayerId": 54732265
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "65",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Fıratcan Üzüm",
+        "playerId": 10013710,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "66",
+        "type": "Substitution",
+        "assist": null,
+        "player": "F. Uzum",
+        "playerId": 10013710,
+        "substituted": "H. Aydar",
+        "assistingPlayerId": 88691995
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "67",
+        "type": "Goal",
+        "assist": "R. Raveloson",
+        "player": "S. Ballet",
+        "playerId": 24570203,
+        "substituted": null,
+        "assistingPlayerId": 3314500
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "73",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Alban Lafont",
+        "playerId": 4893427,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "81",
+        "type": "Substitution",
+        "assist": null,
+        "player": "F. Tongya",
+        "playerId": 26077646,
+        "substituted": "P. Martor",
+        "assistingPlayerId": 100019633
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "81",
+        "type": "Substitution",
+        "assist": null,
+        "player": "R. Luis",
+        "playerId": 55612130,
+        "substituted": "V. Orakpo",
+        "assistingPlayerId": 76817118
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "84",
+        "type": "Substitution",
+        "assist": null,
+        "player": "L. Dellova",
+        "playerId": 2349144,
+        "substituted": "M. Yesil",
+        "assistingPlayerId": 16311386
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "84",
+        "type": "Substitution",
+        "assist": null,
+        "player": "D. Saba",
+        "playerId": 2083333,
+        "substituted": "M. Acer",
+        "assistingPlayerId": 21649824
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "90+5",
+        "type": "Substitution",
+        "assist": null,
+        "player": "T. Gouveia",
+        "playerId": 25448619,
+        "substituted": "E. Cavusoglu",
+        "assistingPlayerId": 88710993
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "90+2",
+        "type": "Substitution",
+        "assist": null,
+        "player": "F. Soyalp",
+        "playerId": 8088633,
+        "substituted": "C. Ustundag",
+        "assistingPlayerId": 43705214
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "90+2",
+        "type": "Substitution",
+        "assist": null,
+        "player": "E. Krasniqi",
+        "playerId": 43779435,
+        "substituted": "M. Diagne",
+        "assistingPlayerId": 73892
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "90",
+        "type": "Goal",
+        "assist": "T. Gouveia",
+        "player": "Thalisson Kelven",
+        "playerId": 1567811,
+        "substituted": null,
+        "assistingPlayerId": 25448619
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-10T10:41:24.926Z",
+          "probabilities": {
+            "away": "45.56%",
+            "draw": "29.09%",
+            "home": "25.35%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-10T10:51:20.237Z",
+          "probabilities": {
+            "away": "44.67%",
+            "draw": "30.18%",
+            "home": "25.15%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-10T11:01:05.790Z",
+          "probabilities": {
+            "away": "68.18%",
+            "draw": "21.42%",
+            "home": "10.40%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-03T12:27:04.512Z",
+          "probabilities": {
+            "away": "37.87%",
+            "draw": "26.86%",
+            "home": "35.27%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-03T16:17:53.718Z",
+          "probabilities": {
+            "away": "37.87%",
+            "draw": "26.86%",
+            "home": "35.27%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-03T20:19:55.418Z",
+          "probabilities": {
+            "away": "37.98%",
+            "draw": "26.87%",
+            "home": "35.15%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-04T09:46:08.947Z",
+          "probabilities": {
+            "away": "37.98%",
+            "draw": "26.86%",
+            "home": "35.16%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-04T13:18:28.932Z",
+          "probabilities": {
+            "away": "37.98%",
+            "draw": "26.88%",
+            "home": "35.14%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-04T16:52:02.765Z",
+          "probabilities": {
+            "away": "37.99%",
+            "draw": "26.87%",
+            "home": "35.13%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-04T20:33:08.963Z",
+          "probabilities": {
+            "away": "37.12%",
+            "draw": "26.85%",
+            "home": "36.03%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-05T09:34:14.792Z",
+          "probabilities": {
+            "away": "36.84%",
+            "draw": "26.65%",
+            "home": "36.51%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-05T12:50:55.720Z",
+          "probabilities": {
+            "away": "36.88%",
+            "draw": "26.66%",
+            "home": "36.46%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-05T16:14:03.024Z",
+          "probabilities": {
+            "away": "36.93%",
+            "draw": "26.64%",
+            "home": "36.43%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-05T19:45:03.997Z",
+          "probabilities": {
+            "away": "36.86%",
+            "draw": "26.64%",
+            "home": "36.49%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-06T08:51:08.045Z",
+          "probabilities": {
+            "away": "37.14%",
+            "draw": "26.67%",
+            "home": "36.19%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-06T12:26:54.728Z",
+          "probabilities": {
+            "away": "37.41%",
+            "draw": "26.66%",
+            "home": "35.94%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-06T16:02:37.354Z",
+          "probabilities": {
+            "away": "37.40%",
+            "draw": "26.65%",
+            "home": "35.95%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-06T19:45:46.162Z",
+          "probabilities": {
+            "away": "37.44%",
+            "draw": "26.66%",
+            "home": "35.90%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-07T09:03:57.663Z",
+          "probabilities": {
+            "away": "37.28%",
+            "draw": "26.63%",
+            "home": "36.09%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-07T12:41:53.834Z",
+          "probabilities": {
+            "away": "37.27%",
+            "draw": "26.61%",
+            "home": "36.12%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-07T16:19:19.557Z",
+          "probabilities": {
+            "away": "37.30%",
+            "draw": "26.62%",
+            "home": "36.08%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-07T19:57:15.620Z",
+          "probabilities": {
+            "away": "37.31%",
+            "draw": "26.60%",
+            "home": "36.09%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-08T11:56:47.508Z",
+          "probabilities": {
+            "away": "37.32%",
+            "draw": "26.66%",
+            "home": "36.02%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-08T15:48:19.904Z",
+          "probabilities": {
+            "away": "37.39%",
+            "draw": "26.67%",
+            "home": "35.95%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-08T19:46:54.283Z",
+          "probabilities": {
+            "away": "38.69%",
+            "draw": "26.66%",
+            "home": "34.64%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-09T08:59:04.495Z",
+          "probabilities": {
+            "away": "42.53%",
+            "draw": "26.67%",
+            "home": "30.80%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-09T12:58:47.903Z",
+          "probabilities": {
+            "away": "42.89%",
+            "draw": "26.76%",
+            "home": "30.36%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-09T17:07:59.813Z",
+          "probabilities": {
+            "away": "42.91%",
+            "draw": "26.77%",
+            "home": "30.32%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-09T21:25:57.966Z",
+          "probabilities": {
+            "away": "42.95%",
+            "draw": "26.82%",
+            "home": "30.23%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-10T09:31:37.993Z",
+          "probabilities": {
+            "away": "44.42%",
+            "draw": "27.78%",
+            "home": "27.80%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-10-10T19:59:57.956Z",
+          "probabilities": {
+            "away": "46.37%",
+            "draw": "27.54%",
+            "home": "26.09%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "statistics": [
+          {
+            "value": 0.5,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 1,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 90,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 10,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.55,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 2,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 21,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 144,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 191,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 30,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 61,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 17,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 7,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 51,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 41,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 10,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 4,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 9,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 13,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 16,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 13,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 22,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 14,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.36,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 69,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.48,
+            "displayName": "Possession"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 6,
+            "displayName": "Corners"
+          },
+          {
+            "value": 3,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 245,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 2,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 314,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 3,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 14,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 4,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "statistics": [
+          {
+            "value": 2.16,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 3,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 81,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 14,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.53,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 6,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 173,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 184,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 21,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 50,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 22,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 15,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 68,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 60,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 7,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 3,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 12,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 23,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 28,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 9,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 22,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 10,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 17,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.26,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 85,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.52,
+            "displayName": "Possession"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 3,
+            "displayName": "Corners"
+          },
+          {
+            "value": 0,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 266,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 9,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 5,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 9,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 351,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 2,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 11,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 4,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 10,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348347310,
+    "round": "Regular Season - 7",
+    "date": "2026-10-10T10:30:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "2 - 2",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 3046513,
+      "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+      "name": "Amed",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "7'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Rayan Raveloson"
+        },
+        {
+          "time": "7'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Furkan Soyalp"
+        },
+        {
+          "time": "9'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Mohamed Khalil"
+        },
+        {
+          "time": "12'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Samuel Ballet"
+        },
+        {
+          "time": "25'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Dia Saba"
+        },
+        {
+          "time": "35'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Dia Saba"
+        },
+        {
+          "time": "42'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Dia Saba"
+        },
+        {
+          "time": "42'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Ermal Krasniqi"
+        },
+        {
+          "time": "43'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Dia Saba"
+        },
+        {
+          "time": "45 + 2'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Dia Saba"
+        },
+        {
+          "time": "45 + 3'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Furkan Soyalp"
+        },
+        {
+          "time": "59'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "David Bates"
+        },
+        {
+          "time": "62'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Samuel Ballet"
+        },
+        {
+          "time": "63'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Samuel Ballet"
+        },
+        {
+          "time": "67'",
+          "outcome": "Post",
+          "goalTarget": null,
+          "playerName": "Ermal Krasniqi"
+        },
+        {
+          "time": "67'",
+          "outcome": "Goal",
+          "goalTarget": "High Right",
+          "playerName": "Samuel Ballet"
+        },
+        {
+          "time": "75'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Furkan Soyalp"
+        },
+        {
+          "time": "77'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Samuel Ballet"
+        },
+        {
+          "time": "90 + 4'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Rayan Raveloson"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 849231,
+      "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+      "name": "Genclerbirligi",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "5'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Fıratcan Üzüm"
+        },
+        {
+          "time": "9'",
+          "outcome": "Post",
+          "goalTarget": null,
+          "playerName": "Rafael Luis"
+        },
+        {
+          "time": "9'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Franco Tongya"
+        },
+        {
+          "time": "19'",
+          "outcome": "Missed",
+          "goalTarget": "Close High",
+          "playerName": "Fıratcan Üzüm"
+        },
+        {
+          "time": "38'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Tiago Gouveia"
+        },
+        {
+          "time": "54'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Rafael Luis"
+        },
+        {
+          "time": "77'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Tiago Gouveia"
+        },
+        {
+          "time": "84'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Ousmane Diabate"
+        },
+        {
+          "time": "90'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Prince Martor"
+        },
+        {
+          "time": "90 + 1'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Salih Ucan"
+        },
+        {
+          "time": "90 + 2'",
+          "outcome": "Goal",
+          "goalTarget": "Low Centre",
+          "playerName": "Thalisson Kelven"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

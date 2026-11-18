@@ -1,0 +1,1220 @@
+[
+  {
+    "venue": {
+      "city": "Istanbul",
+      "name": "Tupras Stadium",
+      "country": "Turkiye",
+      "capacity": "42590"
+    },
+    "referee": {
+      "name": "Taskinsoy, Abdullah Bugra",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "partly cloudy night",
+      "temperature": "21.82°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "18",
+        "type": "Goal",
+        "assist": "V. Cerny",
+        "player": "O. Kokcu",
+        "playerId": 5982109,
+        "substituted": null,
+        "assistingPlayerId": 88543
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "27",
+        "type": "Goal",
+        "assist": null,
+        "player": "Show",
+        "playerId": 533708,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "29",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Tayfur Bingöl",
+        "playerId": 8078490,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "31",
+        "type": "Penalty",
+        "assist": null,
+        "player": "D. Vlahovic",
+        "playerId": 4896969,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "39",
+        "type": "Substitution",
+        "assist": null,
+        "player": "V. Cerny",
+        "playerId": 88543,
+        "substituted": "I. Fakili",
+        "assistingPlayerId": 71938818
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "61",
+        "type": "Substitution",
+        "assist": null,
+        "player": "G. Sousa",
+        "playerId": 64488704,
+        "substituted": "R. Rivas",
+        "assistingPlayerId": 5036234
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "70",
+        "type": "Substitution",
+        "assist": null,
+        "player": "T. Bingol",
+        "playerId": 8078490,
+        "substituted": "T. Gulliksen",
+        "assistingPlayerId": 23514687
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "71",
+        "type": "Substitution",
+        "assist": null,
+        "player": "E. Topcu",
+        "playerId": 8057560,
+        "substituted": "E. Agbadou",
+        "assistingPlayerId": 21746102
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "71",
+        "type": "Substitution",
+        "assist": null,
+        "player": "R. Yilmaz",
+        "playerId": 320061,
+        "substituted": "K. Ouattara",
+        "assistingPlayerId": 53635211
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "71",
+        "type": "Substitution",
+        "assist": null,
+        "player": "S. Ozcan",
+        "playerId": 3994081,
+        "substituted": "W. Ndidi",
+        "assistingPlayerId": 3024700
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "71",
+        "type": "Substitution",
+        "assist": null,
+        "player": "D. Agyei",
+        "playerId": 14134505,
+        "substituted": "F. Aye",
+        "assistingPlayerId": 3346056
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "78",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Leandro Trossard",
+        "playerId": 313460,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "78",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Serhat Öztaşdelen",
+        "playerId": 48761097,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "84",
+        "type": "Substitution",
+        "assist": null,
+        "player": "O. Kokcu",
+        "playerId": 5982109,
+        "substituted": "K. Kayra Yilmaz",
+        "assistingPlayerId": 321832
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "87",
+        "type": "Substitution",
+        "assist": null,
+        "player": "U. Yildiz",
+        "playerId": 23156301,
+        "substituted": "M. Cinan",
+        "assistingPlayerId": 10148628
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "87",
+        "type": "Substitution",
+        "assist": null,
+        "player": "O. Oztonga",
+        "playerId": 23250647,
+        "substituted": "M. Baku",
+        "assistingPlayerId": 4277602
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-11T16:05:25.333Z",
+          "probabilities": {
+            "away": "6.62%",
+            "draw": "13.73%",
+            "home": "79.65%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-11T16:15:58.528Z",
+          "probabilities": {
+            "away": "6.50%",
+            "draw": "14.33%",
+            "home": "79.17%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-11T16:24:57.318Z",
+          "probabilities": {
+            "away": "3.35%",
+            "draw": "8.66%",
+            "home": "87.99%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-11T16:35:17.269Z",
+          "probabilities": {
+            "away": "3.36%",
+            "draw": "9.36%",
+            "home": "87.28%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-11T16:45:03.977Z",
+          "probabilities": {
+            "away": "3.01%",
+            "draw": "9.58%",
+            "home": "87.41%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-11T16:56:12.803Z",
+          "probabilities": {
+            "away": "2.60%",
+            "draw": "9.44%",
+            "home": "87.96%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-11T17:04:09.774Z",
+          "probabilities": {
+            "away": "2.67%",
+            "draw": "9.75%",
+            "home": "87.58%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-11T17:13:48.371Z",
+          "probabilities": {
+            "away": "2.65%",
+            "draw": "10.60%",
+            "home": "86.75%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-11T17:23:32.530Z",
+          "probabilities": {
+            "away": "2.37%",
+            "draw": "11.22%",
+            "home": "86.42%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-11T17:33:03.792Z",
+          "probabilities": {
+            "away": "2.09%",
+            "draw": "11.83%",
+            "home": "86.08%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-11T17:43:11.291Z",
+          "probabilities": {
+            "away": "1.23%",
+            "draw": "10.56%",
+            "home": "88.22%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-11T17:53:12.519Z",
+          "probabilities": {
+            "away": "0.40%",
+            "draw": "5.92%",
+            "home": "93.68%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-04T09:57:46.108Z",
+          "probabilities": {
+            "away": "8.71%",
+            "draw": "16.54%",
+            "home": "74.75%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-04T13:30:10.814Z",
+          "probabilities": {
+            "away": "8.64%",
+            "draw": "16.49%",
+            "home": "74.87%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-04T17:04:36.460Z",
+          "probabilities": {
+            "away": "8.79%",
+            "draw": "16.79%",
+            "home": "74.43%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-04T20:46:44.137Z",
+          "probabilities": {
+            "away": "8.75%",
+            "draw": "16.73%",
+            "home": "74.52%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-05T09:49:27.706Z",
+          "probabilities": {
+            "away": "8.77%",
+            "draw": "16.74%",
+            "home": "74.49%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-05T13:05:58.192Z",
+          "probabilities": {
+            "away": "8.78%",
+            "draw": "16.71%",
+            "home": "74.51%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-05T16:30:04.367Z",
+          "probabilities": {
+            "away": "8.78%",
+            "draw": "16.70%",
+            "home": "74.52%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-05T20:01:59.781Z",
+          "probabilities": {
+            "away": "8.78%",
+            "draw": "16.70%",
+            "home": "74.52%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-06T09:07:06.333Z",
+          "probabilities": {
+            "away": "9.02%",
+            "draw": "16.63%",
+            "home": "74.34%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-06T12:43:43.109Z",
+          "probabilities": {
+            "away": "9.04%",
+            "draw": "16.64%",
+            "home": "74.33%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-06T16:20:11.541Z",
+          "probabilities": {
+            "away": "9.01%",
+            "draw": "16.62%",
+            "home": "74.37%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-06T20:04:29.493Z",
+          "probabilities": {
+            "away": "9.24%",
+            "draw": "16.99%",
+            "home": "73.78%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-07T09:23:29.346Z",
+          "probabilities": {
+            "away": "9.35%",
+            "draw": "17.10%",
+            "home": "73.56%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-07T12:59:50.645Z",
+          "probabilities": {
+            "away": "9.32%",
+            "draw": "17.05%",
+            "home": "73.63%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-07T16:36:39.514Z",
+          "probabilities": {
+            "away": "9.31%",
+            "draw": "17.03%",
+            "home": "73.66%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-07T20:15:17.611Z",
+          "probabilities": {
+            "away": "9.29%",
+            "draw": "17.09%",
+            "home": "73.62%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-08T12:19:10.898Z",
+          "probabilities": {
+            "away": "9.28%",
+            "draw": "17.29%",
+            "home": "73.43%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-08T16:08:44.160Z",
+          "probabilities": {
+            "away": "9.28%",
+            "draw": "17.28%",
+            "home": "73.44%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-08T20:08:36.349Z",
+          "probabilities": {
+            "away": "9.31%",
+            "draw": "17.26%",
+            "home": "73.43%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-09T09:21:11.834Z",
+          "probabilities": {
+            "away": "9.36%",
+            "draw": "17.35%",
+            "home": "73.30%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-09T13:22:43.612Z",
+          "probabilities": {
+            "away": "9.35%",
+            "draw": "17.37%",
+            "home": "73.28%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-09T17:33:17.336Z",
+          "probabilities": {
+            "away": "9.53%",
+            "draw": "17.31%",
+            "home": "73.15%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-09T21:50:24.895Z",
+          "probabilities": {
+            "away": "9.53%",
+            "draw": "17.31%",
+            "home": "73.15%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-10T10:00:13.331Z",
+          "probabilities": {
+            "away": "9.45%",
+            "draw": "17.25%",
+            "home": "73.30%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-10T20:33:42.285Z",
+          "probabilities": {
+            "away": "8.76%",
+            "draw": "16.56%",
+            "home": "74.68%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-11T14:44:02.287Z",
+          "probabilities": {
+            "away": "8.33%",
+            "draw": "15.23%",
+            "home": "76.44%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-11T19:09:31.782Z",
+          "probabilities": {
+            "away": "6.47%",
+            "draw": "13.26%",
+            "home": "80.26%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "statistics": [
+          {
+            "value": 2.21,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 3,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 101,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 13,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 1.3,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 1,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 12,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 211,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 288,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 23,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 43,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 19,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 11,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 121,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 70,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 4,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 9,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 9,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 11,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 34,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 13,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 23,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 11,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.38,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 67,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.57,
+            "displayName": "Possession"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 4,
+            "displayName": "Corners"
+          },
+          {
+            "value": 2,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 420,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 9,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 1,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 9,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 487,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 5,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 11,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 1,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "statistics": [
+          {
+            "value": 1.65,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 4,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 82,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 11,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.38,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 22,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 155,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 222,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 22,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 60,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 22,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 9,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 75,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 65,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 10,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 14,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 11,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 16,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 21,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 10,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 23,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 9,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.55,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 73,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.43,
+            "displayName": "Possession"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 7,
+            "displayName": "Corners"
+          },
+          {
+            "value": 3,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 282,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 2,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 355,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 4,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 13,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 2,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348343906,
+    "round": "Regular Season - 7",
+    "date": "2026-10-11T16:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "2 - 1",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 6307545,
+      "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+      "name": "Kocaelispor FK",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "20'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Mahamadou Susoho"
+        },
+        {
+          "time": "25'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Mahamadou Susoho"
+        },
+        {
+          "time": "27'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Manuel Show"
+        },
+        {
+          "time": "36'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Gonçalo Sousa"
+        },
+        {
+          "time": "48'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Metehan Altunbaş"
+        },
+        {
+          "time": "48'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Metehan Altunbaş"
+        },
+        {
+          "time": "50'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Dan Agyei"
+        },
+        {
+          "time": "60'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Metehan Altunbaş"
+        },
+        {
+          "time": "68'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Tayfur Bingöl"
+        },
+        {
+          "time": "69'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Mahamadou Susoho"
+        },
+        {
+          "time": "69'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Tayfur Bingöl"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 467983,
+      "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+      "name": "Besiktas",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "3'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Fabio Miretti"
+        },
+        {
+          "time": "10'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Leandro Trossard"
+        },
+        {
+          "time": "11'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Tiago Djalo"
+        },
+        {
+          "time": "15'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right And High",
+          "playerName": "Salih Özcan"
+        },
+        {
+          "time": "18'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Orkun Kökçü"
+        },
+        {
+          "time": "31'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Dusan Vlahović"
+        },
+        {
+          "time": "34'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Vaclav Černý"
+        },
+        {
+          "time": "40'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Dusan Vlahović"
+        },
+        {
+          "time": "51'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Ilhan Fakili"
+        },
+        {
+          "time": "52'",
+          "outcome": "Post",
+          "goalTarget": null,
+          "playerName": "Ilhan Fakili"
+        },
+        {
+          "time": "52'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Leandro Trossard"
+        },
+        {
+          "time": "52'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Leandro Trossard"
+        },
+        {
+          "time": "52'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Leandro Trossard"
+        },
+        {
+          "time": "65'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Leandro Trossard"
+        },
+        {
+          "time": "67'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Fabio Miretti"
+        },
+        {
+          "time": "76'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Ilhan Fakili"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

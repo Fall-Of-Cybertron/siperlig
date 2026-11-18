@@ -1,0 +1,1068 @@
+[
+  {
+    "venue": {
+      "city": "Istanbul",
+      "name": "Chobani Stadyumu FB Sukru Saracoglu Spor Kompleksi",
+      "country": "Turkiye",
+      "capacity": "47911"
+    },
+    "referee": {
+      "name": "Cakir, Oguzhan",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "cloudy",
+      "temperature": "14.3°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "3",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "N'Golo Kanté",
+        "playerId": 368844,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "39",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Alexis Antunes",
+        "playerId": 7825881,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "42",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Nélson Semedo",
+        "playerId": 21084,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "45",
+        "type": "Goal",
+        "assist": "R. Lukaku",
+        "player": "M. Guendouzi",
+        "playerId": 234248,
+        "substituted": null,
+        "assistingPlayerId": 146181
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "47",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Richard Akonnor",
+        "playerId": 64665160,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "65",
+        "type": "Substitution",
+        "assist": null,
+        "player": "N. Semedo",
+        "playerId": 21084,
+        "substituted": "M. Muldur",
+        "assistingPlayerId": 276913
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "65",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Janderson",
+        "playerId": 56896588,
+        "substituted": "Andre Henrique",
+        "assistingPlayerId": 38293521
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "74",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Antunes",
+        "playerId": 7825881,
+        "substituted": "F. Anjorin",
+        "assistingPlayerId": 22343251
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "74",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Juan",
+        "playerId": 29127630,
+        "substituted": "S. Armstrong",
+        "assistingPlayerId": 32178097
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "76",
+        "type": "Goal",
+        "assist": null,
+        "player": "S. Armstrong",
+        "playerId": 32178097,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "78",
+        "type": "Goal",
+        "assist": "F. Anjorin",
+        "player": "Andre Henrique",
+        "playerId": 38293521,
+        "substituted": null,
+        "assistingPlayerId": 22343251
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "83",
+        "type": "Substitution",
+        "assist": null,
+        "player": "K. Akturkoglu",
+        "playerId": 23016553,
+        "substituted": "V. Muriqi",
+        "assistingPlayerId": 8057882
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "83",
+        "type": "Substitution",
+        "assist": null,
+        "player": "O. Aydin",
+        "playerId": 21669144,
+        "substituted": "D. Nene",
+        "assistingPlayerId": 48762063
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "84",
+        "type": "Substitution",
+        "assist": null,
+        "player": "K. Peprah",
+        "playerId": 65071846,
+        "substituted": "Y. E. Demir",
+        "assistingPlayerId": 58699788
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "89",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Taha Altıkardeş",
+        "playerId": 48504946,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "90+4",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Efkan Bekiroğlu",
+        "playerId": 4206762,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "90+2",
+        "type": "Substitution",
+        "assist": null,
+        "player": "N. Miroshi",
+        "playerId": 48862527,
+        "substituted": "Allan Godoi",
+        "assistingPlayerId": 25674180
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "90+2",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Rhaldney",
+        "playerId": 8806693,
+        "substituted": "E. Bekiroglu",
+        "assistingPlayerId": 4206762
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-10-31T16:21:16.797Z",
+          "probabilities": {
+            "away": "17.32%",
+            "draw": "23.86%",
+            "home": "58.82%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-10-31T16:30:03.408Z",
+          "probabilities": {
+            "away": "17.42%",
+            "draw": "25.62%",
+            "home": "56.97%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-10-31T16:39:15.791Z",
+          "probabilities": {
+            "away": "17.57%",
+            "draw": "27.68%",
+            "home": "54.75%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-10-31T16:49:22.311Z",
+          "probabilities": {
+            "away": "6.92%",
+            "draw": "17.57%",
+            "home": "75.51%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-10-31T16:59:04.141Z",
+          "probabilities": {
+            "away": "6.48%",
+            "draw": "16.64%",
+            "home": "76.89%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-10-31T17:05:54.087Z",
+          "probabilities": {
+            "away": "6.50%",
+            "draw": "16.93%",
+            "home": "76.56%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-10-31T17:15:28.714Z",
+          "probabilities": {
+            "away": "6.05%",
+            "draw": "17.15%",
+            "home": "76.80%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-10-31T17:25:16.580Z",
+          "probabilities": {
+            "away": "4.87%",
+            "draw": "17.35%",
+            "home": "77.78%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-10-31T17:34:42.778Z",
+          "probabilities": {
+            "away": "3.85%",
+            "draw": "17.05%",
+            "home": "79.11%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-31T17:44:42.656Z",
+          "probabilities": {
+            "away": "49.36%",
+            "draw": "40.56%",
+            "home": "10.08%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-31T17:54:50.087Z",
+          "probabilities": {
+            "away": "81.60%",
+            "draw": "17.28%",
+            "home": "1.13%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-31T18:05:35.628Z",
+          "probabilities": {
+            "away": "85.41%",
+            "draw": "13.65%",
+            "home": "0.93%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-10-24T11:38:27.143Z",
+          "probabilities": {
+            "away": "16.90%",
+            "draw": "21.13%",
+            "home": "61.97%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-10-25T12:06:23.733Z",
+          "probabilities": {
+            "away": "12.99%",
+            "draw": "18.89%",
+            "home": "68.12%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-10-26T10:14:34.119Z",
+          "probabilities": {
+            "away": "12.98%",
+            "draw": "18.75%",
+            "home": "68.26%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-10-27T10:12:25.272Z",
+          "probabilities": {
+            "away": "12.03%",
+            "draw": "17.67%",
+            "home": "70.30%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-10-28T10:21:57.831Z",
+          "probabilities": {
+            "away": "12.03%",
+            "draw": "17.55%",
+            "home": "70.42%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-10-29T10:16:16.606Z",
+          "probabilities": {
+            "away": "12.00%",
+            "draw": "17.48%",
+            "home": "70.52%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-10-30T11:20:40.319Z",
+          "probabilities": {
+            "away": "12.74%",
+            "draw": "17.84%",
+            "home": "69.42%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-10-30T16:44:37.412Z",
+          "probabilities": {
+            "away": "12.56%",
+            "draw": "17.87%",
+            "home": "69.57%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-10-31T11:06:54.305Z",
+          "probabilities": {
+            "away": "12.53%",
+            "draw": "18.07%",
+            "home": "69.41%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "statistics": [
+          {
+            "value": 1.66,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 3,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 113,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 17,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 1.8,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 2,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 24,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 228,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 326,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 32,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 55,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 29,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 12,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 137,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 77,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 8,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 7,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 9,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 15,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 28,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 14,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 31,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 4,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 10,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.33,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 88,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.66,
+            "displayName": "Possession"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 5,
+            "displayName": "Corners"
+          },
+          {
+            "value": 1,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 442,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 9,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 3,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 12,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 530,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 4,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 8,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 2,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "statistics": [
+          {
+            "value": 1.2,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 3,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 83,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 8,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.79,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 25,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 89,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 194,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 25,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 66,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 15,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 11,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 45,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 44,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 5,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 10,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 6,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 11,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 33,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 17,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 31,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 11,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 23,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.5,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 83,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.34,
+            "displayName": "Possession"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 8,
+            "displayName": "Corners"
+          },
+          {
+            "value": 1,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 175,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 1,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 9,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 258,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 5,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 19,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 4,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348368585,
+    "round": "Regular Season - 10",
+    "date": "2026-10-31T16:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "1 - 2",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 846678,
+      "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+      "name": "Goztepe",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "19'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Janderson"
+        },
+        {
+          "time": "26'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Alexis Antunes"
+        },
+        {
+          "time": "35'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Alexis Antunes"
+        },
+        {
+          "time": "44'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Malcom Bokele"
+        },
+        {
+          "time": "49'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Janderson"
+        },
+        {
+          "time": "56'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Rhaldney"
+        },
+        {
+          "time": "57'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Alexis Antunes"
+        },
+        {
+          "time": "63'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Janderson"
+        },
+        {
+          "time": "68'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Novatus Miroshi"
+        },
+        {
+          "time": "69'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Juan"
+        },
+        {
+          "time": "76'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Sinclair Armstrong"
+        },
+        {
+          "time": "78'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "André Henrique"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 520745,
+      "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+      "name": "Fenerbahce",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "6'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Nelson Semedo"
+        },
+        {
+          "time": "8'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Romelu Lukaku"
+        },
+        {
+          "time": "9'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Oğuz Aydin"
+        },
+        {
+          "time": "14'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Oğuz Aydin"
+        },
+        {
+          "time": "27'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Milan Skriniar"
+        },
+        {
+          "time": "29'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Oğuz Aydin"
+        },
+        {
+          "time": "36'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Levent Mercan"
+        },
+        {
+          "time": "40'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Kojo Peprah Oppong"
+        },
+        {
+          "time": "41'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Irfan Kahveci"
+        },
+        {
+          "time": "45 + 1'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Matteo Guendouzi"
+        },
+        {
+          "time": "48'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Irfan Kahveci"
+        },
+        {
+          "time": "52'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Kerem Aktürkoğlu"
+        },
+        {
+          "time": "55'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Kerem Aktürkoğlu"
+        },
+        {
+          "time": "64'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Romelu Lukaku"
+        },
+        {
+          "time": "71'",
+          "outcome": "Post",
+          "goalTarget": null,
+          "playerName": "Kerem Aktürkoğlu"
+        },
+        {
+          "time": "90 + 3'",
+          "outcome": "Saved",
+          "goalTarget": "High Right",
+          "playerName": "Mert Muldur"
+        },
+        {
+          "time": "90 + 5'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Dorgeles Nene"
+        },
+        {
+          "time": "90 + 5'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Yigit Demir"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

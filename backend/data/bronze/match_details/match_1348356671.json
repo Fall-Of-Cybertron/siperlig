@@ -1,0 +1,1182 @@
+[
+  {
+    "venue": {
+      "city": "Kocaeli",
+      "name": "Yildiz Entegre Kocaeli Stadyumu",
+      "country": "Turkiye",
+      "capacity": "34829"
+    },
+    "referee": {
+      "name": "Akarsu, Alper",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "cloudy",
+      "temperature": "15.88°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "24",
+        "type": "Own Goal",
+        "assist": null,
+        "player": "Show",
+        "playerId": 533708,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "46",
+        "type": "Substitution",
+        "assist": null,
+        "player": "U. Yildiz",
+        "playerId": 23156301,
+        "substituted": "R. Rivas",
+        "assistingPlayerId": 5036234
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "46",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Altunbas",
+        "playerId": 10011295,
+        "substituted": "F. Aye",
+        "assistingPlayerId": 3346056
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "56",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Mahamadou Susoho",
+        "playerId": 52823771,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "57",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Cinan",
+        "playerId": 10148628,
+        "substituted": "T. Gulliksen",
+        "assistingPlayerId": 23514687
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "74",
+        "type": "Substitution",
+        "assist": null,
+        "player": "D. Agyei",
+        "playerId": 14134505,
+        "substituted": "M. Baku",
+        "assistingPlayerId": 4277602
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "76",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "André Henrique",
+        "playerId": 38293521,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "77",
+        "type": "Goal",
+        "assist": "Juan",
+        "player": "N. Miroshi",
+        "playerId": 48862527,
+        "substituted": null,
+        "assistingPlayerId": 29127630
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "78",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Novatus Miroshi",
+        "playerId": 48862527,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "82",
+        "type": "Penalty",
+        "assist": null,
+        "player": "B. Kutlu",
+        "playerId": 42605101,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "83",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Andre Henrique",
+        "playerId": 38293521,
+        "substituted": "S. Armstrong",
+        "assistingPlayerId": 32178097
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "83",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Juan",
+        "playerId": 29127630,
+        "substituted": "Janderson",
+        "assistingPlayerId": 56896588
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "85",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Susoho",
+        "playerId": 52823771,
+        "substituted": "M. Maglica",
+        "assistingPlayerId": 43831116
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "88",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Antunes",
+        "playerId": 7825881,
+        "substituted": "E. Bekiroglu",
+        "assistingPlayerId": 4206762
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "90+3",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Emir Ortakaya",
+        "playerId": 47070597,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "90+2",
+        "type": "Substitution",
+        "assist": null,
+        "player": "N. Miroshi",
+        "playerId": 48862527,
+        "substituted": "E. Yildirim",
+        "assistingPlayerId": 70483700
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "time": "90+2",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Rhaldney",
+        "playerId": 8806693,
+        "substituted": "F. Anjorin",
+        "assistingPlayerId": 22343251
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-18T13:17:05.822Z",
+          "probabilities": {
+            "away": "36.87%",
+            "draw": "31.75%",
+            "home": "31.38%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-18T13:26:25.860Z",
+          "probabilities": {
+            "away": "60.19%",
+            "draw": "25.80%",
+            "home": "14.01%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-18T13:36:41.026Z",
+          "probabilities": {
+            "away": "63.35%",
+            "draw": "24.03%",
+            "home": "12.62%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-18T13:47:18.893Z",
+          "probabilities": {
+            "away": "66.27%",
+            "draw": "23.71%",
+            "home": "10.02%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-18T13:57:22.505Z",
+          "probabilities": {
+            "away": "66.07%",
+            "draw": "24.00%",
+            "home": "9.93%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-18T14:05:59.776Z",
+          "probabilities": {
+            "away": "66.18%",
+            "draw": "23.98%",
+            "home": "9.83%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-18T14:19:37.768Z",
+          "probabilities": {
+            "away": "69.81%",
+            "draw": "22.87%",
+            "home": "7.32%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-18T14:27:22.092Z",
+          "probabilities": {
+            "away": "72.07%",
+            "draw": "22.13%",
+            "home": "5.80%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-18T14:38:54.722Z",
+          "probabilities": {
+            "away": "93.12%",
+            "draw": "5.91%",
+            "home": "0.98%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-18T14:47:03.821Z",
+          "probabilities": {
+            "away": "83.50%",
+            "draw": "14.74%",
+            "home": "1.76%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-18T14:58:54.747Z",
+          "probabilities": {
+            "away": "93.27%",
+            "draw": "6.23%",
+            "home": "0.50%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-18T15:05:47.937Z",
+          "probabilities": {
+            "away": "93.27%",
+            "draw": "6.23%",
+            "home": "0.50%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-10-11T16:02:29.002Z",
+          "probabilities": {
+            "away": "33.66%",
+            "draw": "29.61%",
+            "home": "36.73%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-10-11T20:22:32.798Z",
+          "probabilities": {
+            "away": "33.64%",
+            "draw": "29.58%",
+            "home": "36.78%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-10-12T09:18:13.542Z",
+          "probabilities": {
+            "away": "33.59%",
+            "draw": "29.82%",
+            "home": "36.59%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-10-12T12:40:26.264Z",
+          "probabilities": {
+            "away": "34.86%",
+            "draw": "28.92%",
+            "home": "36.21%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Goztepe.",
+          "generatedAt": "2026-10-12T16:10:53.729Z",
+          "probabilities": {
+            "away": "34.90%",
+            "draw": "28.89%",
+            "home": "36.21%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-12T19:55:19.015Z",
+          "probabilities": {
+            "away": "36.26%",
+            "draw": "28.18%",
+            "home": "35.56%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-13T09:31:26.041Z",
+          "probabilities": {
+            "away": "36.40%",
+            "draw": "28.11%",
+            "home": "35.49%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-13T13:05:58.640Z",
+          "probabilities": {
+            "away": "36.52%",
+            "draw": "28.05%",
+            "home": "35.43%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-13T16:49:50.015Z",
+          "probabilities": {
+            "away": "36.51%",
+            "draw": "27.97%",
+            "home": "35.52%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-13T20:44:35.905Z",
+          "probabilities": {
+            "away": "37.14%",
+            "draw": "27.85%",
+            "home": "35.01%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-14T09:54:41.333Z",
+          "probabilities": {
+            "away": "38.14%",
+            "draw": "27.84%",
+            "home": "34.02%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-14T13:41:44.439Z",
+          "probabilities": {
+            "away": "39.05%",
+            "draw": "27.81%",
+            "home": "33.13%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-14T17:35:22.112Z",
+          "probabilities": {
+            "away": "39.25%",
+            "draw": "27.75%",
+            "home": "33.00%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-14T21:31:15.233Z",
+          "probabilities": {
+            "away": "39.36%",
+            "draw": "27.80%",
+            "home": "32.84%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-15T10:43:28.351Z",
+          "probabilities": {
+            "away": "39.33%",
+            "draw": "27.84%",
+            "home": "32.83%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-16T09:19:17.713Z",
+          "probabilities": {
+            "away": "39.99%",
+            "draw": "27.52%",
+            "home": "32.49%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-16T13:34:08.869Z",
+          "probabilities": {
+            "away": "40.02%",
+            "draw": "27.48%",
+            "home": "32.50%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-16T18:10:04.302Z",
+          "probabilities": {
+            "away": "40.00%",
+            "draw": "27.52%",
+            "home": "32.49%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-16T22:48:16.191Z",
+          "probabilities": {
+            "away": "40.06%",
+            "draw": "27.48%",
+            "home": "32.46%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-17T10:54:24.193Z",
+          "probabilities": {
+            "away": "40.16%",
+            "draw": "27.49%",
+            "home": "32.35%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-17T15:43:45.074Z",
+          "probabilities": {
+            "away": "40.06%",
+            "draw": "27.44%",
+            "home": "32.50%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-17T20:54:02.527Z",
+          "probabilities": {
+            "away": "39.90%",
+            "draw": "27.71%",
+            "home": "32.39%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-18T11:35:21.392Z",
+          "probabilities": {
+            "away": "37.82%",
+            "draw": "29.13%",
+            "home": "33.05%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-18T15:55:35.039Z",
+          "probabilities": {
+            "away": "39.39%",
+            "draw": "29.36%",
+            "home": "31.25%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Goztepe is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-18T20:24:08.214Z",
+          "probabilities": {
+            "away": "39.39%",
+            "draw": "29.36%",
+            "home": "31.25%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "statistics": [
+          {
+            "value": 1.58,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 2,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 98,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 24,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.49,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 23,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 239,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 234,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 27,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 84,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 38,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 6,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 62,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 77,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 6,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 15,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 19,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 28,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 25,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 31,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 62,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 7,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.31,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 125,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.62,
+            "displayName": "Possession"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 5,
+            "displayName": "Corners"
+          },
+          {
+            "value": 2,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 325,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 4,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 450,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 2,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 13,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 2,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 846678,
+          "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+          "name": "Goztepe"
+        },
+        "statistics": [
+          {
+            "value": 0.9,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 1,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 121,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 13,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.37,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 15,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 100,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 186,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 20,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 67,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 22,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 6,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 40,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 39,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 12,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 14,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 7,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 11,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 44,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 31,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 62,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 6,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 22,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.38,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 99,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.38,
+            "displayName": "Possession"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 1,
+            "displayName": "Corners"
+          },
+          {
+            "value": 2,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 172,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 2,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 271,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 3,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 25,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 2,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348356671,
+    "round": "Regular Season - 8",
+    "date": "2026-10-18T13:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "1 - 2",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 846678,
+      "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+      "name": "Goztepe",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "24'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Juan"
+        },
+        {
+          "time": "26'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "André Henrique"
+        },
+        {
+          "time": "29'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Novatus Miroshi"
+        },
+        {
+          "time": "48'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "André Henrique"
+        },
+        {
+          "time": "57'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Juan"
+        },
+        {
+          "time": "65'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Alexis Antunes"
+        },
+        {
+          "time": "77'",
+          "outcome": "Goal",
+          "goalTarget": "High Left",
+          "playerName": "Novatus Miroshi"
+        },
+        {
+          "time": "87'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Rhaldney"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 6307545,
+      "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+      "name": "Kocaelispor FK",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "10'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Berkan Kutlu"
+        },
+        {
+          "time": "17'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Metehan Altunbaş"
+        },
+        {
+          "time": "24'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Manuel Show"
+        },
+        {
+          "time": "32'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Emir Ortakaya"
+        },
+        {
+          "time": "51'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Berkan Kutlu"
+        },
+        {
+          "time": "57'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Dan Agyei"
+        },
+        {
+          "time": "60'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Rigoberto Rivas"
+        },
+        {
+          "time": "66'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Dan Agyei"
+        },
+        {
+          "time": "71'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Dan Agyei"
+        },
+        {
+          "time": "71'",
+          "outcome": "Saved",
+          "goalTarget": "High Left",
+          "playerName": "Emir Ortakaya"
+        },
+        {
+          "time": "82'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Berkan Kutlu"
+        },
+        {
+          "time": "90'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Makana Baku"
+        },
+        {
+          "time": "90 + 4'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Makana Baku"
+        },
+        {
+          "time": "90 + 5'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Rigoberto Rivas"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

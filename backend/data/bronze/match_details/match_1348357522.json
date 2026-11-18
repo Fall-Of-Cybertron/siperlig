@@ -1,0 +1,1239 @@
+[
+  {
+    "venue": {
+      "city": "Trabzon",
+      "name": "Papara Park",
+      "country": "Turkiye",
+      "capacity": "40980"
+    },
+    "referee": {
+      "name": "Aydin, Cihan",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "cloudy",
+      "temperature": "16.17°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "21",
+        "type": "Goal",
+        "assist": null,
+        "player": "O. Tufan",
+        "playerId": 8040816,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "32",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Fabio Miretti",
+        "playerId": 29271242,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "33",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Fabinho",
+        "playerId": 48293,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "60",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Emirhan Topçu",
+        "playerId": 8057560,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "63",
+        "type": "Substitution",
+        "assist": null,
+        "player": "O. Tufan",
+        "playerId": 8040816,
+        "substituted": "T. Jabol-Folcarelli",
+        "assistingPlayerId": 3607842
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "71",
+        "type": "Goal",
+        "assist": "Franculino",
+        "player": "M. Salah",
+        "playerId": 49420,
+        "substituted": null,
+        "assistingPlayerId": 54840779
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "77",
+        "type": "Substitution",
+        "assist": null,
+        "player": "F. Miretti",
+        "playerId": 29271242,
+        "substituted": "K. Ouattara",
+        "assistingPlayerId": 53635211
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "77",
+        "type": "Substitution",
+        "assist": null,
+        "player": "V. Cerny",
+        "playerId": 88543,
+        "substituted": "Oh Hyeon-Gyu",
+        "assistingPlayerId": 5588464
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "77",
+        "type": "Substitution",
+        "assist": null,
+        "player": "R. Yilmaz",
+        "playerId": 320061,
+        "substituted": "I. Fakili",
+        "assistingPlayerId": 71938818
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "81",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Simsir",
+        "playerId": 26048344,
+        "substituted": "N. Saviolo",
+        "assistingPlayerId": 73250807
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "85",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "İlhan Fakılı",
+        "playerId": 71938818,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "85",
+        "type": "Substitution",
+        "assist": null,
+        "player": "J. Olaitan",
+        "playerId": 51021698,
+        "substituted": "W. Ndidi",
+        "assistingPlayerId": 3024700
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "88",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Franculino",
+        "playerId": 54840779,
+        "substituted": "U. Nayir",
+        "assistingPlayerId": 8089760
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "89",
+        "type": "Substitution",
+        "assist": null,
+        "player": "E. Muci",
+        "playerId": 585872,
+        "substituted": "C. Ozkacar",
+        "assistingPlayerId": 11599882
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "90",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Kassoum Ouattara",
+        "playerId": 53635211,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "90",
+        "type": "Substitution",
+        "assist": null,
+        "player": "S. Ozcan",
+        "playerId": 3994081,
+        "substituted": "K. Kayra Yilmaz",
+        "assistingPlayerId": 321832
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-10-19T17:01:48.689Z",
+          "probabilities": {
+            "away": "37.98%",
+            "draw": "24.90%",
+            "home": "37.12%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-10-19T17:12:08.665Z",
+          "probabilities": {
+            "away": "38.19%",
+            "draw": "25.66%",
+            "home": "36.15%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Besiktas.",
+          "generatedAt": "2026-10-19T17:22:07.906Z",
+          "probabilities": {
+            "away": "32.28%",
+            "draw": "27.26%",
+            "home": "40.46%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Besiktas.",
+          "generatedAt": "2026-10-19T17:32:43.977Z",
+          "probabilities": {
+            "away": "22.57%",
+            "draw": "24.66%",
+            "home": "52.76%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Besiktas.",
+          "generatedAt": "2026-10-19T17:41:58.752Z",
+          "probabilities": {
+            "away": "19.97%",
+            "draw": "25.17%",
+            "home": "54.87%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Besiktas.",
+          "generatedAt": "2026-10-19T17:52:13.081Z",
+          "probabilities": {
+            "away": "18.67%",
+            "draw": "25.49%",
+            "home": "55.84%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Besiktas.",
+          "generatedAt": "2026-10-19T18:01:31.973Z",
+          "probabilities": {
+            "away": "18.74%",
+            "draw": "25.60%",
+            "home": "55.66%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Besiktas.",
+          "generatedAt": "2026-10-19T18:12:05.477Z",
+          "probabilities": {
+            "away": "17.32%",
+            "draw": "26.06%",
+            "home": "56.62%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Besiktas.",
+          "generatedAt": "2026-10-19T18:21:44.557Z",
+          "probabilities": {
+            "away": "13.06%",
+            "draw": "26.13%",
+            "home": "60.82%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Besiktas.",
+          "generatedAt": "2026-10-19T18:32:04.297Z",
+          "probabilities": {
+            "away": "4.90%",
+            "draw": "15.48%",
+            "home": "79.62%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Besiktas.",
+          "generatedAt": "2026-10-19T18:41:37.742Z",
+          "probabilities": {
+            "away": "1.56%",
+            "draw": "6.61%",
+            "home": "91.83%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Besiktas.",
+          "generatedAt": "2026-10-19T18:52:07.367Z",
+          "probabilities": {
+            "away": "0.68%",
+            "draw": "4.02%",
+            "home": "95.30%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-10-12T09:21:50.158Z",
+          "probabilities": {
+            "away": "38.55%",
+            "draw": "23.52%",
+            "home": "37.92%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-10-12T12:44:10.536Z",
+          "probabilities": {
+            "away": "46.39%",
+            "draw": "25.30%",
+            "home": "28.31%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-10-12T16:15:15.010Z",
+          "probabilities": {
+            "away": "43.55%",
+            "draw": "25.06%",
+            "home": "31.39%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-10-12T20:00:04.925Z",
+          "probabilities": {
+            "away": "43.52%",
+            "draw": "25.06%",
+            "home": "31.42%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-10-13T09:38:08.118Z",
+          "probabilities": {
+            "away": "43.52%",
+            "draw": "25.17%",
+            "home": "31.31%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-10-13T13:10:56.132Z",
+          "probabilities": {
+            "away": "43.60%",
+            "draw": "25.12%",
+            "home": "31.29%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-10-13T16:55:18.794Z",
+          "probabilities": {
+            "away": "43.08%",
+            "draw": "24.94%",
+            "home": "31.98%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-10-13T20:50:21.568Z",
+          "probabilities": {
+            "away": "42.37%",
+            "draw": "24.90%",
+            "home": "32.74%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-10-14T10:00:21.328Z",
+          "probabilities": {
+            "away": "42.38%",
+            "draw": "24.84%",
+            "home": "32.78%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-10-14T13:47:49.983Z",
+          "probabilities": {
+            "away": "42.29%",
+            "draw": "24.87%",
+            "home": "32.84%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-10-14T17:41:54.894Z",
+          "probabilities": {
+            "away": "42.56%",
+            "draw": "24.86%",
+            "home": "32.58%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-10-14T21:36:53.302Z",
+          "probabilities": {
+            "away": "42.65%",
+            "draw": "24.80%",
+            "home": "32.55%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-10-15T10:49:58.899Z",
+          "probabilities": {
+            "away": "42.45%",
+            "draw": "24.84%",
+            "home": "32.71%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-10-16T09:27:06.796Z",
+          "probabilities": {
+            "away": "42.35%",
+            "draw": "24.96%",
+            "home": "32.68%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-10-16T13:42:46.783Z",
+          "probabilities": {
+            "away": "42.33%",
+            "draw": "24.94%",
+            "home": "32.73%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-10-16T18:20:25.482Z",
+          "probabilities": {
+            "away": "41.99%",
+            "draw": "25.08%",
+            "home": "32.93%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-10-17T11:05:06.827Z",
+          "probabilities": {
+            "away": "42.11%",
+            "draw": "25.11%",
+            "home": "32.78%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-10-17T15:55:41.515Z",
+          "probabilities": {
+            "away": "39.31%",
+            "draw": "25.41%",
+            "home": "35.27%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-10-17T21:05:49.725Z",
+          "probabilities": {
+            "away": "39.28%",
+            "draw": "25.31%",
+            "home": "35.41%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-10-18T11:48:49.179Z",
+          "probabilities": {
+            "away": "38.77%",
+            "draw": "25.37%",
+            "home": "35.86%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-10-18T16:10:37.584Z",
+          "probabilities": {
+            "away": "38.78%",
+            "draw": "25.32%",
+            "home": "35.89%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-10-18T20:38:26.430Z",
+          "probabilities": {
+            "away": "38.27%",
+            "draw": "25.45%",
+            "home": "36.28%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Besiktas.",
+          "generatedAt": "2026-10-19T08:30:30.373Z",
+          "probabilities": {
+            "away": "37.07%",
+            "draw": "25.38%",
+            "home": "37.54%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Besiktas.",
+          "generatedAt": "2026-10-19T11:14:01.537Z",
+          "probabilities": {
+            "away": "37.07%",
+            "draw": "25.31%",
+            "home": "37.62%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Besiktas.",
+          "generatedAt": "2026-10-19T14:48:24.757Z",
+          "probabilities": {
+            "away": "36.83%",
+            "draw": "25.25%",
+            "home": "37.92%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-10-19T18:27:42.835Z",
+          "probabilities": {
+            "away": "38.65%",
+            "draw": "24.86%",
+            "home": "36.49%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "statistics": [
+          {
+            "value": 2.35,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 6,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 63,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 17,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.77,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 2,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 10,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 141,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 160,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 29,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 68,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 12,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 10,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 54,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 37,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 12,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 9,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 4,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 10,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 33,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 9,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 22,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 9,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 22,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.62,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 70,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.38,
+            "displayName": "Possession"
+          },
+          {
+            "value": 8,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 4,
+            "displayName": "Corners"
+          },
+          {
+            "value": 2,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 221,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 2,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 11,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 291,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 7,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 11,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 1,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 2,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "statistics": [
+          {
+            "value": 1.19,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 1,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 104,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 10,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 1.13,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 6,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 30,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 176,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 330,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 25,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 45,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 14,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 17,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 122,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 72,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 5,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 10,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 15,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 19,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 14,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 13,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 22,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 4,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 8,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.37,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 65,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.62,
+            "displayName": "Possession"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 6,
+            "displayName": "Corners"
+          },
+          {
+            "value": 5,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 411,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 9,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 3,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 10,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 476,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 6,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 17,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 4,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 8,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348357522,
+    "round": "Regular Season - 8",
+    "date": "2026-10-19T17:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "2 - 0",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 467983,
+      "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+      "name": "Besiktas",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "8'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Junior Olaitan"
+        },
+        {
+          "time": "10'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Junior Olaitan"
+        },
+        {
+          "time": "11'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Leandro Trossard"
+        },
+        {
+          "time": "14'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Dusan Vlahović"
+        },
+        {
+          "time": "15'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Fabio Miretti"
+        },
+        {
+          "time": "17'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Vaclav Černý"
+        },
+        {
+          "time": "29'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Emmanuel Agbadou"
+        },
+        {
+          "time": "37'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Leandro Trossard"
+        },
+        {
+          "time": "41'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Junior Olaitan"
+        },
+        {
+          "time": "41'",
+          "outcome": "Saved",
+          "goalTarget": "High Right",
+          "playerName": "Leandro Trossard"
+        },
+        {
+          "time": "41'",
+          "outcome": "Post",
+          "goalTarget": null,
+          "playerName": "Amir Murillo"
+        },
+        {
+          "time": "54'",
+          "outcome": "Saved",
+          "goalTarget": "High Left",
+          "playerName": "Dusan Vlahović"
+        },
+        {
+          "time": "58'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Vaclav Černý"
+        },
+        {
+          "time": "64'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Fabio Miretti"
+        },
+        {
+          "time": "70'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Leandro Trossard"
+        },
+        {
+          "time": "79'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Ilhan Fakili"
+        },
+        {
+          "time": "82'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Amir Murillo"
+        },
+        {
+          "time": "87'",
+          "outcome": "Saved",
+          "goalTarget": "High Left",
+          "playerName": "Ilhan Fakili"
+        },
+        {
+          "time": "88'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Oh Hyeon-Gyu"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 850082,
+      "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+      "name": "Trabzonspor",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "12'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Sidny Cabral"
+        },
+        {
+          "time": "21'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Ernest Muçi"
+        },
+        {
+          "time": "21'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Ozan Tufan"
+        },
+        {
+          "time": "28'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Aral Simsir"
+        },
+        {
+          "time": "39'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Franculino Djú"
+        },
+        {
+          "time": "42'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Ernest Muçi"
+        },
+        {
+          "time": "43'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Mohamed Salah"
+        },
+        {
+          "time": "56'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Ernest Muçi"
+        },
+        {
+          "time": "71'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Mohamed Salah"
+        },
+        {
+          "time": "76'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Sidny Cabral"
+        },
+        {
+          "time": "82'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Noah Saviolo"
+        },
+        {
+          "time": "83'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Mohamed Salah"
+        },
+        {
+          "time": "85'",
+          "outcome": "Missed",
+          "goalTarget": "Close Left And High",
+          "playerName": "Mohamed Salah"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

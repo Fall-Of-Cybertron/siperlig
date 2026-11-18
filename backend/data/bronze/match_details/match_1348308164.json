@@ -1,0 +1,1268 @@
+[
+  {
+    "venue": {
+      "city": "Istanbul",
+      "name": "Sukru Saracoglu Stadium",
+      "country": "Turkiye",
+      "capacity": "50530"
+    },
+    "referee": {
+      "name": "Karaoglan, Atilla",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "clear night",
+      "temperature": "24.17°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "7",
+        "type": "Goal",
+        "assist": null,
+        "player": "V. Muriqi",
+        "playerId": 8057882,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "10",
+        "type": "Goal",
+        "assist": "Y. Andzouana",
+        "player": "E. Colley",
+        "playerId": 22676521,
+        "substituted": null,
+        "assistingPlayerId": 7649586
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "16",
+        "type": "VAR Penalty",
+        "assist": null,
+        "player": "Mason Greenwood",
+        "playerId": 144571,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "20",
+        "type": "Missed Penalty",
+        "assist": null,
+        "player": "Mason Greenwood",
+        "playerId": 144571,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "20",
+        "type": "Goal",
+        "assist": null,
+        "player": "M. Greenwood",
+        "playerId": 144571,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "33",
+        "type": "Goal",
+        "assist": "M. Greenwood",
+        "player": "M. Asensio",
+        "playerId": 120260,
+        "substituted": null,
+        "assistingPlayerId": 144571
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "45+4",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Deniz Türüç",
+        "playerId": 8070440,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "45+4",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Adil Demirbağ",
+        "playerId": 9979900,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "49",
+        "type": "Goal",
+        "assist": "V. Muriqi",
+        "player": "M. Greenwood",
+        "playerId": 144571,
+        "substituted": null,
+        "assistingPlayerId": 8057882
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "54",
+        "type": "Substitution",
+        "assist": null,
+        "player": "K. Akturkoglu",
+        "playerId": 23016553,
+        "substituted": "D. Nene",
+        "assistingPlayerId": 48762063
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "60",
+        "type": "Substitution",
+        "assist": null,
+        "player": "E. Colley",
+        "playerId": 22676521,
+        "substituted": "M. Jevtovic",
+        "assistingPlayerId": 8051442
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "60",
+        "type": "Substitution",
+        "assist": null,
+        "player": "D. Goncalves",
+        "playerId": 3107454,
+        "substituted": "E. Bardhi",
+        "assistingPlayerId": 7641375
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "61",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Enis Bardhi",
+        "playerId": 7641375,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "63",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Brown",
+        "playerId": 26027575,
+        "substituted": "L. Mercan",
+        "assistingPlayerId": 20545203
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "63",
+        "type": "Substitution",
+        "assist": null,
+        "player": "N. Kante",
+        "playerId": 368844,
+        "substituted": "I. Yuksek",
+        "assistingPlayerId": 34528697
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "68",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Asensio",
+        "playerId": 120260,
+        "substituted": "O. Aydin",
+        "assistingPlayerId": 21669144
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "69",
+        "type": "Substitution",
+        "assist": null,
+        "player": "V. Muriqi",
+        "playerId": 8057882,
+        "substituted": "R. Lukaku",
+        "assistingPlayerId": 146181
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "73",
+        "type": "Substitution",
+        "assist": null,
+        "player": "J. Muleka",
+        "playerId": 23289770,
+        "substituted": "B. Kramer",
+        "assistingPlayerId": 19284734
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "73",
+        "type": "Substitution",
+        "assist": null,
+        "player": "R. Toth",
+        "playerId": 67542391,
+        "substituted": "E. Destan",
+        "assistingPlayerId": 29370096
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "74",
+        "type": "Substitution",
+        "assist": null,
+        "player": "U. Yazgili",
+        "playerId": 8060297,
+        "substituted": "A. Masuaku",
+        "assistingPlayerId": 3029530
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "79",
+        "type": "Substitution",
+        "assist": null,
+        "player": "C. Awaziem",
+        "playerId": 8054340,
+        "substituted": "R. Baniya",
+        "assistingPlayerId": 19188456
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "85",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Greenwood",
+        "playerId": 144571,
+        "substituted": "B. Elmaz",
+        "assistingPlayerId": 26082798
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "90",
+        "type": "Goal",
+        "assist": null,
+        "player": "D. Turuc",
+        "playerId": 8070440,
+        "substituted": null,
+        "assistingPlayerId": null
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-08-22T18:45:55.099Z",
+          "probabilities": {
+            "away": "7.84%",
+            "draw": "17.04%",
+            "home": "75.12%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-08-22T19:00:27.550Z",
+          "probabilities": {
+            "away": "3.33%",
+            "draw": "9.66%",
+            "home": "87.01%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-08-22T19:04:50.148Z",
+          "probabilities": {
+            "away": "2.25%",
+            "draw": "6.49%",
+            "home": "91.26%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-08-22T19:18:03.906Z",
+          "probabilities": {
+            "away": "1.62%",
+            "draw": "5.52%",
+            "home": "92.85%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-08-22T19:25:35.910Z",
+          "probabilities": {
+            "away": "1.62%",
+            "draw": "5.46%",
+            "home": "92.91%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-08-22T19:38:31.481Z",
+          "probabilities": {
+            "away": "1.59%",
+            "draw": "5.45%",
+            "home": "92.96%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-08-22T19:46:02.699Z",
+          "probabilities": {
+            "away": "1.45%",
+            "draw": "5.23%",
+            "home": "93.32%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-08-22T19:58:54.534Z",
+          "probabilities": {
+            "away": "1.45%",
+            "draw": "5.23%",
+            "home": "93.32%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-08-22T20:05:08.419Z",
+          "probabilities": {
+            "away": "1.37%",
+            "draw": "5.25%",
+            "home": "93.39%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-08-22T20:18:39.165Z",
+          "probabilities": {
+            "away": "1.37%",
+            "draw": "5.25%",
+            "home": "93.39%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-08-22T20:24:30.393Z",
+          "probabilities": {
+            "away": "1.44%",
+            "draw": "5.57%",
+            "home": "92.99%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-08-15T11:56:02.077Z",
+          "probabilities": {
+            "away": "12.91%",
+            "draw": "17.21%",
+            "home": "69.88%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-08-15T16:56:45.901Z",
+          "probabilities": {
+            "away": "12.91%",
+            "draw": "17.21%",
+            "home": "69.88%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-08-15T22:03:55.423Z",
+          "probabilities": {
+            "away": "9.53%",
+            "draw": "15.89%",
+            "home": "74.58%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-08-16T18:31:33.675Z",
+          "probabilities": {
+            "away": "10.07%",
+            "draw": "16.36%",
+            "home": "73.57%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-08-17T11:40:22.898Z",
+          "probabilities": {
+            "away": "10.14%",
+            "draw": "16.31%",
+            "home": "73.55%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-08-17T18:07:52.502Z",
+          "probabilities": {
+            "away": "10.28%",
+            "draw": "16.47%",
+            "home": "73.25%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-08-17T21:45:52.345Z",
+          "probabilities": {
+            "away": "10.19%",
+            "draw": "16.55%",
+            "home": "73.26%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-08-18T09:12:44.919Z",
+          "probabilities": {
+            "away": "10.26%",
+            "draw": "16.53%",
+            "home": "73.20%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-08-18T17:07:03.001Z",
+          "probabilities": {
+            "away": "10.29%",
+            "draw": "16.64%",
+            "home": "73.07%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-08-18T20:58:45.845Z",
+          "probabilities": {
+            "away": "10.29%",
+            "draw": "16.64%",
+            "home": "73.07%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-08-19T09:46:09.798Z",
+          "probabilities": {
+            "away": "10.28%",
+            "draw": "16.66%",
+            "home": "73.06%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-08-20T09:22:07.383Z",
+          "probabilities": {
+            "away": "10.04%",
+            "draw": "16.88%",
+            "home": "73.08%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-08-20T15:58:12.573Z",
+          "probabilities": {
+            "away": "9.99%",
+            "draw": "16.96%",
+            "home": "73.05%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-08-20T20:47:07.733Z",
+          "probabilities": {
+            "away": "9.98%",
+            "draw": "16.93%",
+            "home": "73.08%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-08-21T12:54:18.899Z",
+          "probabilities": {
+            "away": "9.96%",
+            "draw": "16.96%",
+            "home": "73.08%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-08-22T10:48:53.429Z",
+          "probabilities": {
+            "away": "10.11%",
+            "draw": "17.51%",
+            "home": "72.38%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-08-22T15:35:04.006Z",
+          "probabilities": {
+            "away": "10.01%",
+            "draw": "17.49%",
+            "home": "72.50%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-08-22T20:38:41.484Z",
+          "probabilities": {
+            "away": "8.52%",
+            "draw": "16.20%",
+            "home": "75.27%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "statistics": [
+          {
+            "value": 2.36,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 7,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 95,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 9,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 1.03,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 6,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 17,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 199,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 235,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 16,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 32,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 15,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 15,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 99,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 74,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 10,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 8,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 14,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 21,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 9,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 6,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 16,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 7,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 13,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.45,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 39,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.49,
+            "displayName": "Possession"
+          },
+          {
+            "value": 9,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 7,
+            "displayName": "Corners"
+          },
+          {
+            "value": 1,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 378,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 4,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 17,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 417,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 6,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 11,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 0,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "statistics": [
+          {
+            "value": 2.15,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 5,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 85,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 10,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 1.08,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 13,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 259,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 200,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 45,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 54,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 13,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 13,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 83,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 87,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 8,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 6,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 9,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 12,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 16,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 10,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 16,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 16,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.47,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 46,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.51,
+            "displayName": "Possession"
+          },
+          {
+            "value": 8,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 3,
+            "displayName": "Corners"
+          },
+          {
+            "value": 2,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 400,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 2,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 11,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 446,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 5,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 10,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 3,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348308164,
+    "round": "Regular Season - 2",
+    "date": "2026-08-22T18:30:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "4 - 2",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 517341,
+      "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+      "name": "Konyaspor",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "11'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Ebrima Colley"
+        },
+        {
+          "time": "23'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Jackson Muleka"
+        },
+        {
+          "time": "26'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Diogo Gonçalves"
+        },
+        {
+          "time": "40'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Adil Demirbağ"
+        },
+        {
+          "time": "45'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Ebrima Colley"
+        },
+        {
+          "time": "45'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Chidozie Awaziem"
+        },
+        {
+          "time": "62'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Rajmund Tóth"
+        },
+        {
+          "time": "65'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Marko Jevtovic"
+        },
+        {
+          "time": "66'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Yhoan Andzouana"
+        },
+        {
+          "time": "72'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Enis Bardhi"
+        },
+        {
+          "time": "77'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Blaz Kramer"
+        },
+        {
+          "time": "77'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Enis Destan"
+        },
+        {
+          "time": "78'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Deniz Türüc"
+        },
+        {
+          "time": "78'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Blaz Kramer"
+        },
+        {
+          "time": "82'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Blaz Kramer"
+        },
+        {
+          "time": "90 + 4'",
+          "outcome": "Post",
+          "goalTarget": null,
+          "playerName": "Blaz Kramer"
+        },
+        {
+          "time": "90 + 4'",
+          "outcome": "Goal",
+          "goalTarget": "Low Centre",
+          "playerName": "Deniz Türüc"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 520745,
+      "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+      "name": "Fenerbahce",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "2'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "N'Golo Kanté"
+        },
+        {
+          "time": "4'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right And High",
+          "playerName": "Kerem Aktürkoğlu"
+        },
+        {
+          "time": "7'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Archie Brown"
+        },
+        {
+          "time": "7'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Vedat Muriqi"
+        },
+        {
+          "time": "15'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Mason Greenwood"
+        },
+        {
+          "time": "20'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Mason Greenwood"
+        },
+        {
+          "time": "20'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Mason Greenwood"
+        },
+        {
+          "time": "29'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Vedat Muriqi"
+        },
+        {
+          "time": "33'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Marco Asensio"
+        },
+        {
+          "time": "42'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Kerem Aktürkoğlu"
+        },
+        {
+          "time": "45 + 2'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Nelson Semedo"
+        },
+        {
+          "time": "45 + 5'",
+          "outcome": "Saved",
+          "goalTarget": "High Left",
+          "playerName": "Kerem Aktürkoğlu"
+        },
+        {
+          "time": "49'",
+          "outcome": "Goal",
+          "goalTarget": "Low Centre",
+          "playerName": "Mason Greenwood"
+        },
+        {
+          "time": "64'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Marco Asensio"
+        },
+        {
+          "time": "69'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Oğuz Aydin"
+        },
+        {
+          "time": "70'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Romelu Lukaku"
+        },
+        {
+          "time": "79'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Mason Greenwood"
+        },
+        {
+          "time": "80'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Milan Skriniar"
+        },
+        {
+          "time": "84'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Romelu Lukaku"
+        },
+        {
+          "time": "90 + 3'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Bartuğ Elmaz"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

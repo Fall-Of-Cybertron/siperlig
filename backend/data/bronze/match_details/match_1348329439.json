@@ -1,0 +1,1021 @@
+[
+  {
+    "venue": {
+      "city": "Istanbul",
+      "name": "Tupras Stadium",
+      "country": "Turkiye",
+      "capacity": "42590"
+    },
+    "referee": {
+      "name": "Hasova, Gurcan",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "clear night",
+      "temperature": "22.87°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "15",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Orkun Kökçü",
+        "playerId": 5982109,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "21",
+        "type": "Goal",
+        "assist": "O. Kokcu",
+        "player": "E. Topcu",
+        "playerId": 8057560,
+        "substituted": null,
+        "assistingPlayerId": 5982109
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "26",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Kassoum Ouattara",
+        "playerId": 53635211,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "27",
+        "type": "Goal",
+        "assist": "Oh Hyeon-Gyu",
+        "player": "L. Trossard",
+        "playerId": 313460,
+        "substituted": null,
+        "assistingPlayerId": 5588464
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "51",
+        "type": "VAR Goal Cancelled",
+        "assist": null,
+        "player": "Leandro Trossard",
+        "playerId": 313460,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 859443,
+          "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+          "name": "Erzurum BB"
+        },
+        "time": "57",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Cardoso",
+        "playerId": 8639253,
+        "substituted": "I. Diabate",
+        "assistingPlayerId": 29428378
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "66",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Salih Özcan",
+        "playerId": 3994081,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 859443,
+          "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+          "name": "Erzurum BB"
+        },
+        "time": "67",
+        "type": "Substitution",
+        "assist": null,
+        "player": "N. Mujakic",
+        "playerId": 12375741,
+        "substituted": "Y. Kirtay",
+        "assistingPlayerId": 56977088
+      },
+      {
+        "team": {
+          "id": 859443,
+          "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+          "name": "Erzurum BB"
+        },
+        "time": "67",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Rodriguez",
+        "playerId": 5784079,
+        "substituted": "M. Fettahoglu",
+        "assistingPlayerId": 26082476
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "70",
+        "type": "Substitution",
+        "assist": null,
+        "player": "O. Kokcu",
+        "playerId": 5982109,
+        "substituted": "K. Kayra Yilmaz",
+        "assistingPlayerId": 321832
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "71",
+        "type": "Substitution",
+        "assist": null,
+        "player": "S. Ozcan",
+        "playerId": 3994081,
+        "substituted": "W. Ndidi",
+        "assistingPlayerId": 3024700
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "71",
+        "type": "Substitution",
+        "assist": null,
+        "player": "V. Cerny",
+        "playerId": 88543,
+        "substituted": "I. Fakili",
+        "assistingPlayerId": 71938818
+      },
+      {
+        "team": {
+          "id": 859443,
+          "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+          "name": "Erzurum BB"
+        },
+        "time": "73",
+        "type": "Substitution",
+        "assist": null,
+        "player": "O. Ovacikli",
+        "playerId": 8054823,
+        "substituted": "F. Ebosele",
+        "assistingPlayerId": 26023872
+      },
+      {
+        "team": {
+          "id": 859443,
+          "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+          "name": "Erzurum BB"
+        },
+        "time": "74",
+        "type": "Substitution",
+        "assist": null,
+        "player": "E. Tozlu",
+        "playerId": 8038079,
+        "substituted": "G. Kerk",
+        "assistingPlayerId": 5987422
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "81",
+        "type": "Own Goal",
+        "assist": null,
+        "player": "Y. Kirtay",
+        "playerId": 56977088,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "83",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Murillo",
+        "playerId": 478807,
+        "substituted": "T. Bulut",
+        "assistingPlayerId": 63540897
+      },
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "time": "83",
+        "type": "Substitution",
+        "assist": null,
+        "player": "L. Trossard",
+        "playerId": 313460,
+        "substituted": "E. Poku",
+        "assistingPlayerId": 50367394
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-09-11T17:21:00.650Z",
+          "probabilities": {
+            "away": "8.14%",
+            "draw": "17.55%",
+            "home": "74.31%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-09-04T12:05:31.435Z",
+          "probabilities": {
+            "away": "10.56%",
+            "draw": "19.56%",
+            "home": "69.87%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-09-04T18:01:15.250Z",
+          "probabilities": {
+            "away": "11.36%",
+            "draw": "19.16%",
+            "home": "69.48%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-09-05T12:02:43.389Z",
+          "probabilities": {
+            "away": "11.38%",
+            "draw": "19.14%",
+            "home": "69.48%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-09-05T21:00:03.183Z",
+          "probabilities": {
+            "away": "11.46%",
+            "draw": "19.26%",
+            "home": "69.28%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-09-06T10:13:16.231Z",
+          "probabilities": {
+            "away": "11.46%",
+            "draw": "19.26%",
+            "home": "69.28%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-09-06T17:12:01.591Z",
+          "probabilities": {
+            "away": "10.59%",
+            "draw": "19.12%",
+            "home": "70.29%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-09-07T11:52:12.803Z",
+          "probabilities": {
+            "away": "9.76%",
+            "draw": "18.68%",
+            "home": "71.56%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-09-08T09:01:28.534Z",
+          "probabilities": {
+            "away": "9.28%",
+            "draw": "17.80%",
+            "home": "72.92%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-09-09T09:10:40.002Z",
+          "probabilities": {
+            "away": "9.24%",
+            "draw": "17.69%",
+            "home": "73.08%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-09-09T14:25:43.448Z",
+          "probabilities": {
+            "away": "9.21%",
+            "draw": "17.55%",
+            "home": "73.24%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-09-09T19:53:36.883Z",
+          "probabilities": {
+            "away": "9.02%",
+            "draw": "17.22%",
+            "home": "73.76%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-09-10T10:05:15.726Z",
+          "probabilities": {
+            "away": "8.79%",
+            "draw": "16.87%",
+            "home": "74.34%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-09-10T15:30:31.185Z",
+          "probabilities": {
+            "away": "7.49%",
+            "draw": "15.15%",
+            "home": "77.36%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-09-10T20:51:03.445Z",
+          "probabilities": {
+            "away": "7.63%",
+            "draw": "15.20%",
+            "home": "77.17%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-09-11T09:29:16.252Z",
+          "probabilities": {
+            "away": "8.24%",
+            "draw": "15.74%",
+            "home": "76.02%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-09-11T14:11:46.176Z",
+          "probabilities": {
+            "away": "8.01%",
+            "draw": "15.25%",
+            "home": "76.74%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Besiktas is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-09-11T16:34:55.664Z",
+          "probabilities": {
+            "away": "7.78%",
+            "draw": "15.42%",
+            "home": "76.80%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 467983,
+          "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+          "name": "Besiktas"
+        },
+        "statistics": [
+          {
+            "value": 2.29,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 3,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 67,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 11,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 2.08,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 6,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 22,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 265,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 443,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 30,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 42,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 14,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 14,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 174,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 105,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 5,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 7,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 6,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 10,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 5,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 9,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 14,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 17,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.29,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 60,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.73,
+            "displayName": "Possession"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 10,
+            "displayName": "Corners"
+          },
+          {
+            "value": 2,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 626,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 9,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 6,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 16,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 686,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 11,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 3,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 859443,
+          "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+          "name": "Erzurum BB"
+        },
+        "statistics": [
+          {
+            "value": 0.5,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 0,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 28,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 10,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.09,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 1,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 4,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 158,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 98,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 12,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 40,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 15,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 6,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 19,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 47,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 10,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 11,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 17,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 21,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 20,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 14,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 4,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 7,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 56,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.27,
+            "displayName": "Possession"
+          },
+          {
+            "value": 0,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 1,
+            "displayName": "Corners"
+          },
+          {
+            "value": 4,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 196,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 8,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 0,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 252,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 4,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 11,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 0,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348329439,
+    "round": "Regular Season - 5",
+    "date": "2026-09-11T17:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "3 - 0",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 859443,
+      "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+      "name": "Erzurum BB",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "12'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right And High",
+          "playerName": "Miguel Cardoso"
+        },
+        {
+          "time": "16'",
+          "outcome": "Missed",
+          "goalTarget": "Close Left And High",
+          "playerName": "Eren Tozlu"
+        },
+        {
+          "time": "19'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Martín Rodríguez"
+        },
+        {
+          "time": "37'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Miguel Cardoso"
+        },
+        {
+          "time": "67'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Eren Tozlu"
+        },
+        {
+          "time": "75'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Ibrahim Diabate"
+        },
+        {
+          "time": "81'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Yakup Kırtay"
+        },
+        {
+          "time": "88'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Yakup Kırtay"
+        },
+        {
+          "time": "88'",
+          "outcome": "Post",
+          "goalTarget": null,
+          "playerName": "Mustafa Yumlu"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 467983,
+      "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+      "name": "Besiktas",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "2'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Oh Hyeon-Gyu"
+        },
+        {
+          "time": "2'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Leandro Trossard"
+        },
+        {
+          "time": "5'",
+          "outcome": "Missed",
+          "goalTarget": "Close High",
+          "playerName": "Vaclav Černý"
+        },
+        {
+          "time": "10'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Amir Murillo"
+        },
+        {
+          "time": "17'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Junior Olaitan"
+        },
+        {
+          "time": "20'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Leandro Trossard"
+        },
+        {
+          "time": "21'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Leandro Trossard"
+        },
+        {
+          "time": "21'",
+          "outcome": "Goal",
+          "goalTarget": "High Left",
+          "playerName": "Emirhan Topçu"
+        },
+        {
+          "time": "27'",
+          "outcome": "Goal",
+          "goalTarget": "High Centre",
+          "playerName": "Leandro Trossard"
+        },
+        {
+          "time": "34'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Oh Hyeon-Gyu"
+        },
+        {
+          "time": "38'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Kassoum Ouattara"
+        },
+        {
+          "time": "40'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Leandro Trossard"
+        },
+        {
+          "time": "45'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Junior Olaitan"
+        },
+        {
+          "time": "45 + 1'",
+          "outcome": "Saved",
+          "goalTarget": "High Right",
+          "playerName": "Oh Hyeon-Gyu"
+        },
+        {
+          "time": "54'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Leandro Trossard"
+        },
+        {
+          "time": "57'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Oh Hyeon-Gyu"
+        },
+        {
+          "time": "60'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Orkun Kökçü"
+        },
+        {
+          "time": "62'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Vaclav Černý"
+        },
+        {
+          "time": "62'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Oh Hyeon-Gyu"
+        },
+        {
+          "time": "68'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Vaclav Černý"
+        },
+        {
+          "time": "81'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Ilhan Fakili"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

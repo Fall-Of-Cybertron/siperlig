@@ -1,0 +1,913 @@
+[
+  {
+    "venue": {
+      "city": "Konya",
+      "name": "Konya Büyüksehir Belediyesi Stadium",
+      "country": "Turkiye",
+      "capacity": "42000"
+    },
+    "referee": {
+      "name": "Coskunses, Resat Onur",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "clear night",
+      "temperature": "24.59°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "2",
+        "type": "Goal",
+        "assist": "D. Goncalves",
+        "player": "R. Toth",
+        "playerId": 67542391,
+        "substituted": null,
+        "assistingPlayerId": 3107454
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "45+2",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Deniz Türüç",
+        "playerId": 8070440,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "58",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Aral Şimşir",
+        "playerId": 26048344,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "58",
+        "type": "Substitution",
+        "assist": null,
+        "player": "O. Tufan",
+        "playerId": 8040816,
+        "substituted": "S. Lopes Cabral",
+        "assistingPlayerId": 49699083
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "59",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Mustafa Eskihellaç",
+        "playerId": 10034157,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "68",
+        "type": "Substitution",
+        "assist": null,
+        "player": "D. Goncalves",
+        "playerId": 3107454,
+        "substituted": "J. Dompe",
+        "assistingPlayerId": 1365917
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "69",
+        "type": "Substitution",
+        "assist": null,
+        "player": "E. Muci",
+        "playerId": 585872,
+        "substituted": "Franculino",
+        "assistingPlayerId": 54840779
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "69",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Simsir",
+        "playerId": 26048344,
+        "substituted": "N. Saviolo",
+        "assistingPlayerId": 73250807
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "77",
+        "type": "Substitution",
+        "assist": null,
+        "player": "D. Turuc",
+        "playerId": 8070440,
+        "substituted": "Y. Andzouana",
+        "assistingPlayerId": 7649586
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "83",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "André Onana",
+        "playerId": 84840,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "83",
+        "type": "Substitution",
+        "assist": null,
+        "player": "U. Yazgili",
+        "playerId": 8060297,
+        "substituted": "C. Awaziem",
+        "assistingPlayerId": 8054340
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "83",
+        "type": "Substitution",
+        "assist": null,
+        "player": "J. Muleka",
+        "playerId": 23289770,
+        "substituted": "Mostafa Mohamed",
+        "assistingPlayerId": 429702
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "85",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Melih İbrahimoğlu",
+        "playerId": 24608199,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "89",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Chidozie Awaziem",
+        "playerId": 8054340,
+        "substituted": null,
+        "assistingPlayerId": null
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Konyaspor is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-09-12T17:25:34.541Z",
+          "probabilities": {
+            "away": "25.66%",
+            "draw": "26.68%",
+            "home": "47.65%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-09-05T12:25:34.944Z",
+          "probabilities": {
+            "away": "46.97%",
+            "draw": "24.15%",
+            "home": "28.88%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-09-05T21:30:23.295Z",
+          "probabilities": {
+            "away": "41.23%",
+            "draw": "26.20%",
+            "home": "32.56%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-09-06T10:43:04.819Z",
+          "probabilities": {
+            "away": "39.50%",
+            "draw": "26.98%",
+            "home": "33.52%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-09-07T12:25:54.165Z",
+          "probabilities": {
+            "away": "45.24%",
+            "draw": "26.53%",
+            "home": "28.24%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-09-08T09:32:53.957Z",
+          "probabilities": {
+            "away": "47.27%",
+            "draw": "25.77%",
+            "home": "26.96%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-09-09T09:53:47.935Z",
+          "probabilities": {
+            "away": "46.99%",
+            "draw": "25.75%",
+            "home": "27.26%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-09-09T15:11:21.856Z",
+          "probabilities": {
+            "away": "46.96%",
+            "draw": "25.81%",
+            "home": "27.22%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-09-09T20:40:58.991Z",
+          "probabilities": {
+            "away": "46.93%",
+            "draw": "25.78%",
+            "home": "27.29%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-09-10T10:53:29.245Z",
+          "probabilities": {
+            "away": "46.95%",
+            "draw": "25.78%",
+            "home": "27.27%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-09-10T16:20:28.672Z",
+          "probabilities": {
+            "away": "47.21%",
+            "draw": "25.81%",
+            "home": "26.98%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-09-11T10:24:00.101Z",
+          "probabilities": {
+            "away": "47.65%",
+            "draw": "25.65%",
+            "home": "26.70%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-09-12T21:56:21.355Z",
+          "probabilities": {
+            "away": "48.58%",
+            "draw": "25.98%",
+            "home": "25.44%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "statistics": [
+          {
+            "value": 1.04,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 2,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 58,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 9,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.41,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 11,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 95,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 157,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 40,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 69,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 16,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 10,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 42,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 43,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 14,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 6,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 13,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 18,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 22,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 14,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 22,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 1,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 7,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.45,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 67,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.29,
+            "displayName": "Possession"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 3,
+            "displayName": "Corners"
+          },
+          {
+            "value": 2,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 174,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 0,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 241,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 4,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 16,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 3,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "statistics": [
+          {
+            "value": 0.92,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 3,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 110,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 16,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.86,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 29,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 225,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 392,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 24,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 36,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 25,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 13,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 154,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 78,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 8,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 5,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 10,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 16,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 19,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 22,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 12,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.27,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 51,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.71,
+            "displayName": "Possession"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 7,
+            "displayName": "Corners"
+          },
+          {
+            "value": 3,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 537,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 8,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 3,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 588,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 4,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 9,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 3,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 8,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348333694,
+    "round": "Regular Season - 5",
+    "date": "2026-09-12T17:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "1 - 0",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 850082,
+      "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+      "name": "Trabzonspor",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "14'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Fabinho"
+        },
+        {
+          "time": "22'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Mustafa Eskihellac"
+        },
+        {
+          "time": "25'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Ernest Muçi"
+        },
+        {
+          "time": "41'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Mohamed Salah"
+        },
+        {
+          "time": "45 + 1'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Mohamed Salah"
+        },
+        {
+          "time": "52'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Mohamed Salah"
+        },
+        {
+          "time": "55'",
+          "outcome": "Post",
+          "goalTarget": null,
+          "playerName": "Fabinho"
+        },
+        {
+          "time": "55'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Aral Simsir"
+        },
+        {
+          "time": "61'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Ernest Muçi"
+        },
+        {
+          "time": "76'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Sidny Cabral"
+        },
+        {
+          "time": "80'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Fabinho"
+        },
+        {
+          "time": "81'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Noah Saviolo"
+        },
+        {
+          "time": "86'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Chibuike Nwaiwu"
+        },
+        {
+          "time": "90 + 1'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Sidny Cabral"
+        },
+        {
+          "time": "90 + 2'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Chibuike Nwaiwu"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 517341,
+      "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+      "name": "Konyaspor",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "2'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Rajmund Tóth"
+        },
+        {
+          "time": "5'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Marko Jevtovic"
+        },
+        {
+          "time": "23'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Melih Ibrahimoglu"
+        },
+        {
+          "time": "28'",
+          "outcome": "Saved",
+          "goalTarget": "High Left",
+          "playerName": "Deniz Türüc"
+        },
+        {
+          "time": "28'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Deniz Türüc"
+        },
+        {
+          "time": "29'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Marko Jevtovic"
+        },
+        {
+          "time": "38'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Rajmund Tóth"
+        },
+        {
+          "time": "49'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Diogo Gonçalves"
+        },
+        {
+          "time": "51'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Rajmund Tóth"
+        },
+        {
+          "time": "60'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Deniz Türüc"
+        },
+        {
+          "time": "67'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Deniz Türüc"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": [
+      {
+        "url": "https://football-italia.net/report-trabzonspor-pioli-talks-senol-gunes/",
+        "image": "https://icdn.football-italia.net/wp-content/uploads/2025/11/Stefano-Pioli-chin.jpg",
+        "title": "Report Trabzonspor want Pioli, but advanced talks with Senol Gunes",
+        "datePublished": "2026-09-13T14:29:53Z"
+      },
+      {
+        "url": "https://www.fourfourtwo.com/person/coaches-managers/pep-guardiola-linked-to-shock-super-lig-move-with-mohamed-salah-report",
+        "image": "https://cdn.mos.cms.futurecdn.net/k43uZWg4reFyAXvvQcmVHL-2560-80.jpg",
+        "title": "Pep Guardiola in talks to manage Mohamed Salah in Turkey for eye-watering salary: report",
+        "datePublished": "2026-09-11T14:00:00Z"
+      }
+    ]
+  }
+]

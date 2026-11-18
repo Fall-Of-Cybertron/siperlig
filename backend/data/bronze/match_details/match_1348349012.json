@@ -1,0 +1,1079 @@
+[
+  {
+    "venue": {
+      "city": "Rize",
+      "name": "Caykur Didi Stadium",
+      "country": "Turkiye",
+      "capacity": "15558"
+    },
+    "referee": {
+      "name": "Ergun, Ozan",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "clear night",
+      "temperature": "18.9°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "12",
+        "type": "Goal",
+        "assist": "K. Akturkoglu",
+        "player": "M. Asensio",
+        "playerId": 120260,
+        "substituted": null,
+        "assistingPlayerId": 23016553
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "59",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Asensio",
+        "playerId": 120260,
+        "substituted": "I. Kahveci",
+        "assistingPlayerId": 8027131
+      },
+      {
+        "team": {
+          "id": 857741,
+          "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+          "name": "Rizespor"
+        },
+        "time": "66",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Kutucu",
+        "playerId": 68096,
+        "substituted": "I. Doicaru",
+        "assistingPlayerId": 71800680
+      },
+      {
+        "team": {
+          "id": 857741,
+          "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+          "name": "Rizespor"
+        },
+        "time": "72",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Q. Laci",
+        "playerId": 3373587,
+        "substituted": "C. Bozdogan",
+        "assistingPlayerId": 32709236
+      },
+      {
+        "team": {
+          "id": 857741,
+          "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+          "name": "Rizespor"
+        },
+        "time": "72",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Mebude",
+        "playerId": 26149452,
+        "substituted": "E. Bulut",
+        "assistingPlayerId": 61801614
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "80",
+        "type": "Substitution",
+        "assist": null,
+        "player": "V. Muriqi",
+        "playerId": 8057882,
+        "substituted": "R. Lukaku",
+        "assistingPlayerId": 146181
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "80",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Greenwood",
+        "playerId": 144571,
+        "substituted": "O. Aydin",
+        "assistingPlayerId": 21669144
+      },
+      {
+        "team": {
+          "id": 857741,
+          "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+          "name": "Rizespor"
+        },
+        "time": "82",
+        "type": "Substitution",
+        "assist": null,
+        "player": "T. Antalyali",
+        "playerId": 8082676,
+        "substituted": "G. Borrelli",
+        "assistingPlayerId": 5071493
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "83",
+        "type": "Goal",
+        "assist": "O. Aydin",
+        "player": "I. Kahveci",
+        "playerId": 8027131,
+        "substituted": null,
+        "assistingPlayerId": 21669144
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "87",
+        "type": "Goal",
+        "assist": "R. Lukaku",
+        "player": "O. Aydin",
+        "playerId": 21669144,
+        "substituted": null,
+        "assistingPlayerId": 146181
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "88",
+        "type": "Substitution",
+        "assist": null,
+        "player": "K. Akturkoglu",
+        "playerId": 23016553,
+        "substituted": "K. Peprah",
+        "assistingPlayerId": 65071846
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "88",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Guendouzi",
+        "playerId": 234248,
+        "substituted": "I. Yuksek",
+        "assistingPlayerId": 34528697
+      }
+    ],
+    "predictions": {
+      "live": [],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-03T12:27:17.600Z",
+          "probabilities": {
+            "away": "54.77%",
+            "draw": "24.09%",
+            "home": "21.14%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-03T16:18:07.126Z",
+          "probabilities": {
+            "away": "54.41%",
+            "draw": "24.19%",
+            "home": "21.40%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-03T20:20:11.567Z",
+          "probabilities": {
+            "away": "54.63%",
+            "draw": "24.12%",
+            "home": "21.25%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-04T09:46:22.659Z",
+          "probabilities": {
+            "away": "54.60%",
+            "draw": "24.12%",
+            "home": "21.28%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-04T13:18:43.192Z",
+          "probabilities": {
+            "away": "54.62%",
+            "draw": "24.11%",
+            "home": "21.28%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-04T16:52:17.590Z",
+          "probabilities": {
+            "away": "54.63%",
+            "draw": "24.12%",
+            "home": "21.25%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-04T20:33:25.230Z",
+          "probabilities": {
+            "away": "54.61%",
+            "draw": "24.11%",
+            "home": "21.28%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-05T09:34:31.302Z",
+          "probabilities": {
+            "away": "54.52%",
+            "draw": "24.00%",
+            "home": "21.48%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-05T12:51:09.739Z",
+          "probabilities": {
+            "away": "54.50%",
+            "draw": "24.03%",
+            "home": "21.47%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-05T16:14:17.733Z",
+          "probabilities": {
+            "away": "54.52%",
+            "draw": "23.99%",
+            "home": "21.48%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-05T19:45:18.738Z",
+          "probabilities": {
+            "away": "54.52%",
+            "draw": "24.03%",
+            "home": "21.45%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-06T08:51:21.932Z",
+          "probabilities": {
+            "away": "54.60%",
+            "draw": "23.97%",
+            "home": "21.43%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-06T12:27:09.156Z",
+          "probabilities": {
+            "away": "54.64%",
+            "draw": "23.94%",
+            "home": "21.42%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-06T16:02:52.121Z",
+          "probabilities": {
+            "away": "54.62%",
+            "draw": "23.95%",
+            "home": "21.43%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-06T19:46:00.121Z",
+          "probabilities": {
+            "away": "54.58%",
+            "draw": "23.95%",
+            "home": "21.48%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-07T09:04:11.096Z",
+          "probabilities": {
+            "away": "54.45%",
+            "draw": "23.97%",
+            "home": "21.58%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-07T12:42:08.212Z",
+          "probabilities": {
+            "away": "54.49%",
+            "draw": "23.97%",
+            "home": "21.54%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-07T16:19:34.303Z",
+          "probabilities": {
+            "away": "54.49%",
+            "draw": "23.96%",
+            "home": "21.54%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-07T19:57:29.712Z",
+          "probabilities": {
+            "away": "54.50%",
+            "draw": "23.96%",
+            "home": "21.54%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-08T11:57:06.379Z",
+          "probabilities": {
+            "away": "55.48%",
+            "draw": "23.72%",
+            "home": "20.80%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-08T15:48:40.100Z",
+          "probabilities": {
+            "away": "55.48%",
+            "draw": "23.72%",
+            "home": "20.80%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-08T19:47:09.913Z",
+          "probabilities": {
+            "away": "55.56%",
+            "draw": "23.67%",
+            "home": "20.78%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-09T08:59:21.440Z",
+          "probabilities": {
+            "away": "55.26%",
+            "draw": "23.70%",
+            "home": "21.04%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-09T12:59:02.955Z",
+          "probabilities": {
+            "away": "55.34%",
+            "draw": "23.75%",
+            "home": "20.90%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-09T17:08:16.395Z",
+          "probabilities": {
+            "away": "55.37%",
+            "draw": "23.72%",
+            "home": "20.90%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-09T21:26:13.151Z",
+          "probabilities": {
+            "away": "55.44%",
+            "draw": "23.73%",
+            "home": "20.84%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-10T09:31:54.720Z",
+          "probabilities": {
+            "away": "55.22%",
+            "draw": "23.42%",
+            "home": "21.36%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-10-10T20:00:18.555Z",
+          "probabilities": {
+            "away": "57.49%",
+            "draw": "22.51%",
+            "home": "20.01%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 857741,
+          "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+          "name": "Rizespor"
+        },
+        "statistics": [
+          {
+            "value": 1.52,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 3,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 87,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 6,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.91,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 19,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 207,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 266,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 44,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 75,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 16,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 15,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 108,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 76,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 5,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 20,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 13,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 21,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 16,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 6,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 17,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 7,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 17,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.26,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 71,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.5,
+            "displayName": "Possession"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 2,
+            "displayName": "Corners"
+          },
+          {
+            "value": 0,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 383,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 9,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 5,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 11,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 454,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 2,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 4,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 0,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 8,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "statistics": [
+          {
+            "value": 0.96,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 1,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 86,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 4,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 1.02,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 12,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 239,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 231,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 26,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 54,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 24,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 11,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 83,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 69,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 16,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 7,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 7,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 16,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 24,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 11,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 17,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 16,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.38,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 85,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.5,
+            "displayName": "Possession"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 5,
+            "displayName": "Corners"
+          },
+          {
+            "value": 3,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 373,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 5,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 10,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 458,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 5,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 6,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 0,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348349012,
+    "round": "Regular Season - 7",
+    "date": "2026-10-10T16:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "0 - 3",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 520745,
+      "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+      "name": "Fenerbahce",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "8'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Mason Greenwood"
+        },
+        {
+          "time": "12'",
+          "outcome": "Goal",
+          "goalTarget": "High Centre",
+          "playerName": "Marco Asensio"
+        },
+        {
+          "time": "26'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Matteo Guendouzi"
+        },
+        {
+          "time": "48'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Kerem Aktürkoğlu"
+        },
+        {
+          "time": "63'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Mason Greenwood"
+        },
+        {
+          "time": "73'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Mason Greenwood"
+        },
+        {
+          "time": "75'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Vedat Muriqi"
+        },
+        {
+          "time": "78'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Vedat Muriqi"
+        },
+        {
+          "time": "79'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Irfan Kahveci"
+        },
+        {
+          "time": "83'",
+          "outcome": "Goal",
+          "goalTarget": "High Left",
+          "playerName": "Irfan Kahveci"
+        },
+        {
+          "time": "86'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Romelu Lukaku"
+        },
+        {
+          "time": "87'",
+          "outcome": "Goal",
+          "goalTarget": "High Right",
+          "playerName": "Oğuz Aydin"
+        },
+        {
+          "time": "90 + 4'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "N'Golo Kanté"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 857741,
+      "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+      "name": "Rizespor",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "1'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Modibo Sagnan"
+        },
+        {
+          "time": "3'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Qazim Laci"
+        },
+        {
+          "time": "16'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Adedire Mebude"
+        },
+        {
+          "time": "25'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Zakaria Ariss"
+        },
+        {
+          "time": "25'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Ahmed Kutucu"
+        },
+        {
+          "time": "27'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Ibrahim Olawoyin"
+        },
+        {
+          "time": "27'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Ali Sowe"
+        },
+        {
+          "time": "31'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Taylan Antalyalı"
+        },
+        {
+          "time": "32'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Ibrahim Olawoyin"
+        },
+        {
+          "time": "37'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Qazim Laci"
+        },
+        {
+          "time": "42'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Qazim Laci"
+        },
+        {
+          "time": "52'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Ahmed Kutucu"
+        },
+        {
+          "time": "52'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Ibrahim Olawoyin"
+        },
+        {
+          "time": "68'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Ibrahim Olawoyin"
+        },
+        {
+          "time": "75'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Emrecan Bulut"
+        },
+        {
+          "time": "78'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Iustin Doicaru"
+        },
+        {
+          "time": "79'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Iustin Doicaru"
+        },
+        {
+          "time": "79'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Zakaria Ariss"
+        },
+        {
+          "time": "90'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Iustin Doicaru"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": [
+      {
+        "url": "https://www.footyheadlines.com/3535788826/detailed-fenerbahce-logo-history-revealed-in-in-depth-archival-research.html",
+        "image": "https://www.footyheadlines.com/static/img/post/2026/10/10/lZMvIZpFZYegrud/detailed-fenerbahce-logo-history-revealed-in-in-depth-archival-research.jpg",
+        "title": "Detailed Fenerbahçe Logo History Revealed in In-Depth Archival Research",
+        "datePublished": "2026-10-10T11:01:00Z"
+      }
+    ]
+  }
+]

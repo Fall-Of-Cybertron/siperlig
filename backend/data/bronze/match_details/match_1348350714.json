@@ -1,0 +1,1116 @@
+[
+  {
+    "venue": {
+      "city": "Diyarbakir",
+      "name": "Diyarbakir Stadium",
+      "country": "Turkiye",
+      "capacity": "33000"
+    },
+    "referee": {
+      "name": "Ergun, Ozan",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "partly cloudy day",
+      "temperature": "24.28°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "18",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "M. Ibrahimoglu",
+        "playerId": 24608199,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "37",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "D. Turuc",
+        "playerId": 8070440,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "51",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "F. Soyalp",
+        "playerId": 8088633,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "63",
+        "type": "Substitution",
+        "assist": null,
+        "player": "F. Soyalp",
+        "playerId": 8088633,
+        "substituted": "G. Gul",
+        "assistingPlayerId": 4109196
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "63",
+        "type": "Substitution",
+        "assist": null,
+        "player": "R. Lutin",
+        "playerId": 57853089,
+        "substituted": "A. T. Bulbul",
+        "assistingPlayerId": 54732265
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "63",
+        "type": "Substitution",
+        "assist": null,
+        "player": "J. Muleka",
+        "playerId": 23289770,
+        "substituted": "Mostafa Mohamed",
+        "assistingPlayerId": 429702
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "72",
+        "type": "Substitution",
+        "assist": null,
+        "player": "G. Orban",
+        "playerId": 59290014,
+        "substituted": "M. Diagne",
+        "assistingPlayerId": 73892
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "74",
+        "type": "Substitution",
+        "assist": null,
+        "player": "D. Turuc",
+        "playerId": 8070440,
+        "substituted": "J. Dompe",
+        "assistingPlayerId": 1365917
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "74",
+        "type": "Substitution",
+        "assist": null,
+        "player": "D. Goncalves",
+        "playerId": 3107454,
+        "substituted": "E. Colley",
+        "assistingPlayerId": 22676521
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "80",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Ibrahimoglu",
+        "playerId": 24608199,
+        "substituted": "E. Bardhi",
+        "assistingPlayerId": 7641375
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "86",
+        "type": "Goal",
+        "assist": "D. Saba",
+        "player": "M. Diagne",
+        "playerId": 73892,
+        "substituted": null,
+        "assistingPlayerId": 2083333
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "88",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "A. Masuaku",
+        "playerId": 3029530,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "89",
+        "type": "Substitution",
+        "assist": null,
+        "player": "E. Krasniqi",
+        "playerId": 43779435,
+        "substituted": "A. Cisse",
+        "assistingPlayerId": 72724176
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "89",
+        "type": "Substitution",
+        "assist": null,
+        "player": "D. Saba",
+        "playerId": 2083333,
+        "substituted": "C. Ustundag",
+        "assistingPlayerId": 43705214
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-17T13:07:07.919Z",
+          "probabilities": {
+            "away": "21.26%",
+            "draw": "27.80%",
+            "home": "50.94%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-17T13:19:00.589Z",
+          "probabilities": {
+            "away": "20.80%",
+            "draw": "29.38%",
+            "home": "49.82%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-17T13:27:37.685Z",
+          "probabilities": {
+            "away": "21.65%",
+            "draw": "31.75%",
+            "home": "46.60%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-17T13:38:29.149Z",
+          "probabilities": {
+            "away": "21.18%",
+            "draw": "34.77%",
+            "home": "44.05%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-17T13:48:02.469Z",
+          "probabilities": {
+            "away": "20.56%",
+            "draw": "37.99%",
+            "home": "41.45%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-17T13:58:55.839Z",
+          "probabilities": {
+            "away": "20.70%",
+            "draw": "38.28%",
+            "home": "41.02%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-17T14:06:04.481Z",
+          "probabilities": {
+            "away": "20.79%",
+            "draw": "38.24%",
+            "home": "40.97%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-10-17T14:24:30.608Z",
+          "probabilities": {
+            "away": "17.47%",
+            "draw": "50.11%",
+            "home": "32.42%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-10-17T14:31:31.872Z",
+          "probabilities": {
+            "away": "15.44%",
+            "draw": "56.67%",
+            "home": "27.88%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-10-17T14:43:20.787Z",
+          "probabilities": {
+            "away": "10.22%",
+            "draw": "71.37%",
+            "home": "18.42%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-17T14:51:19.883Z",
+          "probabilities": {
+            "away": "0.39%",
+            "draw": "6.98%",
+            "home": "92.63%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-17T15:03:43.051Z",
+          "probabilities": {
+            "away": "0.36%",
+            "draw": "5.12%",
+            "home": "94.52%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-17T15:09:38.115Z",
+          "probabilities": {
+            "away": "0.36%",
+            "draw": "5.12%",
+            "home": "94.52%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-10T10:34:01.237Z",
+          "probabilities": {
+            "away": "27.63%",
+            "draw": "23.50%",
+            "home": "48.86%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-10T21:18:41.937Z",
+          "probabilities": {
+            "away": "27.73%",
+            "draw": "26.26%",
+            "home": "46.01%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-11T15:47:36.059Z",
+          "probabilities": {
+            "away": "26.60%",
+            "draw": "26.79%",
+            "home": "46.60%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-11T20:09:08.148Z",
+          "probabilities": {
+            "away": "26.56%",
+            "draw": "26.79%",
+            "home": "46.65%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-12T09:04:34.962Z",
+          "probabilities": {
+            "away": "25.29%",
+            "draw": "26.66%",
+            "home": "48.06%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-12T12:27:01.487Z",
+          "probabilities": {
+            "away": "24.42%",
+            "draw": "26.73%",
+            "home": "48.85%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-12T15:56:03.965Z",
+          "probabilities": {
+            "away": "24.44%",
+            "draw": "26.80%",
+            "home": "48.75%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-12T19:38:48.960Z",
+          "probabilities": {
+            "away": "24.27%",
+            "draw": "26.65%",
+            "home": "49.08%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-13T09:16:25.534Z",
+          "probabilities": {
+            "away": "24.34%",
+            "draw": "26.64%",
+            "home": "49.02%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-13T12:50:33.323Z",
+          "probabilities": {
+            "away": "24.37%",
+            "draw": "26.64%",
+            "home": "48.99%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-13T16:32:19.464Z",
+          "probabilities": {
+            "away": "24.49%",
+            "draw": "26.58%",
+            "home": "48.93%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-13T20:25:54.595Z",
+          "probabilities": {
+            "away": "24.51%",
+            "draw": "26.55%",
+            "home": "48.94%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-14T09:36:47.564Z",
+          "probabilities": {
+            "away": "24.49%",
+            "draw": "26.59%",
+            "home": "48.92%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-14T13:22:32.332Z",
+          "probabilities": {
+            "away": "24.46%",
+            "draw": "26.59%",
+            "home": "48.95%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-14T17:14:45.120Z",
+          "probabilities": {
+            "away": "24.47%",
+            "draw": "26.58%",
+            "home": "48.95%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-14T21:13:27.883Z",
+          "probabilities": {
+            "away": "24.53%",
+            "draw": "26.52%",
+            "home": "48.95%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-15T10:23:26.239Z",
+          "probabilities": {
+            "away": "24.50%",
+            "draw": "26.54%",
+            "home": "48.96%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-16T08:55:05.207Z",
+          "probabilities": {
+            "away": "24.22%",
+            "draw": "26.54%",
+            "home": "49.23%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-16T13:08:11.820Z",
+          "probabilities": {
+            "away": "24.43%",
+            "draw": "26.54%",
+            "home": "49.03%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-16T17:36:11.613Z",
+          "probabilities": {
+            "away": "24.44%",
+            "draw": "26.52%",
+            "home": "49.04%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-16T22:19:58.809Z",
+          "probabilities": {
+            "away": "24.39%",
+            "draw": "26.52%",
+            "home": "49.09%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-17T10:23:27.915Z",
+          "probabilities": {
+            "away": "22.10%",
+            "draw": "26.99%",
+            "home": "50.91%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-17T15:04:56.170Z",
+          "probabilities": {
+            "away": "22.25%",
+            "draw": "27.63%",
+            "home": "50.12%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-17T20:15:28.382Z",
+          "probabilities": {
+            "away": "22.25%",
+            "draw": "27.63%",
+            "home": "50.12%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "statistics": [
+          {
+            "value": 1.28,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 3,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 67,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 10,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.96,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 13,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 200,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 263,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 16,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 47,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 19,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 10,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 84,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 77,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 5,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 6,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 13,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 21,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 20,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 30,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 7,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 11,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.31,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 81,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.52,
+            "displayName": "Possession"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 7,
+            "displayName": "Corners"
+          },
+          {
+            "value": 2,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 369,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 3,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 8,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 450,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 1,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 17,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 1,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "statistics": [
+          {
+            "value": 0.22,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 0,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 70,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 17,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.25,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 2,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 15,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 217,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 209,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 26,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 60,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 18,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 2,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 42,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 74,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 9,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 14,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 12,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 20,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 10,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 30,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 7,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 14,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.25,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 86,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.48,
+            "displayName": "Possession"
+          },
+          {
+            "value": 1,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 2,
+            "displayName": "Corners"
+          },
+          {
+            "value": 3,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 325,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 0,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 2,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 411,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 4,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 10,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 3,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 2,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348350714,
+    "round": "Regular Season - 8",
+    "date": "2026-10-17T13:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "1 - 0",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 517341,
+      "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+      "name": "Konyaspor",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "13'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Arthur Masuaku"
+        },
+        {
+          "time": "17'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Diogo Gonçalves"
+        },
+        {
+          "time": "59'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Deniz Türüc"
+        },
+        {
+          "time": "75'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Mostafa Mohamed"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 3046513,
+      "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+      "name": "Amed",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "7'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Rayan Raveloson"
+        },
+        {
+          "time": "11'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Rayan Lutin"
+        },
+        {
+          "time": "39'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Gift Orban"
+        },
+        {
+          "time": "45'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Samuel Ballet"
+        },
+        {
+          "time": "48'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Gift Orban"
+        },
+        {
+          "time": "56'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Dia Saba"
+        },
+        {
+          "time": "61'",
+          "outcome": "Missed",
+          "goalTarget": "Close Left And High",
+          "playerName": "Gift Orban"
+        },
+        {
+          "time": "69'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Gift Orban"
+        },
+        {
+          "time": "78'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Samuel Ballet"
+        },
+        {
+          "time": "79'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Ermal Krasniqi"
+        },
+        {
+          "time": "83'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Dia Saba"
+        },
+        {
+          "time": "86'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Mbaye Diagne"
+        },
+        {
+          "time": "89'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Rayan Raveloson"
+        },
+        {
+          "time": "89'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Rayan Raveloson"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

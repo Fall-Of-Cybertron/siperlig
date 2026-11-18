@@ -1,0 +1,276 @@
+{
+  "homeTeam": {
+    "formation": "4-2-3-1",
+    "substitutes": [
+      {
+        "name": "L. Ugochukwu",
+        "number": 18,
+        "position": "Midfielder",
+        "id": 43551942
+      },
+      {
+        "name": "A. Ünyay",
+        "number": 91,
+        "position": "Defender",
+        "id": 65115477
+      },
+      {
+        "name": "J. Yılmaz",
+        "number": 24,
+        "position": "Goalkeeper",
+        "id": 52730391
+      },
+      {
+        "name": "K. Ayhan",
+        "number": 23,
+        "position": "Defender",
+        "id": 4097282
+      },
+      {
+        "name": "A. Batrakov",
+        "number": 83,
+        "position": "Midfielder",
+        "id": 64572907
+      },
+      {
+        "name": "E. Elmalı",
+        "number": 17,
+        "position": "Defender",
+        "id": 8059331
+      },
+      {
+        "name": "İ. Gündoğan",
+        "number": 20,
+        "position": "Midfielder",
+        "id": 102067
+      },
+      {
+        "name": "Renato Nhaga",
+        "number": 74,
+        "position": "Midfielder",
+        "id": 83489441
+      },
+      {
+        "name": "L. Sané",
+        "number": 10,
+        "position": "Forward",
+        "id": 103838
+      },
+      {
+        "name": "W. Singo",
+        "number": 90,
+        "position": "Defender",
+        "id": 4911298
+      }
+    ],
+    "initialLineup": [
+      [
+        {
+          "name": "U. Çakır",
+          "number": 1,
+          "position": "Goalkeeper",
+          "id": 8028580
+        }
+      ],
+      [
+        {
+          "name": "I. Jakobs",
+          "number": 4,
+          "position": "Defender",
+          "id": 25457635
+        },
+        {
+          "name": "A. Bardakcı",
+          "number": 42,
+          "position": "Defender",
+          "id": 9955911
+        },
+        {
+          "name": "D. Sánchez",
+          "number": 6,
+          "position": "Defender",
+          "id": 27202
+        },
+        {
+          "name": "R. Sallai",
+          "number": 7,
+          "position": "Forward",
+          "id": 4226726
+        }
+      ],
+      [
+        {
+          "name": "M. Lemina",
+          "number": 99,
+          "position": "Midfielder",
+          "id": 3050621
+        },
+        {
+          "name": "L. Torreira",
+          "number": 34,
+          "position": "Midfielder",
+          "id": 235536
+        }
+      ],
+      [
+        {
+          "name": "B. Yılmaz",
+          "number": 53,
+          "position": "Forward",
+          "id": 10187268
+        },
+        {
+          "name": "Gabriel Sara",
+          "number": 8,
+          "position": "Midfielder",
+          "id": 12969026
+        },
+        {
+          "name": "Y. Akgün",
+          "number": 11,
+          "position": "Forward",
+          "id": 73248
+        }
+      ],
+      [
+        {
+          "name": "V. Osimhen",
+          "number": 45,
+          "position": "Forward",
+          "id": 447734
+        }
+      ]
+    ],
+    "id": 549679,
+    "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+    "name": "Galatasaray"
+  },
+  "awayTeam": {
+    "formation": "3-4-1-2",
+    "substitutes": [
+      {
+        "name": "A. Özçimen",
+        "number": 1,
+        "position": "Goalkeeper",
+        "id": 8076719
+      },
+      {
+        "name": "Alex Matos",
+        "number": 6,
+        "position": "Forward",
+        "id": 46628652
+      },
+      {
+        "name": "Juan",
+        "number": 9,
+        "position": "Forward",
+        "id": 29127630
+      },
+      {
+        "name": "T. Böke",
+        "number": 14,
+        "position": "Forward",
+        "id": 31735508
+      },
+      {
+        "name": "O. Bayrak",
+        "number": 16,
+        "position": "Defender",
+        "id": 21664958
+      },
+      {
+        "name": "S. Armstrong",
+        "number": 22,
+        "position": "Forward",
+        "id": 32178097
+      },
+      {
+        "name": "Ş. Öztürk",
+        "number": 33,
+        "position": "Goalkeeper",
+        "id": 59267796
+      }
+    ],
+    "initialLineup": [
+      [
+        {
+          "name": "L. Gugeshashvili",
+          "number": 25,
+          "position": "Goalkeeper",
+          "id": 3971219
+        }
+      ],
+      [
+        {
+          "name": "M. Bokele",
+          "number": 26,
+          "position": "Defender",
+          "id": 14109067
+        },
+        {
+          "name": "Ege Yildirim",
+          "number": 13,
+          "position": "Defender",
+          "id": 70483700
+        },
+        {
+          "name": "T. Altıkardeş",
+          "number": 4,
+          "position": "Midfielder",
+          "id": 48504946
+        }
+      ],
+      [
+        {
+          "name": "R. Akonnor",
+          "number": 12,
+          "position": "Forward",
+          "id": 64665160
+        },
+        {
+          "name": "N. Dismas",
+          "number": 20,
+          "position": "Defender",
+          "id": 48862527
+        },
+        {
+          "name": "Rhaldney",
+          "number": 5,
+          "position": "Midfielder",
+          "id": 8806693
+        },
+        {
+          "name": "A. Kurtulan",
+          "number": 2,
+          "position": "Forward",
+          "id": 52833109
+        }
+      ],
+      [
+        {
+          "name": "E. Bekiroğlu",
+          "number": 10,
+          "position": "Midfielder",
+          "id": 4206762
+        }
+      ],
+      [
+        {
+          "name": "André Henrique",
+          "number": 7,
+          "position": "Forward",
+          "id": 38293521
+        },
+        {
+          "name": "Janderson",
+          "number": 39,
+          "position": "Forward",
+          "id": 56896588
+        }
+      ]
+    ],
+    "id": 846678,
+    "logo": "https://highlightly.net/soccer/images/teams/846678.png",
+    "name": "Goztepe"
+  }
+}

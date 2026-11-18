@@ -1,0 +1,292 @@
+{
+  "homeTeam": {
+    "formation": "3-4-3",
+    "substitutes": [
+      {
+        "name": "Mert Furkan Bayram",
+        "number": 23,
+        "position": "Goalkeeper",
+        "id": 54732104
+      },
+      {
+        "name": "Fatih Aksoy",
+        "number": 20,
+        "position": "Defender",
+        "id": 8062873
+      },
+      {
+        "name": "Bedirhan Özyurt",
+        "number": 4,
+        "position": "Defender",
+        "id": 57979635
+      },
+      {
+        "name": "Enes Keskin",
+        "number": 8,
+        "position": "Midfielder",
+        "id": 21653044
+      },
+      {
+        "name": "İzzet Çelik",
+        "number": 26,
+        "position": "Midfielder",
+        "id": 45526607
+      },
+      {
+        "name": "Yusuf Karademir",
+        "number": 88,
+        "position": "Midfielder",
+        "id": 95551722
+      },
+      {
+        "name": "Omar Ben Ali",
+        "number": 9,
+        "position": "Forward",
+        "id": 74596284
+      },
+      {
+        "name": "Meschak Elia",
+        "number": 12,
+        "position": "Forward",
+        "id": 488628
+      },
+      {
+        "name": "Ianis Hagi",
+        "number": 10,
+        "position": "Midfielder",
+        "id": 6936678
+      },
+      {
+        "name": "Iván Cédric",
+        "number": 19,
+        "position": "Forward",
+        "id": 45966620
+      }
+    ],
+    "initialLineup": [
+      [
+        {
+          "name": "Paulo Victor",
+          "number": 48,
+          "position": "Goalkeeper",
+          "id": 1686790
+        }
+      ],
+      [
+        {
+          "name": "Ümit Akdağ",
+          "number": 50,
+          "position": "Defender",
+          "id": 59189711
+        },
+        {
+          "name": "Fidan Aliti",
+          "number": 5,
+          "position": "Defender",
+          "id": 7762125
+        },
+        {
+          "name": "Nuno Lima",
+          "number": 3,
+          "position": "Defender",
+          "id": 45554460
+        }
+      ],
+      [
+        {
+          "name": "Ruan Pereira Duarte",
+          "number": 11,
+          "position": "Midfielder",
+          "id": 61888232
+        },
+        {
+          "name": "Baran Ali Gezek",
+          "number": 55,
+          "position": "Midfielder",
+          "id": 59881206
+        },
+        {
+          "name": "Gaius Makouta",
+          "number": 42,
+          "position": "Midfielder",
+          "id": 6758129
+        },
+        {
+          "name": "Florent Hadergjonaj",
+          "number": 94,
+          "position": "Midfielder",
+          "id": 3065916
+        }
+      ],
+      [
+        {
+          "name": "Ibrahim Kaya",
+          "number": 7,
+          "position": "Forward",
+          "id": 48685266
+        },
+        {
+          "name": "Arda Usluoğlu",
+          "number": 17,
+          "position": "Forward",
+          "id": 57007356
+        },
+        {
+          "name": "Hwang Ui-Jo",
+          "number": 16,
+          "position": "Forward",
+          "id": 468664
+        }
+      ]
+    ],
+    "id": 848380,
+    "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+    "name": "Alanyaspor"
+  },
+  "awayTeam": {
+    "formation": "4-1-4-1",
+    "substitutes": [
+      {
+        "name": "Doğan Alemdar",
+        "number": 80,
+        "position": "Goalkeeper",
+        "id": 8066898
+      },
+      {
+        "name": "Tiago Djaló",
+        "number": 35,
+        "position": "Defender",
+        "id": 238273
+      },
+      {
+        "name": "Amir Murillo",
+        "number": 62,
+        "position": "Defender",
+        "id": 478807
+      },
+      {
+        "name": "Kassoum Ouattara",
+        "number": 11,
+        "position": "Defender",
+        "id": 53635211
+      },
+      {
+        "name": "Junior Olaitan",
+        "number": 15,
+        "position": "Midfielder",
+        "id": 51021698
+      },
+      {
+        "name": "İlhan Fakılı",
+        "number": 29,
+        "position": "Forward",
+        "id": 71938818
+      },
+      {
+        "name": "Milot Rashica",
+        "number": 7,
+        "position": "Midfielder",
+        "id": 4077318
+      },
+      {
+        "name": "Kartal Kayra Yılmaz",
+        "number": 8,
+        "position": "Midfielder",
+        "id": 321832
+      },
+      {
+        "name": "Dušan Vlahović",
+        "number": 28,
+        "position": "Forward",
+        "id": 4896969
+      },
+      {
+        "name": "Semih Kılıçsoy",
+        "number": 90,
+        "position": "Forward",
+        "id": 54187441
+      }
+    ],
+    "initialLineup": [
+      [
+        {
+          "name": "Alexander Nübel",
+          "number": 1,
+          "position": "Goalkeeper",
+          "id": 64393
+        }
+      ],
+      [
+        {
+          "name": "Rıdvan Yılmaz",
+          "number": 33,
+          "position": "Defender",
+          "id": 320061
+        },
+        {
+          "name": "Emirhan Topçu",
+          "number": 53,
+          "position": "Defender",
+          "id": 8057560
+        },
+        {
+          "name": "Wilfred Ndidi",
+          "number": 4,
+          "position": "Defender",
+          "id": 3024700
+        },
+        {
+          "name": "Taylan Bulut",
+          "number": 22,
+          "position": "Defender",
+          "id": 63540897
+        }
+      ],
+      [
+        {
+          "name": "Salih Özcan",
+          "number": 6,
+          "position": "Midfielder",
+          "id": 3994081
+        }
+      ],
+      [
+        {
+          "name": "Leandro Trossard",
+          "number": 19,
+          "position": "Midfielder",
+          "id": 313460
+        },
+        {
+          "name": "Orkun Kökçü",
+          "number": 10,
+          "position": "Midfielder",
+          "id": 5982109
+        },
+        {
+          "name": "Emmanuel Agbadou",
+          "number": 12,
+          "position": "Midfielder",
+          "id": 21746102
+        },
+        {
+          "name": "Václav Černý",
+          "number": 18,
+          "position": "Midfielder",
+          "id": 88543
+        }
+      ],
+      [
+        {
+          "name": "Hyeon-gyu Oh",
+          "number": 9,
+          "position": "Forward",
+          "id": 5588464
+        }
+      ]
+    ],
+    "id": 467983,
+    "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+    "name": "Besiktas"
+  }
+}

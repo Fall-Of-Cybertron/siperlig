@@ -1,0 +1,1118 @@
+[
+  {
+    "venue": {
+      "city": "Ankara",
+      "name": "Eryaman Stadyumu",
+      "country": "Turkiye",
+      "capacity": "22000"
+    },
+    "referee": {
+      "name": "Ozturk, Umit",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "clear night",
+      "temperature": "17.33°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 859443,
+          "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+          "name": "Erzurum BB"
+        },
+        "time": "45+1",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Mustafa Yumlu",
+        "playerId": 344694,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 859443,
+          "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+          "name": "Erzurum BB"
+        },
+        "time": "55",
+        "type": "Goal",
+        "assist": null,
+        "player": "E. Tozlu",
+        "playerId": 8038079,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "60",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Pedro Pereira",
+        "playerId": 4953802,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "66",
+        "type": "Goal",
+        "assist": "O. Diabate",
+        "player": "A. Traore",
+        "playerId": 539021,
+        "substituted": null,
+        "assistingPlayerId": 101737986
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "68",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Oğulcan Ülgün",
+        "playerId": 9972333,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "71",
+        "type": "Substitution",
+        "assist": null,
+        "player": "O. Ulgun",
+        "playerId": 9972333,
+        "substituted": "S. Ucan",
+        "assistingPlayerId": 5000492
+      },
+      {
+        "team": {
+          "id": 859443,
+          "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+          "name": "Erzurum BB"
+        },
+        "time": "71",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Fettahoglu",
+        "playerId": 26082476,
+        "substituted": "M. Cardoso",
+        "assistingPlayerId": 8639253
+      },
+      {
+        "team": {
+          "id": 859443,
+          "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+          "name": "Erzurum BB"
+        },
+        "time": "71",
+        "type": "Substitution",
+        "assist": null,
+        "player": "E. Tozlu",
+        "playerId": 8038079,
+        "substituted": "I. Diabate",
+        "assistingPlayerId": 29428378
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "80",
+        "type": "Substitution",
+        "assist": null,
+        "player": "S. Koita",
+        "playerId": 1219085,
+        "substituted": "E. Kemaloglu",
+        "assistingPlayerId": 23238894
+      },
+      {
+        "team": {
+          "id": 859443,
+          "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+          "name": "Erzurum BB"
+        },
+        "time": "82",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Elisha Owusu",
+        "playerId": 3382764,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 859443,
+          "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+          "name": "Erzurum BB"
+        },
+        "time": "85",
+        "type": "Substitution",
+        "assist": null,
+        "player": "O. Ovacikli",
+        "playerId": 8054823,
+        "substituted": "F. Ebosele",
+        "assistingPlayerId": 26023872
+      },
+      {
+        "team": {
+          "id": 859443,
+          "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+          "name": "Erzurum BB"
+        },
+        "time": "85",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Rodriguez",
+        "playerId": 5784079,
+        "substituted": "N. Akhundzade",
+        "assistingPlayerId": 60505725
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "86",
+        "type": "VAR Goal Cancelled",
+        "assist": null,
+        "player": "Adama Malouda Traoré",
+        "playerId": 539021,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 859443,
+          "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+          "name": "Erzurum BB"
+        },
+        "time": "89",
+        "type": "Substitution",
+        "assist": null,
+        "player": "G. Giorbelidze",
+        "playerId": 3971863,
+        "substituted": "Y. Kirtay",
+        "assistingPlayerId": 56977088
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "90+4",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Ousmane Diabate",
+        "playerId": 101737986,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 859443,
+          "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+          "name": "Erzurum BB"
+        },
+        "time": "90+6",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Nihad Mujakić",
+        "playerId": 12375741,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "90+2",
+        "type": "Substitution",
+        "assist": null,
+        "player": "T. Gouveia",
+        "playerId": 25448619,
+        "substituted": "M. Baltaci",
+        "assistingPlayerId": 26082154
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-08-28T18:33:40.685Z",
+          "probabilities": {
+            "away": "26.88%",
+            "draw": "31.23%",
+            "home": "41.89%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-08-28T18:44:07.705Z",
+          "probabilities": {
+            "away": "25.80%",
+            "draw": "31.81%",
+            "home": "42.39%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-08-28T18:55:19.621Z",
+          "probabilities": {
+            "away": "29.14%",
+            "draw": "33.89%",
+            "home": "36.98%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-08-28T19:05:27.615Z",
+          "probabilities": {
+            "away": "28.72%",
+            "draw": "36.15%",
+            "home": "35.13%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-08-28T19:16:44.408Z",
+          "probabilities": {
+            "away": "26.90%",
+            "draw": "39.90%",
+            "home": "33.20%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-08-28T19:25:13.569Z",
+          "probabilities": {
+            "away": "26.04%",
+            "draw": "40.75%",
+            "home": "33.21%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-08-28T19:35:31.034Z",
+          "probabilities": {
+            "away": "25.90%",
+            "draw": "40.39%",
+            "home": "33.71%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Erzurum BB is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-08-28T19:55:24.490Z",
+          "probabilities": {
+            "away": "61.17%",
+            "draw": "29.23%",
+            "home": "9.60%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-08-28T20:14:21.717Z",
+          "probabilities": {
+            "away": "14.45%",
+            "draw": "71.99%",
+            "home": "13.56%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-08-28T20:23:05.278Z",
+          "probabilities": {
+            "away": "7.29%",
+            "draw": "84.50%",
+            "home": "8.21%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-08-21T14:05:31.089Z",
+          "probabilities": {
+            "away": "31.63%",
+            "draw": "25.13%",
+            "home": "43.25%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-08-22T12:05:42.242Z",
+          "probabilities": {
+            "away": "31.84%",
+            "draw": "25.65%",
+            "home": "42.51%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-08-22T16:49:43.977Z",
+          "probabilities": {
+            "away": "31.84%",
+            "draw": "25.65%",
+            "home": "42.51%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-08-22T22:10:56.402Z",
+          "probabilities": {
+            "away": "31.83%",
+            "draw": "25.61%",
+            "home": "42.56%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-08-23T11:01:22.670Z",
+          "probabilities": {
+            "away": "31.83%",
+            "draw": "25.61%",
+            "home": "42.56%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-08-23T15:33:44.206Z",
+          "probabilities": {
+            "away": "31.83%",
+            "draw": "25.61%",
+            "home": "42.56%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-08-24T12:29:49.878Z",
+          "probabilities": {
+            "away": "30.56%",
+            "draw": "26.18%",
+            "home": "43.26%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-08-24T16:56:56.115Z",
+          "probabilities": {
+            "away": "28.21%",
+            "draw": "27.17%",
+            "home": "44.62%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-08-25T09:31:12.990Z",
+          "probabilities": {
+            "away": "27.26%",
+            "draw": "27.16%",
+            "home": "45.58%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-08-25T13:47:31.381Z",
+          "probabilities": {
+            "away": "27.38%",
+            "draw": "27.10%",
+            "home": "45.52%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-08-25T18:08:58.049Z",
+          "probabilities": {
+            "away": "27.33%",
+            "draw": "27.18%",
+            "home": "45.49%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-08-26T09:43:09.399Z",
+          "probabilities": {
+            "away": "27.27%",
+            "draw": "27.17%",
+            "home": "45.56%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-08-26T20:32:31.958Z",
+          "probabilities": {
+            "away": "27.31%",
+            "draw": "27.09%",
+            "home": "45.60%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-08-27T09:12:13.757Z",
+          "probabilities": {
+            "away": "25.23%",
+            "draw": "26.88%",
+            "home": "47.89%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-08-27T12:37:36.782Z",
+          "probabilities": {
+            "away": "25.24%",
+            "draw": "26.85%",
+            "home": "47.91%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-08-27T17:16:04.005Z",
+          "probabilities": {
+            "away": "25.26%",
+            "draw": "26.91%",
+            "home": "47.83%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-08-27T21:01:06.509Z",
+          "probabilities": {
+            "away": "25.10%",
+            "draw": "26.89%",
+            "home": "48.00%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-08-28T12:05:19.797Z",
+          "probabilities": {
+            "away": "23.48%",
+            "draw": "29.81%",
+            "home": "46.71%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Erzurum BB.",
+          "generatedAt": "2026-08-28T17:17:34.643Z",
+          "probabilities": {
+            "away": "24.61%",
+            "draw": "30.46%",
+            "home": "44.93%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "statistics": [
+          {
+            "value": 0.75,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 0,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 104,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 10,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.4,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 18,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 180,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 238,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 29,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 53,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 22,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 11,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 70,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 65,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 6,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 6,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 13,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 32,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 17,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 22,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 7,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 11,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.31,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 83,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.47,
+            "displayName": "Possession"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 3,
+            "displayName": "Corners"
+          },
+          {
+            "value": 2,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 317,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 5,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 400,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 3,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 15,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 3,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 9,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 859443,
+          "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+          "name": "Erzurum BB"
+        },
+        "statistics": [
+          {
+            "value": 0.86,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 3,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 88,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 13,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.65,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 17,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 247,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 225,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 27,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 70,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 23,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 8,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 58,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 77,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 5,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 6,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 11,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 14,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 24,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 22,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 6,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 8,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.44,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 91,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.53,
+            "displayName": "Possession"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 5,
+            "displayName": "Corners"
+          },
+          {
+            "value": 1,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 364,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 1,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 455,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 3,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 11,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 3,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348317525,
+    "round": "Regular Season - 3",
+    "date": "2026-08-28T18:30:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "1 - 1",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 859443,
+      "logo": "https://highlightly.net/soccer/images/teams/859443.png",
+      "name": "Erzurum BB",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "15'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Eren Tozlu"
+        },
+        {
+          "time": "17'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Amar Gerxhaliu"
+        },
+        {
+          "time": "22'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Orhan Ovacikli"
+        },
+        {
+          "time": "28'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Eren Tozlu"
+        },
+        {
+          "time": "37'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Mustafa Fettahoğlu"
+        },
+        {
+          "time": "55'",
+          "outcome": "Goal",
+          "goalTarget": "High Centre",
+          "playerName": "Eren Tozlu"
+        },
+        {
+          "time": "61'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Eren Tozlu"
+        },
+        {
+          "time": "76'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Ibrahim Diabate"
+        },
+        {
+          "time": "77'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Miguel Cardoso"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 849231,
+      "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+      "name": "Genclerbirligi",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "3'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Sekou Koita"
+        },
+        {
+          "time": "6'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Tiago Gouveia"
+        },
+        {
+          "time": "7'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Tiago Gouveia"
+        },
+        {
+          "time": "11'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Sekou Koita"
+        },
+        {
+          "time": "24'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Žan Žužek"
+        },
+        {
+          "time": "24'",
+          "outcome": "Saved",
+          "goalTarget": "High Left",
+          "playerName": "Sekou Koita"
+        },
+        {
+          "time": "40'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Ousmane Diabate"
+        },
+        {
+          "time": "45 + 2'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Sekou Koita"
+        },
+        {
+          "time": "45 + 3'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Ousmane Diabate"
+        },
+        {
+          "time": "59'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Adama Traore"
+        },
+        {
+          "time": "64'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Žan Žužek"
+        },
+        {
+          "time": "66'",
+          "outcome": "Goal",
+          "goalTarget": "High Left",
+          "playerName": "Adama Traore"
+        },
+        {
+          "time": "68'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Sekou Koita"
+        },
+        {
+          "time": "83'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Tiago Gouveia"
+        },
+        {
+          "time": "83'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Ousmane Diabate"
+        },
+        {
+          "time": "85'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Tiago Gouveia"
+        },
+        {
+          "time": "85'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Adama Traore"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

@@ -1,0 +1,274 @@
+{
+  "homeTeam": {
+    "formation": "4-1-4-1",
+    "substitutes": [
+      {
+        "name": "T. Rajmund",
+        "number": 66,
+        "position": "Midfielder",
+        "id": 67542391
+      },
+      {
+        "name": "R. Baniya",
+        "number": 22,
+        "position": "Defender",
+        "id": 19188456
+      },
+      {
+        "name": "E. Bardhi",
+        "number": 10,
+        "position": "Midfielder",
+        "id": 7641375
+      },
+      {
+        "name": "A. Boşluk",
+        "number": 3,
+        "position": "Defender",
+        "id": 54549369
+      },
+      {
+        "name": "E. Destan",
+        "number": 94,
+        "position": "Forward",
+        "id": 29370096
+      },
+      {
+        "name": "B. Güngördü",
+        "number": 13,
+        "position": "Goalkeeper",
+        "id": 31345083
+      },
+      {
+        "name": "A. Masuaku",
+        "number": 26,
+        "position": "Defender",
+        "id": 3029530
+      },
+      {
+        "name": "Da Mata",
+        "number": 41,
+        "position": "Defender",
+        "id": 66711148
+      }
+    ],
+    "initialLineup": [
+      [
+        {
+          "name": "D. Ertaş",
+          "number": 1,
+          "position": "Goalkeeper",
+          "id": 64801527
+        }
+      ],
+      [
+        {
+          "name": "M. Jevtović",
+          "number": 8,
+          "position": "Defender",
+          "id": 8051442
+        },
+        {
+          "name": "A. Demirbağ",
+          "number": 4,
+          "position": "Defender",
+          "id": 9979900
+        },
+        {
+          "name": "C. Awaziem",
+          "number": 15,
+          "position": "Defender",
+          "id": 84867279
+        },
+        {
+          "name": "Y. Andzouana",
+          "number": 17,
+          "position": "Defender",
+          "id": 7649586
+        }
+      ],
+      [
+        {
+          "name": "U. Yazğılı",
+          "number": 5,
+          "position": "Midfielder",
+          "id": 8060297
+        }
+      ],
+      [
+        {
+          "name": "E. Colley",
+          "number": 19,
+          "position": "Midfielder",
+          "id": 22676521
+        },
+        {
+          "name": "Diogo Gonçalves",
+          "number": 7,
+          "position": "Midfielder",
+          "id": 3107454
+        },
+        {
+          "name": "M. İbrahimoğlu",
+          "number": 77,
+          "position": "Midfielder",
+          "id": 24608199
+        },
+        {
+          "name": "D. Türüç",
+          "number": 9,
+          "position": "Midfielder",
+          "id": 8070440
+        }
+      ],
+      [
+        {
+          "name": "J. Muleka",
+          "number": 11,
+          "position": "Forward",
+          "id": 23289770
+        }
+      ]
+    ],
+    "id": 517341,
+    "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+    "name": "Konyaspor"
+  },
+  "awayTeam": {
+    "formation": "4-3-3",
+    "substitutes": [
+      {
+        "name": "Haydar Karataş",
+        "number": 19,
+        "position": "Midfielder",
+        "id": 100693901
+      },
+      {
+        "name": "E. Ortakaya",
+        "number": 5,
+        "position": "Defender",
+        "id": 47070597
+      },
+      {
+        "name": "O. Öztonga",
+        "number": 41,
+        "position": "Defender",
+        "id": 23250647
+      },
+      {
+        "name": "O. Piri",
+        "number": 23,
+        "position": "Goalkeeper",
+        "id": 21653366
+      },
+      {
+        "name": "U. Yıldız",
+        "number": 22,
+        "position": "Defender",
+        "id": 23156301
+      },
+      {
+        "name": "F. Ayé",
+        "number": 97,
+        "position": "Forward",
+        "id": 3346056
+      },
+      {
+        "name": "M. Altunbaş",
+        "number": 26,
+        "position": "Forward",
+        "id": 10011295
+      },
+      {
+        "name": "B. Yıldız",
+        "number": 89,
+        "position": "Forward",
+        "id": 62103650
+      },
+      {
+        "name": "M. Cinan",
+        "number": 3,
+        "position": "Defender",
+        "id": 10148628
+      }
+    ],
+    "initialLineup": [
+      [
+        {
+          "name": "S. Öztaşdelen",
+          "number": 83,
+          "position": "Goalkeeper",
+          "id": 48761097
+        }
+      ],
+      [
+        {
+          "name": "M. Haïdara",
+          "number": 21,
+          "position": "Defender",
+          "id": 536767
+        },
+        {
+          "name": "M. Maglica",
+          "number": 6,
+          "position": "Defender",
+          "id": 43831116
+        },
+        {
+          "name": "T. Zoukrou",
+          "number": 4,
+          "position": "Defender",
+          "id": 45490060
+        },
+        {
+          "name": "A. Dijksteel",
+          "number": 2,
+          "position": "Defender",
+          "id": 3192462
+        }
+      ],
+      [
+        {
+          "name": "B. Kutlu",
+          "number": 10,
+          "position": "Midfielder",
+          "id": 42605101
+        },
+        {
+          "name": "Show",
+          "number": 14,
+          "position": "Midfielder",
+          "id": 533708
+        },
+        {
+          "name": "Mahamadou Susoho Sissoho",
+          "number": 20,
+          "position": "Midfielder",
+          "id": 52823771
+        }
+      ],
+      [
+        {
+          "name": "Gonçalo Santos Sousa",
+          "number": 11,
+          "position": "Forward",
+          "id": 64488704
+        },
+        {
+          "name": "M. Baku",
+          "number": 32,
+          "position": "Forward",
+          "id": 4277602
+        },
+        {
+          "name": "D. Agyei",
+          "number": 7,
+          "position": "Forward",
+          "id": 14134505
+        }
+      ]
+    ],
+    "id": 6307545,
+    "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+    "name": "Kocaelispor FK"
+  }
+}

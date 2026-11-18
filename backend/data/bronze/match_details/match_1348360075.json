@@ -1,0 +1,1071 @@
+[
+  {
+    "venue": {
+      "city": "Istanbul",
+      "name": "Esenyurt Necmi Kadioglu Stadium",
+      "country": "Turkiye",
+      "capacity": "4500"
+    },
+    "referee": {
+      "name": "Akarsu, Alper",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "clear day",
+      "temperature": "18.36°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "29",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Kerem Demirbay",
+        "playerId": 115591,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "37",
+        "type": "Goal",
+        "assist": "H. Hajradinovic",
+        "player": "A. Benedyczak",
+        "playerId": 6535466,
+        "substituted": null,
+        "assistingPlayerId": 8060941
+      },
+      {
+        "team": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "time": "46",
+        "type": "Substitution",
+        "assist": null,
+        "player": "K. Michalak",
+        "playerId": 6512926,
+        "substituted": "M. Demir",
+        "assistingPlayerId": 10011939
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "62",
+        "type": "Substitution",
+        "assist": null,
+        "player": "H. Hajradinovic",
+        "playerId": 8060941,
+        "substituted": "A. Baldursson",
+        "assistingPlayerId": 14445557
+      },
+      {
+        "team": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "time": "66",
+        "type": "Substitution",
+        "assist": null,
+        "player": "I. Taskin",
+        "playerId": 10028039,
+        "substituted": "A. Sabiri",
+        "assistingPlayerId": 3067687
+      },
+      {
+        "team": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "time": "73",
+        "type": "Substitution",
+        "assist": null,
+        "player": "D. Costa",
+        "playerId": 68759390,
+        "substituted": "C. Raux Yao",
+        "assistingPlayerId": 53640202
+      },
+      {
+        "team": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "time": "73",
+        "type": "Substitution",
+        "assist": null,
+        "player": "L. Pintor",
+        "playerId": 108024,
+        "substituted": "B. Boutobba",
+        "assistingPlayerId": 3475983
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "79",
+        "type": "Substitution",
+        "assist": null,
+        "player": "E. Mendes",
+        "playerId": 70627956,
+        "substituted": "M. Rafferty",
+        "assistingPlayerId": 54538099
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "79",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Benedyczak",
+        "playerId": 6535466,
+        "substituted": "G. Yalcin",
+        "assistingPlayerId": 322959
+      },
+      {
+        "team": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "time": "84",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Y. Barasi",
+        "playerId": 5942020,
+        "substituted": "A. Yasar",
+        "assistingPlayerId": 22126384
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "87",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Ali Yavuz Kol",
+        "playerId": 74375,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "90",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Kol",
+        "playerId": 74375,
+        "substituted": "A. Mujde",
+        "assistingPlayerId": 45159849
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "90",
+        "type": "Substitution",
+        "assist": null,
+        "player": "J. Rak-Sakyi",
+        "playerId": 45796443,
+        "substituted": "T. Diarra",
+        "assistingPlayerId": 53072516
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-24T10:41:45.822Z",
+          "probabilities": {
+            "away": "50.39%",
+            "draw": "28.24%",
+            "home": "21.37%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-24T10:51:35.004Z",
+          "probabilities": {
+            "away": "48.98%",
+            "draw": "29.60%",
+            "home": "21.42%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-24T11:03:05.709Z",
+          "probabilities": {
+            "away": "45.36%",
+            "draw": "32.51%",
+            "home": "22.13%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-24T11:13:19.126Z",
+          "probabilities": {
+            "away": "71.02%",
+            "draw": "20.86%",
+            "home": "8.12%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-24T11:23:12.153Z",
+          "probabilities": {
+            "away": "71.34%",
+            "draw": "20.98%",
+            "home": "7.68%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-24T11:33:13.187Z",
+          "probabilities": {
+            "away": "71.26%",
+            "draw": "21.02%",
+            "home": "7.72%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-24T11:44:47.568Z",
+          "probabilities": {
+            "away": "73.21%",
+            "draw": "20.38%",
+            "home": "6.41%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-24T11:54:34.116Z",
+          "probabilities": {
+            "away": "74.53%",
+            "draw": "20.15%",
+            "home": "5.32%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-24T12:03:57.663Z",
+          "probabilities": {
+            "away": "79.06%",
+            "draw": "17.87%",
+            "home": "3.07%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-24T12:16:49.995Z",
+          "probabilities": {
+            "away": "86.43%",
+            "draw": "12.38%",
+            "home": "1.20%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-24T12:26:40.452Z",
+          "probabilities": {
+            "away": "93.36%",
+            "draw": "6.19%",
+            "home": "0.45%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-17T11:34:35.824Z",
+          "probabilities": {
+            "away": "41.24%",
+            "draw": "28.51%",
+            "home": "30.25%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-17T16:31:57.391Z",
+          "probabilities": {
+            "away": "41.16%",
+            "draw": "28.64%",
+            "home": "30.20%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-17T21:42:43.158Z",
+          "probabilities": {
+            "away": "41.16%",
+            "draw": "28.64%",
+            "home": "30.20%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-18T12:30:12.688Z",
+          "probabilities": {
+            "away": "45.44%",
+            "draw": "27.39%",
+            "home": "27.16%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-18T16:56:12.728Z",
+          "probabilities": {
+            "away": "58.04%",
+            "draw": "24.11%",
+            "home": "17.86%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-18T21:18:57.382Z",
+          "probabilities": {
+            "away": "59.70%",
+            "draw": "23.78%",
+            "home": "16.52%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-19T12:04:38.758Z",
+          "probabilities": {
+            "away": "60.14%",
+            "draw": "23.55%",
+            "home": "16.31%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-19T15:40:04.453Z",
+          "probabilities": {
+            "away": "60.35%",
+            "draw": "23.48%",
+            "home": "16.17%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-19T19:21:14.957Z",
+          "probabilities": {
+            "away": "60.23%",
+            "draw": "23.52%",
+            "home": "16.25%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-20T09:10:18.210Z",
+          "probabilities": {
+            "away": "60.17%",
+            "draw": "23.65%",
+            "home": "16.19%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-20T13:03:05.629Z",
+          "probabilities": {
+            "away": "60.29%",
+            "draw": "23.58%",
+            "home": "16.12%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-20T17:11:35.975Z",
+          "probabilities": {
+            "away": "60.35%",
+            "draw": "23.58%",
+            "home": "16.07%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-20T21:14:28.455Z",
+          "probabilities": {
+            "away": "60.36%",
+            "draw": "23.57%",
+            "home": "16.07%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-21T08:54:12.668Z",
+          "probabilities": {
+            "away": "60.45%",
+            "draw": "23.56%",
+            "home": "15.99%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-21T16:00:28.701Z",
+          "probabilities": {
+            "away": "60.12%",
+            "draw": "23.63%",
+            "home": "16.25%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-21T20:29:35.534Z",
+          "probabilities": {
+            "away": "60.05%",
+            "draw": "23.65%",
+            "home": "16.30%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-22T11:36:20.039Z",
+          "probabilities": {
+            "away": "60.16%",
+            "draw": "23.64%",
+            "home": "16.20%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-22T15:55:32.627Z",
+          "probabilities": {
+            "away": "60.14%",
+            "draw": "23.67%",
+            "home": "16.19%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-22T20:29:19.023Z",
+          "probabilities": {
+            "away": "60.09%",
+            "draw": "23.72%",
+            "home": "16.19%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-23T09:09:25.909Z",
+          "probabilities": {
+            "away": "59.14%",
+            "draw": "24.10%",
+            "home": "16.76%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-24T10:21:06.376Z",
+          "probabilities": {
+            "away": "55.66%",
+            "draw": "25.48%",
+            "home": "18.86%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "statistics": [
+          {
+            "value": 0.43,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 0,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 58,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 21,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.77,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 25,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 197,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 257,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 35,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 76,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 16,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 8,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 97,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 77,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 8,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 11,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 4,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 5,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 14,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 23,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 30,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 13,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 24,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.33,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 75,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.52,
+            "displayName": "Possession"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 6,
+            "displayName": "Corners"
+          },
+          {
+            "value": 2,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 354,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 2,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 429,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 3,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 12,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 0,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "statistics": [
+          {
+            "value": 0.59,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 1,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 60,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 10,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.54,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 1,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 12,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 227,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 197,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 26,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 65,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 30,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 8,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 61,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 67,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 7,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 7,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 9,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 15,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 23,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 7,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 30,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 9,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 12,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.4,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 86,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.48,
+            "displayName": "Possession"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 5,
+            "displayName": "Corners"
+          },
+          {
+            "value": 0,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 326,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 2,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 412,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 4,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 21,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 2,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348360075,
+    "round": "Regular Season - 9",
+    "date": "2026-10-24T10:30:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "0 - 1",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 855188,
+      "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+      "name": "Kasımpaşa",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "5'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Kerem Demirbay"
+        },
+        {
+          "time": "12'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Jesurun Rak-Sakyi"
+        },
+        {
+          "time": "13'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Elson Mendes"
+        },
+        {
+          "time": "31'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Ali Yavuz Kol"
+        },
+        {
+          "time": "37'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Adrian Benedyczak"
+        },
+        {
+          "time": "47'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Adrian Benedyczak"
+        },
+        {
+          "time": "51'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Kerem Demirbay"
+        },
+        {
+          "time": "66'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Matei Ilie"
+        },
+        {
+          "time": "68'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Elson Mendes"
+        },
+        {
+          "time": "76'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Jesurun Rak-Sakyi"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 3054172,
+      "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+      "name": "Eyüpspor",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "10'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Lenny Pintor"
+        },
+        {
+          "time": "19'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Lenny Pintor"
+        },
+        {
+          "time": "24'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Jawad El Yamiq"
+        },
+        {
+          "time": "26'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Zak Jules"
+        },
+        {
+          "time": "34'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Lenny Pintor"
+        },
+        {
+          "time": "34'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Yusuf Barası"
+        },
+        {
+          "time": "45'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Chandrel Massanga"
+        },
+        {
+          "time": "53'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Zak Jules"
+        },
+        {
+          "time": "60'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Talha Ülvan"
+        },
+        {
+          "time": "78'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Bilal Boutobba"
+        },
+        {
+          "time": "89'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Talha Ülvan"
+        },
+        {
+          "time": "90 + 3'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Anıl Yaşar"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

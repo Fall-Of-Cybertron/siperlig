@@ -1,0 +1,1018 @@
+[
+  {
+    "venue": {
+      "city": null,
+      "name": null,
+      "country": null,
+      "capacity": null
+    },
+    "referee": {
+      "name": null,
+      "nationality": null
+    },
+    "forecast": {
+      "status": null,
+      "temperature": null
+    },
+    "events": [
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "20",
+        "type": "Goal",
+        "assist": "Claudio Winck",
+        "player": "Güven Yalçın",
+        "playerId": 322959,
+        "substituted": null,
+        "assistingPlayerId": 1700797
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "45",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Mbaye Diagne",
+        "playerId": 73892,
+        "substituted": "Gift Orban",
+        "assistingPlayerId": 59290014
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "45",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Gökhan Gül",
+        "playerId": 4109196,
+        "substituted": "Furkan Soyalp",
+        "assistingPlayerId": 8088633
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "52",
+        "type": "Goal",
+        "assist": "Marcus Rafferty",
+        "player": "Adrian Benedyczak",
+        "playerId": 6535466,
+        "substituted": null,
+        "assistingPlayerId": 54538099
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "58",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Dia Saba",
+        "playerId": 2083333,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "59",
+        "type": "Goal",
+        "assist": null,
+        "player": "Gift Orban",
+        "playerId": 59290014,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "66",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Samuel Ballet",
+        "playerId": 24570203,
+        "substituted": "Rayan Lutin",
+        "assistingPlayerId": 57853089
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "67",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Marcus Rafferty",
+        "playerId": 54538099,
+        "substituted": "Elson Mendes",
+        "assistingPlayerId": 70627956
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "72",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Andri Fannar Baldursson",
+        "playerId": 14445557,
+        "substituted": "Emirhan Boz",
+        "assistingPlayerId": 104848667
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "76",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Kerem Demirbay",
+        "playerId": 115591,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "77",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Amadou Cissé",
+        "playerId": 72724176,
+        "substituted": "Mohamed Khalil",
+        "assistingPlayerId": 27327489
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "82",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Adrian Benedyczak",
+        "playerId": 6535466,
+        "substituted": "Jesurun Rak-Sakyi",
+        "assistingPlayerId": 45796443
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "82",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Kerem Demirbay",
+        "playerId": 115591,
+        "substituted": "Atakan Müjde",
+        "assistingPlayerId": 45159849
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "83",
+        "type": "Goal",
+        "assist": "Mohamed Khalil",
+        "player": "Gift Orban",
+        "playerId": 59290014,
+        "substituted": null,
+        "assistingPlayerId": 27327489
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "86",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Dia Saba",
+        "playerId": 2083333,
+        "substituted": "Mehmet Yesil",
+        "assistingPlayerId": 16311386
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "90+1",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Jesurun Rak-Sakyi",
+        "playerId": 45796443,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "90+3",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Emirhan Boz",
+        "playerId": 104848667,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "90+4",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Güven Yalçın",
+        "playerId": 322959,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "90+4",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "David Bates",
+        "playerId": 4003419,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "90+5",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Ali Yavuz Kol",
+        "playerId": 74375,
+        "substituted": null,
+        "assistingPlayerId": null
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-09-06T15:47:53.888Z",
+          "probabilities": {
+            "away": "13.90%",
+            "draw": "67.65%",
+            "home": "18.45%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Amed.",
+          "generatedAt": "2026-08-30T15:04:20.275Z",
+          "probabilities": {
+            "away": "32.28%",
+            "draw": "24.47%",
+            "home": "43.25%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Amed.",
+          "generatedAt": "2026-08-30T19:53:39.907Z",
+          "probabilities": {
+            "away": "32.28%",
+            "draw": "24.47%",
+            "home": "43.25%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Amed.",
+          "generatedAt": "2026-08-31T10:13:29.246Z",
+          "probabilities": {
+            "away": "29.05%",
+            "draw": "27.40%",
+            "home": "43.55%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Amed.",
+          "generatedAt": "2026-09-01T10:46:11.898Z",
+          "probabilities": {
+            "away": "28.81%",
+            "draw": "28.10%",
+            "home": "43.09%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Amed.",
+          "generatedAt": "2026-09-01T16:00:21.276Z",
+          "probabilities": {
+            "away": "28.82%",
+            "draw": "28.11%",
+            "home": "43.07%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Amed.",
+          "generatedAt": "2026-09-01T21:17:16.608Z",
+          "probabilities": {
+            "away": "28.74%",
+            "draw": "28.18%",
+            "home": "43.07%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Amed.",
+          "generatedAt": "2026-09-02T12:16:28.440Z",
+          "probabilities": {
+            "away": "28.84%",
+            "draw": "28.32%",
+            "home": "42.84%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Amed.",
+          "generatedAt": "2026-09-02T17:34:40.656Z",
+          "probabilities": {
+            "away": "28.90%",
+            "draw": "28.35%",
+            "home": "42.75%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Amed.",
+          "generatedAt": "2026-09-03T12:18:34.138Z",
+          "probabilities": {
+            "away": "28.88%",
+            "draw": "28.35%",
+            "home": "42.77%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Amed.",
+          "generatedAt": "2026-09-03T17:37:38.361Z",
+          "probabilities": {
+            "away": "28.85%",
+            "draw": "28.35%",
+            "home": "42.80%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Amed.",
+          "generatedAt": "2026-09-04T11:21:54.517Z",
+          "probabilities": {
+            "away": "30.72%",
+            "draw": "28.94%",
+            "home": "40.34%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Amed.",
+          "generatedAt": "2026-09-04T17:16:09.753Z",
+          "probabilities": {
+            "away": "31.19%",
+            "draw": "28.90%",
+            "home": "39.91%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Amed.",
+          "generatedAt": "2026-09-05T11:08:53.746Z",
+          "probabilities": {
+            "away": "31.05%",
+            "draw": "29.27%",
+            "home": "39.68%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kasımpaşa is most likely to win the game against Amed.",
+          "generatedAt": "2026-09-05T20:06:50.205Z",
+          "probabilities": {
+            "away": "30.97%",
+            "draw": "29.28%",
+            "home": "39.76%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "statistics": [
+          {
+            "value": 1.04,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 2,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 78,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 10,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.83,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 0,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 3,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 218,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 179,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 26,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 59,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 14,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 12,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 55,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 71,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 9,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 7,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 16,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 25,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 25,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 19,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 10,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 16,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.5,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 77,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.44,
+            "displayName": "Possession"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 2,
+            "displayName": "Corners"
+          },
+          {
+            "value": 0,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 317,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 2,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 8,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 394,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 2,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 15,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 5,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "statistics": [
+          {
+            "value": 1.11,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 2,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 90,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 14,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.93,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 22,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 297,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 220,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 25,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 47,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 22,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 10,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 71,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 77,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 5,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 8,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 7,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 13,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 15,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 11,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 19,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 24,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.29,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 75,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.56,
+            "displayName": "Possession"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 9,
+            "displayName": "Corners"
+          },
+          {
+            "value": 3,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 420,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 4,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 495,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 5,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 10,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 2,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 8,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348324333,
+    "round": "Regular Season - 4",
+    "date": "2026-09-06T14:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "2 - 2",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 3046513,
+      "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+      "name": "Amed",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "6'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Mbaye Diagne"
+        },
+        {
+          "time": "27'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Gökhan Gül"
+        },
+        {
+          "time": "29'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Dia Saba"
+        },
+        {
+          "time": "30'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Ermal Krasniqi"
+        },
+        {
+          "time": "37'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Umut Meras"
+        },
+        {
+          "time": "45 + 1'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Gökhan Gül"
+        },
+        {
+          "time": "49'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Furkan Soyalp"
+        },
+        {
+          "time": "50'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Furkan Soyalp"
+        },
+        {
+          "time": "56'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Rayan Raveloson"
+        },
+        {
+          "time": "56'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Rayan Raveloson"
+        },
+        {
+          "time": "57'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Amadou Cissé"
+        },
+        {
+          "time": "59'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Gift Orban"
+        },
+        {
+          "time": "61'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Furkan Soyalp"
+        },
+        {
+          "time": "83'",
+          "outcome": "Goal",
+          "goalTarget": "Low Centre",
+          "playerName": "Gift Orban"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 855188,
+      "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+      "name": "Kasımpaşa",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "2'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Claudio Winck"
+        },
+        {
+          "time": "9'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Ayberk Karapo"
+        },
+        {
+          "time": "9'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Andri Baldursson"
+        },
+        {
+          "time": "20'",
+          "outcome": "Goal",
+          "goalTarget": "High Right",
+          "playerName": "Guven Yalcin"
+        },
+        {
+          "time": "24'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Guven Yalcin"
+        },
+        {
+          "time": "33'",
+          "outcome": "Missed",
+          "goalTarget": "Close Left And High",
+          "playerName": "Guven Yalcin"
+        },
+        {
+          "time": "49'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Ayberk Karapo"
+        },
+        {
+          "time": "52'",
+          "outcome": "Goal",
+          "goalTarget": "High Right",
+          "playerName": "Adrian Benedyczak"
+        },
+        {
+          "time": "59'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Adrian Benedyczak"
+        },
+        {
+          "time": "59'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Ali Yavuz Kol"
+        },
+        {
+          "time": "62'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Ayberk Karapo"
+        },
+        {
+          "time": "73'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Elson Mendes"
+        },
+        {
+          "time": "75'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Kerem Demirbay"
+        },
+        {
+          "time": "85'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Elson Mendes"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

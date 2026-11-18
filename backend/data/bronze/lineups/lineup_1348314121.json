@@ -1,0 +1,294 @@
+{
+  "homeTeam": {
+    "formation": "4-1-4-1",
+    "substitutes": [
+      {
+        "name": "Doğan Alemdar",
+        "number": 80,
+        "position": "Goalkeeper",
+        "id": 8066898
+      },
+      {
+        "name": "Kassoum Ouattara",
+        "number": 11,
+        "position": "Defender",
+        "id": 53635211
+      },
+      {
+        "name": "Taylan Bulut",
+        "number": 22,
+        "position": "Defender",
+        "id": 63540897
+      },
+      {
+        "name": "Emirhan Topçu",
+        "number": 53,
+        "position": "Defender",
+        "id": 8057560
+      },
+      {
+        "name": "İlhan Fakılı",
+        "number": 29,
+        "position": "Forward",
+        "id": 71938818
+      },
+      {
+        "name": "Fabio Miretti",
+        "number": 21,
+        "position": "Midfielder",
+        "id": 29271242
+      },
+      {
+        "name": "Kartal Kayra Yılmaz",
+        "number": 8,
+        "position": "Midfielder",
+        "id": 321832
+      },
+      {
+        "name": "Wilfred Ndidi",
+        "number": 4,
+        "position": "Midfielder",
+        "id": 3024700
+      },
+      {
+        "name": "Ernest Poku",
+        "number": 17,
+        "position": "Forward",
+        "id": 50367394
+      },
+      {
+        "name": "Hyeon-gyu Oh",
+        "number": 9,
+        "position": "Forward",
+        "id": 5588464
+      }
+    ],
+    "initialLineup": [
+      [
+        {
+          "name": "Alexander Nübel",
+          "number": 1,
+          "position": "Goalkeeper",
+          "id": 64393
+        }
+      ],
+      [
+        {
+          "name": "Rıdvan Yılmaz",
+          "number": 33,
+          "position": "Defender",
+          "id": 320061
+        },
+        {
+          "name": "Tiago Djaló",
+          "number": 35,
+          "position": "Defender",
+          "id": 238273
+        },
+        {
+          "name": "Emmanuel Agbadou",
+          "number": 12,
+          "position": "Defender",
+          "id": 21746102
+        },
+        {
+          "name": "Amir Murillo",
+          "number": 62,
+          "position": "Defender",
+          "id": 478807
+        }
+      ],
+      [
+        {
+          "name": "Salih Özcan",
+          "number": 6,
+          "position": "Midfielder",
+          "id": 3994081
+        }
+      ],
+      [
+        {
+          "name": "Leandro Trossard",
+          "number": 19,
+          "position": "Midfielder",
+          "id": 313460
+        },
+        {
+          "name": "Orkun Kökçü",
+          "number": 10,
+          "position": "Midfielder",
+          "id": 5982109
+        },
+        {
+          "name": "Junior Olaitan",
+          "number": 15,
+          "position": "Midfielder",
+          "id": 51021698
+        },
+        {
+          "name": "Václav Černý",
+          "number": 18,
+          "position": "Midfielder",
+          "id": 88543
+        }
+      ],
+      [
+        {
+          "name": "Dušan Vlahović",
+          "number": 28,
+          "position": "Forward",
+          "id": 4896969
+        }
+      ]
+    ],
+    "id": 467983,
+    "logo": "https://highlightly.net/soccer/images/teams/467983.png",
+    "name": "Besiktas"
+  },
+  "awayTeam": {
+    "formation": "4-2-3-1",
+    "substitutes": [
+      {
+        "name": "Erhan Erentürk",
+        "number": 18,
+        "position": "Goalkeeper",
+        "id": 9969918
+      },
+      {
+        "name": "Arda Şengül",
+        "number": 15,
+        "position": "Defender",
+        "id": 10180345
+      },
+      {
+        "name": "Huseyin Bulut",
+        "number": 22,
+        "position": "Defender",
+        "id": 19679828
+      },
+      {
+        "name": "Ermin Mahmić",
+        "number": 26,
+        "position": "Midfielder",
+        "id": 54768007
+      },
+      {
+        "name": "Göktan Gürpüz",
+        "number": 21,
+        "position": "Midfielder",
+        "id": 26098576
+      },
+      {
+        "name": "Ahmed Ildız",
+        "number": 30,
+        "position": "Midfielder",
+        "id": 8036147
+      },
+      {
+        "name": "Cengiz Ünder",
+        "number": 23,
+        "position": "Midfielder",
+        "id": 126539
+      },
+      {
+        "name": "Markus Karlsbakk",
+        "number": 8,
+        "position": "Midfielder",
+        "id": 9201626
+      },
+      {
+        "name": "Fredy",
+        "number": 16,
+        "position": "Midfielder",
+        "id": 8047900
+      },
+      {
+        "name": "Mame Thiam",
+        "number": 9,
+        "position": "Forward",
+        "id": 8124858
+      }
+    ],
+    "initialLineup": [
+      [
+        {
+          "name": "Marcos Felipe",
+          "number": 1,
+          "position": "Goalkeeper",
+          "id": 1658132
+        }
+      ],
+      [
+        {
+          "name": "Andrei Borza",
+          "number": 24,
+          "position": "Defender",
+          "id": 55107717
+        },
+        {
+          "name": "Hrvoje Smolčić",
+          "number": 6,
+          "position": "Defender",
+          "id": 2298590
+        },
+        {
+          "name": "Alexandre Penetra",
+          "number": 5,
+          "position": "Defender",
+          "id": 26177788
+        },
+        {
+          "name": "Gökhan Sazdağı",
+          "number": 11,
+          "position": "Defender",
+          "id": 10007592
+        }
+      ],
+      [
+        {
+          "name": "Ylber Ramadani",
+          "number": 20,
+          "position": "Midfielder",
+          "id": 2523507
+        },
+        {
+          "name": "Berat Özdemir",
+          "number": 3,
+          "position": "Midfielder",
+          "id": 9953174
+        }
+      ],
+      [
+        {
+          "name": "Emircan Gürlük",
+          "number": 17,
+          "position": "Midfielder",
+          "id": 48118546
+        },
+        {
+          "name": "Mohammed Diomande",
+          "number": 10,
+          "position": "Midfielder",
+          "id": 32141872
+        },
+        {
+          "name": "Serdar Gürler",
+          "number": 7,
+          "position": "Midfielder",
+          "id": 8079134
+        }
+      ],
+      [
+        {
+          "name": "Jesús Ramírez",
+          "number": 19,
+          "position": "Forward",
+          "id": 16737392
+        }
+      ]
+    ],
+    "id": 5398677,
+    "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+    "name": "Yeni Çorumspor"
+  }
+}

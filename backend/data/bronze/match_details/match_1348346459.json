@@ -1,0 +1,450 @@
+[
+  {
+    "venue": {
+      "city": null,
+      "name": null,
+      "country": null,
+      "capacity": null
+    },
+    "referee": {
+      "name": null,
+      "nationality": null
+    },
+    "forecast": {
+      "status": null,
+      "temperature": null
+    },
+    "events": [
+      {
+        "team": {
+          "id": 5398677,
+          "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+          "name": "Yeni Çorumspor"
+        },
+        "time": "37",
+        "type": "Goal",
+        "assist": "M. Diomande",
+        "player": "C. Under",
+        "playerId": 126539,
+        "substituted": null,
+        "assistingPlayerId": 32141872
+      },
+      {
+        "team": {
+          "id": 5398677,
+          "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+          "name": "Yeni Çorumspor"
+        },
+        "time": "43",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Mohammed Diomande",
+        "playerId": 32141872,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "58",
+        "type": "Substitution",
+        "assist": null,
+        "player": "O. Ozcicek",
+        "playerId": 23070649,
+        "substituted": "U. Meleke",
+        "assistingPlayerId": 13433672
+      },
+      {
+        "team": {
+          "id": 5398677,
+          "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+          "name": "Yeni Çorumspor"
+        },
+        "time": "58",
+        "type": "Substitution",
+        "assist": null,
+        "player": "B. Ozdemir",
+        "playerId": 9953174,
+        "substituted": "Y. Ramadani",
+        "assistingPlayerId": 2523507
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "59",
+        "type": "Substitution",
+        "assist": null,
+        "player": "H. Dervisoglu",
+        "playerId": 6027994,
+        "substituted": "D. Camara",
+        "assistingPlayerId": 14719418
+      },
+      {
+        "team": {
+          "id": 5398677,
+          "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+          "name": "Yeni Çorumspor"
+        },
+        "time": "60",
+        "type": "Goal",
+        "assist": "G. Sazdagi",
+        "player": "A. Kyziridis",
+        "playerId": 10982447,
+        "substituted": null,
+        "assistingPlayerId": 10007592
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "73",
+        "type": "Substitution",
+        "assist": null,
+        "player": "V. Gidado",
+        "playerId": 72639812,
+        "substituted": "S. Dursun",
+        "assistingPlayerId": 4033687
+      },
+      {
+        "team": {
+          "id": 5398677,
+          "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+          "name": "Yeni Çorumspor"
+        },
+        "time": "73",
+        "type": "Substitution",
+        "assist": null,
+        "player": "G. Sazdagi",
+        "playerId": 10007592,
+        "substituted": "M. Karlsbakk",
+        "assistingPlayerId": 9201626
+      },
+      {
+        "team": {
+          "id": 5398677,
+          "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+          "name": "Yeni Çorumspor"
+        },
+        "time": "81",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Alexandros Kyziridis",
+        "playerId": 10982447,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 5398677,
+          "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+          "name": "Yeni Çorumspor"
+        },
+        "time": "83",
+        "type": "Goal",
+        "assist": "A. Kyziridis",
+        "player": "M. Karlsbakk",
+        "playerId": 9201626,
+        "substituted": null,
+        "assistingPlayerId": 10982447
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "84",
+        "type": "Substitution",
+        "assist": null,
+        "player": "L. Perez",
+        "playerId": 7579712,
+        "substituted": "S. Destici",
+        "assistingPlayerId": 23140040
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "84",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Maxim",
+        "playerId": 4173435,
+        "substituted": "S. Hansen",
+        "assistingPlayerId": 26063478
+      },
+      {
+        "team": {
+          "id": 5398677,
+          "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+          "name": "Yeni Çorumspor"
+        },
+        "time": "84",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Borza",
+        "playerId": 55107717,
+        "substituted": "A. Sengul",
+        "assistingPlayerId": 10180345
+      },
+      {
+        "team": {
+          "id": 5398677,
+          "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+          "name": "Yeni Çorumspor"
+        },
+        "time": "84",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Kyziridis",
+        "playerId": 10982447,
+        "substituted": "E. Mahmic",
+        "assistingPlayerId": 54768007
+      },
+      {
+        "team": {
+          "id": 5398677,
+          "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+          "name": "Yeni Çorumspor"
+        },
+        "time": "84",
+        "type": "Substitution",
+        "assist": null,
+        "player": "C. Under",
+        "playerId": 126539,
+        "substituted": "Y. Moukoko",
+        "assistingPlayerId": 26069113
+      },
+      {
+        "team": {
+          "id": 5398677,
+          "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+          "name": "Yeni Çorumspor"
+        },
+        "time": "85",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Youssoufa Moukoko",
+        "playerId": 26069113,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "90+8",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Sontje Hansen",
+        "playerId": 26063478,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "90+6",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Myenty Abena",
+        "playerId": 222173,
+        "substituted": null,
+        "assistingPlayerId": null
+      }
+    ],
+    "predictions": null,
+    "statistics": [
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "statistics": [
+          {
+            "value": 0.08,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 1,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 4,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots outside penalty area"
+          },
+          {
+            "value": 5,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 7,
+            "displayName": "Corners"
+          },
+          {
+            "value": 2,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 0.54,
+            "displayName": "Possession"
+          },
+          {
+            "value": 0,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 4,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 433,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 365,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 68,
+            "displayName": "Failed passes"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 5398677,
+          "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+          "name": "Yeni Çorumspor"
+        },
+        "statistics": [
+          {
+            "value": 0.58,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 1,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 10,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 2,
+            "displayName": "Shots outside penalty area"
+          },
+          {
+            "value": 7,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 5,
+            "displayName": "Corners"
+          },
+          {
+            "value": 1,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 0.46,
+            "displayName": "Possession"
+          },
+          {
+            "value": 3,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 1,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 387,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 315,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 72,
+            "displayName": "Failed passes"
+          }
+        ]
+      }
+    ],
+    "id": 1348346459,
+    "round": "Regular Season - 7",
+    "date": "2026-10-11T13:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "0 - 3",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 5398677,
+      "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+      "name": "Yeni Çorumspor",
+      "topPlayers": [],
+      "shots": []
+    },
+    "homeTeam": {
+      "id": 3041407,
+      "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+      "name": "Gazişehir Gaziantep",
+      "topPlayers": [],
+      "shots": []
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

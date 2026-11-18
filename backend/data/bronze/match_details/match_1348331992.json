@@ -1,0 +1,986 @@
+[
+  {
+    "venue": {
+      "city": "Gaziantep",
+      "name": "Gaziantep Stadium",
+      "country": "Turkiye",
+      "capacity": "33574"
+    },
+    "referee": {
+      "name": "Turkmen, Mehmet",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "clear night",
+      "temperature": "25.07°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "4",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "U. Meleke",
+        "playerId": 13433672,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "60",
+        "type": "Substitution",
+        "assist": null,
+        "player": "H. Dervisoglu",
+        "playerId": 6027994,
+        "substituted": "S. Dursun",
+        "assistingPlayerId": 4033687
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "61",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Maxim",
+        "playerId": 4173435,
+        "substituted": "D. Camara",
+        "assistingPlayerId": 14719418
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "64",
+        "type": "Substitution",
+        "assist": null,
+        "player": "R. Lukaku",
+        "playerId": 146181,
+        "substituted": "V. Muriqi",
+        "assistingPlayerId": 8057882
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "64",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Guendouzi",
+        "playerId": 234248,
+        "substituted": "I. Kahveci",
+        "assistingPlayerId": 8027131
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "64",
+        "type": "Substitution",
+        "assist": null,
+        "player": "K. Akturkoglu",
+        "playerId": 23016553,
+        "substituted": "O. Aydin",
+        "assistingPlayerId": 21669144
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "69",
+        "type": "Substitution",
+        "assist": null,
+        "player": "D. Sorescu",
+        "playerId": 6954388,
+        "substituted": "K. Gassama",
+        "assistingPlayerId": 65763985
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "77",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Muldur",
+        "playerId": 276913,
+        "substituted": "N. Semedo",
+        "assistingPlayerId": 21084
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "82",
+        "type": "Substitution",
+        "assist": null,
+        "player": "K. Calhanoglu",
+        "playerId": 32668503,
+        "substituted": "A. Sylla",
+        "assistingPlayerId": 58734564
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "82",
+        "type": "Substitution",
+        "assist": null,
+        "player": "K. Kozlowski",
+        "playerId": 10353098,
+        "substituted": "S. Hansen",
+        "assistingPlayerId": 26063478
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "83",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "I. Kahveci",
+        "playerId": 8027131,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "83",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "A. Kizildag",
+        "playerId": 10188878,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "84",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "V. Muriqi",
+        "playerId": 8057882,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "84",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "M. Abena",
+        "playerId": 222173,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "84",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "O. Aydin",
+        "playerId": 21669144,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "87",
+        "type": "Substitution",
+        "assist": null,
+        "player": "I. Yuksek",
+        "playerId": 34528697,
+        "substituted": "B. Elmaz",
+        "assistingPlayerId": 26082798
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "90+2",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "S. Hansen",
+        "playerId": 26063478,
+        "substituted": null,
+        "assistingPlayerId": null
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-09-14T17:01:45.821Z",
+          "probabilities": {
+            "away": "63.82%",
+            "draw": "21.24%",
+            "home": "14.94%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-09-14T17:23:08.929Z",
+          "probabilities": {
+            "away": "59.98%",
+            "draw": "24.35%",
+            "home": "15.67%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-09-14T17:43:36.507Z",
+          "probabilities": {
+            "away": "55.63%",
+            "draw": "29.73%",
+            "home": "14.63%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-09-14T18:02:52.860Z",
+          "probabilities": {
+            "away": "55.00%",
+            "draw": "31.13%",
+            "home": "13.87%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-09-14T18:22:54.728Z",
+          "probabilities": {
+            "away": "44.17%",
+            "draw": "41.85%",
+            "home": "13.98%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-09-14T18:32:52.393Z",
+          "probabilities": {
+            "away": "36.63%",
+            "draw": "51.43%",
+            "home": "11.94%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-09-14T18:42:41.967Z",
+          "probabilities": {
+            "away": "24.63%",
+            "draw": "67.04%",
+            "home": "8.33%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-09-08T09:39:58.131Z",
+          "probabilities": {
+            "away": "60.40%",
+            "draw": "22.57%",
+            "home": "17.04%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-09-09T10:36:57.775Z",
+          "probabilities": {
+            "away": "60.13%",
+            "draw": "22.60%",
+            "home": "17.27%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-09-09T15:55:21.672Z",
+          "probabilities": {
+            "away": "60.10%",
+            "draw": "22.63%",
+            "home": "17.27%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-09-09T21:24:57.138Z",
+          "probabilities": {
+            "away": "59.96%",
+            "draw": "22.73%",
+            "home": "17.32%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-09-10T11:41:21.622Z",
+          "probabilities": {
+            "away": "59.77%",
+            "draw": "22.84%",
+            "home": "17.39%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-09-10T17:07:15.660Z",
+          "probabilities": {
+            "away": "59.87%",
+            "draw": "22.82%",
+            "home": "17.31%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-09-11T11:18:27.035Z",
+          "probabilities": {
+            "away": "60.21%",
+            "draw": "22.75%",
+            "home": "17.04%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-09-14T08:58:45.090Z",
+          "probabilities": {
+            "away": "61.86%",
+            "draw": "22.03%",
+            "home": "16.11%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-09-14T11:00:18.178Z",
+          "probabilities": {
+            "away": "61.80%",
+            "draw": "22.09%",
+            "home": "16.11%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-09-14T15:07:12.734Z",
+          "probabilities": {
+            "away": "62.45%",
+            "draw": "21.80%",
+            "home": "15.75%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "statistics": [
+          {
+            "value": 0.49,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 1,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 80,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 8,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.27,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 16,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 122,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 152,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 29,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 52,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 17,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 9,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 34,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 42,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 8,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 15,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 8,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 28,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 16,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 24,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 13,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 23,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 65,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.32,
+            "displayName": "Possession"
+          },
+          {
+            "value": 0,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 6,
+            "displayName": "Corners"
+          },
+          {
+            "value": 0,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 193,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 4,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 258,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 4,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 16,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 4,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "statistics": [
+          {
+            "value": 1.34,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 2,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 109,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 13,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 1.39,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 20,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 325,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 260,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 34,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 61,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 24,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 13,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 80,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 71,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 9,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 6,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 7,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 17,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 9,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 24,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 6,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.27,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 73,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.68,
+            "displayName": "Possession"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 6,
+            "displayName": "Corners"
+          },
+          {
+            "value": 1,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 492,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 8,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 3,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 11,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 565,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 8,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 3,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348331992,
+    "round": "Regular Season - 5",
+    "date": "2026-09-14T17:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "0 - 0",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 520745,
+      "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+      "name": "Fenerbahce",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "7'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Mason Greenwood"
+        },
+        {
+          "time": "17'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Milan Skriniar"
+        },
+        {
+          "time": "34'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Kerem Aktürkoğlu"
+        },
+        {
+          "time": "35'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Mason Greenwood"
+        },
+        {
+          "time": "37'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Matteo Guendouzi"
+        },
+        {
+          "time": "47'",
+          "outcome": "Missed",
+          "goalTarget": "Close Left And High",
+          "playerName": "Archie Brown"
+        },
+        {
+          "time": "54'",
+          "outcome": "Post",
+          "goalTarget": null,
+          "playerName": "Kerem Aktürkoğlu"
+        },
+        {
+          "time": "55'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Nathan Aké"
+        },
+        {
+          "time": "56'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Mason Greenwood"
+        },
+        {
+          "time": "58'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "İsmail Yüksek"
+        },
+        {
+          "time": "59'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Romelu Lukaku"
+        },
+        {
+          "time": "68'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Archie Brown"
+        },
+        {
+          "time": "73'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Irfan Kahveci"
+        },
+        {
+          "time": "84'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Archie Brown"
+        },
+        {
+          "time": "88'",
+          "outcome": "Post",
+          "goalTarget": null,
+          "playerName": "Mason Greenwood"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 3041407,
+      "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+      "name": "Gazişehir Gaziantep",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "15'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Alexandru Maxim"
+        },
+        {
+          "time": "15'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Deian Sorescu"
+        },
+        {
+          "time": "24'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Deian Sorescu"
+        },
+        {
+          "time": "28'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Deian Sorescu"
+        },
+        {
+          "time": "41'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Deian Sorescu"
+        },
+        {
+          "time": "43'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Victor Gidado"
+        },
+        {
+          "time": "44'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Arda Kizildag"
+        },
+        {
+          "time": "45'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Kacper Kozłowski"
+        },
+        {
+          "time": "45'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Alexandru Maxim"
+        },
+        {
+          "time": "62'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Serdar Dursun"
+        },
+        {
+          "time": "77'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Karamba Gassama"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

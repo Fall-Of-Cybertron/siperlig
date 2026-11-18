@@ -1,0 +1,1055 @@
+[
+  {
+    "venue": {
+      "city": "Konya",
+      "name": "Konya Büyüksehir Belediyesi Stadium",
+      "country": "Turkiye",
+      "capacity": "42000"
+    },
+    "referee": {
+      "name": null,
+      "nationality": null
+    },
+    "forecast": {
+      "status": "partly cloudy night",
+      "temperature": "11.79°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "12",
+        "type": "Goal",
+        "assist": "Gabriel Sara",
+        "player": "V. Osimhen",
+        "playerId": 447734,
+        "substituted": null,
+        "assistingPlayerId": 12969026
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "28",
+        "type": "Goal",
+        "assist": "A. Batrakov",
+        "player": "Y. Akgun",
+        "playerId": 73248,
+        "substituted": null,
+        "assistingPlayerId": 64572907
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "31",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Gabriel Sara",
+        "playerId": 12969026,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "40",
+        "type": "Substitution",
+        "assist": null,
+        "player": "B. Gungordu",
+        "playerId": 31345083,
+        "substituted": "D. Ertas",
+        "assistingPlayerId": 64801527
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "45+6",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Deniz Türüç",
+        "playerId": 8070440,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "46",
+        "type": "Substitution",
+        "assist": null,
+        "player": "R. Toth",
+        "playerId": 67542391,
+        "substituted": "E. Bardhi",
+        "assistingPlayerId": 7641375
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "46",
+        "type": "Substitution",
+        "assist": null,
+        "player": "J. Muleka",
+        "playerId": 23289770,
+        "substituted": "Mostafa Mohamed",
+        "assistingPlayerId": 429702
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "49",
+        "type": "Goal",
+        "assist": "Gabriel Sara",
+        "player": "A. Batrakov",
+        "playerId": 64572907,
+        "substituted": null,
+        "assistingPlayerId": 12969026
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "52",
+        "type": "VAR Penalty",
+        "assist": null,
+        "player": "Rafael Leão",
+        "playerId": 3580150,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "55",
+        "type": "Penalty",
+        "assist": null,
+        "player": "R. Leao",
+        "playerId": 3580150,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "56",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Y. Andzouana",
+        "playerId": 7649586,
+        "substituted": "U. Yazgili",
+        "assistingPlayerId": 8060297
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "61",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Batrakov",
+        "playerId": 64572907,
+        "substituted": "I. Gundogan",
+        "assistingPlayerId": 102067
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "61",
+        "type": "Substitution",
+        "assist": null,
+        "player": "L. Torreira",
+        "playerId": 235536,
+        "substituted": "L. Ugochukwu",
+        "assistingPlayerId": 43551942
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "61",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Gabriel Sara",
+        "playerId": 12969026,
+        "substituted": "R. Nhaga",
+        "assistingPlayerId": 83489441
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "61",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Y. Akgun",
+        "playerId": 73248,
+        "substituted": "L. Sane",
+        "assistingPlayerId": 103838
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "61",
+        "type": "Substitution",
+        "assist": null,
+        "player": "V. Osimhen",
+        "playerId": 447734,
+        "substituted": "D. Gul",
+        "assistingPlayerId": 62559924
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "69",
+        "type": "Substitution",
+        "assist": null,
+        "player": "D. Sanchez",
+        "playerId": 27202,
+        "substituted": "E. Bitshiabu",
+        "assistingPlayerId": 43240085
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "71",
+        "type": "Substitution",
+        "assist": null,
+        "player": "J. Dompe",
+        "playerId": 1365917,
+        "substituted": "E. Colley",
+        "assistingPlayerId": 22676521
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "82",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Ibrahimoglu",
+        "playerId": 24608199,
+        "substituted": "E. Destan",
+        "assistingPlayerId": 29370096
+      },
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "time": "90",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Marko Jevtović",
+        "playerId": 8051442,
+        "substituted": null,
+        "assistingPlayerId": null
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-30T17:11:41.810Z",
+          "probabilities": {
+            "away": "63.34%",
+            "draw": "21.18%",
+            "home": "15.48%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-30T17:21:50.864Z",
+          "probabilities": {
+            "away": "79.62%",
+            "draw": "13.66%",
+            "home": "6.72%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-30T17:31:38.200Z",
+          "probabilities": {
+            "away": "89.57%",
+            "draw": "7.41%",
+            "home": "3.02%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-30T17:42:25.886Z",
+          "probabilities": {
+            "away": "90.04%",
+            "draw": "7.15%",
+            "home": "2.81%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-30T17:51:55.974Z",
+          "probabilities": {
+            "away": "90.43%",
+            "draw": "7.14%",
+            "home": "2.43%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-30T18:02:10.784Z",
+          "probabilities": {
+            "away": "90.21%",
+            "draw": "7.25%",
+            "home": "2.54%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-30T18:12:53.763Z",
+          "probabilities": {
+            "away": "91.54%",
+            "draw": "6.35%",
+            "home": "2.11%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-30T18:23:02.157Z",
+          "probabilities": {
+            "away": "93.09%",
+            "draw": "5.27%",
+            "home": "1.64%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-30T18:32:47.199Z",
+          "probabilities": {
+            "away": "93.09%",
+            "draw": "5.27%",
+            "home": "1.64%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-30T18:43:22.943Z",
+          "probabilities": {
+            "away": "92.89%",
+            "draw": "5.42%",
+            "home": "1.69%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-30T18:52:52.283Z",
+          "probabilities": {
+            "away": "92.68%",
+            "draw": "5.58%",
+            "home": "1.73%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-23T10:01:24.882Z",
+          "probabilities": {
+            "away": "60.39%",
+            "draw": "21.63%",
+            "home": "17.99%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-24T11:28:36.137Z",
+          "probabilities": {
+            "away": "57.63%",
+            "draw": "22.94%",
+            "home": "19.42%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-25T11:48:19.830Z",
+          "probabilities": {
+            "away": "57.52%",
+            "draw": "23.04%",
+            "home": "19.44%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-26T09:52:43.395Z",
+          "probabilities": {
+            "away": "57.58%",
+            "draw": "23.01%",
+            "home": "19.41%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-27T09:47:04.817Z",
+          "probabilities": {
+            "away": "57.09%",
+            "draw": "23.14%",
+            "home": "19.77%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-28T09:54:57.759Z",
+          "probabilities": {
+            "away": "57.17%",
+            "draw": "23.08%",
+            "home": "19.75%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-29T09:32:27.376Z",
+          "probabilities": {
+            "away": "57.30%",
+            "draw": "22.94%",
+            "home": "19.76%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-30T10:37:55.493Z",
+          "probabilities": {
+            "away": "58.25%",
+            "draw": "22.40%",
+            "home": "19.35%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Konyaspor.",
+          "generatedAt": "2026-10-30T16:06:14.832Z",
+          "probabilities": {
+            "away": "59.74%",
+            "draw": "21.73%",
+            "home": "18.53%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 517341,
+          "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+          "name": "Konyaspor"
+        },
+        "statistics": [
+          {
+            "value": 1.31,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 2,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 57,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 11,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 1.05,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 15,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 216,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 183,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 33,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 53,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 17,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 6,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 49,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 65,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 8,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 8,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 11,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 16,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 14,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 13,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 4,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 12,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.11,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 59,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.46,
+            "displayName": "Possession"
+          },
+          {
+            "value": 1,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 3,
+            "displayName": "Corners"
+          },
+          {
+            "value": 2,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 325,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 2,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 384,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 4,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 12,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 2,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "statistics": [
+          {
+            "value": 2.66,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 6,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 70,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 11,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 1.12,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 4,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 13,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 235,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 240,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 22,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 33,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 16,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 15,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 98,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 67,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 10,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 11,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 7,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 11,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 20,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 13,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 4,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 11,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.5,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 44,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.54,
+            "displayName": "Possession"
+          },
+          {
+            "value": 8,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 9,
+            "displayName": "Corners"
+          },
+          {
+            "value": 2,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 418,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 1,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 12,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 462,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 2,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 11,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 1,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 2,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348371989,
+    "round": "Regular Season - 10",
+    "date": "2026-10-30T17:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "0 - 4",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 549679,
+      "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+      "name": "Galatasaray",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "3'",
+          "outcome": "Missed",
+          "goalTarget": "Close High",
+          "playerName": "Aleksey Batrakov"
+        },
+        {
+          "time": "7'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Rafael Leão"
+        },
+        {
+          "time": "9'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "12'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "28'",
+          "outcome": "Goal",
+          "goalTarget": "High Right",
+          "playerName": "Yunus Akgün"
+        },
+        {
+          "time": "30'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "44'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Rafael Leão"
+        },
+        {
+          "time": "45 + 5'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "46'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Rafael Leão"
+        },
+        {
+          "time": "49'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Aleksey Batrakov"
+        },
+        {
+          "time": "55'",
+          "outcome": "Goal",
+          "goalTarget": "High Left",
+          "playerName": "Rafael Leão"
+        },
+        {
+          "time": "59'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "64'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Deniz Gul"
+        },
+        {
+          "time": "68'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Davinson Sanchez"
+        },
+        {
+          "time": "81'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Renato Nhaga"
+        },
+        {
+          "time": "85'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Leroy Sané"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 517341,
+      "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+      "name": "Konyaspor",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "21'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Deniz Türüc"
+        },
+        {
+          "time": "29'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Rajmund Tóth"
+        },
+        {
+          "time": "39'",
+          "outcome": "Post",
+          "goalTarget": null,
+          "playerName": "Jackson Muleka"
+        },
+        {
+          "time": "41'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Jackson Muleka"
+        },
+        {
+          "time": "45 + 4'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Rajmund Tóth"
+        },
+        {
+          "time": "73'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Enis Bardhi"
+        },
+        {
+          "time": "79'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Enis Bardhi"
+        },
+        {
+          "time": "88'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Enis Bardhi"
+        },
+        {
+          "time": "89'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Enis Destan"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

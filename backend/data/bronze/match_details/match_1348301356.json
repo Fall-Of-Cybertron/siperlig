@@ -1,0 +1,1140 @@
+[
+  {
+    "venue": {
+      "city": "Ankara",
+      "name": "Eryaman Stadyumu",
+      "country": "Turkiye",
+      "capacity": "22000"
+    },
+    "referee": {
+      "name": "Aksu, Oguzhan",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "clear night",
+      "temperature": "22.44°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "-5",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Kerem Aktürkoğlu",
+        "playerId": 23016553,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "13",
+        "type": "Goal",
+        "assist": "Levent Mercan",
+        "player": "Talisca",
+        "playerId": 2048718,
+        "substituted": null,
+        "assistingPlayerId": 20545203
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "37",
+        "type": "Goal",
+        "assist": "Sekou Koita",
+        "player": "Franco Tongya",
+        "playerId": 26077646,
+        "substituted": null,
+        "assistingPlayerId": 1219085
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "56",
+        "type": "Goal",
+        "assist": "Abdurrahim Dursun",
+        "player": "Oğulcan Ülgün",
+        "playerId": 9972333,
+        "substituted": null,
+        "assistingPlayerId": 16327647
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "59",
+        "type": "Substitution",
+        "assist": null,
+        "player": "İrfan Can Kahveci",
+        "playerId": 8027131,
+        "substituted": "Mason Greenwood",
+        "assistingPlayerId": 144571
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "59",
+        "type": "Substitution",
+        "assist": null,
+        "player": "İsmail Yüksek",
+        "playerId": 34528697,
+        "substituted": "N'Golo Kanté",
+        "assistingPlayerId": 368844
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "60",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Marco Asensio",
+        "playerId": 120260,
+        "substituted": "Vedat Muriqi",
+        "assistingPlayerId": 8057882
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "65",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Oğuz Aydın",
+        "playerId": 21669144,
+        "substituted": "Kerem Aktürkoğlu",
+        "assistingPlayerId": 23016553
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "66",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Ensar Kemaloğlu",
+        "playerId": 23238894,
+        "substituted": "Moussa Kyabou",
+        "assistingPlayerId": 47915364
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "75",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Ousmane Diabate",
+        "playerId": 101737986,
+        "substituted": "Peter Etebo",
+        "assistingPlayerId": 446768
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "80",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Mert Müldür",
+        "playerId": 276913,
+        "substituted": "Nélson Semedo",
+        "assistingPlayerId": 21084
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "85",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Sekou Koita",
+        "playerId": 1219085,
+        "substituted": "Prince Martor",
+        "assistingPlayerId": 100019633
+      },
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "time": "85",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Abdurrahim Dursun",
+        "playerId": 16327647,
+        "substituted": "Firatcan Üzüm",
+        "assistingPlayerId": 10013710
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-08-15T18:43:35.798Z",
+          "probabilities": {
+            "away": "75.82%",
+            "draw": "16.57%",
+            "home": "7.60%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-08-15T18:53:44.739Z",
+          "probabilities": {
+            "away": "81.35%",
+            "draw": "13.61%",
+            "home": "5.04%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-08-15T19:03:39.012Z",
+          "probabilities": {
+            "away": "83.15%",
+            "draw": "12.87%",
+            "home": "3.98%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-08-15T19:14:10.217Z",
+          "probabilities": {
+            "away": "59.89%",
+            "draw": "29.15%",
+            "home": "10.97%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-08-15T19:24:13.365Z",
+          "probabilities": {
+            "away": "56.90%",
+            "draw": "31.54%",
+            "home": "11.56%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-08-15T19:33:51.781Z",
+          "probabilities": {
+            "away": "57.62%",
+            "draw": "31.37%",
+            "home": "11.01%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-08-15T19:44:37.382Z",
+          "probabilities": {
+            "away": "55.73%",
+            "draw": "34.27%",
+            "home": "10.00%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-08-15T19:54:07.426Z",
+          "probabilities": {
+            "away": "25.78%",
+            "draw": "34.83%",
+            "home": "39.39%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-08-15T20:03:38.046Z",
+          "probabilities": {
+            "away": "20.53%",
+            "draw": "34.22%",
+            "home": "45.25%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-08-15T20:13:10.657Z",
+          "probabilities": {
+            "away": "11.09%",
+            "draw": "32.65%",
+            "home": "56.26%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Genclerbirligi is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-08-15T20:22:56.023Z",
+          "probabilities": {
+            "away": "1.09%",
+            "draw": "14.05%",
+            "home": "84.86%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-08-08T11:04:30.649Z",
+          "probabilities": {
+            "away": "63.53%",
+            "draw": "21.35%",
+            "home": "15.12%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-08-08T20:40:05.387Z",
+          "probabilities": {
+            "away": "63.57%",
+            "draw": "21.31%",
+            "home": "15.13%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-08-09T13:55:07.112Z",
+          "probabilities": {
+            "away": "63.57%",
+            "draw": "21.31%",
+            "home": "15.13%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-08-09T19:51:16.308Z",
+          "probabilities": {
+            "away": "63.76%",
+            "draw": "21.17%",
+            "home": "15.06%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-08-10T13:58:27.139Z",
+          "probabilities": {
+            "away": "63.94%",
+            "draw": "21.05%",
+            "home": "15.01%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-08-10T17:07:52.741Z",
+          "probabilities": {
+            "away": "63.99%",
+            "draw": "21.03%",
+            "home": "14.98%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-08-11T09:43:05.509Z",
+          "probabilities": {
+            "away": "65.16%",
+            "draw": "20.65%",
+            "home": "14.19%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-08-11T13:36:29.751Z",
+          "probabilities": {
+            "away": "65.35%",
+            "draw": "20.59%",
+            "home": "14.06%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-08-12T10:07:58.553Z",
+          "probabilities": {
+            "away": "65.45%",
+            "draw": "20.54%",
+            "home": "14.01%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-08-12T14:12:55.592Z",
+          "probabilities": {
+            "away": "65.26%",
+            "draw": "20.61%",
+            "home": "14.14%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-08-12T18:07:42.238Z",
+          "probabilities": {
+            "away": "65.18%",
+            "draw": "20.65%",
+            "home": "14.17%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-08-12T21:34:34.334Z",
+          "probabilities": {
+            "away": "65.01%",
+            "draw": "20.68%",
+            "home": "14.31%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-08-13T17:54:54.745Z",
+          "probabilities": {
+            "away": "65.45%",
+            "draw": "20.54%",
+            "home": "14.01%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-08-14T13:30:38.048Z",
+          "probabilities": {
+            "away": "66.94%",
+            "draw": "19.89%",
+            "home": "13.18%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-08-14T18:04:26.309Z",
+          "probabilities": {
+            "away": "66.77%",
+            "draw": "19.94%",
+            "home": "13.29%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-08-15T10:05:42.823Z",
+          "probabilities": {
+            "away": "63.53%",
+            "draw": "21.60%",
+            "home": "14.86%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-08-15T15:00:00.546Z",
+          "probabilities": {
+            "away": "62.64%",
+            "draw": "21.91%",
+            "home": "15.45%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Genclerbirligi.",
+          "generatedAt": "2026-08-15T20:05:10.789Z",
+          "probabilities": {
+            "away": "58.75%",
+            "draw": "23.82%",
+            "home": "17.42%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 849231,
+          "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+          "name": "Genclerbirligi"
+        },
+        "statistics": [
+          {
+            "value": 1.19,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 2,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 52,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 9,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.99,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 2,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 5,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 169,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 117,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 33,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 67,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 12,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 8,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 42,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 46,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 12,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 7,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 7,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 12,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 38,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 9,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 16,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 9,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.3,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 66,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.29,
+            "displayName": "Possession"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 1,
+            "displayName": "Corners"
+          },
+          {
+            "value": 0,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 215,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 1,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 281,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 10,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 7,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 0,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "statistics": [
+          {
+            "value": 2.9,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 6,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 146,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 7,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 2.65,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 12,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 41,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 229,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 490,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 21,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 42,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 29,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 21,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 218,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 91,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 10,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 7,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 11,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 17,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 6,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 7,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 16,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 7,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 10,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.41,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 68,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.71,
+            "displayName": "Possession"
+          },
+          {
+            "value": 11,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 12,
+            "displayName": "Corners"
+          },
+          {
+            "value": 2,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 610,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 8,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 8,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 20,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 678,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 1,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 10,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 1,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348301356,
+    "round": "Regular Season - 1",
+    "date": "2026-08-15T18:30:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "2 - 1",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 520745,
+      "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+      "name": "Fenerbahce",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "6'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Anderson Talisca"
+        },
+        {
+          "time": "9'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Irfan Kahveci"
+        },
+        {
+          "time": "9'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "İsmail Yüksek"
+        },
+        {
+          "time": "13'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Oğuz Aydin"
+        },
+        {
+          "time": "13'",
+          "outcome": "Goal",
+          "goalTarget": "High Right",
+          "playerName": "Anderson Talisca"
+        },
+        {
+          "time": "16'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "İsmail Yüksek"
+        },
+        {
+          "time": "25'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "İsmail Yüksek"
+        },
+        {
+          "time": "25'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "İsmail Yüksek"
+        },
+        {
+          "time": "39'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Irfan Kahveci"
+        },
+        {
+          "time": "45'",
+          "outcome": "Post",
+          "goalTarget": null,
+          "playerName": "Anderson Talisca"
+        },
+        {
+          "time": "45'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Matteo Guendouzi"
+        },
+        {
+          "time": "48'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "İsmail Yüksek"
+        },
+        {
+          "time": "49'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Mert Muldur"
+        },
+        {
+          "time": "61'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Anderson Talisca"
+        },
+        {
+          "time": "62'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Anderson Talisca"
+        },
+        {
+          "time": "62'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Nathan Aké"
+        },
+        {
+          "time": "66'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Mason Greenwood"
+        },
+        {
+          "time": "66'",
+          "outcome": "Missed",
+          "goalTarget": "Close High",
+          "playerName": "Vedat Muriqi"
+        },
+        {
+          "time": "70'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Kerem Aktürkoğlu"
+        },
+        {
+          "time": "70'",
+          "outcome": "Saved",
+          "goalTarget": "High Right",
+          "playerName": "Vedat Muriqi"
+        },
+        {
+          "time": "71'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Anderson Talisca"
+        },
+        {
+          "time": "71'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Mason Greenwood"
+        },
+        {
+          "time": "77'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Vedat Muriqi"
+        },
+        {
+          "time": "78'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Mason Greenwood"
+        },
+        {
+          "time": "78'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Vedat Muriqi"
+        },
+        {
+          "time": "81'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Anderson Talisca"
+        },
+        {
+          "time": "90 + 6'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Mason Greenwood"
+        },
+        {
+          "time": "90 + 6'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Mason Greenwood"
+        },
+        {
+          "time": "90 + 6'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Mason Greenwood"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 849231,
+      "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+      "name": "Genclerbirligi",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "29'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Ensar Kemaloğlu"
+        },
+        {
+          "time": "37'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Abdurrahim Dursun"
+        },
+        {
+          "time": "37'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Franco Tongya"
+        },
+        {
+          "time": "53'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Sekou Koita"
+        },
+        {
+          "time": "56'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Ogulcan Ülgün"
+        },
+        {
+          "time": "59'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Franco Tongya"
+        },
+        {
+          "time": "69'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Žan Žužek"
+        },
+        {
+          "time": "79'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Adama Traore"
+        },
+        {
+          "time": "88'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Fıratcan Üzüm"
+        },
+        {
+          "time": "90 + 5'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Franco Tongya"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

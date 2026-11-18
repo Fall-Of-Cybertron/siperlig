@@ -1,0 +1,1271 @@
+[
+  {
+    "venue": {
+      "city": "Istanbul",
+      "name": "Chobani Stadyumu FB Sukru Saracoglu Spor Kompleksi",
+      "country": "Turkiye",
+      "capacity": "47911"
+    },
+    "referee": {
+      "name": "Altay, Cagdas",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "rain",
+      "temperature": "12.51°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "16",
+        "type": "VAR Penalty",
+        "assist": null,
+        "player": "Levent Mercan",
+        "playerId": 20545203,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "17",
+        "type": "Missed Penalty",
+        "assist": null,
+        "player": "Mason Greenwood",
+        "playerId": 144571,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "18",
+        "type": "VAR Goal Cancelled",
+        "assist": null,
+        "player": "İrfan Can Kahveci",
+        "playerId": 8027131,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "40",
+        "type": "Goal",
+        "assist": "Levent Mercan",
+        "player": "Romelu Lukaku",
+        "playerId": 146181,
+        "substituted": null,
+        "assistingPlayerId": 20545203
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "50",
+        "type": "VAR Goal Cancelled",
+        "assist": null,
+        "player": "İrfan Can Kahveci",
+        "playerId": 8027131,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "time": "60",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Hwang Ui-Jo",
+        "playerId": 468664,
+        "substituted": "Meschak Elia",
+        "assistingPlayerId": 488628
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "time": "60",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Ibrahim Kaya",
+        "playerId": 48685266,
+        "substituted": "Ianis Hagi",
+        "assistingPlayerId": 6936678
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "67",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Mason Greenwood",
+        "playerId": 144571,
+        "substituted": "Kerem Aktürkoğlu",
+        "assistingPlayerId": 23016553
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "71",
+        "type": "Goal",
+        "assist": null,
+        "player": "Kerem Aktürkoğlu",
+        "playerId": 23016553,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "73",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Oğuz Aydın",
+        "playerId": 21669144,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "time": "74",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Ruan Pereira Duarte",
+        "playerId": 61888232,
+        "substituted": "Enes Keskin",
+        "assistingPlayerId": 21653044
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "time": "74",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Arda Usluoğlu",
+        "playerId": 57007356,
+        "substituted": "Omar Ben Ali",
+        "assistingPlayerId": 74596284
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "77",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Levent Mercan",
+        "playerId": 20545203,
+        "substituted": "Archie Brown",
+        "assistingPlayerId": 26027575
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "77",
+        "type": "Substitution",
+        "assist": null,
+        "player": "İrfan Can Kahveci",
+        "playerId": 8027131,
+        "substituted": "Mert Hakan Yandaş",
+        "assistingPlayerId": 8065771
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "81",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Romelu Lukaku",
+        "playerId": 146181,
+        "substituted": "Vedat Muriqi",
+        "assistingPlayerId": 8057882
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "81",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Oğuz Aydın",
+        "playerId": 21669144,
+        "substituted": "Dorgeles Nene",
+        "assistingPlayerId": 48762063
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "87",
+        "type": "Goal",
+        "assist": "Kerem Aktürkoğlu",
+        "player": "Vedat Muriqi",
+        "playerId": 8057882,
+        "substituted": null,
+        "assistingPlayerId": 23016553
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "time": "90",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Baran Ali Gezek",
+        "playerId": 59881206,
+        "substituted": "Maestro",
+        "assistingPlayerId": 38176474
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-17T16:06:23.212Z",
+          "probabilities": {
+            "away": "10.23%",
+            "draw": "17.07%",
+            "home": "72.69%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-17T16:16:33.581Z",
+          "probabilities": {
+            "away": "9.63%",
+            "draw": "17.16%",
+            "home": "73.21%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-17T16:25:54.854Z",
+          "probabilities": {
+            "away": "9.02%",
+            "draw": "18.41%",
+            "home": "72.57%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-17T16:36:58.369Z",
+          "probabilities": {
+            "away": "9.94%",
+            "draw": "21.43%",
+            "home": "68.64%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-17T16:46:08.560Z",
+          "probabilities": {
+            "away": "3.72%",
+            "draw": "11.82%",
+            "home": "84.46%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-17T16:58:11.675Z",
+          "probabilities": {
+            "away": "3.26%",
+            "draw": "11.60%",
+            "home": "85.14%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-17T17:05:17.747Z",
+          "probabilities": {
+            "away": "3.16%",
+            "draw": "11.07%",
+            "home": "85.77%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-17T17:16:13.448Z",
+          "probabilities": {
+            "away": "3.07%",
+            "draw": "11.99%",
+            "home": "84.94%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-17T17:35:56.756Z",
+          "probabilities": {
+            "away": "1.13%",
+            "draw": "5.85%",
+            "home": "93.01%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-17T17:45:08.073Z",
+          "probabilities": {
+            "away": "0.76%",
+            "draw": "5.14%",
+            "home": "94.10%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-17T17:56:26.247Z",
+          "probabilities": {
+            "away": "0.87%",
+            "draw": "5.81%",
+            "home": "93.31%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-10T10:34:03.270Z",
+          "probabilities": {
+            "away": "9.86%",
+            "draw": "18.60%",
+            "home": "71.54%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-10T21:18:50.097Z",
+          "probabilities": {
+            "away": "11.40%",
+            "draw": "18.49%",
+            "home": "70.11%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-11T15:47:50.047Z",
+          "probabilities": {
+            "away": "11.42%",
+            "draw": "18.55%",
+            "home": "70.03%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-11T20:09:17.586Z",
+          "probabilities": {
+            "away": "11.48%",
+            "draw": "18.54%",
+            "home": "69.98%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-12T09:04:43.739Z",
+          "probabilities": {
+            "away": "10.92%",
+            "draw": "17.75%",
+            "home": "71.33%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-12T12:27:10.370Z",
+          "probabilities": {
+            "away": "10.81%",
+            "draw": "17.68%",
+            "home": "71.52%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-12T15:56:15.001Z",
+          "probabilities": {
+            "away": "10.81%",
+            "draw": "17.63%",
+            "home": "71.56%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-12T19:39:00.900Z",
+          "probabilities": {
+            "away": "10.77%",
+            "draw": "17.67%",
+            "home": "71.56%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-13T09:16:37.366Z",
+          "probabilities": {
+            "away": "10.75%",
+            "draw": "17.50%",
+            "home": "71.75%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-13T12:50:45.174Z",
+          "probabilities": {
+            "away": "10.75%",
+            "draw": "17.53%",
+            "home": "71.72%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-13T16:32:30.089Z",
+          "probabilities": {
+            "away": "10.75%",
+            "draw": "17.53%",
+            "home": "71.72%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-13T20:26:06.711Z",
+          "probabilities": {
+            "away": "10.72%",
+            "draw": "17.53%",
+            "home": "71.74%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-14T09:36:57.100Z",
+          "probabilities": {
+            "away": "10.74%",
+            "draw": "17.53%",
+            "home": "71.73%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-14T13:22:44.489Z",
+          "probabilities": {
+            "away": "10.25%",
+            "draw": "17.14%",
+            "home": "72.61%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-14T17:14:55.459Z",
+          "probabilities": {
+            "away": "10.22%",
+            "draw": "17.08%",
+            "home": "72.70%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-14T21:13:37.869Z",
+          "probabilities": {
+            "away": "10.07%",
+            "draw": "16.97%",
+            "home": "72.96%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-15T10:23:37.130Z",
+          "probabilities": {
+            "away": "10.55%",
+            "draw": "17.37%",
+            "home": "72.07%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-16T08:55:18.549Z",
+          "probabilities": {
+            "away": "10.39%",
+            "draw": "17.26%",
+            "home": "72.35%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-16T13:08:22.511Z",
+          "probabilities": {
+            "away": "10.39%",
+            "draw": "17.25%",
+            "home": "72.36%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-16T17:36:28.165Z",
+          "probabilities": {
+            "away": "10.29%",
+            "draw": "17.26%",
+            "home": "72.44%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-16T22:20:11.147Z",
+          "probabilities": {
+            "away": "10.21%",
+            "draw": "17.21%",
+            "home": "72.58%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-17T10:23:39.107Z",
+          "probabilities": {
+            "away": "10.08%",
+            "draw": "16.55%",
+            "home": "73.37%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-17T15:05:09.063Z",
+          "probabilities": {
+            "away": "10.03%",
+            "draw": "16.23%",
+            "home": "73.74%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Fenerbahce is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-17T20:15:45.456Z",
+          "probabilities": {
+            "away": "10.04%",
+            "draw": "16.33%",
+            "home": "73.63%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "statistics": [
+          {
+            "value": 3.77,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 8,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 111,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 3,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 3.33,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 20,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 243,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 309,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 25,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 50,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 16,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 20,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 139,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 103,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 6,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 6,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 4,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 10,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 11,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 9,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 7,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 12,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.29,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 56,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.59,
+            "displayName": "Possession"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 4,
+            "displayName": "Corners"
+          },
+          {
+            "value": 3,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 476,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 9,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 8,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 15,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 532,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 4,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 18,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 1,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 10,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "statistics": [
+          {
+            "value": 0.99,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 2,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 60,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 16,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.8,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 4,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 19,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 223,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 161,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 26,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 44,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 13,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 8,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 46,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 60,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 9,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 14,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 6,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 12,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 22,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 1,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 9,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 6,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 10,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.38,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 52,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.41,
+            "displayName": "Possession"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 3,
+            "displayName": "Corners"
+          },
+          {
+            "value": 2,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 313,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 3,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 365,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 5,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 3,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 0,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 9,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348354118,
+    "round": "Regular Season - 8",
+    "date": "2026-10-17T16:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "3 - 0",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 848380,
+      "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+      "name": "Alanyaspor",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "3'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Ui-jo Hwang"
+        },
+        {
+          "time": "37'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Ruan"
+        },
+        {
+          "time": "46'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "İbrahim Kaya"
+        },
+        {
+          "time": "53'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right And High",
+          "playerName": "Ruan"
+        },
+        {
+          "time": "61'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Florent Hadergjonaj"
+        },
+        {
+          "time": "65'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Ruan"
+        },
+        {
+          "time": "65'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Ianis Hagi"
+        },
+        {
+          "time": "66'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Fidan Aliti"
+        },
+        {
+          "time": "71'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Ianis Hagi"
+        },
+        {
+          "time": "71'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Ianis Hagi"
+        },
+        {
+          "time": "74'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Meschack Elia"
+        },
+        {
+          "time": "76'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Meschack Elia"
+        },
+        {
+          "time": "85'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Gaius Makouta"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 520745,
+      "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+      "name": "Fenerbahce",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "6'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Irfan Kahveci"
+        },
+        {
+          "time": "8'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Irfan Kahveci"
+        },
+        {
+          "time": "8'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Oğuz Aydin"
+        },
+        {
+          "time": "10'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Oğuz Aydin"
+        },
+        {
+          "time": "10'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Mason Greenwood"
+        },
+        {
+          "time": "13'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Romelu Lukaku"
+        },
+        {
+          "time": "17'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Mason Greenwood"
+        },
+        {
+          "time": "24'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Mason Greenwood"
+        },
+        {
+          "time": "31'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Oğuz Aydin"
+        },
+        {
+          "time": "35'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Mason Greenwood"
+        },
+        {
+          "time": "35'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Matteo Guendouzi"
+        },
+        {
+          "time": "40'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Oğuz Aydin"
+        },
+        {
+          "time": "40'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Romelu Lukaku"
+        },
+        {
+          "time": "44'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Oğuz Aydin"
+        },
+        {
+          "time": "45'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Romelu Lukaku"
+        },
+        {
+          "time": "63'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Irfan Kahveci"
+        },
+        {
+          "time": "68'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Irfan Kahveci"
+        },
+        {
+          "time": "71'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Kerem Aktürkoğlu"
+        },
+        {
+          "time": "75'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Oğuz Aydin"
+        },
+        {
+          "time": "84'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Dorgeles Nene"
+        },
+        {
+          "time": "85'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Dorgeles Nene"
+        },
+        {
+          "time": "86'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Nathan Aké"
+        },
+        {
+          "time": "87'",
+          "outcome": "Goal",
+          "goalTarget": "Low Centre",
+          "playerName": "Vedat Muriqi"
+        },
+        {
+          "time": "90 + 1'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Matteo Guendouzi"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": [
+      {
+        "url": "https://www.footyheadlines.com/6282692610/clean-sponsorless-fenerbahce-26-27-third-kit-spotted.html",
+        "image": "https://www.footyheadlines.com/static/img/social/fh/6282692610-a7af5ed7f33adbd1.jpg",
+        "title": "Clean Sponsorless Fenerbahçe 26-27 Third Kit Spotted",
+        "datePublished": "2026-10-17T17:19:00Z"
+      }
+    ]
+  }
+]

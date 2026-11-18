@@ -1,0 +1,1149 @@
+[
+  {
+    "venue": {
+      "city": "Istanbul",
+      "name": "Basaksehir Fatih Terim Stadium",
+      "country": "Turkiye",
+      "capacity": "17156"
+    },
+    "referee": {
+      "name": "Saglam, Kadir",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "clear night",
+      "temperature": "23.31°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "16",
+        "type": "Goal",
+        "assist": "Lucas Torreira",
+        "player": "Victor Osimhen",
+        "playerId": 447734,
+        "substituted": null,
+        "assistingPlayerId": 235536
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "17",
+        "type": "VAR Goal Confirmed",
+        "assist": null,
+        "player": "Victor Osimhen",
+        "playerId": 447734,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "33",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Victor Osimhen",
+        "playerId": 447734,
+        "substituted": "Baris Alper Yilmaz",
+        "assistingPlayerId": 10187268
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "37",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Christopher Operi",
+        "playerId": 3354750,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "45",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Mario Lemina",
+        "playerId": 3050621,
+        "substituted": "Abdulkerim Bardakçı",
+        "assistingPlayerId": 9955911
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "63",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Christopher Operi",
+        "playerId": 3354750,
+        "substituted": "Saba Kharebashvili",
+        "assistingPlayerId": 71561756
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "63",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Roland Sallai",
+        "playerId": 4226726,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "66",
+        "type": "Penalty",
+        "assist": null,
+        "player": "Eldor Shomurodov",
+        "playerId": 8619289,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "66",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Davinson Sánchez",
+        "playerId": 27202,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "66",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Okan Buruk",
+        "playerId": null,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "68",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Aleksey Batrakov",
+        "playerId": 64572907,
+        "substituted": "Rafael Leão",
+        "assistingPlayerId": 3580150
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "71",
+        "type": "Goal",
+        "assist": "Ismail Jakobs",
+        "player": "Lucas Torreira",
+        "playerId": 235536,
+        "substituted": null,
+        "assistingPlayerId": 25457635
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "74",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Abbosbek Fayzullaev",
+        "playerId": 42451990,
+        "substituted": "Ivan Brnic",
+        "assistingPlayerId": 2351076
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "74",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Jakub Kaluzinski",
+        "playerId": 31843378,
+        "substituted": "Umut Bozok",
+        "assistingPlayerId": 3453121
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "76",
+        "type": "Own Goal",
+        "assist": null,
+        "player": "Davinson Sánchez",
+        "playerId": 27202,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "78",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Rafael Leão",
+        "playerId": 3580150,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "79",
+        "type": "Red Card",
+        "assist": null,
+        "player": "Umut Bozok",
+        "playerId": 3453121,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "83",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Andreas Skov Olsen",
+        "playerId": 2562630,
+        "substituted": "Ousseynou Ba",
+        "assistingPlayerId": 3376002
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "83",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Ömer Ali Şahiner",
+        "playerId": 8053052,
+        "substituted": "Michal Karbownik",
+        "assistingPlayerId": 20224652
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "83",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Ismail Jakobs",
+        "playerId": 25457635,
+        "substituted": "Eren Elmalı",
+        "assistingPlayerId": 8059331
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "83",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Leroy Sané",
+        "playerId": 103838,
+        "substituted": "Deniz Gül",
+        "assistingPlayerId": 62559924
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "83",
+        "type": "VAR Goal Cancelled",
+        "assist": null,
+        "player": "Davinson Sánchez",
+        "playerId": 27202,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "89",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Saba Kharebashvili",
+        "playerId": 71561756,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "90",
+        "type": "Goal",
+        "assist": null,
+        "player": "Gabriel",
+        "playerId": 12969026,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "time": "90+8",
+        "type": "Red Card",
+        "assist": null,
+        "player": "Nuri Şahin",
+        "playerId": null,
+        "substituted": null,
+        "assistingPlayerId": null
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against İstanbul Başakşehir.",
+          "generatedAt": "2026-09-04T17:03:00.312Z",
+          "probabilities": {
+            "away": "58.19%",
+            "draw": "21.89%",
+            "home": "19.92%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against İstanbul Başakşehir.",
+          "generatedAt": "2026-09-04T17:24:28.923Z",
+          "probabilities": {
+            "away": "75.91%",
+            "draw": "15.57%",
+            "home": "8.53%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against İstanbul Başakşehir.",
+          "generatedAt": "2026-09-04T17:39:00.404Z",
+          "probabilities": {
+            "away": "75.44%",
+            "draw": "16.34%",
+            "home": "8.22%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against İstanbul Başakşehir.",
+          "generatedAt": "2026-09-04T17:45:56.051Z",
+          "probabilities": {
+            "away": "72.77%",
+            "draw": "18.34%",
+            "home": "8.89%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against İstanbul Başakşehir.",
+          "generatedAt": "2026-09-04T17:56:08.276Z",
+          "probabilities": {
+            "away": "72.90%",
+            "draw": "18.84%",
+            "home": "8.25%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against İstanbul Başakşehir.",
+          "generatedAt": "2026-09-04T18:03:56.730Z",
+          "probabilities": {
+            "away": "72.89%",
+            "draw": "18.85%",
+            "home": "8.27%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against İstanbul Başakşehir.",
+          "generatedAt": "2026-09-04T18:20:45.927Z",
+          "probabilities": {
+            "away": "74.35%",
+            "draw": "19.48%",
+            "home": "6.17%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-09-04T18:28:02.261Z",
+          "probabilities": {
+            "away": "41.01%",
+            "draw": "43.06%",
+            "home": "15.92%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against İstanbul Başakşehir.",
+          "generatedAt": "2026-09-04T18:49:11.484Z",
+          "probabilities": {
+            "away": "82.16%",
+            "draw": "16.46%",
+            "home": "1.38%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against İstanbul Başakşehir.",
+          "generatedAt": "2026-08-31T09:13:34.971Z",
+          "probabilities": {
+            "away": "49.98%",
+            "draw": "23.53%",
+            "home": "26.49%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against İstanbul Başakşehir.",
+          "generatedAt": "2026-09-01T09:30:59.450Z",
+          "probabilities": {
+            "away": "54.61%",
+            "draw": "23.50%",
+            "home": "21.88%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against İstanbul Başakşehir.",
+          "generatedAt": "2026-09-01T14:43:00.397Z",
+          "probabilities": {
+            "away": "56.07%",
+            "draw": "22.93%",
+            "home": "21.00%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against İstanbul Başakşehir.",
+          "generatedAt": "2026-09-01T20:00:12.376Z",
+          "probabilities": {
+            "away": "56.11%",
+            "draw": "22.90%",
+            "home": "20.99%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against İstanbul Başakşehir.",
+          "generatedAt": "2026-09-02T10:53:55.435Z",
+          "probabilities": {
+            "away": "56.93%",
+            "draw": "22.63%",
+            "home": "20.44%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against İstanbul Başakşehir.",
+          "generatedAt": "2026-09-02T16:10:36.525Z",
+          "probabilities": {
+            "away": "56.99%",
+            "draw": "22.62%",
+            "home": "20.39%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against İstanbul Başakşehir.",
+          "generatedAt": "2026-09-03T10:49:17.343Z",
+          "probabilities": {
+            "away": "56.98%",
+            "draw": "22.57%",
+            "home": "20.45%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against İstanbul Başakşehir.",
+          "generatedAt": "2026-09-03T16:04:12.898Z",
+          "probabilities": {
+            "away": "56.88%",
+            "draw": "22.52%",
+            "home": "20.60%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against İstanbul Başakşehir.",
+          "generatedAt": "2026-09-03T21:21:11.121Z",
+          "probabilities": {
+            "away": "57.46%",
+            "draw": "22.31%",
+            "home": "20.23%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against İstanbul Başakşehir.",
+          "generatedAt": "2026-09-04T09:40:44.455Z",
+          "probabilities": {
+            "away": "58.32%",
+            "draw": "22.02%",
+            "home": "19.66%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against İstanbul Başakşehir.",
+          "generatedAt": "2026-09-04T15:22:48.569Z",
+          "probabilities": {
+            "away": "58.06%",
+            "draw": "21.85%",
+            "home": "20.09%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against İstanbul Başakşehir.",
+          "generatedAt": "2026-09-04T21:17:40.106Z",
+          "probabilities": {
+            "away": "58.41%",
+            "draw": "21.95%",
+            "home": "19.64%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 480748,
+          "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+          "name": "İstanbul Başakşehir"
+        },
+        "statistics": [
+          {
+            "value": 1.99,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 3,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 42,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 15,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.62,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 6,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 15,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 220,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 194,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 42,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 73,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 5,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 8,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 74,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 78,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 7,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 12,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 2,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 5,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 18,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 12,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 22,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 7,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 10,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.25,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 73,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.48,
+            "displayName": "Possession"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 6,
+            "displayName": "Corners"
+          },
+          {
+            "value": 2,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 326,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 1,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 4,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 9,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 399,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 3,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 14,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 2,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "statistics": [
+          {
+            "value": 2.12,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 4,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 49,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 14,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 1.99,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 6,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 14,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 226,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 221,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 27,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 51,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 10,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 9,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 80,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 77,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 9,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 7,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 6,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 9,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 18,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 10,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 22,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 8,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.46,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 62,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.52,
+            "displayName": "Possession"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 5,
+            "displayName": "Corners"
+          },
+          {
+            "value": 4,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 371,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 2,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 433,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 2,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 15,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 3,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348320078,
+    "round": "Regular Season - 4",
+    "date": "2026-09-04T17:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "2 - 3",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 549679,
+      "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+      "name": "Galatasaray",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "1'",
+          "outcome": "Saved",
+          "goalTarget": "High Left",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "6'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Yunus Akgün"
+        },
+        {
+          "time": "13'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "15'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "16'",
+          "outcome": "Goal",
+          "goalTarget": "Low Centre",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "38'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Leroy Sané"
+        },
+        {
+          "time": "53'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Leroy Sané"
+        },
+        {
+          "time": "71'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Lucas Torreira"
+        },
+        {
+          "time": "76'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Davinson Sanchez"
+        },
+        {
+          "time": "78'",
+          "outcome": "Post",
+          "goalTarget": null,
+          "playerName": "Gabriel Sara"
+        },
+        {
+          "time": "81'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Baris Yilmaz"
+        },
+        {
+          "time": "89'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Abdulkerim Bardakci"
+        },
+        {
+          "time": "90'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Gabriel Sara"
+        },
+        {
+          "time": "90 + 7'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Rafael Leão"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 480748,
+      "logo": "https://highlightly.net/soccer/images/teams/480748.png",
+      "name": "İstanbul Başakşehir",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "20'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right And High",
+          "playerName": "Abbosbek Fayzullaev"
+        },
+        {
+          "time": "22'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Abbosbek Fayzullaev"
+        },
+        {
+          "time": "42'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Eldor Shomurodov"
+        },
+        {
+          "time": "43'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Olivier Kemen"
+        },
+        {
+          "time": "50'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Olivier Kemen"
+        },
+        {
+          "time": "60'",
+          "outcome": "Missed",
+          "goalTarget": "Close Left And High",
+          "playerName": "Andreas Skov Olsen"
+        },
+        {
+          "time": "63'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Umut Gunes"
+        },
+        {
+          "time": "63'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Abbosbek Fayzullaev"
+        },
+        {
+          "time": "66'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Eldor Shomurodov"
+        },
+        {
+          "time": "75'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Saba Kharebashvili"
+        },
+        {
+          "time": "76'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Emin Bayram"
+        },
+        {
+          "time": "79'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Umut Bozok"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": [
+      {
+        "url": "https://www.footyheadlines.com/9823218044/galatasaray-to-renew-alfemo-side-kit-sponsorship-for-26-27-season.html",
+        "image": "https://www.footyheadlines.com/static/img/social/fh/9823218044-9c74477ea8d42557.jpg",
+        "title": "Galatasaray to Renew Alfemo Side Kit Sponsorship for 26-27 Season",
+        "datePublished": "2026-09-04T05:23:00Z"
+      }
+    ]
+  }
+]

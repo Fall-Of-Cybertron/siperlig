@@ -1,0 +1,294 @@
+{
+  "homeTeam": {
+    "formation": "4-2-3-1",
+    "substitutes": [
+      {
+        "name": "Deniz Ertaş",
+        "number": 1,
+        "position": "Goalkeeper",
+        "id": 64801527
+      },
+      {
+        "name": "Yhoan Andzouana",
+        "number": 17,
+        "position": "Defender",
+        "id": 7649586
+      },
+      {
+        "name": "Chidozie Awaziem",
+        "number": 15,
+        "position": "Defender",
+        "id": 8054340
+      },
+      {
+        "name": "Arif Boşluk",
+        "number": 3,
+        "position": "Defender",
+        "id": 54549369
+      },
+      {
+        "name": "Ata Yanık",
+        "number": 16,
+        "position": "Defender",
+        "id": 99772820
+      },
+      {
+        "name": "Emir Bars",
+        "number": 45,
+        "position": "Forward",
+        "id": 54722122
+      },
+      {
+        "name": "Omer Cobanoglu",
+        "number": 25,
+        "position": "Midfielder",
+        "id": 103896352
+      },
+      {
+        "name": "Ebrima Colley",
+        "number": 19,
+        "position": "Forward",
+        "id": 22676521
+      },
+      {
+        "name": "Mostafa Mohamed",
+        "number": 42,
+        "position": "Forward",
+        "id": 429702
+      },
+      {
+        "name": "Jean-Luc Dompé",
+        "number": 91,
+        "position": "Forward",
+        "id": 1365917
+      }
+    ],
+    "initialLineup": [
+      [
+        {
+          "name": "Bahadır Han Güngördü",
+          "number": 13,
+          "position": "Goalkeeper",
+          "id": 31345083
+        }
+      ],
+      [
+        {
+          "name": "Arthur Masuaku",
+          "number": 26,
+          "position": "Defender",
+          "id": 3029530
+        },
+        {
+          "name": "Adil Demirbağ",
+          "number": 4,
+          "position": "Defender",
+          "id": 9979900
+        },
+        {
+          "name": "Rayyan Baniya",
+          "number": 22,
+          "position": "Defender",
+          "id": 19188456
+        },
+        {
+          "name": "Uğurcan Yazğılı",
+          "number": 5,
+          "position": "Defender",
+          "id": 8060297
+        }
+      ],
+      [
+        {
+          "name": "Rajmund Tóth",
+          "number": 66,
+          "position": "Midfielder",
+          "id": 67542391
+        },
+        {
+          "name": "Marko Jevtović",
+          "number": 8,
+          "position": "Midfielder",
+          "id": 8051442
+        }
+      ],
+      [
+        {
+          "name": "Deniz Türüç",
+          "number": 9,
+          "position": "Midfielder",
+          "id": 8070440
+        },
+        {
+          "name": "Diogo Gonçalves",
+          "number": 7,
+          "position": "Midfielder",
+          "id": 3107454
+        },
+        {
+          "name": "Melih İbrahimoğlu",
+          "number": 77,
+          "position": "Midfielder",
+          "id": 24608199
+        }
+      ],
+      [
+        {
+          "name": "Jackson Muleka",
+          "number": 11,
+          "position": "Forward",
+          "id": 23289770
+        }
+      ]
+    ],
+    "id": 517341,
+    "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+    "name": "Konyaspor"
+  },
+  "awayTeam": {
+    "formation": "4-2-3-1",
+    "substitutes": [
+      {
+        "name": "Onuralp Çevikkan",
+        "number": 25,
+        "position": "Goalkeeper",
+        "id": 63468769
+      },
+      {
+        "name": "Samet Akaydın",
+        "number": 4,
+        "position": "Defender",
+        "id": 10061044
+      },
+      {
+        "name": "Sidny Lopes Cabral",
+        "number": 55,
+        "position": "Defender",
+        "id": 49699083
+      },
+      {
+        "name": "Cenk Özkaçar",
+        "number": 39,
+        "position": "Defender",
+        "id": 11599882
+      },
+      {
+        "name": "Metehan Mimaroğlu",
+        "number": 77,
+        "position": "Forward",
+        "id": 17333414
+      },
+      {
+        "name": "Noah Saviolo",
+        "number": 70,
+        "position": "Forward",
+        "id": 73250807
+      },
+      {
+        "name": "Melih Kabasakal",
+        "number": 57,
+        "position": "Midfielder",
+        "id": 25507545
+      },
+      {
+        "name": "Franculino Djú",
+        "number": 9,
+        "position": "Forward",
+        "id": 54840779
+      },
+      {
+        "name": "Umut Nayir",
+        "number": 14,
+        "position": "Forward",
+        "id": 8089760
+      },
+      {
+        "name": "Ali Habeşoğlu",
+        "number": 99,
+        "position": "Forward",
+        "id": 66083248
+      }
+    ],
+    "initialLineup": [
+      [
+        {
+          "name": "André Onana",
+          "number": 24,
+          "position": "Goalkeeper",
+          "id": 84840
+        }
+      ],
+      [
+        {
+          "name": "Mustafa Eskihellaç",
+          "number": 19,
+          "position": "Defender",
+          "id": 10034157
+        },
+        {
+          "name": "Stefan Savić",
+          "number": 15,
+          "position": "Defender",
+          "id": 6433
+        },
+        {
+          "name": "Chibuike Nwaiwu",
+          "number": 27,
+          "position": "Defender",
+          "id": 59735501
+        },
+        {
+          "name": "Wagner Pina",
+          "number": 20,
+          "position": "Defender",
+          "id": 53461170
+        }
+      ],
+      [
+        {
+          "name": "Fabinho",
+          "number": 6,
+          "position": "Midfielder",
+          "id": 48293
+        },
+        {
+          "name": "Ozan Tufan",
+          "number": 11,
+          "position": "Midfielder",
+          "id": 8040816
+        }
+      ],
+      [
+        {
+          "name": "Aral Şimşir",
+          "number": 58,
+          "position": "Midfielder",
+          "id": 26048344
+        },
+        {
+          "name": "Ernest Muçi",
+          "number": 7,
+          "position": "Midfielder",
+          "id": 585872
+        },
+        {
+          "name": "Mohamed Salah",
+          "number": 10,
+          "position": "Midfielder",
+          "id": 49420
+        }
+      ],
+      [
+        {
+          "name": "Paul Onuachu",
+          "number": 30,
+          "position": "Forward",
+          "id": 2545886
+        }
+      ]
+    ],
+    "id": 850082,
+    "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+    "name": "Trabzonspor"
+  }
+}

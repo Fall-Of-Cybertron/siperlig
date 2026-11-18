@@ -1,0 +1,1020 @@
+[
+  {
+    "venue": {
+      "city": "Istanbul",
+      "name": "Recep Tayyip Erdogan Stadium",
+      "country": "Turkiye",
+      "capacity": "14234"
+    },
+    "referee": {
+      "name": "Hasova, Gurcan",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "wind",
+      "temperature": "24.66°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "10",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Andri Fannar Baldursson",
+        "playerId": 14445557,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "43",
+        "type": "Goal",
+        "assist": "Metehan Mimaroğlu",
+        "player": "Noah Saviolo",
+        "playerId": 73250807,
+        "substituted": null,
+        "assistingPlayerId": 17333414
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "46",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Fousseni Diabaté",
+        "playerId": 8066415,
+        "substituted": "Haris Hajradinović",
+        "assistingPlayerId": 8060941
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "55",
+        "type": "Penalty",
+        "assist": null,
+        "player": "Adrian Benedyczak",
+        "playerId": 6535466,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "58",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Metehan Mimaroğlu",
+        "playerId": 17333414,
+        "substituted": "Mohamed Salah",
+        "assistingPlayerId": 49420
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "67",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Aral Şimşir",
+        "playerId": 26048344,
+        "substituted": "Melih Kabasakal",
+        "assistingPlayerId": 25507545
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "67",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Noah Saviolo",
+        "playerId": 73250807,
+        "substituted": "Sidny Lopes Cabral",
+        "assistingPlayerId": 49699083
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "68",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Mortadha Ben Ouanes",
+        "playerId": 7964663,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "78",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Mortadha Ben Ouanes",
+        "playerId": 7964663,
+        "substituted": "Marcus Rafferty",
+        "assistingPlayerId": 54538099
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "82",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Güven Yalçın",
+        "playerId": 322959,
+        "substituted": "Ayberk Karapo",
+        "assistingPlayerId": 61220887
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "84",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Ruslan Malinovskyi",
+        "playerId": 312172,
+        "substituted": "Ozan Tufan",
+        "assistingPlayerId": 8040816
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "90",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Adrian Benedyczak",
+        "playerId": 6535466,
+        "substituted": "Sinan Alkas",
+        "assistingPlayerId": 71161832
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-08-15T16:13:23.398Z",
+          "probabilities": {
+            "away": "49.08%",
+            "draw": "28.88%",
+            "home": "22.04%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-08-15T16:23:15.606Z",
+          "probabilities": {
+            "away": "47.48%",
+            "draw": "30.20%",
+            "home": "22.32%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-08-15T16:53:12.730Z",
+          "probabilities": {
+            "away": "73.45%",
+            "draw": "19.71%",
+            "home": "6.84%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-08-15T17:03:10.284Z",
+          "probabilities": {
+            "away": "72.72%",
+            "draw": "20.11%",
+            "home": "7.17%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-08-15T17:13:49.514Z",
+          "probabilities": {
+            "away": "62.47%",
+            "draw": "27.70%",
+            "home": "9.83%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-08-15T17:23:40.265Z",
+          "probabilities": {
+            "away": "32.09%",
+            "draw": "49.45%",
+            "home": "18.46%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-08-15T17:33:16.435Z",
+          "probabilities": {
+            "away": "28.72%",
+            "draw": "57.29%",
+            "home": "14.00%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-08-15T17:43:44.542Z",
+          "probabilities": {
+            "away": "18.86%",
+            "draw": "71.45%",
+            "home": "9.69%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-08-15T17:53:32.300Z",
+          "probabilities": {
+            "away": "5.71%",
+            "draw": "91.01%",
+            "home": "3.28%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-08-08T11:04:10.598Z",
+          "probabilities": {
+            "away": "51.99%",
+            "draw": "25.29%",
+            "home": "22.72%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-08-08T20:39:48.635Z",
+          "probabilities": {
+            "away": "52.04%",
+            "draw": "25.22%",
+            "home": "22.74%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-08-09T13:54:46.370Z",
+          "probabilities": {
+            "away": "52.02%",
+            "draw": "25.25%",
+            "home": "22.73%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-08-09T19:50:55.311Z",
+          "probabilities": {
+            "away": "52.16%",
+            "draw": "25.19%",
+            "home": "22.65%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-08-10T17:07:31.409Z",
+          "probabilities": {
+            "away": "52.32%",
+            "draw": "25.09%",
+            "home": "22.58%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-08-11T09:42:44.296Z",
+          "probabilities": {
+            "away": "51.16%",
+            "draw": "25.32%",
+            "home": "23.52%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-08-11T13:36:07.221Z",
+          "probabilities": {
+            "away": "51.21%",
+            "draw": "25.29%",
+            "home": "23.50%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-08-11T19:17:14.588Z",
+          "probabilities": {
+            "away": "51.20%",
+            "draw": "25.33%",
+            "home": "23.47%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-08-12T10:07:36.752Z",
+          "probabilities": {
+            "away": "51.20%",
+            "draw": "25.30%",
+            "home": "23.50%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-08-12T14:12:34.125Z",
+          "probabilities": {
+            "away": "51.18%",
+            "draw": "25.33%",
+            "home": "23.49%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-08-12T21:34:13.082Z",
+          "probabilities": {
+            "away": "50.97%",
+            "draw": "25.39%",
+            "home": "23.64%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-08-13T13:32:10.748Z",
+          "probabilities": {
+            "away": "51.03%",
+            "draw": "25.36%",
+            "home": "23.61%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-08-13T17:54:32.809Z",
+          "probabilities": {
+            "away": "50.99%",
+            "draw": "25.41%",
+            "home": "23.59%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-08-14T09:36:50.563Z",
+          "probabilities": {
+            "away": "50.51%",
+            "draw": "25.54%",
+            "home": "23.94%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-08-14T13:30:15.351Z",
+          "probabilities": {
+            "away": "50.54%",
+            "draw": "25.53%",
+            "home": "23.92%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-08-14T18:04:04.771Z",
+          "probabilities": {
+            "away": "51.35%",
+            "draw": "25.32%",
+            "home": "23.33%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-08-15T10:05:20.888Z",
+          "probabilities": {
+            "away": "49.53%",
+            "draw": "25.89%",
+            "home": "24.58%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-08-15T14:59:38.266Z",
+          "probabilities": {
+            "away": "49.13%",
+            "draw": "26.31%",
+            "home": "24.56%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-08-15T20:04:43.490Z",
+          "probabilities": {
+            "away": "48.08%",
+            "draw": "27.21%",
+            "home": "24.71%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "statistics": [
+          {
+            "value": 1.86,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 3,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 79,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 9,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.74,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 17,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 137,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 212,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 21,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 53,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 26,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 7,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 66,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 44,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 13,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 5,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 11,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 17,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 34,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 16,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 30,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 2,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 9,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.44,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 72,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.4,
+            "displayName": "Possession"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 3,
+            "displayName": "Corners"
+          },
+          {
+            "value": 0,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 260,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 1,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 332,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 4,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 17,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 2,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "statistics": [
+          {
+            "value": 0.85,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 2,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 131,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 16,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.61,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 11,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 39,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 211,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 318,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 37,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 62,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 21,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 9,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 99,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 99,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 7,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 11,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 9,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 15,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 17,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 14,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 30,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 13,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 22,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.38,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 70,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.6,
+            "displayName": "Possession"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 10,
+            "displayName": "Corners"
+          },
+          {
+            "value": 2,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 420,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 3,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 8,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 490,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 3,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 9,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 0,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348302207,
+    "round": "Regular Season - 1",
+    "date": "2026-08-15T16:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "1 - 1",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 850082,
+      "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+      "name": "Trabzonspor",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "3'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Chibuike Nwaiwu"
+        },
+        {
+          "time": "6'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Metehan Mimaroğlu"
+        },
+        {
+          "time": "38'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Mustafa Eskihellac"
+        },
+        {
+          "time": "43'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Noah Saviolo"
+        },
+        {
+          "time": "65'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Ruslan Malinovskyi"
+        },
+        {
+          "time": "66'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Paul Onuachu"
+        },
+        {
+          "time": "66'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Mohamed Salah"
+        },
+        {
+          "time": "67'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Noah Saviolo"
+        },
+        {
+          "time": "69'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Stefan Savic"
+        },
+        {
+          "time": "69'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Mustafa Eskihellac"
+        },
+        {
+          "time": "77'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Mohamed Salah"
+        },
+        {
+          "time": "81'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Paul Onuachu"
+        },
+        {
+          "time": "90 + 3'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Mustafa Eskihellac"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 855188,
+      "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+      "name": "Kasımpaşa",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "16'",
+          "outcome": "Missed",
+          "goalTarget": "Close High",
+          "playerName": "Adrian Benedyczak"
+        },
+        {
+          "time": "20'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Adrian Benedyczak"
+        },
+        {
+          "time": "39'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Adrian Benedyczak"
+        },
+        {
+          "time": "50'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Adrian Benedyczak"
+        },
+        {
+          "time": "51'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Guven Yalcin"
+        },
+        {
+          "time": "56'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Adrian Benedyczak"
+        },
+        {
+          "time": "59'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Claudio Winck"
+        },
+        {
+          "time": "88'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Claudio Winck"
+        },
+        {
+          "time": "90 + 5'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Claudio Winck"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": [
+      {
+        "url": "https://www.footyheadlines.com/7927437751/trabzonspor-26-27-kit-features-hidden-glow-in-the-dark-crest.html",
+        "image": "https://www.footyheadlines.com/static/img/post/2026/08/15/dlWBJygDXh1DoYB/trabzonspor-26-27-kit-features-hidden-glow-in-the-dark-crest.jpg",
+        "title": "Trabzonspor 26-27 Kit Features Hidden Glow-in-the-Dark Crest",
+        "datePublished": "2026-08-14T23:33:40Z"
+      }
+    ]
+  }
+]

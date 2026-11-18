@@ -1,0 +1,294 @@
+{
+  "homeTeam": {
+    "formation": "4-2-3-1",
+    "substitutes": [
+      {
+        "name": "Tarık Çetin",
+        "number": 13,
+        "position": "Goalkeeper",
+        "id": 10046715
+      },
+      {
+        "name": "Levent Mercan",
+        "number": 22,
+        "position": "Defender",
+        "id": 20545203
+      },
+      {
+        "name": "Yiğit Efe Demir",
+        "number": 14,
+        "position": "Defender",
+        "id": 58699788
+      },
+      {
+        "name": "Mert Müldür",
+        "number": 18,
+        "position": "Defender",
+        "id": 276913
+      },
+      {
+        "name": "İrfan Can Kahveci",
+        "number": 17,
+        "position": "Midfielder",
+        "id": 8027131
+      },
+      {
+        "name": "Bartuğ Elmaz",
+        "number": 28,
+        "position": "Midfielder",
+        "id": 26082798
+      },
+      {
+        "name": "İsmail Yüksek",
+        "number": 5,
+        "position": "Midfielder",
+        "id": 34528697
+      },
+      {
+        "name": "Oğuz Aydın",
+        "number": 70,
+        "position": "Forward",
+        "id": 21669144
+      },
+      {
+        "name": "Romelu Lukaku",
+        "number": 9,
+        "position": "Forward",
+        "id": 146181
+      },
+      {
+        "name": "Dorgeles Nene",
+        "number": 45,
+        "position": "Forward",
+        "id": 48762063
+      }
+    ],
+    "initialLineup": [
+      [
+        {
+          "name": "Ederson",
+          "number": 31,
+          "position": "Goalkeeper",
+          "id": 99491
+        }
+      ],
+      [
+        {
+          "name": "Archie Brown",
+          "number": 3,
+          "position": "Defender",
+          "id": 26027575
+        },
+        {
+          "name": "Nathan Aké",
+          "number": 15,
+          "position": "Defender",
+          "id": 3036775
+        },
+        {
+          "name": "Milan Škriniar",
+          "number": 37,
+          "position": "Defender",
+          "id": 32032
+        },
+        {
+          "name": "Nélson Semedo",
+          "number": 27,
+          "position": "Defender",
+          "id": 21084
+        }
+      ],
+      [
+        {
+          "name": "N'Golo Kanté",
+          "number": 91,
+          "position": "Midfielder",
+          "id": 368844
+        },
+        {
+          "name": "Mattéo Guendouzi",
+          "number": 6,
+          "position": "Midfielder",
+          "id": 234248
+        }
+      ],
+      [
+        {
+          "name": "Kerem Aktürkoğlu",
+          "number": 7,
+          "position": "Midfielder",
+          "id": 23016553
+        },
+        {
+          "name": "Marco Asensio",
+          "number": 10,
+          "position": "Midfielder",
+          "id": 120260
+        },
+        {
+          "name": "Mason Greenwood",
+          "number": 11,
+          "position": "Midfielder",
+          "id": 144571
+        }
+      ],
+      [
+        {
+          "name": "Vedat Muriqi",
+          "number": 19,
+          "position": "Forward",
+          "id": 8057882
+        }
+      ]
+    ],
+    "id": 520745,
+    "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+    "name": "Fenerbahce"
+  },
+  "awayTeam": {
+    "formation": "4-2-3-1",
+    "substitutes": [
+      {
+        "name": "Egemen Aydin",
+        "number": 29,
+        "position": "Goalkeeper",
+        "id": 76970551
+      },
+      {
+        "name": "Rayyan Baniya",
+        "number": 22,
+        "position": "Defender",
+        "id": 19188456
+      },
+      {
+        "name": "Arif Boşluk",
+        "number": 3,
+        "position": "Defender",
+        "id": 54549369
+      },
+      {
+        "name": "Arthur Masuaku",
+        "number": 26,
+        "position": "Defender",
+        "id": 3029530
+      },
+      {
+        "name": "Enis Bardhi",
+        "number": 10,
+        "position": "Midfielder",
+        "id": 7641375
+      },
+      {
+        "name": "Emir Bars",
+        "number": 45,
+        "position": "Forward",
+        "id": 54722122
+      },
+      {
+        "name": "Omer Cobanoglu",
+        "number": 25,
+        "position": "Midfielder",
+        "id": 103896352
+      },
+      {
+        "name": "Marko Jevtović",
+        "number": 8,
+        "position": "Midfielder",
+        "id": 8051442
+      },
+      {
+        "name": "Blaž Kramer",
+        "number": 99,
+        "position": "Forward",
+        "id": 19284734
+      },
+      {
+        "name": "Enis Destan",
+        "number": 94,
+        "position": "Forward",
+        "id": 29370096
+      }
+    ],
+    "initialLineup": [
+      [
+        {
+          "name": "Deniz Ertaş",
+          "number": 1,
+          "position": "Goalkeeper",
+          "id": 64801527
+        }
+      ],
+      [
+        {
+          "name": "Yhoan Andzouana",
+          "number": 17,
+          "position": "Defender",
+          "id": 7649586
+        },
+        {
+          "name": "Adil Demirbağ",
+          "number": 4,
+          "position": "Defender",
+          "id": 9979900
+        },
+        {
+          "name": "Chidozie Awaziem",
+          "number": 15,
+          "position": "Defender",
+          "id": 8054340
+        },
+        {
+          "name": "Uğurcan Yazğılı",
+          "number": 5,
+          "position": "Defender",
+          "id": 8060297
+        }
+      ],
+      [
+        {
+          "name": "Rajmund Tóth",
+          "number": 66,
+          "position": "Midfielder",
+          "id": 67542391
+        },
+        {
+          "name": "Melih İbrahimoğlu",
+          "number": 77,
+          "position": "Midfielder",
+          "id": 24608199
+        }
+      ],
+      [
+        {
+          "name": "Ebrima Colley",
+          "number": 19,
+          "position": "Midfielder",
+          "id": 22676521
+        },
+        {
+          "name": "Diogo Gonçalves",
+          "number": 7,
+          "position": "Midfielder",
+          "id": 3107454
+        },
+        {
+          "name": "Deniz Türüç",
+          "number": 9,
+          "position": "Midfielder",
+          "id": 8070440
+        }
+      ],
+      [
+        {
+          "name": "Jackson Muleka",
+          "number": 11,
+          "position": "Forward",
+          "id": 23289770
+        }
+      ]
+    ],
+    "id": 517341,
+    "logo": "https://highlightly.net/soccer/images/teams/517341.png",
+    "name": "Konyaspor"
+  }
+}

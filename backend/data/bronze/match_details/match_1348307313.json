@@ -1,0 +1,899 @@
+[
+  {
+    "venue": {
+      "city": "Istanbul",
+      "name": "Recep Tayyip Erdogan Stadium",
+      "country": "Turkiye",
+      "capacity": "14234"
+    },
+    "referee": {
+      "name": "Coskunses, Resat Onur",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "clear day",
+      "temperature": "26.91°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "28",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Myenty Abena",
+        "playerId": 222173,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "60",
+        "type": "Goal",
+        "assist": null,
+        "player": "D. Sorescu",
+        "playerId": 6954388,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "64",
+        "type": "Red Card",
+        "assist": null,
+        "player": "Juninho Bacuna",
+        "playerId": 3066721,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "time": "64",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Sabiri",
+        "playerId": 3067687,
+        "substituted": "Y. Barasi",
+        "assistingPlayerId": 5942020
+      },
+      {
+        "team": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "time": "64",
+        "type": "Substitution",
+        "assist": null,
+        "player": "B. Boutobba",
+        "playerId": 3475983,
+        "substituted": "K. Michalak",
+        "assistingPlayerId": 6512926
+      },
+      {
+        "team": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "time": "65",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Abdullahi",
+        "playerId": 62542375,
+        "substituted": "H. Akman",
+        "assistingPlayerId": 88691029
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "68",
+        "type": "Substitution",
+        "assist": null,
+        "player": "D. Camara",
+        "playerId": 14719418,
+        "substituted": "V. Gidado",
+        "assistingPlayerId": 89216694
+      },
+      {
+        "team": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "time": "74",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Yasar",
+        "playerId": 22126384,
+        "substituted": "S. Giordano",
+        "assistingPlayerId": 51995748
+      },
+      {
+        "team": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "time": "74",
+        "type": "Substitution",
+        "assist": null,
+        "player": "L. Pintor",
+        "playerId": 108024,
+        "substituted": "M. Demir",
+        "assistingPlayerId": 10011939
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "76",
+        "type": "Substitution",
+        "assist": null,
+        "player": "T. Stewart",
+        "playerId": 30972368,
+        "substituted": "F. Bavuk",
+        "assistingPlayerId": 9988272
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "88",
+        "type": "Substitution",
+        "assist": null,
+        "player": "K. Kozlowski",
+        "playerId": 10353098,
+        "substituted": "S. Hansen",
+        "assistingPlayerId": 26063478
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Gazişehir Gaziantep is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-08-23T16:13:48.930Z",
+          "probabilities": {
+            "away": "37.65%",
+            "draw": "30.71%",
+            "home": "31.64%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Gazişehir Gaziantep is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-08-23T16:23:39.650Z",
+          "probabilities": {
+            "away": "38.80%",
+            "draw": "32.54%",
+            "home": "28.67%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Gazişehir Gaziantep is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-08-23T16:32:03.840Z",
+          "probabilities": {
+            "away": "37.97%",
+            "draw": "34.67%",
+            "home": "27.36%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-08-23T17:14:42.932Z",
+          "probabilities": {
+            "away": "31.92%",
+            "draw": "45.11%",
+            "home": "22.97%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Gazişehir Gaziantep is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-08-23T17:54:14.706Z",
+          "probabilities": {
+            "away": "90.17%",
+            "draw": "9.29%",
+            "home": "0.54%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Eyüpspor is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-08-16T10:40:47.497Z",
+          "probabilities": {
+            "away": "37.31%",
+            "draw": "24.13%",
+            "home": "38.55%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Eyüpspor is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-08-16T14:30:46.295Z",
+          "probabilities": {
+            "away": "37.31%",
+            "draw": "24.13%",
+            "home": "38.55%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Gazişehir Gaziantep is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-08-16T18:52:33.440Z",
+          "probabilities": {
+            "away": "34.97%",
+            "draw": "30.42%",
+            "home": "34.61%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Gazişehir Gaziantep is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-08-17T12:03:02.071Z",
+          "probabilities": {
+            "away": "37.27%",
+            "draw": "30.31%",
+            "home": "32.43%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Gazişehir Gaziantep is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-08-17T22:08:06.787Z",
+          "probabilities": {
+            "away": "37.58%",
+            "draw": "29.74%",
+            "home": "32.69%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Gazişehir Gaziantep is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-08-18T09:38:28.185Z",
+          "probabilities": {
+            "away": "37.51%",
+            "draw": "29.88%",
+            "home": "32.61%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Gazişehir Gaziantep is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-08-19T10:15:24.689Z",
+          "probabilities": {
+            "away": "37.64%",
+            "draw": "29.71%",
+            "home": "32.65%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Gazişehir Gaziantep is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-08-20T16:27:07.045Z",
+          "probabilities": {
+            "away": "37.58%",
+            "draw": "29.87%",
+            "home": "32.55%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Gazişehir Gaziantep is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-08-21T09:08:21.705Z",
+          "probabilities": {
+            "away": "37.71%",
+            "draw": "29.94%",
+            "home": "32.34%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Gazişehir Gaziantep is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-08-21T13:25:46.004Z",
+          "probabilities": {
+            "away": "37.74%",
+            "draw": "29.91%",
+            "home": "32.35%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Gazişehir Gaziantep is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-08-22T11:20:32.628Z",
+          "probabilities": {
+            "away": "37.78%",
+            "draw": "29.81%",
+            "home": "32.41%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Gazişehir Gaziantep is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-08-22T21:21:28.816Z",
+          "probabilities": {
+            "away": "37.78%",
+            "draw": "29.79%",
+            "home": "32.43%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Gazişehir Gaziantep is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-08-23T10:21:42.926Z",
+          "probabilities": {
+            "away": "37.75%",
+            "draw": "29.93%",
+            "home": "32.31%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Gazişehir Gaziantep is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-08-23T14:47:35.637Z",
+          "probabilities": {
+            "away": "37.88%",
+            "draw": "29.91%",
+            "home": "32.21%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Gazişehir Gaziantep is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-08-23T19:05:23.012Z",
+          "probabilities": {
+            "away": "39.17%",
+            "draw": "28.93%",
+            "home": "31.90%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "statistics": [
+          {
+            "value": 0.49,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 0,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 97,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 16,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.44,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 27,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 209,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 255,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 31,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 53,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 21,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 9,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 89,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 49,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 8,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 5,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 11,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 19,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 19,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 30,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 14,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 21,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.08,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 67,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.56,
+            "displayName": "Possession"
+          },
+          {
+            "value": 1,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 4,
+            "displayName": "Corners"
+          },
+          {
+            "value": 0,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 370,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 4,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 437,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 1,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 16,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 0,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "statistics": [
+          {
+            "value": 1.16,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 2,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 73,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 15,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.87,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 17,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 196,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 178,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 34,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 64,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 17,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 5,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 40,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 45,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 9,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 8,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 9,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 21,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 34,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 11,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 30,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 2,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 6,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.22,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 66,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.44,
+            "displayName": "Possession"
+          },
+          {
+            "value": 2,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 2,
+            "displayName": "Corners"
+          },
+          {
+            "value": 5,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 291,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 1,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 3,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 357,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 1,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 17,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 1,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348307313,
+    "round": "Regular Season - 2",
+    "date": "2026-08-23T16:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "0 - 1",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 3041407,
+      "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+      "name": "Gazişehir Gaziantep",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "14'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Trivante Stewart"
+        },
+        {
+          "time": "17'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Trivante Stewart"
+        },
+        {
+          "time": "17'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Juninho Bacuna"
+        },
+        {
+          "time": "20'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Trivante Stewart"
+        },
+        {
+          "time": "20'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Drissa Camara"
+        },
+        {
+          "time": "48'",
+          "outcome": "Missed",
+          "goalTarget": "Close High",
+          "playerName": "Drissa Camara"
+        },
+        {
+          "time": "59'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Juninho Bacuna"
+        },
+        {
+          "time": "60'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Deian Sorescu"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 3054172,
+      "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+      "name": "Eyüpspor",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "29'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Abdelhamid Sabiri"
+        },
+        {
+          "time": "41'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Bilal Boutobba"
+        },
+        {
+          "time": "45 + 1'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Chandrel Massanga"
+        },
+        {
+          "time": "67'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Charles-André Raux-Yao"
+        },
+        {
+          "time": "79'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Charles-André Raux-Yao"
+        },
+        {
+          "time": "82'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Simone Giordano"
+        },
+        {
+          "time": "86'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Talha Ülvan"
+        },
+        {
+          "time": "87'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Jawad El Yamiq"
+        },
+        {
+          "time": "90'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Jawad El Yamiq"
+        },
+        {
+          "time": "90 + 3'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Charles-André Raux-Yao"
+        },
+        {
+          "time": "90 + 4'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Barasi"
+        },
+        {
+          "time": "90 + 5'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Jawad El Yamiq"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

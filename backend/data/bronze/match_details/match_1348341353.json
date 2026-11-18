@@ -1,0 +1,990 @@
+[
+  {
+    "venue": {
+      "city": "Kocaeli",
+      "name": "Yildiz Entegre Kocaeli Stadyumu",
+      "country": "Turkiye",
+      "capacity": "34829"
+    },
+    "referee": {
+      "name": "Meler, Halil Umut",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "partly cloudy day",
+      "temperature": "23.43°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "24",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Haidara",
+        "playerId": 536767,
+        "substituted": "M. Cinan",
+        "assistingPlayerId": 10148628
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "37",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Halil Dervişoğlu",
+        "playerId": 6027994,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "56",
+        "type": "Goal",
+        "assist": "G. Sousa",
+        "player": "B. Kutlu",
+        "playerId": 42605101,
+        "substituted": null,
+        "assistingPlayerId": 64488704
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "60",
+        "type": "Substitution",
+        "assist": null,
+        "player": "V. Gidado",
+        "playerId": 72639812,
+        "substituted": "D. Camara",
+        "assistingPlayerId": 14719418
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "60",
+        "type": "Substitution",
+        "assist": null,
+        "player": "L. Perez",
+        "playerId": 7579712,
+        "substituted": "S. Hansen",
+        "assistingPlayerId": 26063478
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "63",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Gonçalo Sousa",
+        "playerId": 64488704,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "63",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Kacper Kozłowski",
+        "playerId": 10353098,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "70",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Maxim",
+        "playerId": 4173435,
+        "substituted": "J. Bacuna",
+        "assistingPlayerId": 3066721
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "70",
+        "type": "Substitution",
+        "assist": null,
+        "player": "H. Dervisoglu",
+        "playerId": 6027994,
+        "substituted": "S. Dursun",
+        "assistingPlayerId": 4033687
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "74",
+        "type": "Substitution",
+        "assist": null,
+        "player": "F. Aye",
+        "playerId": 3346056,
+        "substituted": "D. Agyei",
+        "assistingPlayerId": 14134505
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "74",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Altunbas",
+        "playerId": 10011295,
+        "substituted": "M. Baku",
+        "assistingPlayerId": 4277602
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "76",
+        "type": "Goal",
+        "assist": "B. Kutlu",
+        "player": "D. Agyei",
+        "playerId": 14134505,
+        "substituted": null,
+        "assistingPlayerId": 42605101
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "time": "79",
+        "type": "Substitution",
+        "assist": null,
+        "player": "U. Meleke",
+        "playerId": 13433672,
+        "substituted": "T. Stewart",
+        "assistingPlayerId": 30972368
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "87",
+        "type": "Substitution",
+        "assist": null,
+        "player": "G. Sousa",
+        "playerId": 64488704,
+        "substituted": "E. Bilim",
+        "assistingPlayerId": 79180437
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "87",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Susoho",
+        "playerId": 52823771,
+        "substituted": "T. Bingol",
+        "assistingPlayerId": 8078490
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-09-19T14:36:08.980Z",
+          "probabilities": {
+            "away": "30.79%",
+            "draw": "37.93%",
+            "home": "31.28%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-09-19T14:41:09.238Z",
+          "probabilities": {
+            "away": "29.96%",
+            "draw": "39.59%",
+            "home": "30.45%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-09-19T15:05:34.094Z",
+          "probabilities": {
+            "away": "30.54%",
+            "draw": "43.10%",
+            "home": "26.36%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-09-19T15:14:04.555Z",
+          "probabilities": {
+            "away": "28.96%",
+            "draw": "46.61%",
+            "home": "24.44%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-09-19T15:24:08.601Z",
+          "probabilities": {
+            "away": "7.97%",
+            "draw": "25.75%",
+            "home": "66.28%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-09-19T15:34:47.446Z",
+          "probabilities": {
+            "away": "3.80%",
+            "draw": "19.93%",
+            "home": "76.27%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-09-19T15:43:12.101Z",
+          "probabilities": {
+            "away": "0.80%",
+            "draw": "4.85%",
+            "home": "94.35%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-09-19T16:02:47.733Z",
+          "probabilities": {
+            "away": "0.60%",
+            "draw": "4.14%",
+            "home": "95.26%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-09-17T18:58:28.198Z",
+          "probabilities": {
+            "away": "27.86%",
+            "draw": "29.92%",
+            "home": "42.22%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-09-17T19:55:45.308Z",
+          "probabilities": {
+            "away": "27.88%",
+            "draw": "29.92%",
+            "home": "42.20%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-09-18T09:36:22.981Z",
+          "probabilities": {
+            "away": "27.96%",
+            "draw": "29.82%",
+            "home": "42.22%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-09-18T15:18:21.422Z",
+          "probabilities": {
+            "away": "27.69%",
+            "draw": "29.93%",
+            "home": "42.38%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-09-18T21:08:37.009Z",
+          "probabilities": {
+            "away": "27.70%",
+            "draw": "30.21%",
+            "home": "42.10%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-09-19T10:54:07.747Z",
+          "probabilities": {
+            "away": "30.97%",
+            "draw": "31.20%",
+            "home": "37.83%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Gazişehir Gaziantep.",
+          "generatedAt": "2026-09-19T17:02:15.443Z",
+          "probabilities": {
+            "away": "30.75%",
+            "draw": "31.26%",
+            "home": "37.99%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "statistics": [
+          {
+            "value": 1.3,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 2,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 62,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 11,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 1.04,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 4,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 14,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 231,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 238,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 23,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 64,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 27,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 15,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 72,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 80,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 7,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 9,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 12,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 18,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 16,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 10,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 29,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 11,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.26,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 94,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.51,
+            "displayName": "Possession"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 1,
+            "displayName": "Corners"
+          },
+          {
+            "value": 1,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 361,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 7,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 12,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 455,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 3,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 16,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 1,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 3041407,
+          "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+          "name": "Gazişehir Gaziantep"
+        },
+        "statistics": [
+          {
+            "value": 1.03,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 3,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 64,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 16,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.79,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 9,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 240,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 202,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 36,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 57,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 15,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 15,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 48,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 53,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 8,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 12,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 11,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 14,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 22,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 19,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 29,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 7,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 15,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.19,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 83,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.49,
+            "displayName": "Possession"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 2,
+            "displayName": "Corners"
+          },
+          {
+            "value": 2,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 350,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 10,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 3,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 10,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 433,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 3,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 12,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 2,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348341353,
+    "round": "Regular Season - 6",
+    "date": "2026-09-19T14:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "2 - 0",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 3041407,
+      "logo": "https://highlightly.net/soccer/images/teams/3041407.png",
+      "name": "Gazişehir Gaziantep",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "12'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Kacper Kozłowski"
+        },
+        {
+          "time": "18'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Kacper Kozłowski"
+        },
+        {
+          "time": "29'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Halil Dervisoglu"
+        },
+        {
+          "time": "39'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Ulrich Meleke"
+        },
+        {
+          "time": "41'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Halil Dervisoglu"
+        },
+        {
+          "time": "41'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Halil Dervisoglu"
+        },
+        {
+          "time": "43'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Kacper Kozłowski"
+        },
+        {
+          "time": "45 + 1'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Victor Gidado"
+        },
+        {
+          "time": "45 + 1'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Kacper Kozłowski"
+        },
+        {
+          "time": "45 + 2'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Arda Kizildag"
+        },
+        {
+          "time": "45 + 2'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Victor Gidado"
+        },
+        {
+          "time": "47'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Deian Sorescu"
+        },
+        {
+          "time": "48'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Halil Dervisoglu"
+        },
+        {
+          "time": "58'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Deian Sorescu"
+        },
+        {
+          "time": "79'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Deian Sorescu"
+        },
+        {
+          "time": "90'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Drissa Camara"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 6307545,
+      "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+      "name": "Kocaelispor FK",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "15'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Berkan Kutlu"
+        },
+        {
+          "time": "20'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Manuel Show"
+        },
+        {
+          "time": "44'",
+          "outcome": "Saved",
+          "goalTarget": "High Right",
+          "playerName": "Florian Aye"
+        },
+        {
+          "time": "55'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Manuel Show"
+        },
+        {
+          "time": "55'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Florian Aye"
+        },
+        {
+          "time": "55'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Florian Aye"
+        },
+        {
+          "time": "55'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Gonçalo Sousa"
+        },
+        {
+          "time": "56'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Berkan Kutlu"
+        },
+        {
+          "time": "67'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Florian Aye"
+        },
+        {
+          "time": "67'",
+          "outcome": "Missed",
+          "goalTarget": "Close High",
+          "playerName": "Gonçalo Sousa"
+        },
+        {
+          "time": "68'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Manuel Show"
+        },
+        {
+          "time": "71'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Gonçalo Sousa"
+        },
+        {
+          "time": "72'",
+          "outcome": "Missed",
+          "goalTarget": "Close High",
+          "playerName": "Berkan Kutlu"
+        },
+        {
+          "time": "73'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Berkan Kutlu"
+        },
+        {
+          "time": "76'",
+          "outcome": "Goal",
+          "goalTarget": "High Left",
+          "playerName": "Dan Agyei"
+        },
+        {
+          "time": "82'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Anfernee Dijksteel"
+        },
+        {
+          "time": "86'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Dan Agyei"
+        },
+        {
+          "time": "90'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Makana Baku"
+        },
+        {
+          "time": "90 + 2'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Tayfur Bingöl"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

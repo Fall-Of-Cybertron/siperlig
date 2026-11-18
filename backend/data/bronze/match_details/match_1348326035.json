@@ -1,0 +1,1081 @@
+[
+  {
+    "venue": {
+      "city": "Rize",
+      "name": "Caykur Didi Stadium",
+      "country": "Turkiye",
+      "capacity": "15558"
+    },
+    "referee": {
+      "name": "Taskinsoy, Abdullah Bugra",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "clear night",
+      "temperature": "19.43°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 857741,
+          "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+          "name": "Rizespor"
+        },
+        "time": "31",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Attila Mocsi",
+        "playerId": 376089,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "time": "40",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Ianis Hagi",
+        "playerId": 6936678,
+        "substituted": "Yusuf Özdemir",
+        "assistingPlayerId": 46178979
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "time": "58",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Paolo Fernandes",
+        "playerId": 6231981,
+        "substituted": "Meschack Elia",
+        "assistingPlayerId": 488628
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "time": "58",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Arda Usluoğlu",
+        "playerId": 57007356,
+        "substituted": "Omar Ben Ali",
+        "assistingPlayerId": 74596284
+      },
+      {
+        "team": {
+          "id": 857741,
+          "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+          "name": "Rizespor"
+        },
+        "time": "65",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Emrecan Bulut",
+        "playerId": 61801614,
+        "substituted": "Valentin Mihăilă",
+        "assistingPlayerId": 6932170
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "time": "70",
+        "type": "Own Goal",
+        "assist": null,
+        "player": "Zakaria Ariss",
+        "playerId": 56920094,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 857741,
+          "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+          "name": "Rizespor"
+        },
+        "time": "76",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Taylan Antalyalı",
+        "playerId": 8082676,
+        "substituted": "Iustin Doicaru",
+        "assistingPlayerId": 71800680
+      },
+      {
+        "team": {
+          "id": 857741,
+          "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+          "name": "Rizespor"
+        },
+        "time": "76",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Qazim Laci",
+        "playerId": 3373587,
+        "substituted": "Dal Varesanovic",
+        "assistingPlayerId": 22352267
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "time": "81",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Fatih Aksoy",
+        "playerId": 8062873,
+        "substituted": "Bedirhan Ozyurt",
+        "assistingPlayerId": 57979635
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "time": "81",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Ruan Pereira Duarte",
+        "playerId": 61888232,
+        "substituted": "Hwang Ui-Jo",
+        "assistingPlayerId": 468664
+      },
+      {
+        "team": {
+          "id": 857741,
+          "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+          "name": "Rizespor"
+        },
+        "time": "83",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Zakaria Ariss",
+        "playerId": 56920094,
+        "substituted": "Adedire Mebude",
+        "assistingPlayerId": 26149452
+      },
+      {
+        "team": {
+          "id": 857741,
+          "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+          "name": "Rizespor"
+        },
+        "time": "83",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Attila Mocsi",
+        "playerId": 376089,
+        "substituted": "Siaka Bakayoko",
+        "assistingPlayerId": 62081915
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "time": "87",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Meschack Elia",
+        "playerId": 488628,
+        "substituted": null,
+        "assistingPlayerId": null
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Rizespor is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-09-07T17:02:46.674Z",
+          "probabilities": {
+            "away": "21.79%",
+            "draw": "27.41%",
+            "home": "50.80%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Rizespor is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-09-07T17:14:56.629Z",
+          "probabilities": {
+            "away": "23.14%",
+            "draw": "29.29%",
+            "home": "47.56%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Rizespor is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-09-07T17:23:58.883Z",
+          "probabilities": {
+            "away": "21.51%",
+            "draw": "30.55%",
+            "home": "47.94%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Rizespor is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-09-07T17:34:22.890Z",
+          "probabilities": {
+            "away": "19.14%",
+            "draw": "33.00%",
+            "home": "47.86%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Rizespor is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-09-07T17:43:57.768Z",
+          "probabilities": {
+            "away": "18.51%",
+            "draw": "35.65%",
+            "home": "45.84%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Rizespor is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-09-07T17:55:02.087Z",
+          "probabilities": {
+            "away": "19.02%",
+            "draw": "36.46%",
+            "home": "44.51%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Rizespor is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-09-07T18:03:14.332Z",
+          "probabilities": {
+            "away": "18.82%",
+            "draw": "37.63%",
+            "home": "43.55%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-09-07T18:14:45.260Z",
+          "probabilities": {
+            "away": "17.68%",
+            "draw": "43.25%",
+            "home": "39.07%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-09-07T18:23:37.721Z",
+          "probabilities": {
+            "away": "16.21%",
+            "draw": "49.99%",
+            "home": "33.80%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-09-07T18:34:40.022Z",
+          "probabilities": {
+            "away": "69.46%",
+            "draw": "25.17%",
+            "home": "5.38%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Rizespor.",
+          "generatedAt": "2026-09-07T18:43:30.089Z",
+          "probabilities": {
+            "away": "79.13%",
+            "draw": "18.55%",
+            "home": "2.32%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Rizespor is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-08-31T10:21:45.500Z",
+          "probabilities": {
+            "away": "22.85%",
+            "draw": "27.69%",
+            "home": "49.46%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Rizespor is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-09-01T10:58:03.403Z",
+          "probabilities": {
+            "away": "23.01%",
+            "draw": "27.63%",
+            "home": "49.35%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Rizespor is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-09-01T16:12:26.883Z",
+          "probabilities": {
+            "away": "23.16%",
+            "draw": "27.70%",
+            "home": "49.14%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Rizespor is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-09-01T21:29:11.296Z",
+          "probabilities": {
+            "away": "23.23%",
+            "draw": "27.67%",
+            "home": "49.10%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Rizespor is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-09-02T12:30:56.662Z",
+          "probabilities": {
+            "away": "23.24%",
+            "draw": "27.63%",
+            "home": "49.13%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Rizespor is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-09-02T17:48:43.961Z",
+          "probabilities": {
+            "away": "23.23%",
+            "draw": "27.65%",
+            "home": "49.12%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Rizespor is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-09-03T12:33:33.640Z",
+          "probabilities": {
+            "away": "23.19%",
+            "draw": "27.64%",
+            "home": "49.17%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Rizespor is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-09-03T17:53:09.456Z",
+          "probabilities": {
+            "away": "23.49%",
+            "draw": "27.84%",
+            "home": "48.66%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Rizespor is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-09-04T11:37:22.563Z",
+          "probabilities": {
+            "away": "23.33%",
+            "draw": "27.95%",
+            "home": "48.72%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Rizespor is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-09-04T17:32:23.965Z",
+          "probabilities": {
+            "away": "23.27%",
+            "draw": "27.96%",
+            "home": "48.77%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Rizespor is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-09-05T11:28:59.157Z",
+          "probabilities": {
+            "away": "22.72%",
+            "draw": "27.56%",
+            "home": "49.71%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Rizespor is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-09-05T16:31:02.656Z",
+          "probabilities": {
+            "away": "22.71%",
+            "draw": "27.56%",
+            "home": "49.73%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Rizespor is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-09-05T20:26:25.239Z",
+          "probabilities": {
+            "away": "22.68%",
+            "draw": "27.50%",
+            "home": "49.82%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Rizespor is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-09-06T09:37:22.048Z",
+          "probabilities": {
+            "away": "22.63%",
+            "draw": "27.52%",
+            "home": "49.85%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Rizespor is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-09-06T14:08:31.309Z",
+          "probabilities": {
+            "away": "22.62%",
+            "draw": "27.53%",
+            "home": "49.85%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Rizespor is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-09-06T16:46:29.896Z",
+          "probabilities": {
+            "away": "22.60%",
+            "draw": "27.55%",
+            "home": "49.85%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Rizespor is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-09-07T21:34:49.543Z",
+          "probabilities": {
+            "away": "21.97%",
+            "draw": "27.75%",
+            "home": "50.29%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 857741,
+          "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+          "name": "Rizespor"
+        },
+        "statistics": [
+          {
+            "value": 1.28,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 2,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 105,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 15,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.87,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 10,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 28,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 245,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 283,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 28,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 55,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 28,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 15,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 106,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 71,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 5,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 5,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 11,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 15,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 16,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 9,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 25,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 6,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 14,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.24,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 71,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.64,
+            "displayName": "Possession"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 8,
+            "displayName": "Corners"
+          },
+          {
+            "value": 1,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 429,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 9,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 8,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 500,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 1,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 8,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 1,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 13,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "statistics": [
+          {
+            "value": 2.07,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 3,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 65,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 7,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 1.29,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 11,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 129,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 160,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 35,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 67,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 24,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 8,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 51,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 43,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 10,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 10,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 17,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 31,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 16,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 25,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 7,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 14,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.22,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 70,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.36,
+            "displayName": "Possession"
+          },
+          {
+            "value": 2,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 7,
+            "displayName": "Corners"
+          },
+          {
+            "value": 2,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 208,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 2,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 278,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 5,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 15,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 1,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348326035,
+    "round": "Regular Season - 4",
+    "date": "2026-09-07T17:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "0 - 1",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 848380,
+      "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+      "name": "Alanyaspor",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "3'",
+          "outcome": "Post",
+          "goalTarget": null,
+          "playerName": "Fatih Aksoy"
+        },
+        {
+          "time": "5'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Paolo Fernandes"
+        },
+        {
+          "time": "7'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Ianis Hagi"
+        },
+        {
+          "time": "8'",
+          "outcome": "Missed",
+          "goalTarget": "Close High",
+          "playerName": "Paolo Fernandes"
+        },
+        {
+          "time": "49'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Arda Usluoğlu"
+        },
+        {
+          "time": "57'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Ruan"
+        },
+        {
+          "time": "61'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Meschack Elia"
+        },
+        {
+          "time": "70'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Meschack Elia"
+        },
+        {
+          "time": "83'",
+          "outcome": "Missed",
+          "goalTarget": "Close Left And High",
+          "playerName": "Ui-jo Hwang"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 857741,
+      "logo": "https://highlightly.net/soccer/images/teams/857741.png",
+      "name": "Rizespor",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "13'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Qazim Laci"
+        },
+        {
+          "time": "17'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Modibo Sagnan"
+        },
+        {
+          "time": "22'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Ahmed Kutucu"
+        },
+        {
+          "time": "24'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Ibrahim Olawoyin"
+        },
+        {
+          "time": "35'",
+          "outcome": "Blocked",
+          "goalTarget": "High Right",
+          "playerName": "Ibrahim Olawoyin"
+        },
+        {
+          "time": "40'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Zakaria Ariss"
+        },
+        {
+          "time": "41'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Mithat Pala"
+        },
+        {
+          "time": "41'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Ahmed Kutucu"
+        },
+        {
+          "time": "43'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Taylan Antalyalı"
+        },
+        {
+          "time": "51'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Ahmed Kutucu"
+        },
+        {
+          "time": "56'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Zakaria Ariss"
+        },
+        {
+          "time": "56'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Ahmed Kutucu"
+        },
+        {
+          "time": "57'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Qazim Laci"
+        },
+        {
+          "time": "68'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Valentin Mihaila"
+        },
+        {
+          "time": "69'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Zakaria Ariss"
+        },
+        {
+          "time": "70'",
+          "outcome": "Goal",
+          "goalTarget": "High Left",
+          "playerName": "Zakaria Ariss"
+        },
+        {
+          "time": "72'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Ibrahim Olawoyin"
+        },
+        {
+          "time": "73'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Valentin Mihaila"
+        },
+        {
+          "time": "75'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Ibrahim Olawoyin"
+        },
+        {
+          "time": "79'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Iustin Doicaru"
+        },
+        {
+          "time": "90 + 2'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Iustin Doicaru"
+        },
+        {
+          "time": "90 + 3'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Ali Sowe"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

@@ -1,0 +1,1362 @@
+[
+  {
+    "venue": {
+      "city": "Istanbul",
+      "name": "Rams Park",
+      "country": "Turkiye",
+      "capacity": "52650"
+    },
+    "referee": {
+      "name": "Meler, Halil Umut",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "clear night",
+      "temperature": "19.03°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "3",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Rafael Leão",
+        "playerId": 3580150,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "24",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Elson Mendes",
+        "playerId": 70627956,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "28",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Kerem Demirbay",
+        "playerId": 115591,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "40",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Davinson Sánchez",
+        "playerId": 27202,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "45",
+        "type": "Goal",
+        "assist": "A. Batrakov",
+        "player": "A. Bardakci",
+        "playerId": 9955911,
+        "substituted": null,
+        "assistingPlayerId": 64572907
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "51",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Ali Yavuz Kol",
+        "playerId": 74375,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "56",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Andri Fannar Baldursson",
+        "playerId": 14445557,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "57",
+        "type": "Substitution",
+        "assist": null,
+        "player": "G. Yalcin",
+        "playerId": 322959,
+        "substituted": "T. Diarra",
+        "assistingPlayerId": 53072516
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "58",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Kol",
+        "playerId": 74375,
+        "substituted": "J. Rak-Sakyi",
+        "assistingPlayerId": 45796443
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "65",
+        "type": "Red Card",
+        "assist": null,
+        "player": "Lucas Torreira",
+        "playerId": 235536,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "67",
+        "type": "Substitution",
+        "assist": null,
+        "player": "R. Leao",
+        "playerId": 3580150,
+        "substituted": "E. Elmali",
+        "assistingPlayerId": 8059331
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "67",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Batrakov",
+        "playerId": 64572907,
+        "substituted": "M. Lemina",
+        "assistingPlayerId": 3050621
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "68",
+        "type": "Goal",
+        "assist": null,
+        "player": "J. Rak-Sakyi",
+        "playerId": 45796443,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "70",
+        "type": "Substitution",
+        "assist": null,
+        "player": "K. Demirbay",
+        "playerId": 115591,
+        "substituted": "H. Hajradinovic",
+        "assistingPlayerId": 8060941
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "77",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Bardakci",
+        "playerId": 9955911,
+        "substituted": "L. Sane",
+        "assistingPlayerId": 103838
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "77",
+        "type": "Substitution",
+        "assist": null,
+        "player": "D. Gul",
+        "playerId": 62559924,
+        "substituted": "V. Osimhen",
+        "assistingPlayerId": 447734
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "time": "78",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Karapo",
+        "playerId": 61220887,
+        "substituted": "J. Jessen",
+        "assistingPlayerId": 68956293
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "88",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Gabriel Sara",
+        "playerId": 12969026,
+        "substituted": "R. Nhaga",
+        "assistingPlayerId": 83489441
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "90",
+        "type": "Goal",
+        "assist": null,
+        "player": "B. Yilmaz",
+        "playerId": 10187268,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "90",
+        "type": "Goal",
+        "assist": "V. Osimhen",
+        "player": "M. Lemina",
+        "playerId": 3050621,
+        "substituted": null,
+        "assistingPlayerId": 447734
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-09T17:02:13.148Z",
+          "probabilities": {
+            "away": "11.16%",
+            "draw": "18.29%",
+            "home": "70.55%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-09T17:12:44.166Z",
+          "probabilities": {
+            "away": "11.98%",
+            "draw": "19.25%",
+            "home": "68.76%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-09T17:22:27.811Z",
+          "probabilities": {
+            "away": "10.46%",
+            "draw": "19.36%",
+            "home": "70.17%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-09T17:32:41.880Z",
+          "probabilities": {
+            "away": "10.23%",
+            "draw": "20.52%",
+            "home": "69.25%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-09T17:42:50.945Z",
+          "probabilities": {
+            "away": "10.54%",
+            "draw": "23.36%",
+            "home": "66.11%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-09T17:53:21.715Z",
+          "probabilities": {
+            "away": "4.16%",
+            "draw": "13.09%",
+            "home": "82.75%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-09T18:02:23.542Z",
+          "probabilities": {
+            "away": "4.13%",
+            "draw": "12.75%",
+            "home": "83.12%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-09T18:15:34.158Z",
+          "probabilities": {
+            "away": "3.67%",
+            "draw": "12.99%",
+            "home": "83.34%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-09T18:24:00.455Z",
+          "probabilities": {
+            "away": "2.79%",
+            "draw": "11.97%",
+            "home": "85.23%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-10-09T18:34:19.175Z",
+          "probabilities": {
+            "away": "21.97%",
+            "draw": "47.20%",
+            "home": "30.83%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "The match will most likely result in a draw.",
+          "generatedAt": "2026-10-09T18:44:11.831Z",
+          "probabilities": {
+            "away": "18.84%",
+            "draw": "57.11%",
+            "home": "24.05%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-09T18:55:22.520Z",
+          "probabilities": {
+            "away": "0.64%",
+            "draw": "9.86%",
+            "home": "89.49%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-02T09:15:59.424Z",
+          "probabilities": {
+            "away": "8.95%",
+            "draw": "15.28%",
+            "home": "75.77%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-02T12:29:13.223Z",
+          "probabilities": {
+            "away": "8.96%",
+            "draw": "15.33%",
+            "home": "75.72%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-02T15:51:51.530Z",
+          "probabilities": {
+            "away": "8.95%",
+            "draw": "15.27%",
+            "home": "75.77%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-02T19:20:36.232Z",
+          "probabilities": {
+            "away": "9.02%",
+            "draw": "15.27%",
+            "home": "75.71%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-03T12:13:25.667Z",
+          "probabilities": {
+            "away": "9.05%",
+            "draw": "15.30%",
+            "home": "75.64%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-03T16:00:23.427Z",
+          "probabilities": {
+            "away": "9.05%",
+            "draw": "15.30%",
+            "home": "75.64%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-03T20:00:21.620Z",
+          "probabilities": {
+            "away": "9.03%",
+            "draw": "15.28%",
+            "home": "75.69%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-04T09:25:28.271Z",
+          "probabilities": {
+            "away": "8.99%",
+            "draw": "15.30%",
+            "home": "75.71%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-04T12:59:31.772Z",
+          "probabilities": {
+            "away": "9.04%",
+            "draw": "15.31%",
+            "home": "75.65%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-04T16:32:45.779Z",
+          "probabilities": {
+            "away": "9.03%",
+            "draw": "15.30%",
+            "home": "75.67%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-04T20:12:33.671Z",
+          "probabilities": {
+            "away": "9.27%",
+            "draw": "15.51%",
+            "home": "75.22%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-05T09:12:57.143Z",
+          "probabilities": {
+            "away": "9.25%",
+            "draw": "15.45%",
+            "home": "75.30%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-05T12:30:50.890Z",
+          "probabilities": {
+            "away": "9.27%",
+            "draw": "15.48%",
+            "home": "75.26%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-05T15:51:45.432Z",
+          "probabilities": {
+            "away": "9.27%",
+            "draw": "15.45%",
+            "home": "75.28%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-05T19:20:21.485Z",
+          "probabilities": {
+            "away": "9.25%",
+            "draw": "15.48%",
+            "home": "75.27%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-06T08:28:52.257Z",
+          "probabilities": {
+            "away": "9.23%",
+            "draw": "15.50%",
+            "home": "75.27%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-06T12:02:31.606Z",
+          "probabilities": {
+            "away": "9.34%",
+            "draw": "15.66%",
+            "home": "75.00%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-06T15:38:23.390Z",
+          "probabilities": {
+            "away": "9.44%",
+            "draw": "15.84%",
+            "home": "74.72%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-06T19:20:06.177Z",
+          "probabilities": {
+            "away": "9.43%",
+            "draw": "15.85%",
+            "home": "74.72%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-07T08:41:22.502Z",
+          "probabilities": {
+            "away": "9.41%",
+            "draw": "15.77%",
+            "home": "74.82%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-07T12:18:52.211Z",
+          "probabilities": {
+            "away": "9.34%",
+            "draw": "15.84%",
+            "home": "74.82%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-07T15:55:50.651Z",
+          "probabilities": {
+            "away": "9.34%",
+            "draw": "15.84%",
+            "home": "74.82%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-07T19:34:21.974Z",
+          "probabilities": {
+            "away": "9.33%",
+            "draw": "15.78%",
+            "home": "74.89%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-08T08:27:44.643Z",
+          "probabilities": {
+            "away": "9.46%",
+            "draw": "15.82%",
+            "home": "74.72%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-08T11:25:53.366Z",
+          "probabilities": {
+            "away": "9.50%",
+            "draw": "15.77%",
+            "home": "74.73%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-08T15:17:55.213Z",
+          "probabilities": {
+            "away": "9.45%",
+            "draw": "15.78%",
+            "home": "74.77%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-08T19:15:24.985Z",
+          "probabilities": {
+            "away": "9.45%",
+            "draw": "15.81%",
+            "home": "74.74%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-09T08:26:55.068Z",
+          "probabilities": {
+            "away": "9.45%",
+            "draw": "16.19%",
+            "home": "74.36%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-09T12:23:39.424Z",
+          "probabilities": {
+            "away": "9.70%",
+            "draw": "15.93%",
+            "home": "74.37%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-09T16:29:12.687Z",
+          "probabilities": {
+            "away": "9.88%",
+            "draw": "16.25%",
+            "home": "73.87%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Kasımpaşa.",
+          "generatedAt": "2026-10-09T20:48:26.440Z",
+          "probabilities": {
+            "away": "10.54%",
+            "draw": "16.89%",
+            "home": "72.57%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "statistics": [
+          {
+            "value": 2.52,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 5,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 88,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 14,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 1.39,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 24,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 188,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 271,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 30,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 51,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 26,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 18,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 115,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 54,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 7,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 3,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 11,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 15,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 23,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 19,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 17,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 29,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.44,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 69,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.63,
+            "displayName": "Possession"
+          },
+          {
+            "value": 11,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 8,
+            "displayName": "Corners"
+          },
+          {
+            "value": 0,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 366,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 1,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 8,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 19,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 435,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 2,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 12,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 2,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 855188,
+          "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+          "name": "Kasımpaşa"
+        },
+        "statistics": [
+          {
+            "value": 0.49,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 2,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 59,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 10,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.27,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 11,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 126,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 140,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 23,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 51,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 19,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 3,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 38,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 34,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 9,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 8,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 12,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 21,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 36,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 11,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 19,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 7,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 16,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.33,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 69,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.37,
+            "displayName": "Possession"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 1,
+            "displayName": "Corners"
+          },
+          {
+            "value": 5,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 186,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 2,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 255,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 9,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 15,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 4,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348345608,
+    "round": "Regular Season - 7",
+    "date": "2026-10-09T17:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "3 - 1",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 855188,
+      "logo": "https://highlightly.net/soccer/images/teams/855188.png",
+      "name": "Kasımpaşa",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "4'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Claudio Winck"
+        },
+        {
+          "time": "32'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Adrian Benedyczak"
+        },
+        {
+          "time": "45 + 5'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Kerem Demirbay"
+        },
+        {
+          "time": "66'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Kerem Demirbay"
+        },
+        {
+          "time": "66'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Thiemoko Diarra"
+        },
+        {
+          "time": "68'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Thiemoko Diarra"
+        },
+        {
+          "time": "68'",
+          "outcome": "Goal",
+          "goalTarget": "High Right",
+          "playerName": "Jesurun Rak-Sakyi"
+        },
+        {
+          "time": "86'",
+          "outcome": "Missed",
+          "goalTarget": "Close High",
+          "playerName": "Jesurun Rak-Sakyi"
+        },
+        {
+          "time": "90 + 3'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Adrian Benedyczak"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 549679,
+      "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+      "name": "Galatasaray",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "3'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Aleksey Batrakov"
+        },
+        {
+          "time": "15'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Deniz Gul"
+        },
+        {
+          "time": "16'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Gabriel Sara"
+        },
+        {
+          "time": "17'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Yunus Akgün"
+        },
+        {
+          "time": "19'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Rafael Leão"
+        },
+        {
+          "time": "23'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Davinson Sanchez"
+        },
+        {
+          "time": "25'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Abdulkerim Bardakci"
+        },
+        {
+          "time": "34'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Gabriel Sara"
+        },
+        {
+          "time": "35'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Yunus Akgün"
+        },
+        {
+          "time": "45'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Abdulkerim Bardakci"
+        },
+        {
+          "time": "45 + 3'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Yunus Akgün"
+        },
+        {
+          "time": "48'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Rafael Leão"
+        },
+        {
+          "time": "54'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Rafael Leão"
+        },
+        {
+          "time": "57'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Gabriel Sara"
+        },
+        {
+          "time": "59'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Gabriel Sara"
+        },
+        {
+          "time": "76'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Yunus Akgün"
+        },
+        {
+          "time": "78'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Leroy Sané"
+        },
+        {
+          "time": "79'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Ismail Jakobs"
+        },
+        {
+          "time": "79'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "79'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Davinson Sanchez"
+        },
+        {
+          "time": "79'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "82'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "83'",
+          "outcome": "Missed",
+          "goalTarget": "Close High",
+          "playerName": "Mario Lemina"
+        },
+        {
+          "time": "90'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Baris Yilmaz"
+        },
+        {
+          "time": "90 + 6'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Mario Lemina"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

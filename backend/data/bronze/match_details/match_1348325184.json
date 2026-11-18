@@ -1,0 +1,889 @@
+[
+  {
+    "venue": {
+      "city": "Kocaeli",
+      "name": "Yildiz Entegre Kocaeli Stadyumu",
+      "country": "Turkiye",
+      "capacity": "34829"
+    },
+    "referee": {
+      "name": "Coskunses, Resat Onur",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "partly cloudy night",
+      "temperature": "23.59°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "26",
+        "type": "Goal",
+        "assist": null,
+        "player": "Florian Aye",
+        "playerId": 3346056,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "28",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Massadio Haïdara",
+        "playerId": 536767,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "45",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Ugur Kaan Yildiz",
+        "playerId": 23156301,
+        "substituted": "Mahamadou Susoho",
+        "assistingPlayerId": 52823771
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "45",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Daniel Agyei",
+        "playerId": 14134505,
+        "substituted": "Makana Baku",
+        "assistingPlayerId": 4277602
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "68",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Berkan Kutlu",
+        "playerId": 42605101,
+        "substituted": "Tobias Gulliksen",
+        "assistingPlayerId": 23514687
+      },
+      {
+        "team": {
+          "id": 3066937,
+          "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+          "name": "Samsunspor"
+        },
+        "time": "69",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Samed Onur",
+        "playerId": 32681866,
+        "substituted": "Enes Albak",
+        "assistingPlayerId": 63566013
+      },
+      {
+        "team": {
+          "id": 3066937,
+          "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+          "name": "Samsunspor"
+        },
+        "time": "77",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Yalçın Kayan",
+        "playerId": 8079295,
+        "substituted": "Igor Drapinski",
+        "assistingPlayerId": 55790196
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "82",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Florian Aye",
+        "playerId": 3346056,
+        "substituted": "Metehan Altunbas",
+        "assistingPlayerId": 10011295
+      },
+      {
+        "team": {
+          "id": 3066937,
+          "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+          "name": "Samsunspor"
+        },
+        "time": "88",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Antoine Sekongo",
+        "playerId": 70435078,
+        "substituted": "Strahinja Erakovic",
+        "assistingPlayerId": 21476105
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "90",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Gonçalo Sousa",
+        "playerId": 64488704,
+        "substituted": "Emir Ortakaya",
+        "assistingPlayerId": 47070597
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-09-06T17:59:02.353Z",
+          "probabilities": {
+            "away": "13.95%",
+            "draw": "27.54%",
+            "home": "58.51%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Samsunspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-08-30T15:04:25.080Z",
+          "probabilities": {
+            "away": "39.55%",
+            "draw": "25.12%",
+            "home": "35.34%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-30T19:53:46.402Z",
+          "probabilities": {
+            "away": "32.79%",
+            "draw": "31.54%",
+            "home": "35.67%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-08-31T10:13:35.482Z",
+          "probabilities": {
+            "away": "32.77%",
+            "draw": "31.45%",
+            "home": "35.78%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-09-01T10:46:19.130Z",
+          "probabilities": {
+            "away": "32.28%",
+            "draw": "30.78%",
+            "home": "36.94%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-09-01T16:00:28.974Z",
+          "probabilities": {
+            "away": "32.26%",
+            "draw": "30.78%",
+            "home": "36.95%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-09-01T21:17:23.694Z",
+          "probabilities": {
+            "away": "32.20%",
+            "draw": "30.79%",
+            "home": "37.00%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-09-02T12:16:36.135Z",
+          "probabilities": {
+            "away": "32.07%",
+            "draw": "30.76%",
+            "home": "37.17%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-09-02T17:34:47.901Z",
+          "probabilities": {
+            "away": "32.03%",
+            "draw": "30.79%",
+            "home": "37.18%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-09-03T12:18:41.601Z",
+          "probabilities": {
+            "away": "31.95%",
+            "draw": "30.82%",
+            "home": "37.23%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-09-03T17:37:46.209Z",
+          "probabilities": {
+            "away": "32.31%",
+            "draw": "30.83%",
+            "home": "36.86%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-09-04T11:22:01.611Z",
+          "probabilities": {
+            "away": "31.87%",
+            "draw": "30.79%",
+            "home": "37.34%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-09-04T17:16:18.245Z",
+          "probabilities": {
+            "away": "31.28%",
+            "draw": "31.02%",
+            "home": "37.70%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-09-05T11:09:01.513Z",
+          "probabilities": {
+            "away": "31.68%",
+            "draw": "30.95%",
+            "home": "37.37%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-09-05T16:12:56.275Z",
+          "probabilities": {
+            "away": "31.69%",
+            "draw": "30.97%",
+            "home": "37.35%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Samsunspor.",
+          "generatedAt": "2026-09-05T20:06:57.403Z",
+          "probabilities": {
+            "away": "31.74%",
+            "draw": "30.94%",
+            "home": "37.32%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "statistics": [
+          {
+            "value": 1.59,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 3,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 92,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 14,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.24,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 2,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 12,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 239,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 198,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 26,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 55,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 23,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 6,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 58,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 83,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 7,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 13,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 7,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 13,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 20,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 13,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 24,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 9,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 17,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.44,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 83,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.44,
+            "displayName": "Possession"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 4,
+            "displayName": "Corners"
+          },
+          {
+            "value": 0,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 342,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 1,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 425,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 4,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 13,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 1,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 3066937,
+          "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+          "name": "Samsunspor"
+        },
+        "statistics": [
+          {
+            "value": 1.74,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 3,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 106,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 12,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 1.41,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 16,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 270,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 296,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 23,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 51,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 23,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 18,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 97,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 77,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 6,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 15,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 15,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 19,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 11,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 24,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 6,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 12,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.2,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 84,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.56,
+            "displayName": "Possession"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 4,
+            "displayName": "Corners"
+          },
+          {
+            "value": 0,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 466,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 14,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 2,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 14,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 550,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 3,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 14,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 0,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348325184,
+    "round": "Regular Season - 4",
+    "date": "2026-09-06T17:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "1 - 0",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 3066937,
+      "logo": "https://highlightly.net/soccer/images/teams/3066937.png",
+      "name": "Samsunspor",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "3'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Saikuba Jarju"
+        },
+        {
+          "time": "4'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Antoine Sekongo"
+        },
+        {
+          "time": "9'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Emre Kılınç"
+        },
+        {
+          "time": "10'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Celil Yüksel"
+        },
+        {
+          "time": "16'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Saikuba Jarju"
+        },
+        {
+          "time": "18'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Samed Onur"
+        },
+        {
+          "time": "23'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Gabriele Guarino"
+        },
+        {
+          "time": "23'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Antoine Sekongo"
+        },
+        {
+          "time": "25'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Saikuba Jarju"
+        },
+        {
+          "time": "26'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Yalcin Kayan"
+        },
+        {
+          "time": "31'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Antoine Sekongo"
+        },
+        {
+          "time": "32'",
+          "outcome": "Post",
+          "goalTarget": null,
+          "playerName": "Logi Tómasson"
+        },
+        {
+          "time": "32'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Saikuba Jarju"
+        },
+        {
+          "time": "35'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Celil Yüksel"
+        },
+        {
+          "time": "45'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Logi Tómasson"
+        },
+        {
+          "time": "60'",
+          "outcome": "Saved",
+          "goalTarget": "High Right",
+          "playerName": "Samed Onur"
+        },
+        {
+          "time": "73'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Joe Mendes"
+        },
+        {
+          "time": "84'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Enes Albak"
+        },
+        {
+          "time": "86'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Emre Kılınç"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 6307545,
+      "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+      "name": "Kocaelispor FK",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "26'",
+          "outcome": "Goal",
+          "goalTarget": "High Centre",
+          "playerName": "Florian Aye"
+        },
+        {
+          "time": "37'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Massadio Haidara"
+        },
+        {
+          "time": "38'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Berkan Kutlu"
+        },
+        {
+          "time": "49'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Makana Baku"
+        },
+        {
+          "time": "53'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Mahamadou Susoho"
+        },
+        {
+          "time": "54'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Makana Baku"
+        },
+        {
+          "time": "56'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Mahamadou Susoho"
+        },
+        {
+          "time": "68'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Makana Baku"
+        },
+        {
+          "time": "86'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Metehan Altunbaş"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

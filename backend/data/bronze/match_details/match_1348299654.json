@@ -1,0 +1,1135 @@
+[
+  {
+    "venue": {
+      "city": "Istanbul",
+      "name": "Rams Park",
+      "country": "Turkiye",
+      "capacity": "52650"
+    },
+    "referee": {
+      "name": "Kolak, Batuhan",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "clear night",
+      "temperature": "23.35°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "32",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Yunus Akgün",
+        "playerId": 73248,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "53",
+        "type": "Goal",
+        "assist": "Lucas Torreira",
+        "player": "Victor Osimhen",
+        "playerId": 447734,
+        "substituted": null,
+        "assistingPlayerId": 235536
+      },
+      {
+        "team": {
+          "id": 5398677,
+          "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+          "name": "Yeni Çorumspor"
+        },
+        "time": "54",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Markus Karlsbakk",
+        "playerId": 9201626,
+        "substituted": "Mohammed Diomande",
+        "assistingPlayerId": 32141872
+      },
+      {
+        "team": {
+          "id": 5398677,
+          "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+          "name": "Yeni Çorumspor"
+        },
+        "time": "59",
+        "type": "Goal",
+        "assist": "Fredy",
+        "player": "Alexandros Kyziridis",
+        "playerId": 10982447,
+        "substituted": null,
+        "assistingPlayerId": 8047900
+      },
+      {
+        "team": {
+          "id": 5398677,
+          "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+          "name": "Yeni Çorumspor"
+        },
+        "time": "61",
+        "type": "Goal",
+        "assist": null,
+        "player": "Jesús Ramírez",
+        "playerId": 16737392,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 5398677,
+          "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+          "name": "Yeni Çorumspor"
+        },
+        "time": "68",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Serdar Gürler",
+        "playerId": 8079134,
+        "substituted": "Mame Thiam",
+        "assistingPlayerId": 8124858
+      },
+      {
+        "team": {
+          "id": 5398677,
+          "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+          "name": "Yeni Çorumspor"
+        },
+        "time": "70",
+        "type": "Red Card",
+        "assist": null,
+        "player": "Alexandros Kyziridis",
+        "playerId": 10982447,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "71",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Davinson Sánchez",
+        "playerId": 27202,
+        "substituted": "Mario Lemina",
+        "assistingPlayerId": 3050621
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "71",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Ismail Jakobs",
+        "playerId": 25457635,
+        "substituted": "Eren Elmalı",
+        "assistingPlayerId": 8059331
+      },
+      {
+        "team": {
+          "id": 5398677,
+          "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+          "name": "Yeni Çorumspor"
+        },
+        "time": "76",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Fredy",
+        "playerId": 8047900,
+        "substituted": "Ahmed Ildız",
+        "assistingPlayerId": 8036147
+      },
+      {
+        "team": {
+          "id": 5398677,
+          "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+          "name": "Yeni Çorumspor"
+        },
+        "time": "76",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Hrvoje Smolčić",
+        "playerId": 2298590,
+        "substituted": "Arda Sengul",
+        "assistingPlayerId": 10180345
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "84",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Abdülkerim Bardakcı",
+        "playerId": 9955911,
+        "substituted": "Kazımcan Karataş",
+        "assistingPlayerId": 23354331
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "84",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Lucas Torreira",
+        "playerId": 235536,
+        "substituted": "İlkay Gündoğan",
+        "assistingPlayerId": 102067
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "89",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Leroy Sané",
+        "playerId": 103838,
+        "substituted": "Kaan Ayhan",
+        "assistingPlayerId": 4097282
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "90",
+        "type": "Goal",
+        "assist": "Gabriel Sara",
+        "player": "Victor Osimhen",
+        "playerId": 447734,
+        "substituted": null,
+        "assistingPlayerId": 12969026
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-08-14T19:03:52.148Z",
+          "probabilities": {
+            "away": "10.61%",
+            "draw": "22.27%",
+            "home": "67.12%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-08-14T19:51:54.358Z",
+          "probabilities": {
+            "away": "7.17%",
+            "draw": "26.26%",
+            "home": "66.57%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-08-07T10:06:39.941Z",
+          "probabilities": {
+            "away": "7.65%",
+            "draw": "14.01%",
+            "home": "78.34%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-08-07T16:29:52.337Z",
+          "probabilities": {
+            "away": "7.63%",
+            "draw": "14.05%",
+            "home": "78.32%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-08-08T10:46:54.189Z",
+          "probabilities": {
+            "away": "7.64%",
+            "draw": "13.96%",
+            "home": "78.41%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-08-09T19:25:33.201Z",
+          "probabilities": {
+            "away": "7.55%",
+            "draw": "13.94%",
+            "home": "78.51%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-08-10T16:38:13.939Z",
+          "probabilities": {
+            "away": "7.54%",
+            "draw": "13.95%",
+            "home": "78.51%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-08-11T09:13:46.762Z",
+          "probabilities": {
+            "away": "7.28%",
+            "draw": "13.72%",
+            "home": "79.01%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-08-11T13:07:03.073Z",
+          "probabilities": {
+            "away": "7.28%",
+            "draw": "13.73%",
+            "home": "79.00%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-08-11T18:43:09.605Z",
+          "probabilities": {
+            "away": "7.32%",
+            "draw": "13.69%",
+            "home": "78.99%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-08-12T09:31:35.861Z",
+          "probabilities": {
+            "away": "7.19%",
+            "draw": "13.39%",
+            "home": "79.42%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-08-12T13:37:24.241Z",
+          "probabilities": {
+            "away": "7.14%",
+            "draw": "13.50%",
+            "home": "79.36%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-08-12T17:31:13.744Z",
+          "probabilities": {
+            "away": "7.20%",
+            "draw": "13.44%",
+            "home": "79.36%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-08-12T20:55:39.297Z",
+          "probabilities": {
+            "away": "7.20%",
+            "draw": "13.36%",
+            "home": "79.43%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-08-13T12:51:17.092Z",
+          "probabilities": {
+            "away": "7.24%",
+            "draw": "13.50%",
+            "home": "79.26%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-08-13T17:14:11.201Z",
+          "probabilities": {
+            "away": "7.20%",
+            "draw": "13.53%",
+            "home": "79.27%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-08-13T21:33:59.661Z",
+          "probabilities": {
+            "away": "7.17%",
+            "draw": "13.55%",
+            "home": "79.28%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-08-14T08:53:45.413Z",
+          "probabilities": {
+            "away": "9.16%",
+            "draw": "16.05%",
+            "home": "74.79%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-08-14T12:43:06.642Z",
+          "probabilities": {
+            "away": "9.89%",
+            "draw": "16.61%",
+            "home": "73.49%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-08-14T17:16:23.500Z",
+          "probabilities": {
+            "away": "10.55%",
+            "draw": "17.57%",
+            "home": "71.88%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Yeni Çorumspor.",
+          "generatedAt": "2026-08-14T21:48:41.698Z",
+          "probabilities": {
+            "away": "11.26%",
+            "draw": "18.00%",
+            "home": "70.74%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "statistics": [
+          {
+            "value": 2.9,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 8,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 134,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 6,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 2.77,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 15,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 44,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 169,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 398,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 19,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 38,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 27,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 34,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 167,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 49,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 6,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 6,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 7,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 18,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 18,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 31,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 19,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.34,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 57,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.64,
+            "displayName": "Possession"
+          },
+          {
+            "value": 13,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 8,
+            "displayName": "Corners"
+          },
+          {
+            "value": 4,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 466,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 16,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 9,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 22,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 523,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 1,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 11,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 1,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 16,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 5398677,
+          "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+          "name": "Yeni Çorumspor"
+        },
+        "statistics": [
+          {
+            "value": 0.61,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 1,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 55,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 10,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.39,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 1,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 7,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 150,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 163,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 28,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 83,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 12,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 6,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 38,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 39,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 19,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 5,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 11,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 16,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 52,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 13,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 31,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 6,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.38,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 91,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.36,
+            "displayName": "Possession"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 1,
+            "displayName": "Corners"
+          },
+          {
+            "value": 4,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 215,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 1,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 2,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 306,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 11,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 6,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 0,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348299654,
+    "round": "Regular Season - 1",
+    "date": "2026-08-14T18:30:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "2 - 2",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 5398677,
+      "logo": "https://highlightly.net/soccer/images/teams/5398677.png",
+      "name": "Yeni Çorumspor",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "11'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Jesus Ramirez"
+        },
+        {
+          "time": "20'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Serdar Gürler"
+        },
+        {
+          "time": "44'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Andrei Borza"
+        },
+        {
+          "time": "56'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Fredy"
+        },
+        {
+          "time": "59'",
+          "outcome": "Goal",
+          "goalTarget": "High Right",
+          "playerName": "Alexandros Kyziridis"
+        },
+        {
+          "time": "61'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Jesus Ramirez"
+        },
+        {
+          "time": "63'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Hrvoje Smolcic"
+        },
+        {
+          "time": "80'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Jesus Ramirez"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 549679,
+      "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+      "name": "Galatasaray",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "7'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Gabriel Sara"
+        },
+        {
+          "time": "9'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Gabriel Sara"
+        },
+        {
+          "time": "9'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Baris Yilmaz"
+        },
+        {
+          "time": "13'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "15'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "25'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "28'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Leroy Sané"
+        },
+        {
+          "time": "30'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Abdulkerim Bardakci"
+        },
+        {
+          "time": "34'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "35'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "36'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Roland Sallai"
+        },
+        {
+          "time": "36'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Yunus Akgün"
+        },
+        {
+          "time": "36'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Roland Sallai"
+        },
+        {
+          "time": "39'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Gabriel Sara"
+        },
+        {
+          "time": "43'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Baris Yilmaz"
+        },
+        {
+          "time": "43'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "46'",
+          "outcome": "Saved",
+          "goalTarget": "High Centre",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "47'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Roland Sallai"
+        },
+        {
+          "time": "50'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Baris Yilmaz"
+        },
+        {
+          "time": "53'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "64'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Leroy Sané"
+        },
+        {
+          "time": "64'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Abdulkerim Bardakci"
+        },
+        {
+          "time": "65'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Yunus Akgün"
+        },
+        {
+          "time": "65'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "67'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "78'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Leroy Sané"
+        },
+        {
+          "time": "80'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Gabriel Sara"
+        },
+        {
+          "time": "82'",
+          "outcome": "Missed",
+          "goalTarget": "Close High",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "87'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Leroy Sané"
+        },
+        {
+          "time": "87'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Kazımcan Karataş"
+        },
+        {
+          "time": "88'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Yunus Akgün"
+        },
+        {
+          "time": "89'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Eren  Elmalı"
+        },
+        {
+          "time": "90'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "90 + 4'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Gabriel Sara"
+        },
+        {
+          "time": "90 + 5'",
+          "outcome": "Missed",
+          "goalTarget": "Close High",
+          "playerName": "Yunus Akgün"
+        },
+        {
+          "time": "90 + 6'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Kazımcan Karataş"
+        },
+        {
+          "time": "90 + 6'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Gabriel Sara"
+        },
+        {
+          "time": "90 + 8'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Yunus Akgün"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": [
+      {
+        "url": "https://www.goal.com/en/news/explosive-swap-deal-arsenal-close-in-on-osimhen-in-exchange-for-two-players/blt37391d1c9ac27328",
+        "image": "https://assets.goal.com/images/v3/bltfdc65940323b0e42/GOAL%20-%20Blank%20WEB%20-%20Facebook%20-%202026-08-14T101253.614.png",
+        "title": "A blockbuster swap: Arsenal close in on Osimhen in exchange for two of the team's players | Goal.com",
+        "datePublished": "2026-08-14T20:20:22Z"
+      },
+      {
+        "url": "https://football-italia.net/lazio-want-free-agent-icardi-after-galatasaray/",
+        "image": "https://icdn.football-italia.net/wp-content/uploads/2026/06/juventus-v-galatasaray-as-uefa-champions-league-2025-26-league-knockout-play-off-second-leg-1.jpg",
+        "title": "Lazio want free agent Icardi after Galatasaray adventure",
+        "datePublished": "2026-08-12T18:23:26Z"
+      }
+    ]
+  }
+]

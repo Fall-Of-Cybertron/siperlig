@@ -1,0 +1,1173 @@
+[
+  {
+    "venue": {
+      "city": "Istanbul",
+      "name": "Rams Park",
+      "country": "Turkiye",
+      "capacity": "52650"
+    },
+    "referee": {
+      "name": "Karaoglan, Atilla",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "cloudy",
+      "temperature": "16.55°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "10",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "İrfan Can Kahveci",
+        "playerId": 8027131,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "11",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Milan Škriniar",
+        "playerId": 32032,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "19",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Davinson Sánchez",
+        "playerId": 27202,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "29",
+        "type": "Goal",
+        "assist": "B. Yilmaz",
+        "player": "V. Osimhen",
+        "playerId": 447734,
+        "substituted": null,
+        "assistingPlayerId": 10187268
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "31",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "N'Golo Kanté",
+        "playerId": 368844,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "44",
+        "type": "Goal",
+        "assist": "D. Sanchez",
+        "player": "V. Osimhen",
+        "playerId": 447734,
+        "substituted": null,
+        "assistingPlayerId": 27202
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "54",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Nélson Semedo",
+        "playerId": 21084,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "55",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Greenwood",
+        "playerId": 144571,
+        "substituted": "K. Akturkoglu",
+        "assistingPlayerId": 23016553
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "56",
+        "type": "Substitution",
+        "assist": null,
+        "player": "L. Mercan",
+        "playerId": 20545203,
+        "substituted": "K. Peprah",
+        "assistingPlayerId": 65071846
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "62",
+        "type": "Goal",
+        "assist": "O. Aydin",
+        "player": "I. Kahveci",
+        "playerId": 8027131,
+        "substituted": null,
+        "assistingPlayerId": 21669144
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "64",
+        "type": "Substitution",
+        "assist": null,
+        "player": "B. Yilmaz",
+        "playerId": 10187268,
+        "substituted": "R. Leao",
+        "assistingPlayerId": 3580150
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "78",
+        "type": "Substitution",
+        "assist": null,
+        "player": "I. Kahveci",
+        "playerId": 8027131,
+        "substituted": "M. Yandas",
+        "assistingPlayerId": 8065771
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "78",
+        "type": "Substitution",
+        "assist": null,
+        "player": "O. Aydin",
+        "playerId": 21669144,
+        "substituted": "D. Nene",
+        "assistingPlayerId": 48762063
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "80",
+        "type": "Substitution",
+        "assist": null,
+        "player": "I. Jakobs",
+        "playerId": 25457635,
+        "substituted": "E. Elmali",
+        "assistingPlayerId": 8059331
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "80",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Batrakov",
+        "playerId": 64572907,
+        "substituted": "Gabriel Sara",
+        "assistingPlayerId": 12969026
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "80",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Y. Akgun",
+        "playerId": 73248,
+        "substituted": "L. Sane",
+        "assistingPlayerId": 103838
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "83",
+        "type": "Substitution",
+        "assist": null,
+        "player": "N. Kante",
+        "playerId": 368844,
+        "substituted": "V. Muriqi",
+        "assistingPlayerId": 8057882
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "88",
+        "type": "Substitution",
+        "assist": null,
+        "player": "V. Osimhen",
+        "playerId": 447734,
+        "substituted": "W. Singo",
+        "assistingPlayerId": 4911298
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "89",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Rafael Leão",
+        "playerId": 3580150,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "time": "90+1",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Archie Brown",
+        "playerId": 26027575,
+        "substituted": null,
+        "assistingPlayerId": null
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-26T18:30:50.554Z",
+          "probabilities": {
+            "away": "28.70%",
+            "draw": "24.46%",
+            "home": "46.84%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-26T18:40:50.482Z",
+          "probabilities": {
+            "away": "27.31%",
+            "draw": "24.66%",
+            "home": "48.03%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-26T18:50:57.353Z",
+          "probabilities": {
+            "away": "26.58%",
+            "draw": "25.46%",
+            "home": "47.96%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-26T19:00:38.273Z",
+          "probabilities": {
+            "away": "13.86%",
+            "draw": "21.15%",
+            "home": "64.99%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-26T19:10:43.482Z",
+          "probabilities": {
+            "away": "10.54%",
+            "draw": "19.75%",
+            "home": "69.71%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-26T19:20:40.151Z",
+          "probabilities": {
+            "away": "3.44%",
+            "draw": "8.81%",
+            "home": "87.74%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-26T19:30:48.150Z",
+          "probabilities": {
+            "away": "3.46%",
+            "draw": "8.84%",
+            "home": "87.70%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-26T19:40:58.105Z",
+          "probabilities": {
+            "away": "3.03%",
+            "draw": "8.45%",
+            "home": "88.52%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-26T19:51:07.495Z",
+          "probabilities": {
+            "away": "2.62%",
+            "draw": "8.68%",
+            "home": "88.70%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-26T20:00:56.761Z",
+          "probabilities": {
+            "away": "4.40%",
+            "draw": "17.81%",
+            "home": "77.79%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-26T20:11:05.983Z",
+          "probabilities": {
+            "away": "2.09%",
+            "draw": "14.35%",
+            "home": "83.56%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-26T20:21:07.929Z",
+          "probabilities": {
+            "away": "0.55%",
+            "draw": "9.00%",
+            "home": "90.45%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-19T12:22:32.790Z",
+          "probabilities": {
+            "away": "32.00%",
+            "draw": "26.08%",
+            "home": "41.92%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-19T15:59:41.180Z",
+          "probabilities": {
+            "away": "33.14%",
+            "draw": "25.65%",
+            "home": "41.21%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-19T19:43:21.869Z",
+          "probabilities": {
+            "away": "33.04%",
+            "draw": "25.76%",
+            "home": "41.20%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-20T09:32:27.535Z",
+          "probabilities": {
+            "away": "32.92%",
+            "draw": "25.32%",
+            "home": "41.76%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-20T13:29:57.423Z",
+          "probabilities": {
+            "away": "32.90%",
+            "draw": "25.32%",
+            "home": "41.78%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-20T17:39:55.439Z",
+          "probabilities": {
+            "away": "32.88%",
+            "draw": "25.31%",
+            "home": "41.81%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-20T21:37:25.422Z",
+          "probabilities": {
+            "away": "32.74%",
+            "draw": "25.24%",
+            "home": "42.02%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-21T09:17:31.376Z",
+          "probabilities": {
+            "away": "32.69%",
+            "draw": "25.29%",
+            "home": "42.02%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-21T16:33:34.905Z",
+          "probabilities": {
+            "away": "31.95%",
+            "draw": "25.04%",
+            "home": "43.01%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-21T20:59:47.431Z",
+          "probabilities": {
+            "away": "31.86%",
+            "draw": "25.05%",
+            "home": "43.09%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-22T12:04:36.539Z",
+          "probabilities": {
+            "away": "31.88%",
+            "draw": "25.08%",
+            "home": "43.05%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-22T16:27:33.907Z",
+          "probabilities": {
+            "away": "31.93%",
+            "draw": "25.02%",
+            "home": "43.05%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-22T21:01:39.946Z",
+          "probabilities": {
+            "away": "32.06%",
+            "draw": "24.96%",
+            "home": "42.98%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-23T09:45:17.276Z",
+          "probabilities": {
+            "away": "32.10%",
+            "draw": "24.93%",
+            "home": "42.97%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-24T11:06:54.322Z",
+          "probabilities": {
+            "away": "31.78%",
+            "draw": "24.96%",
+            "home": "43.25%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-25T11:22:32.723Z",
+          "probabilities": {
+            "away": "31.59%",
+            "draw": "24.92%",
+            "home": "43.48%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Fenerbahce.",
+          "generatedAt": "2026-10-26T09:22:22.565Z",
+          "probabilities": {
+            "away": "29.43%",
+            "draw": "24.41%",
+            "home": "46.16%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "statistics": [
+          {
+            "value": 2.27,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 3,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 81,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 18,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 1.51,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 5,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 18,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 197,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 247,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 45,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 72,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 17,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 19,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 106,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 76,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 8,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 10,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 6,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 15,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 26,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 13,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 30,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 6,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 18,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.35,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 59,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.62,
+            "displayName": "Possession"
+          },
+          {
+            "value": 8,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 10,
+            "displayName": "Corners"
+          },
+          {
+            "value": 4,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 367,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 12,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 3,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 15,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 426,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 1,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 10,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 2,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 8,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 520745,
+          "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+          "name": "Fenerbahce"
+        },
+        "statistics": [
+          {
+            "value": 0.31,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 1,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 55,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 10,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.46,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 2,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 17,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 118,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 154,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 20,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 47,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 25,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 3,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 41,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 39,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 13,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 7,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 12,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 20,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 26,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 17,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 30,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 10,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 16,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.75,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 74,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.38,
+            "displayName": "Possession"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 4,
+            "displayName": "Corners"
+          },
+          {
+            "value": 1,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 181,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 1,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 0,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 255,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 6,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 18,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 5,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 1,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348360926,
+    "round": "Regular Season - 9",
+    "date": "2026-10-26T18:30:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "2 - 1",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 520745,
+      "logo": "https://highlightly.net/soccer/images/teams/520745.png",
+      "name": "Fenerbahce",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "51'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Romelu Lukaku"
+        },
+        {
+          "time": "62'",
+          "outcome": "Goal",
+          "goalTarget": "High Left",
+          "playerName": "Irfan Kahveci"
+        },
+        {
+          "time": "90'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Milan Skriniar"
+        },
+        {
+          "time": "90 + 5'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Kerem Aktürkoğlu"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 549679,
+      "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+      "name": "Galatasaray",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "4'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Roland Sallai"
+        },
+        {
+          "time": "13'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "15'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Baris Yilmaz"
+        },
+        {
+          "time": "15'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "17'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Baris Yilmaz"
+        },
+        {
+          "time": "29'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "35'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "38'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "44'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Davinson Sanchez"
+        },
+        {
+          "time": "44'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "45 + 2'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Aleksey Batrakov"
+        },
+        {
+          "time": "49'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Aleksey Batrakov"
+        },
+        {
+          "time": "55'",
+          "outcome": "Post",
+          "goalTarget": null,
+          "playerName": "Ismail Jakobs"
+        },
+        {
+          "time": "55'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Baris Yilmaz"
+        },
+        {
+          "time": "67'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Yunus Akgün"
+        },
+        {
+          "time": "70'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Lucas Torreira"
+        },
+        {
+          "time": "72'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Davinson Sanchez"
+        },
+        {
+          "time": "72'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Lucas Torreira"
+        },
+        {
+          "time": "75'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Rafael Leão"
+        },
+        {
+          "time": "75'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Ismail Jakobs"
+        },
+        {
+          "time": "80'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Victor Osimhen"
+        },
+        {
+          "time": "87'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Rafael Leão"
+        },
+        {
+          "time": "90 + 1'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Leroy Sané"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": [
+      {
+        "url": "https://www.fourfourtwo.com/competition/watch-galatasaray-vs-fenerbahce-free",
+        "image": "https://cdn.mos.cms.futurecdn.net/TNjQUzqF3j9dje6zebQwFX-2047-80.jpg",
+        "title": "How to watch Galatasaray vs Fenerbahce: Live Streams",
+        "datePublished": "2026-10-26T14:00:00Z"
+      }
+    ]
+  }
+]

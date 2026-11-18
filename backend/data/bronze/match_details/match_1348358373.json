@@ -1,0 +1,1238 @@
+[
+  {
+    "venue": {
+      "city": "Alanya",
+      "name": "Alanya Oba Stadyumu",
+      "country": "Turkiye",
+      "capacity": "9784"
+    },
+    "referee": {
+      "name": "Sansalan, Ali",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "clear night",
+      "temperature": "19.06°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "-5",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Onur Öztonga",
+        "playerId": 23250647,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "27",
+        "type": "Goal",
+        "assist": "R. Rivas",
+        "player": "B. Kutlu",
+        "playerId": 42605101,
+        "substituted": null,
+        "assistingPlayerId": 5036234
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "42",
+        "type": "Goal",
+        "assist": "F. Aye",
+        "player": "M. Baku",
+        "playerId": 4277602,
+        "substituted": null,
+        "assistingPlayerId": 3346056
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "45+1",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Emir Ortakaya",
+        "playerId": 47070597,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "time": "46",
+        "type": "Substitution",
+        "assist": null,
+        "player": "G. Makouta",
+        "playerId": 6758129,
+        "substituted": "Maestro",
+        "assistingPlayerId": 38176474
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "time": "46",
+        "type": "Substitution",
+        "assist": null,
+        "player": "I. Hagi",
+        "playerId": 6936678,
+        "substituted": "E. Keskin",
+        "assistingPlayerId": 21653044
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "time": "46",
+        "type": "Substitution",
+        "assist": null,
+        "player": "A. Usluoglu",
+        "playerId": 57007356,
+        "substituted": "Bikoue",
+        "assistingPlayerId": 45966620
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "time": "52",
+        "type": "Goal",
+        "assist": "E. Keskin",
+        "player": "Ruan",
+        "playerId": 61888232,
+        "substituted": null,
+        "assistingPlayerId": 21653044
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "time": "53",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Fatih Aksoy",
+        "playerId": 8062873,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "61",
+        "type": "Substitution",
+        "assist": null,
+        "player": "G. Sousa",
+        "playerId": 64488704,
+        "substituted": "D. Agyei",
+        "assistingPlayerId": 14134505
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "67",
+        "type": "Substitution",
+        "assist": null,
+        "player": "R. Rivas",
+        "playerId": 5036234,
+        "substituted": "M. Cinan",
+        "assistingPlayerId": 10148628
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "67",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Baku",
+        "playerId": 4277602,
+        "substituted": "M. Altunbas",
+        "assistingPlayerId": 10011295
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "time": "70",
+        "type": "Substitution",
+        "assist": null,
+        "player": "B. Gezek",
+        "playerId": 59881206,
+        "substituted": "I. Celik",
+        "assistingPlayerId": 45526607
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "time": "77",
+        "type": "Substitution",
+        "assist": null,
+        "player": "F. Aksoy",
+        "playerId": 8062873,
+        "substituted": "O. Ben Ali",
+        "assistingPlayerId": 74596284
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "81",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Berkan Kutlu",
+        "playerId": 42605101,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "82",
+        "type": "Substitution",
+        "assist": null,
+        "player": "B. Kutlu",
+        "playerId": 42605101,
+        "substituted": "M. Maglica",
+        "assistingPlayerId": 43831116
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "82",
+        "type": "Substitution",
+        "assist": null,
+        "player": "F. Aye",
+        "playerId": 3346056,
+        "substituted": "T. Gulliksen",
+        "assistingPlayerId": 23514687
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "time": "90+2",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "İzzet Çelik",
+        "playerId": 45526607,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "time": "90",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Fidan Aliti",
+        "playerId": 7762125,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "time": "90+3",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Show",
+        "playerId": 533708,
+        "substituted": null,
+        "assistingPlayerId": null
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-23T17:13:05.722Z",
+          "probabilities": {
+            "away": "26.14%",
+            "draw": "31.00%",
+            "home": "42.86%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-23T17:23:07.043Z",
+          "probabilities": {
+            "away": "26.94%",
+            "draw": "33.78%",
+            "home": "39.28%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-23T17:32:49.494Z",
+          "probabilities": {
+            "away": "52.18%",
+            "draw": "29.15%",
+            "home": "18.67%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-23T17:43:35.380Z",
+          "probabilities": {
+            "away": "71.18%",
+            "draw": "19.87%",
+            "home": "8.95%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-23T17:53:32.124Z",
+          "probabilities": {
+            "away": "81.78%",
+            "draw": "13.13%",
+            "home": "5.09%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-23T18:02:28.264Z",
+          "probabilities": {
+            "away": "83.85%",
+            "draw": "11.63%",
+            "home": "4.52%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-23T18:14:00.177Z",
+          "probabilities": {
+            "away": "63.88%",
+            "draw": "25.16%",
+            "home": "10.96%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-23T18:24:11.727Z",
+          "probabilities": {
+            "away": "68.24%",
+            "draw": "24.17%",
+            "home": "7.58%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-23T18:33:20.691Z",
+          "probabilities": {
+            "away": "73.94%",
+            "draw": "21.52%",
+            "home": "4.54%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-23T18:44:00.676Z",
+          "probabilities": {
+            "away": "81.19%",
+            "draw": "16.55%",
+            "home": "2.26%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Kocaelispor FK is most likely to win the game against Alanyaspor.",
+          "generatedAt": "2026-10-23T18:54:25.105Z",
+          "probabilities": {
+            "away": "93.43%",
+            "draw": "6.15%",
+            "home": "0.42%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-16T09:39:12.000Z",
+          "probabilities": {
+            "away": "27.75%",
+            "draw": "24.59%",
+            "home": "47.67%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-16T13:56:26.805Z",
+          "probabilities": {
+            "away": "27.75%",
+            "draw": "24.59%",
+            "home": "47.67%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-16T18:37:41.640Z",
+          "probabilities": {
+            "away": "23.67%",
+            "draw": "29.12%",
+            "home": "47.20%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-17T11:22:57.207Z",
+          "probabilities": {
+            "away": "23.64%",
+            "draw": "29.13%",
+            "home": "47.23%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-17T16:15:04.381Z",
+          "probabilities": {
+            "away": "23.64%",
+            "draw": "29.17%",
+            "home": "47.19%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-17T21:24:29.474Z",
+          "probabilities": {
+            "away": "23.64%",
+            "draw": "29.20%",
+            "home": "47.16%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-18T12:10:48.508Z",
+          "probabilities": {
+            "away": "23.64%",
+            "draw": "29.20%",
+            "home": "47.16%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-18T16:34:39.144Z",
+          "probabilities": {
+            "away": "22.46%",
+            "draw": "28.20%",
+            "home": "49.33%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-18T21:00:25.257Z",
+          "probabilities": {
+            "away": "22.48%",
+            "draw": "28.20%",
+            "home": "49.32%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-19T11:42:23.458Z",
+          "probabilities": {
+            "away": "22.50%",
+            "draw": "28.19%",
+            "home": "49.31%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-19T15:14:51.140Z",
+          "probabilities": {
+            "away": "22.44%",
+            "draw": "28.22%",
+            "home": "49.35%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-19T18:55:45.732Z",
+          "probabilities": {
+            "away": "22.71%",
+            "draw": "28.37%",
+            "home": "48.92%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-19T22:27:11.844Z",
+          "probabilities": {
+            "away": "22.74%",
+            "draw": "28.40%",
+            "home": "48.86%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-20T08:44:53.754Z",
+          "probabilities": {
+            "away": "23.15%",
+            "draw": "28.77%",
+            "home": "48.08%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-20T12:34:46.946Z",
+          "probabilities": {
+            "away": "23.18%",
+            "draw": "28.81%",
+            "home": "48.01%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-20T16:41:25.940Z",
+          "probabilities": {
+            "away": "23.37%",
+            "draw": "28.96%",
+            "home": "47.67%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-20T20:48:10.083Z",
+          "probabilities": {
+            "away": "23.29%",
+            "draw": "28.93%",
+            "home": "47.78%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-21T08:28:26.120Z",
+          "probabilities": {
+            "away": "23.34%",
+            "draw": "28.98%",
+            "home": "47.68%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-21T15:23:32.590Z",
+          "probabilities": {
+            "away": "23.45%",
+            "draw": "29.05%",
+            "home": "47.49%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-21T19:55:25.763Z",
+          "probabilities": {
+            "away": "23.43%",
+            "draw": "29.05%",
+            "home": "47.52%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-22T11:03:09.494Z",
+          "probabilities": {
+            "away": "23.42%",
+            "draw": "29.07%",
+            "home": "47.51%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-22T15:18:36.369Z",
+          "probabilities": {
+            "away": "23.41%",
+            "draw": "28.99%",
+            "home": "47.60%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-22T19:49:17.369Z",
+          "probabilities": {
+            "away": "23.40%",
+            "draw": "29.00%",
+            "home": "47.60%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Alanyaspor is most likely to win the game against Kocaelispor FK.",
+          "generatedAt": "2026-10-23T08:28:23.571Z",
+          "probabilities": {
+            "away": "23.18%",
+            "draw": "28.98%",
+            "home": "47.84%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 848380,
+          "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+          "name": "Alanyaspor"
+        },
+        "statistics": [
+          {
+            "value": 0.5,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 1,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 108,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 11,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.33,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 2,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 24,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 205,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 234,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 28,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 71,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 18,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 6,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 53,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 66,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 7,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 9,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 10,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 12,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 21,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 14,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 32,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 14,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.36,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 82,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.5,
+            "displayName": "Possession"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 7,
+            "displayName": "Corners"
+          },
+          {
+            "value": 1,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 333,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 3,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 415,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 3,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 16,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 3,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 6307545,
+          "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+          "name": "Kocaelispor FK"
+        },
+        "statistics": [
+          {
+            "value": 1.54,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 3,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 79,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 16,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.98,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 6,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 16,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 210,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 223,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 34,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 69,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 18,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 17,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 77,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 66,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 6,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 2,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 14,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 18,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 32,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 18,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 32,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 7,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 17,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.29,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 83,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.5,
+            "displayName": "Possession"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 7,
+            "displayName": "Corners"
+          },
+          {
+            "value": 6,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 334,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 5,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 11,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 417,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 3,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 11,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 4,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 6,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348358373,
+    "round": "Regular Season - 9",
+    "date": "2026-10-23T17:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "1 - 2",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 6307545,
+      "logo": "https://highlightly.net/soccer/images/teams/6307545.png",
+      "name": "Kocaelispor FK",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "5'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Berkan Kutlu"
+        },
+        {
+          "time": "15'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Mahamadou Susoho"
+        },
+        {
+          "time": "23'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Makana Baku"
+        },
+        {
+          "time": "26'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Florian Aye"
+        },
+        {
+          "time": "27'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Berkan Kutlu"
+        },
+        {
+          "time": "30'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Gonçalo Sousa"
+        },
+        {
+          "time": "34'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Rigoberto Rivas"
+        },
+        {
+          "time": "35'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Florian Aye"
+        },
+        {
+          "time": "42'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Manuel Show"
+        },
+        {
+          "time": "42'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Emir Ortakaya"
+        },
+        {
+          "time": "42'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Florian Aye"
+        },
+        {
+          "time": "42'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Makana Baku"
+        },
+        {
+          "time": "44'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Florian Aye"
+        },
+        {
+          "time": "59'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Rigoberto Rivas"
+        },
+        {
+          "time": "67'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Manuel Show"
+        },
+        {
+          "time": "70'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Ugur Kaan Yildiz"
+        },
+        {
+          "time": "70'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Metehan Altunbaş"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 848380,
+      "logo": "https://highlightly.net/soccer/images/teams/848380.png",
+      "name": "Alanyaspor",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "32'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "İbrahim Kaya"
+        },
+        {
+          "time": "45 + 3'",
+          "outcome": "Saved",
+          "goalTarget": "High Left",
+          "playerName": "İbrahim Kaya"
+        },
+        {
+          "time": "50'",
+          "outcome": "Missed",
+          "goalTarget": "High Right",
+          "playerName": "Ruan"
+        },
+        {
+          "time": "52'",
+          "outcome": "Goal",
+          "goalTarget": "Low Centre",
+          "playerName": "Ruan"
+        },
+        {
+          "time": "57'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Iván Cédric"
+        },
+        {
+          "time": "72'",
+          "outcome": "Saved",
+          "goalTarget": "Low Left",
+          "playerName": "Iván Cédric"
+        },
+        {
+          "time": "75'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Iván Cédric"
+        },
+        {
+          "time": "84'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Omar Ben Ali"
+        },
+        {
+          "time": "87'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "İbrahim Kaya"
+        },
+        {
+          "time": "89'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Fidan Aliti"
+        },
+        {
+          "time": "90 + 5'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Enes Keskin"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

@@ -1,0 +1,1045 @@
+[
+  {
+    "venue": {
+      "city": "Diyarbakir",
+      "name": "Diyarbakir Stadium",
+      "country": "Turkiye",
+      "capacity": "33000"
+    },
+    "referee": {
+      "name": "Sen, Alpaslan",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "cloudy",
+      "temperature": "19.14°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "13",
+        "type": "Goal",
+        "assist": "Rayan Lutin",
+        "player": "Ermal Krasniqi",
+        "playerId": 43779435,
+        "substituted": null,
+        "assistingPlayerId": 57853089
+      },
+      {
+        "team": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "time": "30",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Talha Ülvan",
+        "playerId": 56797573,
+        "substituted": "Hamza Akman",
+        "assistingPlayerId": 58665012
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "35",
+        "type": "Goal",
+        "assist": "Rayan Lutin",
+        "player": "Gift Orban",
+        "playerId": 59290014,
+        "substituted": null,
+        "assistingPlayerId": 57853089
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "42",
+        "type": "Goal",
+        "assist": "Gift Orban",
+        "player": "Samuel Ballet",
+        "playerId": 24570203,
+        "substituted": null,
+        "assistingPlayerId": 59290014
+      },
+      {
+        "team": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "time": "45",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Jawad El Yamiq",
+        "playerId": 5053300,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "time": "46",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Yusuf Barası",
+        "playerId": 5942020,
+        "substituted": "Ahmed Abdullahi",
+        "assistingPlayerId": 62542375
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "51",
+        "type": "Goal",
+        "assist": "Rayan Raveloson",
+        "player": "Samuel Ballet",
+        "playerId": 24570203,
+        "substituted": null,
+        "assistingPlayerId": 3314500
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "55",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Ermal Krasniqi",
+        "playerId": 43779435,
+        "substituted": "Ali Turap Bülbül",
+        "assistingPlayerId": 54732265
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "55",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Furkan Soyalp",
+        "playerId": 8088633,
+        "substituted": "Gökhan Gül",
+        "assistingPlayerId": 4109196
+      },
+      {
+        "team": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "time": "62",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Bilal Boutobba",
+        "playerId": 3475983,
+        "substituted": "Konrad Michalak",
+        "assistingPlayerId": 6512926
+      },
+      {
+        "team": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "time": "62",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Charles-Andre Raux Yao",
+        "playerId": 53640202,
+        "substituted": "Abdelhamid Sabiri",
+        "assistingPlayerId": 3067687
+      },
+      {
+        "team": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "time": "73",
+        "type": "Goal",
+        "assist": "Abdelhamid Sabiri",
+        "player": "Ahmed Abdullahi",
+        "playerId": 62542375,
+        "substituted": null,
+        "assistingPlayerId": 3067687
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "77",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Dia Saba",
+        "playerId": 2083333,
+        "substituted": "Yira Collins Sor",
+        "assistingPlayerId": 32756892
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "78",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Gift Orban",
+        "playerId": 59290014,
+        "substituted": "Mohamed Khalil",
+        "assistingPlayerId": 27327489
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "83",
+        "type": "Penalty",
+        "assist": null,
+        "player": "Samuel Ballet",
+        "playerId": 24570203,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "85",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Umut Meraş",
+        "playerId": 8086057,
+        "substituted": "Kahraman Demirtaş",
+        "assistingPlayerId": 10179379
+      },
+      {
+        "team": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "time": "85",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Lenny Pintor",
+        "playerId": 108024,
+        "substituted": "Arda Yavuz",
+        "assistingPlayerId": 72747199
+      },
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "time": "90+1",
+        "type": "Red Card",
+        "assist": null,
+        "player": "Samuel Ballet",
+        "playerId": 24570203,
+        "substituted": null,
+        "assistingPlayerId": null
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-11-01T10:41:11.254Z",
+          "probabilities": {
+            "away": "9.90%",
+            "draw": "18.76%",
+            "home": "71.34%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-11-01T10:51:04.875Z",
+          "probabilities": {
+            "away": "4.32%",
+            "draw": "11.14%",
+            "home": "84.54%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-11-01T11:01:21.820Z",
+          "probabilities": {
+            "away": "4.35%",
+            "draw": "12.00%",
+            "home": "83.66%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-11-01T11:12:00.982Z",
+          "probabilities": {
+            "away": "1.72%",
+            "draw": "5.45%",
+            "home": "92.82%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-11-01T11:22:32.328Z",
+          "probabilities": {
+            "away": "1.14%",
+            "draw": "4.31%",
+            "home": "94.55%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-11-01T11:32:08.975Z",
+          "probabilities": {
+            "away": "1.14%",
+            "draw": "4.31%",
+            "home": "94.55%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-11-01T11:42:53.351Z",
+          "probabilities": {
+            "away": "1.10%",
+            "draw": "4.34%",
+            "home": "94.55%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-11-01T11:52:36.887Z",
+          "probabilities": {
+            "away": "1.10%",
+            "draw": "4.34%",
+            "home": "94.55%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-11-01T12:02:44.522Z",
+          "probabilities": {
+            "away": "1.10%",
+            "draw": "4.34%",
+            "home": "94.55%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-11-01T12:13:20.191Z",
+          "probabilities": {
+            "away": "1.10%",
+            "draw": "4.34%",
+            "home": "94.55%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-11-01T12:23:49.155Z",
+          "probabilities": {
+            "away": "1.16%",
+            "draw": "4.68%",
+            "home": "94.16%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-25T12:13:56.459Z",
+          "probabilities": {
+            "away": "10.76%",
+            "draw": "17.80%",
+            "home": "71.44%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-26T10:28:03.760Z",
+          "probabilities": {
+            "away": "9.95%",
+            "draw": "17.09%",
+            "home": "72.97%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-27T10:28:36.611Z",
+          "probabilities": {
+            "away": "9.50%",
+            "draw": "16.74%",
+            "home": "73.76%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-28T10:41:13.524Z",
+          "probabilities": {
+            "away": "9.58%",
+            "draw": "16.78%",
+            "home": "73.64%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-29T10:38:47.598Z",
+          "probabilities": {
+            "away": "9.75%",
+            "draw": "16.83%",
+            "home": "73.42%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-30T11:48:24.787Z",
+          "probabilities": {
+            "away": "9.69%",
+            "draw": "16.77%",
+            "home": "73.54%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-30T17:10:24.442Z",
+          "probabilities": {
+            "away": "9.11%",
+            "draw": "16.47%",
+            "home": "74.42%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-10-31T11:37:17.852Z",
+          "probabilities": {
+            "away": "9.44%",
+            "draw": "16.71%",
+            "home": "73.85%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Amed is most likely to win the game against Eyüpspor.",
+          "generatedAt": "2026-11-01T10:37:29.636Z",
+          "probabilities": {
+            "away": "9.94%",
+            "draw": "17.22%",
+            "home": "72.84%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 3046513,
+          "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+          "name": "Amed"
+        },
+        "statistics": [
+          {
+            "value": 4.95,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 5,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 56,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 4,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 1.08,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 14,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 223,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 259,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 22,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 39,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 14,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 16,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 81,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 52,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 11,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 8,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 13,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 13,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 17,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 16,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 8,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.35,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 57,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.55,
+            "displayName": "Possession"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 7,
+            "displayName": "Corners"
+          },
+          {
+            "value": 3,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 411,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 1,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 6,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 15,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 468,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 1,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 18,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 0,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 3054172,
+          "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+          "name": "Eyüpspor"
+        },
+        "statistics": [
+          {
+            "value": 0.98,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 1,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 46,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 18,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 0.54,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 2,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 10,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 234,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 164,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 17,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 49,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 15,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 6,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 34,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 57,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 8,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 17,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 4,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 9,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 15,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 8,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 16,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 4,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 8,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.25,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 64,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.45,
+            "displayName": "Possession"
+          },
+          {
+            "value": 2,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 2,
+            "displayName": "Corners"
+          },
+          {
+            "value": 0,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 324,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 2,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 388,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 2,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 5,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 1,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348366032,
+    "round": "Regular Season - 10",
+    "date": "2026-11-01T10:30:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "5 - 1",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 3054172,
+      "logo": "https://highlightly.net/soccer/images/teams/3054172.png",
+      "name": "Eyüpspor",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "16'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Bilal Boutobba"
+        },
+        {
+          "time": "26'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Lenny Pintor"
+        },
+        {
+          "time": "47'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Ahmed Abdullahi"
+        },
+        {
+          "time": "67'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Ahmed Abdullahi"
+        },
+        {
+          "time": "73'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Ahmed Abdullahi"
+        },
+        {
+          "time": "87'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Abdelhamid Sabiri"
+        },
+        {
+          "time": "90 + 3'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Ahmed Abdullahi"
+        },
+        {
+          "time": "90 + 6'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right And High",
+          "playerName": "Abdelhamid Sabiri"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 3046513,
+      "logo": "https://highlightly.net/soccer/images/teams/3046513.png",
+      "name": "Amed",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "6'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Samuel Ballet"
+        },
+        {
+          "time": "13'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Ermal Krasniqi"
+        },
+        {
+          "time": "28'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Furkan Soyalp"
+        },
+        {
+          "time": "30'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Dia Saba"
+        },
+        {
+          "time": "35'",
+          "outcome": "Goal",
+          "goalTarget": "High Left",
+          "playerName": "Gift Orban"
+        },
+        {
+          "time": "40'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Gift Orban"
+        },
+        {
+          "time": "42'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Gift Orban"
+        },
+        {
+          "time": "42'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Samuel Ballet"
+        },
+        {
+          "time": "45 + 2'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Gift Orban"
+        },
+        {
+          "time": "51'",
+          "outcome": "Goal",
+          "goalTarget": "Low Centre",
+          "playerName": "Samuel Ballet"
+        },
+        {
+          "time": "53'",
+          "outcome": "Post",
+          "goalTarget": null,
+          "playerName": "Samuel Ballet"
+        },
+        {
+          "time": "53'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Rayan Lutin"
+        },
+        {
+          "time": "54'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Ermal Krasniqi"
+        },
+        {
+          "time": "60'",
+          "outcome": "Saved",
+          "goalTarget": "Low Centre",
+          "playerName": "Dia Saba"
+        },
+        {
+          "time": "66'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Dia Saba"
+        },
+        {
+          "time": "66'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Dia Saba"
+        },
+        {
+          "time": "72'",
+          "outcome": "Saved",
+          "goalTarget": "Low Right",
+          "playerName": "Rayan Lutin"
+        },
+        {
+          "time": "76'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Dia Saba"
+        },
+        {
+          "time": "79'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Samuel Ballet"
+        },
+        {
+          "time": "83'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Samuel Ballet"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

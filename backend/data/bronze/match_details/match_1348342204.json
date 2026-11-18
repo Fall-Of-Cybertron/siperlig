@@ -1,0 +1,1003 @@
+[
+  {
+    "venue": {
+      "city": "Trabzon",
+      "name": "Papara Park",
+      "country": "Turkiye",
+      "capacity": "40980"
+    },
+    "referee": {
+      "name": "Kolak, Batuhan",
+      "nationality": "Turkiye"
+    },
+    "forecast": {
+      "status": "cloudy",
+      "temperature": "20.02°C"
+    },
+    "events": [
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "4",
+        "type": "Goal",
+        "assist": "M. Eskihellac",
+        "player": "M. Salah",
+        "playerId": 49420,
+        "substituted": null,
+        "assistingPlayerId": 10034157
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "39",
+        "type": "Goal",
+        "assist": "M. Salah",
+        "player": "N. Saviolo",
+        "playerId": 73250807,
+        "substituted": null,
+        "assistingPlayerId": 49420
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "44",
+        "type": "Goal",
+        "assist": "Franculino",
+        "player": "M. Salah",
+        "playerId": 49420,
+        "substituted": null,
+        "assistingPlayerId": 54840779
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "46",
+        "type": "Substitution",
+        "assist": null,
+        "player": "D. Gul",
+        "playerId": 62559924,
+        "substituted": "B. Yilmaz",
+        "assistingPlayerId": 10187268
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "48",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Ernest Muçi",
+        "playerId": 585872,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "59",
+        "type": "Substitution",
+        "assist": null,
+        "player": "E. Muci",
+        "playerId": 585872,
+        "substituted": "O. Tufan",
+        "assistingPlayerId": 8040816
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "59",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Franculino",
+        "playerId": 54840779,
+        "substituted": "P. Onuachu",
+        "assistingPlayerId": 2545886
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "68",
+        "type": "Substitution",
+        "assist": null,
+        "player": "I. Jakobs",
+        "playerId": 25457635,
+        "substituted": "E. Elmali",
+        "assistingPlayerId": 8059331
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "68",
+        "type": "Substitution",
+        "assist": null,
+        "player": "L. Torreira",
+        "playerId": 235536,
+        "substituted": "L. Ugochukwu",
+        "assistingPlayerId": 43551942
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "68",
+        "type": "Substitution",
+        "assist": null,
+        "player": "Gabriel Sara",
+        "playerId": 12969026,
+        "substituted": "A. Batrakov",
+        "assistingPlayerId": 64572907
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "71",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Stefan Savić",
+        "playerId": 6433,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "73",
+        "type": "Substitution",
+        "assist": null,
+        "player": "N. Saviolo",
+        "playerId": 73250807,
+        "substituted": "S. Lopes Cabral",
+        "assistingPlayerId": 49699083
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "73",
+        "type": "Substitution",
+        "assist": null,
+        "player": "R. Sallai",
+        "playerId": 4226726,
+        "substituted": "K. Karatas",
+        "assistingPlayerId": 23354331
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "80",
+        "type": "Goal",
+        "assist": "O. Tufan",
+        "player": "M. Salah",
+        "playerId": 49420,
+        "substituted": null,
+        "assistingPlayerId": 8040816
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "82",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "André Onana",
+        "playerId": 84840,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "82",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Mohamed Salah",
+        "playerId": 49420,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "87",
+        "type": "Red Card",
+        "assist": null,
+        "player": "Lesley Ugochukwu",
+        "playerId": 43551942,
+        "substituted": null,
+        "assistingPlayerId": null
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "89",
+        "type": "Substitution",
+        "assist": null,
+        "player": "S. Savic",
+        "playerId": 6433,
+        "substituted": "C. Ozkacar",
+        "assistingPlayerId": 11599882
+      },
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "time": "89",
+        "type": "Substitution",
+        "assist": null,
+        "player": "M. Salah",
+        "playerId": 49420,
+        "substituted": "A. Simsir",
+        "assistingPlayerId": 26048344
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "time": "90+3",
+        "type": "Yellow Card",
+        "assist": null,
+        "player": "Leroy Sané",
+        "playerId": 103838,
+        "substituted": null,
+        "assistingPlayerId": null
+      }
+    ],
+    "predictions": {
+      "live": [
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Galatasaray.",
+          "generatedAt": "2026-09-19T17:17:28.937Z",
+          "probabilities": {
+            "away": "23.51%",
+            "draw": "24.36%",
+            "home": "52.13%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Galatasaray.",
+          "generatedAt": "2026-09-19T17:27:31.862Z",
+          "probabilities": {
+            "away": "25.05%",
+            "draw": "25.72%",
+            "home": "49.23%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Galatasaray.",
+          "generatedAt": "2026-09-19T17:36:47.986Z",
+          "probabilities": {
+            "away": "22.89%",
+            "draw": "26.56%",
+            "home": "50.55%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Galatasaray.",
+          "generatedAt": "2026-09-19T17:47:29.094Z",
+          "probabilities": {
+            "away": "3.59%",
+            "draw": "7.49%",
+            "home": "88.92%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Galatasaray.",
+          "generatedAt": "2026-09-19T17:57:14.779Z",
+          "probabilities": {
+            "away": "3.50%",
+            "draw": "7.51%",
+            "home": "88.99%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Galatasaray.",
+          "generatedAt": "2026-09-19T18:05:05.138Z",
+          "probabilities": {
+            "away": "3.18%",
+            "draw": "7.21%",
+            "home": "89.61%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Galatasaray.",
+          "generatedAt": "2026-09-19T18:16:08.688Z",
+          "probabilities": {
+            "away": "2.84%",
+            "draw": "6.67%",
+            "home": "90.49%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Galatasaray.",
+          "generatedAt": "2026-09-19T18:26:16.134Z",
+          "probabilities": {
+            "away": "1.80%",
+            "draw": "5.08%",
+            "home": "93.13%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Galatasaray.",
+          "generatedAt": "2026-09-19T18:35:38.754Z",
+          "probabilities": {
+            "away": "1.29%",
+            "draw": "4.26%",
+            "home": "94.45%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Galatasaray.",
+          "generatedAt": "2026-09-19T18:46:21.718Z",
+          "probabilities": {
+            "away": "1.30%",
+            "draw": "4.02%",
+            "home": "94.68%"
+          }
+        },
+        {
+          "type": "live",
+          "modelType": "three-way",
+          "description": "Trabzonspor is most likely to win the game against Galatasaray.",
+          "generatedAt": "2026-09-19T18:56:44.097Z",
+          "probabilities": {
+            "away": "1.39%",
+            "draw": "4.35%",
+            "home": "94.27%"
+          }
+        }
+      ],
+      "prematch": [
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-09-17T18:58:46.111Z",
+          "probabilities": {
+            "away": "43.99%",
+            "draw": "24.91%",
+            "home": "31.10%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-09-17T19:55:59.746Z",
+          "probabilities": {
+            "away": "44.00%",
+            "draw": "24.92%",
+            "home": "31.08%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-09-18T09:36:37.410Z",
+          "probabilities": {
+            "away": "44.42%",
+            "draw": "25.01%",
+            "home": "30.57%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-09-18T15:18:35.714Z",
+          "probabilities": {
+            "away": "43.53%",
+            "draw": "24.76%",
+            "home": "31.71%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-09-18T21:08:51.692Z",
+          "probabilities": {
+            "away": "42.85%",
+            "draw": "24.77%",
+            "home": "32.38%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-09-19T10:54:22.801Z",
+          "probabilities": {
+            "away": "44.48%",
+            "draw": "24.94%",
+            "home": "30.58%"
+          }
+        },
+        {
+          "type": "prematch",
+          "modelType": "three-way",
+          "description": "Galatasaray is most likely to win the game against Trabzonspor.",
+          "generatedAt": "2026-09-19T17:02:32.312Z",
+          "probabilities": {
+            "away": "43.30%",
+            "draw": "25.37%",
+            "home": "31.33%"
+          }
+        }
+      ]
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 850082,
+          "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+          "name": "Trabzonspor"
+        },
+        "statistics": [
+          {
+            "value": 2.2,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 6,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 64,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 16,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 1.25,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 1,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 8,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 221,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 163,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 23,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 62,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 14,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 7,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 44,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 70,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 13,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 15,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 10,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 19,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 19,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 4,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 13,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 14,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 20,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.57,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 73,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.46,
+            "displayName": "Possession"
+          },
+          {
+            "value": 4,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 1,
+            "displayName": "Corners"
+          },
+          {
+            "value": 3,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 303,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 0,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 7,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 376,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 2,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 15,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 4,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 0,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 549679,
+          "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+          "name": "Galatasaray"
+        },
+        "statistics": [
+          {
+            "value": 0.96,
+            "displayName": "Expected Goals"
+          },
+          {
+            "value": 1,
+            "displayName": "Big Chances Created"
+          },
+          {
+            "value": 92,
+            "displayName": "Attacks"
+          },
+          {
+            "value": 15,
+            "displayName": "Free Kicks"
+          },
+          {
+            "value": 1.05,
+            "displayName": "Expected Assists"
+          },
+          {
+            "value": 3,
+            "displayName": "Successful Crosses"
+          },
+          {
+            "value": 14,
+            "displayName": "Crosses"
+          },
+          {
+            "value": 169,
+            "displayName": "Passes Own Half"
+          },
+          {
+            "value": 276,
+            "displayName": "Passes Opposition Half"
+          },
+          {
+            "value": 24,
+            "displayName": "Successful Long Passes"
+          },
+          {
+            "value": 50,
+            "displayName": "Long Passes"
+          },
+          {
+            "value": 17,
+            "displayName": "Throw-Ins"
+          },
+          {
+            "value": 12,
+            "displayName": "Key Passes"
+          },
+          {
+            "value": 100,
+            "displayName": "Passes Into Final Third"
+          },
+          {
+            "value": 54,
+            "displayName": "Backward Passes"
+          },
+          {
+            "value": 4,
+            "displayName": "Goal Kicks"
+          },
+          {
+            "value": 9,
+            "displayName": "Interceptions"
+          },
+          {
+            "value": 11,
+            "displayName": "Successful Tackles"
+          },
+          {
+            "value": 23,
+            "displayName": "Tackles"
+          },
+          {
+            "value": 15,
+            "displayName": "Clearances"
+          },
+          {
+            "value": 9,
+            "displayName": "Successful Aerial Duels"
+          },
+          {
+            "value": 13,
+            "displayName": "Aerial Duels"
+          },
+          {
+            "value": 15,
+            "displayName": "Successful Dribbles"
+          },
+          {
+            "value": 26,
+            "displayName": "Dribbles"
+          },
+          {
+            "value": 0.23,
+            "displayName": "Shots accuracy"
+          },
+          {
+            "value": 78,
+            "displayName": "Failed passes"
+          },
+          {
+            "value": 0.54,
+            "displayName": "Possession"
+          },
+          {
+            "value": 3,
+            "displayName": "Shots on target"
+          },
+          {
+            "value": 5,
+            "displayName": "Corners"
+          },
+          {
+            "value": 0,
+            "displayName": "Offsides"
+          },
+          {
+            "value": 353,
+            "displayName": "Successful passes"
+          },
+          {
+            "value": 1,
+            "displayName": "Red cards"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots off target"
+          },
+          {
+            "value": 5,
+            "displayName": "Blocked shots"
+          },
+          {
+            "value": 8,
+            "displayName": "Shots within penalty area"
+          },
+          {
+            "value": 431,
+            "displayName": "Total passes"
+          },
+          {
+            "value": 0,
+            "displayName": "Goalkeeper saves"
+          },
+          {
+            "value": 18,
+            "displayName": "Fouls"
+          },
+          {
+            "value": 1,
+            "displayName": "Yellow cards"
+          },
+          {
+            "value": 5,
+            "displayName": "Shots outside penalty area"
+          }
+        ]
+      }
+    ],
+    "id": 1348342204,
+    "round": "Regular Season - 6",
+    "date": "2026-09-19T17:00:00.000Z",
+    "country": {
+      "code": "TR",
+      "name": "Turkey",
+      "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
+    },
+    "state": {
+      "clock": 90,
+      "score": {
+        "current": "4 - 0",
+        "penalties": null
+      },
+      "description": "Finished"
+    },
+    "awayTeam": {
+      "id": 549679,
+      "logo": "https://highlightly.net/soccer/images/teams/549679.png",
+      "name": "Galatasaray",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "14'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Gabriel Sara"
+        },
+        {
+          "time": "18'",
+          "outcome": "Missed",
+          "goalTarget": "Close High",
+          "playerName": "Davinson Sanchez"
+        },
+        {
+          "time": "21'",
+          "outcome": "Missed",
+          "goalTarget": "Close Right",
+          "playerName": "Leroy Sané"
+        },
+        {
+          "time": "35'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Rafael Leão"
+        },
+        {
+          "time": "35'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Deniz Gul"
+        },
+        {
+          "time": "37'",
+          "outcome": "Saved",
+          "goalTarget": "High Left",
+          "playerName": "Ismail Jakobs"
+        },
+        {
+          "time": "37'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Deniz Gul"
+        },
+        {
+          "time": "41'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Centre",
+          "playerName": "Rafael Leão"
+        },
+        {
+          "time": "45 + 1'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Rafael Leão"
+        },
+        {
+          "time": "50'",
+          "outcome": "Saved",
+          "goalTarget": "High Right",
+          "playerName": "Roland Sallai"
+        },
+        {
+          "time": "51'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Right",
+          "playerName": "Abdulkerim Bardakci"
+        },
+        {
+          "time": "61'",
+          "outcome": "Blocked",
+          "goalTarget": "Low Left",
+          "playerName": "Rafael Leão"
+        },
+        {
+          "time": "63'",
+          "outcome": "Missed",
+          "goalTarget": "High Left",
+          "playerName": "Leroy Sané"
+        }
+      ]
+    },
+    "homeTeam": {
+      "id": 850082,
+      "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+      "name": "Trabzonspor",
+      "topPlayers": [],
+      "shots": [
+        {
+          "time": "4'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Mohamed Salah"
+        },
+        {
+          "time": "9'",
+          "outcome": "Missed",
+          "goalTarget": "CloseLeft",
+          "playerName": "Mohamed Salah"
+        },
+        {
+          "time": "39'",
+          "outcome": "Goal",
+          "goalTarget": "Low Right",
+          "playerName": "Noah Saviolo"
+        },
+        {
+          "time": "42'",
+          "outcome": "Missed",
+          "goalTarget": null,
+          "playerName": "Franculino Djú"
+        },
+        {
+          "time": "44'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Mohamed Salah"
+        },
+        {
+          "time": "75'",
+          "outcome": "Missed",
+          "goalTarget": "Close Left And High",
+          "playerName": "Paul Onuachu"
+        },
+        {
+          "time": "80'",
+          "outcome": "Goal",
+          "goalTarget": "Low Left",
+          "playerName": "Mohamed Salah"
+        }
+      ]
+    },
+    "league": {
+      "id": 173537,
+      "logo": "https://highlightly.net/soccer/images/leagues/173537.png",
+      "name": "Süper Lig",
+      "season": 2026
+    },
+    "news": []
+  }
+]

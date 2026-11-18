@@ -1,0 +1,294 @@
+{
+  "homeTeam": {
+    "formation": "4-2-3-1",
+    "substitutes": [
+      {
+        "name": "S. Akaydin",
+        "number": 4,
+        "position": "Defender",
+        "id": 10061044
+      },
+      {
+        "name": "O. Çevikkan",
+        "number": 25,
+        "position": "Goalkeeper",
+        "id": 63468769
+      },
+      {
+        "name": "Franculino Djú",
+        "number": 9,
+        "position": "Forward",
+        "id": 54840779
+      },
+      {
+        "name": "A. Habeşoğlu",
+        "number": 99,
+        "position": "Forward",
+        "id": 66083248
+      },
+      {
+        "name": "M. Kabasakal",
+        "number": 57,
+        "position": "Midfielder",
+        "id": 25507545
+      },
+      {
+        "name": "S. Lopes Cabral",
+        "number": 55,
+        "position": "Defender",
+        "id": 49699083
+      },
+      {
+        "name": "M. Mimaroğlu",
+        "number": 77,
+        "position": "Forward",
+        "id": 17333414
+      },
+      {
+        "name": "U. Nayir",
+        "number": 14,
+        "position": "Forward",
+        "id": 8089760
+      },
+      {
+        "name": "C. Özkacar",
+        "number": 39,
+        "position": "Defender",
+        "id": 11599882
+      },
+      {
+        "name": "A. Yıldırım",
+        "number": 1,
+        "position": "Goalkeeper",
+        "id": 77235235
+      }
+    ],
+    "initialLineup": [
+      [
+        {
+          "name": "A. Onana",
+          "number": 24,
+          "position": "Goalkeeper",
+          "id": 84840
+        }
+      ],
+      [
+        {
+          "name": "M. Eskihellaç",
+          "number": 19,
+          "position": "Defender",
+          "id": 10034157
+        },
+        {
+          "name": "S. Savić",
+          "number": 15,
+          "position": "Defender",
+          "id": 6433
+        },
+        {
+          "name": "C. Nwaiwu",
+          "number": 27,
+          "position": "Defender",
+          "id": 59735501
+        },
+        {
+          "name": "Wagner Pina",
+          "number": 20,
+          "position": "Defender",
+          "id": 53461170
+        }
+      ],
+      [
+        {
+          "name": "Fabinho",
+          "number": 6,
+          "position": "Midfielder",
+          "id": 48293
+        },
+        {
+          "name": "O. Tufan",
+          "number": 11,
+          "position": "Midfielder",
+          "id": 8040816
+        }
+      ],
+      [
+        {
+          "name": "A. Şimşir",
+          "number": 58,
+          "position": "Midfielder",
+          "id": 26048344
+        },
+        {
+          "name": "E. Muçi",
+          "number": 7,
+          "position": "Midfielder",
+          "id": 585872
+        },
+        {
+          "name": "Mohamed Salah",
+          "number": 10,
+          "position": "Midfielder",
+          "id": 49420
+        }
+      ],
+      [
+        {
+          "name": "P. Onuachu",
+          "number": 30,
+          "position": "Forward",
+          "id": 2545886
+        }
+      ]
+    ],
+    "id": 850082,
+    "logo": "https://highlightly.net/soccer/images/teams/850082.png",
+    "name": "Trabzonspor"
+  },
+  "awayTeam": {
+    "formation": "4-1-4-1",
+    "substitutes": [
+      {
+        "name": "M. Baltacı",
+        "number": 90,
+        "position": "Defender",
+        "id": 26082154
+      },
+      {
+        "name": "M. Çavuşoğlu",
+        "number": 53,
+        "position": "Defender",
+        "id": 46247404
+      },
+      {
+        "name": "A. Dursun",
+        "number": 77,
+        "position": "Defender",
+        "id": 16327647
+      },
+      {
+        "name": "O. Etebo",
+        "number": 5,
+        "position": "Midfielder",
+        "id": 446768
+      },
+      {
+        "name": "Rafael LuÃ­s",
+        "number": 83,
+        "position": "Midfielder",
+        "id": 55612130
+      },
+      {
+        "name": "Pedro Mendes",
+        "number": 9,
+        "position": "Forward",
+        "id": 23788870
+      },
+      {
+        "name": "V. Orakpo",
+        "number": 12,
+        "position": "Forward",
+        "id": 76817118
+      },
+      {
+        "name": "S. Uçan",
+        "number": 48,
+        "position": "Midfielder",
+        "id": 5000492
+      },
+      {
+        "name": "G. Akkan",
+        "number": 23,
+        "position": "Goalkeeper",
+        "id": 8053374
+      },
+      {
+        "name": "Arda Aslan Erk",
+        "number": 17,
+        "position": "Midfielder",
+        "id": 103050458
+      }
+    ],
+    "initialLineup": [
+      [
+        {
+          "name": "İ. Eğribayat",
+          "number": 70,
+          "position": "Goalkeeper",
+          "id": 10004211
+        }
+      ],
+      [
+        {
+          "name": "Thalisson Kelven",
+          "number": 2,
+          "position": "Defender",
+          "id": 1567811
+        },
+        {
+          "name": "F. Üzüm",
+          "number": 88,
+          "position": "Defender",
+          "id": 10013710
+        },
+        {
+          "name": "D. Goutas",
+          "number": 6,
+          "position": "Defender",
+          "id": 6528221
+        },
+        {
+          "name": "Pedro Pereira",
+          "number": 13,
+          "position": "Defender",
+          "id": 4953802
+        }
+      ],
+      [
+        {
+          "name": "Ousmane Diabate",
+          "number": 42,
+          "position": "Midfielder",
+          "id": 101737986
+        }
+      ],
+      [
+        {
+          "name": "Tiago Gouveia",
+          "number": 7,
+          "position": "Midfielder",
+          "id": 25448619
+        },
+        {
+          "name": "F. Tongya",
+          "number": 10,
+          "position": "Midfielder",
+          "id": 26077646
+        },
+        {
+          "name": "O. Ülgün",
+          "number": 35,
+          "position": "Midfielder",
+          "id": 9972333
+        },
+        {
+          "name": "A. Traoré",
+          "number": 14,
+          "position": "Midfielder",
+          "id": 538377
+        }
+      ],
+      [
+        {
+          "name": "S. Koïta",
+          "number": 20,
+          "position": "Forward",
+          "id": 1219085
+        }
+      ]
+    ],
+    "id": 849231,
+    "logo": "https://highlightly.net/soccer/images/teams/849231.png",
+    "name": "Genclerbirligi"
+  }
+}
