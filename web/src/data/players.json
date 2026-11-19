@@ -58202,11 +58202,11 @@
     "foot": "Sağ",
     "height": 182,
     "birthDate": "1999-05-15",
-    "age": 27,
+    "age": 26,
     "citizenship": "Türkiye",
     "contractExpiry": "2028-06-30",
-    "currentMarketValueEur": 1800000,
-    "peakMarketValueEur": 2400000,
+    "currentMarketValueEur": 2800000,
+    "peakMarketValueEur": 3919999,
     "injuryRisk": "Düşük",
     "gamesPlayed": 3,
     "minutesPlayed": 252,
@@ -58219,23 +58219,23 @@
     "avgMatchRating": 6.85,
     "per90Goals": 0.0,
     "per90Assists": 0.0,
-    "passAccuracy": 80.2,
+    "passAccuracy": 80.5,
     "keyPassesPer90": 0.7,
     "progressiveActionsPer90": 3.6,
     "marketValueHistory": [
       {
         "recordedDate": "2024-06-01",
-        "value": 1200000,
+        "value": 2100000,
         "clubId": "goztepe",
         "club": "Göztepe",
-        "age": 25
+        "age": 24
       },
       {
         "recordedDate": "2026-10-15",
-        "value": 1800000,
+        "value": 2800000,
         "clubId": "goztepe",
         "club": "Göztepe",
-        "age": 27
+        "age": 26
       }
     ],
     "transfers": [],
@@ -58245,12 +58245,12 @@
         "clubId": "goztepe",
         "clubName": "Göztepe",
         "competition": "Süper Lig",
-        "seasonRange": "2025–2026",
-        "games": 28,
-        "minutes": 2340,
+        "seasonRange": "2026/27",
+        "games": 1,
+        "minutes": 90,
         "goals": 0,
         "assists": 0,
-        "avgRating": 7.12
+        "avgRating": 7.05
       }
     ],
     "injuries": {
@@ -60210,11 +60210,11 @@
     "foot": "Sağ",
     "height": 182,
     "birthDate": "1999-05-15",
-    "age": 27,
+    "age": 26,
     "citizenship": "Türkiye",
     "contractExpiry": "2028-06-30",
-    "currentMarketValueEur": 1800000,
-    "peakMarketValueEur": 2400000,
+    "currentMarketValueEur": 2800000,
+    "peakMarketValueEur": 3919999,
     "injuryRisk": "Düşük",
     "gamesPlayed": 9,
     "minutesPlayed": 756,
@@ -60227,23 +60227,23 @@
     "avgMatchRating": 7.08,
     "per90Goals": 0.12,
     "per90Assists": 0.0,
-    "passAccuracy": 80.2,
+    "passAccuracy": 80.5,
     "keyPassesPer90": 0.7,
     "progressiveActionsPer90": 3.6,
     "marketValueHistory": [
       {
         "recordedDate": "2024-06-01",
-        "value": 1200000,
+        "value": 2100000,
         "clubId": "goztepe",
         "club": "Göztepe",
-        "age": 25
+        "age": 24
       },
       {
         "recordedDate": "2026-10-15",
-        "value": 1800000,
+        "value": 2800000,
         "clubId": "goztepe",
         "club": "Göztepe",
-        "age": 27
+        "age": 26
       }
     ],
     "transfers": [],
@@ -60253,12 +60253,12 @@
         "clubId": "goztepe",
         "clubName": "Göztepe",
         "competition": "Süper Lig",
-        "seasonRange": "2025–2026",
-        "games": 28,
-        "minutes": 2340,
+        "seasonRange": "2026/27",
+        "games": 1,
+        "minutes": 90,
         "goals": 0,
-        "assists": 2,
-        "avgRating": 7.12
+        "assists": 0,
+        "avgRating": 7.05
       }
     ],
     "injuries": {
@@ -61059,11 +61059,11 @@
     "foot": "Sağ",
     "height": 182,
     "birthDate": "1999-05-15",
-    "age": 27,
+    "age": 26,
     "citizenship": "Türkiye",
     "contractExpiry": "2028-06-30",
-    "currentMarketValueEur": 1800000,
-    "peakMarketValueEur": 2400000,
+    "currentMarketValueEur": 4500000,
+    "peakMarketValueEur": 6300000,
     "injuryRisk": "Düşük",
     "gamesPlayed": 6,
     "minutesPlayed": 504,
@@ -61076,23 +61076,23 @@
     "avgMatchRating": 7.02,
     "per90Goals": 0.0,
     "per90Assists": 0.36,
-    "passAccuracy": 80.2,
+    "passAccuracy": 80.5,
     "keyPassesPer90": 1.5,
     "progressiveActionsPer90": 3.6,
     "marketValueHistory": [
       {
         "recordedDate": "2024-06-01",
-        "value": 1200000,
+        "value": 3375000,
         "clubId": "goztepe",
         "club": "Göztepe",
-        "age": 25
+        "age": 24
       },
       {
         "recordedDate": "2026-10-15",
-        "value": 1800000,
+        "value": 4500000,
         "clubId": "goztepe",
         "club": "Göztepe",
-        "age": 27
+        "age": 26
       }
     ],
     "transfers": [],
@@ -61102,12 +61102,12 @@
         "clubId": "goztepe",
         "clubName": "Göztepe",
         "competition": "Süper Lig",
-        "seasonRange": "2025–2026",
-        "games": 28,
-        "minutes": 2340,
-        "goals": 2,
+        "seasonRange": "2026/27",
+        "games": 1,
+        "minutes": 90,
+        "goals": 0,
         "assists": 0,
-        "avgRating": 7.12
+        "avgRating": 7.05
       }
     ],
     "injuries": {
@@ -63602,11 +63602,11 @@
     "foot": "Sağ",
     "height": 182,
     "birthDate": "1999-05-15",
-    "age": 27,
+    "age": 26,
     "citizenship": "Türkiye",
     "contractExpiry": "2028-06-30",
-    "currentMarketValueEur": 1800000,
-    "peakMarketValueEur": 2400000,
+    "currentMarketValueEur": 2800000,
+    "peakMarketValueEur": 3919999,
     "injuryRisk": "Düşük",
     "gamesPlayed": 9,
     "minutesPlayed": 756,
@@ -63619,7 +63619,7 @@
     "avgMatchRating": 7.05,
     "per90Goals": 0.0,
     "per90Assists": 0.0,
-    "passAccuracy": 80.2,
+    "passAccuracy": 80.5,
     "keyPassesPer90": 0.7,
     "progressiveActionsPer90": 3.6,
     "cleanSheets": 0,
@@ -63628,17 +63628,17 @@
     "marketValueHistory": [
       {
         "recordedDate": "2024-06-01",
-        "value": 1200000,
+        "value": 2100000,
         "clubId": "fenerbahce",
         "club": "Fenerbahçe",
-        "age": 25
+        "age": 24
       },
       {
         "recordedDate": "2026-10-15",
-        "value": 1800000,
+        "value": 2800000,
         "clubId": "fenerbahce",
         "club": "Fenerbahçe",
-        "age": 27
+        "age": 26
       }
     ],
     "transfers": [],
@@ -63648,12 +63648,12 @@
         "clubId": "fenerbahce",
         "clubName": "Fenerbahçe",
         "competition": "Süper Lig",
-        "seasonRange": "2025–2026",
-        "games": 28,
-        "minutes": 2340,
+        "seasonRange": "2026/27",
+        "games": 1,
+        "minutes": 90,
         "goals": 0,
         "assists": 0,
-        "avgRating": 7.12
+        "avgRating": 7.05
       }
     ],
     "injuries": {
@@ -65048,17 +65048,15 @@
     "clubName": "Gençlerbirliği",
     "positionMain": "Defans",
     "positionGroup": "DF",
-    "positionSecondary": [
-      "Ön Libero"
-    ],
+    "positionSecondary": [],
     "foot": "Sağ",
-    "height": 186,
-    "birthDate": "2000-02-18",
+    "height": 182,
+    "birthDate": "1999-05-15",
     "age": 26,
-    "citizenship": "Brezilya",
-    "contractExpiry": "2027-06-30",
-    "currentMarketValueEur": 1500000,
-    "peakMarketValueEur": 1500000,
+    "citizenship": "Türkiye",
+    "contractExpiry": "2028-06-30",
+    "currentMarketValueEur": 2800000,
+    "peakMarketValueEur": 3919999,
     "injuryRisk": "Düşük",
     "gamesPlayed": 8,
     "minutesPlayed": 672,
@@ -65071,83 +65069,38 @@
     "avgMatchRating": 6.99,
     "per90Goals": 0.13,
     "per90Assists": 0.0,
-    "passAccuracy": 76.3,
+    "passAccuracy": 80.5,
     "keyPassesPer90": 0.7,
     "progressiveActionsPer90": 3.6,
     "marketValueHistory": [
       {
-        "recordedDate": "2022-06-01",
-        "value": 1080000,
-        "clubId": "antalyaspor",
-        "club": "Antalyaspor",
-        "age": 22
-      },
-      {
-        "recordedDate": "2023-06-01",
-        "value": 1350000,
-        "clubId": "antalyaspor",
-        "club": "Antalyaspor",
-        "age": 23
-      },
-      {
         "recordedDate": "2024-06-01",
-        "value": 1500000,
-        "clubId": "antalyaspor",
-        "club": "Antalyaspor",
+        "value": 2100000,
+        "clubId": "genclerbirligi",
+        "club": "Gençlerbirliği",
         "age": 24
       },
       {
-        "recordedDate": "2025-06-01",
-        "value": 1500000,
-        "clubId": "antalyaspor",
-        "club": "Antalyaspor",
-        "age": 25
-      },
-      {
         "recordedDate": "2026-10-15",
-        "value": 1500000,
-        "clubId": "antalyaspor",
-        "club": "Antalyaspor",
+        "value": 2800000,
+        "clubId": "genclerbirligi",
+        "club": "Gençlerbirliği",
         "age": 26
       }
     ],
-    "transfers": [
-      {
-        "season": "2024/25",
-        "transferDate": "2024-07-15",
-        "fromClubId": "lazio",
-        "from": "SS Lazio",
-        "toClubId": "antalyaspor",
-        "to": "Antalyaspor",
-        "fee": "Bedelsiz",
-        "feeEur": 0,
-        "marketValue": 1500000,
-        "type": "Bedelsiz"
-      }
-    ],
+    "transfers": [],
     "rumours": [],
     "perClub": [
       {
-        "clubId": "antalyaspor",
-        "clubName": "Antalyaspor",
+        "clubId": "genclerbirligi",
+        "clubName": "Gençlerbirliği",
         "competition": "Süper Lig",
-        "seasonRange": "2024–2026",
-        "games": 42,
-        "minutes": 3268,
+        "seasonRange": "2026/27",
+        "games": 1,
+        "minutes": 90,
         "goals": 0,
         "assists": 0,
-        "avgRating": 6.95
-      },
-      {
-        "clubId": "lazio",
-        "clubName": "SS Lazio",
-        "competition": "Serie A",
-        "seasonRange": "2021–2024",
-        "games": 38,
-        "minutes": 5307,
-        "goals": 17,
-        "assists": 7,
-        "avgRating": 6.83
+        "avgRating": 7.05
       }
     ],
     "injuries": {
@@ -66639,11 +66592,11 @@
     "foot": "Sağ",
     "height": 182,
     "birthDate": "1999-05-15",
-    "age": 27,
+    "age": 26,
     "citizenship": "Türkiye",
     "contractExpiry": "2028-06-30",
-    "currentMarketValueEur": 1800000,
-    "peakMarketValueEur": 2400000,
+    "currentMarketValueEur": 2800000,
+    "peakMarketValueEur": 3919999,
     "injuryRisk": "Düşük",
     "gamesPlayed": 9,
     "minutesPlayed": 756,
@@ -66656,23 +66609,23 @@
     "avgMatchRating": 7.08,
     "per90Goals": 0.0,
     "per90Assists": 0.0,
-    "passAccuracy": 80.2,
+    "passAccuracy": 80.5,
     "keyPassesPer90": 0.7,
     "progressiveActionsPer90": 3.6,
     "marketValueHistory": [
       {
         "recordedDate": "2024-06-01",
-        "value": 1200000,
+        "value": 2100000,
         "clubId": "trabzonspor",
         "club": "Trabzonspor",
-        "age": 25
+        "age": 24
       },
       {
         "recordedDate": "2026-10-15",
-        "value": 1800000,
+        "value": 2800000,
         "clubId": "trabzonspor",
         "club": "Trabzonspor",
-        "age": 27
+        "age": 26
       }
     ],
     "transfers": [],
@@ -66682,12 +66635,12 @@
         "clubId": "trabzonspor",
         "clubName": "Trabzonspor",
         "competition": "Süper Lig",
-        "seasonRange": "2025–2026",
-        "games": 28,
-        "minutes": 2340,
+        "seasonRange": "2026/27",
+        "games": 1,
+        "minutes": 90,
         "goals": 0,
-        "assists": 2,
-        "avgRating": 7.12
+        "assists": 0,
+        "avgRating": 7.05
       }
     ],
     "injuries": {
