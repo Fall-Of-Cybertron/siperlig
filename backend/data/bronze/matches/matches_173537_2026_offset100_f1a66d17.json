@@ -1166,12 +1166,12 @@
         "logo": "https://highlightly.net/soccer/images/countries/TR.svg"
       },
       "state": {
-        "clock": null,
+        "clock": 63,
         "score": {
-          "current": null,
+          "current": "1 - 0",
           "penalties": null
         },
-        "description": "Not started"
+        "description": "Second half"
       },
       "awayTeam": {
         "id": 3041407,
